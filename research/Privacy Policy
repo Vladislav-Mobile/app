@@ -1,1 +1,57 @@
+Privacy Policy for Mobile Tester
 
+Last updated: April 18, 2025
+
+Mobile Tester ("the App") is a learning application for mobile QA engineers
+developed by Vladislav Kazachek.
+
+1. INFORMATION WE COLLECT
+
+The App does not collect, store, or transmit any personal information.
+We do not require account registration or login.
+
+2. DATA STORED LOCALLY
+
+The App stores the following data exclusively on your device:
+- Your quiz progress and results
+- Achievements you have earned
+- Your language preference (Russian or English)
+- Notification reminder settings
+
+This data never leaves your device and is not accessible to us.
+
+3. INTERNET ACCESS
+
+The App connects to the internet solely to load the following content
+from our public GitHub repository (github.com/Vladislav-Mobile/app):
+- Author articles
+- Podcast episodes
+
+No personal data is sent during these requests.
+
+4. LOCAL NOTIFICATIONS
+
+The App may send local notifications as reminders if you choose to
+enable them. These notifications are generated entirely on your device
+and do not involve any external servers.
+
+5. THIRD-PARTY SERVICES
+
+The App does not use any third-party analytics, advertising SDKs,
+or tracking services.
+
+6. CHILDREN'S PRIVACY
+
+The App does not knowingly collect any information from children
+under the age of 13.
+
+7. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy from time to time. Any changes will
+be posted at this location.
+
+8. CONTACT
+
+If you have any questions about this Privacy Policy, please contact:
+Vladislav Kazachek - amobileqa@gmail.com
+GitHub: github.com/Vladislav-Mobile
