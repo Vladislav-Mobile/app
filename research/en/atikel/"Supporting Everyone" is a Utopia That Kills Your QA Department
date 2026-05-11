@@ -1,0 +1,21 @@
+"Supporting Everyone" is a Utopia That Kills Your QA Department
+Every mobile tester knows the story: you release a feature, and it works perfectly on a Pixel or Samsung S24. Then, a bug report comes in from an ancient device. The layout is broken, the API fails, and the user leaves a nasty review.
+
+Trying to please every vendor and OS version is incredibly expensive for your team's time and resources.
+
+Here is how to stop drowning in tests for old systems:
+
+1️⃣1. Prioritize Users Who Bring in Money
+For commercial projects, the goal is to make a profit. If a specific version doesn't make money but drains resources, you have to ask: is it worth our time? QA is already a "bottleneck" in development. Adding unnecessary tests makes it even harder to defend your schedule and interests.
+If the basic features work on old versions, that’s often good enough.
+
+2️⃣2. Prioritize the Right Devices
+Step 1: Check your analytics to see which phones your users actually use.
+Step 2: Pick the top 3–10 models.
+Simple way: Look at the total number of users per model.
+Pro way: Find the link between the device and your core features. For example, if you have a pro video app, your power users are likely on the latest iPhones.
+Step 3: Buy those specific test devices and distribute them to your team.
+
+3️⃣3. Review Hardware Every Quarter
+It is good practice to regularly review which OS versions you support.
+Your developers will thank you. Modern features use modern technologies; supporting old operating systems requires a completely different architecture and extra effort. To stay efficient, you must stop supporting outdated versions that take more energy than they are worth.
