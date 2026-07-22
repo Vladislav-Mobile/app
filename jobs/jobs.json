@@ -1,7 +1,1727 @@
 {
-  "updated_at": "2026-07-22T13:17:31.019051+00:00",
-  "total": 3,
+  "updated_at": "2026-07-22T13:23:56.614563+00:00",
+  "total": 102,
   "jobs": [
+    {
+      "id": "2e3914fe",
+      "title": "Datenschutz- & Informationssicherheitsberater (m/w/d)",
+      "company": "Agentur Philipp GmbH",
+      "location": "Dingolfing",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/agentur-philipp-gmbh/datenschutz-informationssicherheitsberater-dingolfing-279579",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "it security"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "27cae8d9",
+      "title": "Steuerfachangestellte als Entgeltabrechnerin (w/m/d) bei Homeoffice-Anteil",
+      "company": "Fischer & Partner Gesellschaft für Personal mbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/fischer-partner-gesellschaft-fur-personal-mbh/steuerfachangestellte-als-entgeltabrechnerin-bei-homeoffice-anteil-stuttgart-211140",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "compensation and benefits"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d517bb96",
+      "title": "Sales Performance & Operations Lead B2B SaaS (m/w/d)",
+      "company": "2B Advice GmbH",
+      "location": "Bonn",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/2b-advice-gmbh/sales-performance-operations-lead-b2b-saas-bonn-188376",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "teamleitung",
+      "tags": [
+        "management",
+        "team leader"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ecd61ae0",
+      "title": "Brand & Content Creator (m/w/d)",
+      "company": "NOVUS GmbH",
+      "location": "Braunschweig",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/novus-gmbh/brand-content-creator-braunschweig-25925",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufseinstieg",
+      "tags": [
+        "public relations",
+        "corporate communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "15cff695",
+      "title": "Werkstudent oder Praxissemester als Full Stack Developer  (m/w/d)",
+      "company": "uniqbit AG",
+      "location": "Augsburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/uniqbit-ag/werkstudent-oder-praxissemester-als-full-stack-developer-augsburg-428414",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Working student",
+      "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "def86638",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "uniqbit AG",
+      "location": "Augsburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/uniqbit-ag/full-stack-developer-augsburg-148333",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9e6443fe",
+      "title": "Projektassistenz für Softwareprojekte (m/w/d) | Berlin-Mitte | Teilzeit/Vollzeit",
+      "company": "TenMedia GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/tenmedia-gmbh/projektassistenz-fur-softwareprojekte-berlin-mitte-teilzeit-vollzeit-452459",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "project management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "88eb76c4",
+      "title": "Senior People Manager (m/w/d)",
+      "company": "Ninox Software GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ninox-software-gmbh/senior-people-manager-berlin-400679",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "hr"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f41792bf",
+      "title": "Werkstudent Vertrieb / Finanzberatung (m/w/d) – Praxis statt Theorie",
+      "company": "Shereen Patzelt",
+      "location": "Chemnitz",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/shereen-patzelt/werkstudent-vertrieb-finanzberatung-praxis-statt-theorie-chemnitz-477616",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Full-time permanent, entry",
+      "tags": [
+        "finance",
+        "high school or equivalent"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a27b97f4",
+      "title": "(Senior) Frontend Web Developer (w/m/d)",
+      "company": "Holzland Becker",
+      "location": "Offenbach am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/senior-frontend-web-developer-offenbach-am-main-83733",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Full-time permanent, experienced",
+      "tags": [
+        "information technology",
+        "high school coursework"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "378114a9",
+      "title": "Informationssicherheitsbeauftragter (m/w/d)",
+      "company": "FlexIT Consulting GmbH",
+      "location": "Düsseldorf",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/flexit-consulting-gmbh/informationssicherheitsbeauftragter-dusseldorf-276083",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "it security"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cd794174",
+      "title": "Client Success Manager (EU) Arts & Antiques Marketplaces",
+      "company": "Pamono GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/pamono-gmbh/client-success-manager-eu-arts-antiques-marketplaces-berlin-342644",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "manager",
+      "tags": [
+        "management",
+        "team leader"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4eae9ad7",
+      "title": "Lead in Fashion Trainee (m/w/d)",
+      "company": "Zara",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zara/lead-in-fashion-trainee-stuttgart-188971",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Traineeship, hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3ffaa98c",
+      "title": "Lead in Fashion Trainee (m/w/d)",
+      "company": "Zara",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zara/lead-in-fashion-trainee-hamburg-175537",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Traineeship, hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5a59fc82",
+      "title": "Lead in Fashion Trainee (m/w/d)",
+      "company": "Zara",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zara/lead-in-fashion-trainee-munich-265515",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Traineeship, hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9ea62dcc",
+      "title": "Lead in Fashion Trainee (m/w/d)",
+      "company": "Zara",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zara/lead-in-fashion-trainee-frankfurt-am-main-17726",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Traineeship, hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a5505297",
+      "title": "Lead in Fashion Trainee (m/w/d)",
+      "company": "Zara",
+      "location": "Cologne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zara/lead-in-fashion-trainee-cologne-431221",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Traineeship, hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "01e4cfb1",
+      "title": "(Senior) System Engineer Open Source (M/W/D) - BU1",
+      "company": "Live Reply GmbH",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/live-reply-gmbh/senior-system-engineer-open-source-bu1-frankfurt-am-main-138307",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "business consulting"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "133fde95",
+      "title": "Bershka - Traineeprogramm Lead in Fashion (m/w/d)",
+      "company": "Bershka Deutschland B.V & Co. KG",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bershka-deutschland-bv-co-kg/bershka-traineeprogramm-lead-in-fashion-frankfurt-am-main-416996",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d653da1e",
+      "title": "Bershka - Traineeprogramm Lead in Fashion (m/w/d)",
+      "company": "Bershka Deutschland B.V & Co. KG",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bershka-deutschland-bv-co-kg/bershka-traineeprogramm-lead-in-fashion-hamburg-118106",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3acd9dbf",
+      "title": "Bershka - Traineeprogramm Lead in Fashion (m/w/d)",
+      "company": "Bershka Deutschland B.V & Co. KG",
+      "location": "Cologne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bershka-deutschland-bv-co-kg/bershka-traineeprogramm-lead-in-fashion-cologne-257162",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5d3ee6f3",
+      "title": "Bershka - Traineeprogramm Lead in Fashion (m/w/d)",
+      "company": "Bershka Deutschland B.V & Co. KG",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bershka-deutschland-bv-co-kg/bershka-traineeprogramm-lead-in-fashion-munich-127127",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f4862d6d",
+      "title": "AI Engineer (m/w/d) für Chat-to-CAD / LLM, Agents und multimodale Eingaben",
+      "company": "Cadaico GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cadaico-gmbh/ai-engineer-fur-chat-to-cad-llm-agents-und-multimodale-eingaben-stuttgart-482054",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "56393528",
+      "title": "Interim BCM Manager (m/w/d) - Elternzeitvertretung",
+      "company": "Cashlink Technologies GmbH",
+      "location": "Frankfurt am Main",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cashlink-technologies-gmbh/interim-bcm-manager-elternzeitvertretung-frankfurt-am-main-322193",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Contract, berufserfahren",
+      "tags": [
+        "remote",
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "094d48f4",
+      "title": "Bershka - Traineeprogramm Lead in Fashion (m/w/d)",
+      "company": "Bershka Deutschland B.V & Co. KG",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bershka-deutschland-bv-co-kg/bershka-traineeprogramm-lead-in-fashion-stuttgart-211310",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4449c66b",
+      "title": "Senior Real Estate Investment Sales Advisor (d/w/m)",
+      "company": "Hypofriend GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hypofriend-gmbh/senior-real-estate-investment-sales-advisor-berlin-62988",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "business consulting"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7db831cf",
+      "title": "Fachingenieur (m/w/d) Reinmedientechnik | GMP-Anlagen & Utilities",
+      "company": "agap2 - moOngy GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/agap2-moongy-gmbh/fachingenieur-reinmedientechnik-gmp-anlagen-utilities-munich-440703",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "process management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "45ad4802",
+      "title": "Finanzbuchhaltung / Rechnungswesen HGB (m/w/d) - Familienfreundlich - Top Arbeitgeber",
+      "company": "Abfluss-AS-Allianz Holding GmbH",
+      "location": "Mannheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/abfluss-as-allianz-holding-gmbh/finanzbuchhaltung-rechnungswesen-hgb-familienfreundlich-top-arbeitgeber-mannheim-284475",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "accounts receivable"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4f7aad06",
+      "title": "Softwareexpert:in Python, C, C++ ROCKET SCIENCE - Satellitenkommunikation / Dresden / 60.000 - 80.000",
+      "company": "wabcon",
+      "location": "Dresden",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/softwareexpertin-python-c-c-rocket-science-satellitenkommunikation-dresden-60000-80000-426561",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8431b3a9",
+      "title": "Senior Systemingenieur (m/w/d) Systemfunktionen in Nürnberg / Remote (1706)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "location": "Mannheim",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/senior-systemingenieur-systemfunktionen-in-nurnberg-remote-1706-mannheim-419562",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "remote",
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7dd4ff27",
+      "title": "Senior Systemarchitekt (m/w/d) Hochvolt-Inverter in Nürnberg / Remote (1707)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "location": "Mannheim",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/senior-systemarchitekt-hochvolt-inverter-in-nurnberg-remote-1707-mannheim-88719",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "remote",
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "661bf7d4",
+      "title": "Product Manager Agentic AI Education (m/w/d)",
+      "company": "AI Transformation Institute",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ai-transformation-institute/product-manager-agentic-ai-education-berlin-215263",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6df806a9",
+      "title": "Werkstudent*in Prototypenbau (15-20 std/w)",
+      "company": "Innovative Robot Delivery",
+      "location": "Cologne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/innovative-robot-delivery/werkstudentin-prototypenbau-15-20-std-w-cologne-227564",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Working student, hilfstätigkeit / student",
+      "tags": [
+        "automotive engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "91fbfc57",
+      "title": "Projektleiter:in ROCKET-SCIENCE / Vorstellung auf Entscheiderebene / Dresden / 70.000 - 90.000",
+      "company": "wabcon",
+      "location": "Dresden",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/projektleiterin-rocket-science-vorstellung-auf-entscheiderebene-dresden-70000-90000-287526",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "teamleitung",
+      "tags": [
+        "project management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "aa669dbf",
+      "title": "Public Relations Consultant (m/w/d) - Mid-Level",
+      "company": "Storymachine GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/storymachine-gmbh/public-relations-consultant-mid-level-berlin-281766",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b68b2ed3",
+      "title": "Ingenieur:in Versorgungstechnik TGA - Schwerpunkt Sanitär",
+      "company": "SÜSS Beratende Ingenieure",
+      "location": "Nuremberg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/suss-beratende-ingenieure/ingenieurin-versorgungstechnik-tga-schwerpunkt-sanitar-nuremberg-157983",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "building",
+        "supply",
+        "safety services engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "42722471",
+      "title": "Venture Development Manager @ handly - 20VC backed",
+      "company": "handly",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/handly/venture-development-manager-at-handly-20vc-backed-berlin-135904",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "management",
+        "team leader"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "dab4d692",
+      "title": "Sachbearbeiter:in für Bauabrechnung (Angebots-. Rechnungs- und Nachtragsprüfung)",
+      "company": "SÜSS Beratende Ingenieure",
+      "location": "Nuremberg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/suss-beratende-ingenieure/sachbearbeiterin-fur-bauabrechnung-angebots-rechnungs-und-nachtragsprufung-nuremberg-105847",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "controlling"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b4f06326",
+      "title": "Marketing Generalist*in",
+      "company": "netcare GmbH",
+      "location": "Leinfelden-Echterdingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/netcare-gmbh/marketing-generalistin-leinfelden-echterdingen-472883",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b51ba10c",
+      "title": "Mediengestalter / Content Creator (m/w/d)",
+      "company": "Confiserie Rabbel GmbH",
+      "location": "Westerkappeln",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/confiserie-rabbel-gmbh/mediengestalter-content-creator-westerkappeln-421122",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "90581de9",
+      "title": "Praktikant/in Executive Search & Recruiting (3 Monate)",
+      "company": "Benjamin Isakow - NCI Consulting",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/benjamin-isakow-nci-consulting/praktikant-in-executive-search-recruiting-3-monate-berlin-106452",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Internship",
+      "tags": [
+        "hr"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "84db76b3",
+      "title": "Recruiter / HR Specialist (m/w/d)",
+      "company": "INKLUSIVA Leipzig e. V.",
+      "location": "Leipzig",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/inklusiva-leipzig-e-v/recruiter-hr-specialist-leipzig-268385",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "recruitment and selection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7598c11c",
+      "title": "Customer Success Internship (m/w/d) - Software Startup",
+      "company": "hellomateo",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellomateo/customer-success-internship-software-startup-berlin-445277",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Internship",
+      "tags": [
+        "helpdesk"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "496c8556",
+      "title": "Operations Manager E-Mobility (m/w/d)",
+      "company": "smopi® - Multi Chargepoint Solution GmbH",
+      "location": "Öhringen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/smopi-multi-chargepoint-solution-gmbh/operations-manager-e-mobility-ohringen-10627",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "business operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "670bcc0a",
+      "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "location": "Mülheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-153922",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "65346fa4",
+      "title": "Artist Manager / Influencer Manager (m/w/d) BERLIN",
+      "company": "Lionflence",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-berlin-162667",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2d5b394e",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-357335",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4602272c",
+      "title": "Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "location": "Mülheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-mulheim-304306",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d5a390b5",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "location": "Mülheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-219570",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "89b4ea8c",
+      "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-71965",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3b16dbef",
+      "title": "Senior Product Manager - House Owner & Service Request Acquisition (all genders)",
+      "company": "Aroundhome",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/aroundhome/senior-product-manager-house-owner-service-request-acquisition-all-genders-berlin-37115",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ea582471",
+      "title": "Mini-Job / Werkstudent (m/w/d) in der IT-Montage",
+      "company": "spo-comm GmbH",
+      "location": "Nuremberg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/spo-comm-gmbh/mini-job-werkstudent-in-der-it-montage-nuremberg-239386",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Side, hilfstätigkeit / student",
+      "tags": [
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b98b389b",
+      "title": "Qualitätsmanager (m/w/d)",
+      "company": "Schneiderfilz Schneider GmbH & Co. KG",
+      "location": "Ettlingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/schneiderfilz-schneider-gmbh-co-kg/qualitatsmanager-ettlingen-168075",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1a76ff42",
+      "title": "Key Account Manager:in / Vorstellung auf Entscheidungsträgerebene / hybrid Berlin / 70.000 - 90.000",
+      "company": "wabcon",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/key-account-managerin-vorstellung-auf-entscheidungstragerebene-hybrid-berlin-70000-90000-259036",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "management",
+        "team leader"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1ea8b072",
+      "title": "Junior Performance Marketing Manager (m/w/d)",
+      "company": "Explorer Hotels & Oberstdorf Resort",
+      "location": "Fischen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/explorer-hotels-oberstdorf-resort/junior-performance-marketing-manager-fischen-366215",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a2f1afe8",
+      "title": "Payroll Specialist (m/w/d)",
+      "company": "CONSULTIA STEUERBERATUNGSGESELLSCHAFT MBH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/consultia-steuerberatungsgesellschaft-mbh/payroll-specialist-berlin-490885",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8914c8fc",
+      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter (alle m/w/d)",
+      "company": "CONSULTIA STEUERBERATUNGSGESELLSCHAFT MBH",
+      "location": "Kleinmachnow",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/consultia-steuerberatungsgesellschaft-mbh/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-alle-kleinmachnow-346779",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e8f851b2",
+      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter (alle m/w/d)",
+      "company": "CONSULTIA STEUERBERATUNGSGESELLSCHAFT MBH",
+      "location": "Leipzig",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/consultia-steuerberatungsgesellschaft-mbh/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-alle-leipzig-452029",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ab840fab",
+      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter (alle m/w/d)",
+      "company": "CONSULTIA STEUERBERATUNGSGESELLSCHAFT MBH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/consultia-steuerberatungsgesellschaft-mbh/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-alle-berlin-94379",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "27ab0f31",
+      "title": "Financial Controller (m/w/d)",
+      "company": "Work In Progress Textilhandels GmbH",
+      "location": "Weil am Rhein",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/work-in-progress-textilhandels-gmbh/financial-controller-weil-am-rhein-252410",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "controlling"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5717bfa4",
+      "title": "Retail Controller (m/w/d)",
+      "company": "Work In Progress Textilhandels GmbH",
+      "location": "Weil am Rhein",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/work-in-progress-textilhandels-gmbh/retail-controller-weil-am-rhein-460056",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "controlling"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "209df784",
+      "title": "Head of Marketing (Hands-on)",
+      "company": "Silvernova GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/silvernova-gmbh/head-of-marketing-hands-on-munich-337149",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0e8afbb0",
+      "title": "Associate Product Manager, Delivery (m/f/d)",
+      "company": "Future Demand",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/future-demand/associate-product-manager-delivery-berlin-42622",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "manager",
+      "tags": [
+        "product management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7320cc0b",
+      "title": "Senior Systemingenieur (m/w/d) Systeminfrastruktur in Nürnberg / Remote (1705)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "location": "Mannheim",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/senior-systemingenieur-systeminfrastruktur-in-nurnberg-remote-1705-mannheim-56666",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "remote",
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0dc1ce58",
+      "title": "Bilanzbuchhalter / Senior Accountant (m/w/d)",
+      "company": "Jobbusters® GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-senior-accountant-stuttgart-11744",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f5a9c484",
+      "title": "Bilanzbuchhalter (m/w/d)",
+      "company": "Jobbusters® GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/bilanzbuchhalter-hamburg-92234",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "161ef9d0",
+      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
+      "company": "Kohnle & Partner",
+      "location": "Karlsruhe",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-karlsruhe-167151",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Apprenticeship",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "128dc7f5",
+      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
+      "company": "Kohnle & Partner",
+      "location": "Weingarten",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-weingarten-358601",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Apprenticeship",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cb10dd7f",
+      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
+      "company": "Kohnle & Partner",
+      "location": "Offenburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-offenburg-291836",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Apprenticeship",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4b86fd88",
+      "title": "RA-Spezialisten (m/w/d)",
+      "company": "Bachmann-Executive",
+      "location": "Trossingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bachmann-executive/ra-spezialisten-trossingen-488060",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "project management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4c6c029c",
+      "title": "Inhouse It Consultant / Systeminformatiker (m/w/d) - Am Standort Weingarten",
+      "company": "Kohnle & Partner",
+      "location": "Weingarten",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/inhouse-it-consultant-systeminformatiker-am-standort-weingarten-363163",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "system and network administration"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "20aa9c0e",
+      "title": "Praktikant (m/w/d) Human Resources am Standort Frankfurt am Main",
+      "company": "allaboutHRLaw GmbH",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/praktikant-human-resources-am-standort-frankfurt-am-main-142959",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Internship",
+      "tags": [
+        "hr"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c4e8b6ab",
+      "title": "Praktikant (m/w/d) Human Resources am Standort Leipzig",
+      "company": "allaboutHRLaw GmbH",
+      "location": "Leipzig",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/praktikant-human-resources-am-standort-leipzig-450859",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Internship",
+      "tags": [
+        "hr"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e42a529a",
+      "title": "Lead Engineer Vertical Transportation (m/w/d)",
+      "company": "Buro Happold",
+      "location": "Munich",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/buro-happold/lead-engineer-vertical-transportation-munich-389630",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "remote",
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a3fa9066",
+      "title": "Head of Quality (m/w/d) - unbefristete Direkteinstellung beim Kunden",
+      "company": "Bachmann-Executive",
+      "location": "Trossingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bachmann-executive/head-of-quality-unbefristete-direkteinstellung-beim-kunden-trossingen-123230",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "45cd5a23",
+      "title": "WEG-Buchhalter (m/w/d) Zahlengeist mit Herz gesucht!",
+      "company": "Jobbusters® GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobbusters-gmbh/weg-buchhalter-zahlengeist-mit-herz-gesucht-munich-367150",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c12467cd",
+      "title": "Senior Systemingenieur (m/w/d) Fehleranalyse Leistungselektronik in Nürnberg / Remote (1704)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "location": "Mannheim",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/senior-systemingenieur-fehleranalyse-leistungselektronik-in-nurnberg-remote-1704-mannheim-156444",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "remote",
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "29d1707c",
+      "title": "Cloud Engineer (m/w/d) mit Karriereambitionen!",
+      "company": "Auralis Group",
+      "location": "Markt Indersdorf",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-markt-indersdorf-458266",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "system and network administration"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "63547dc2",
+      "title": "Platform Engineer (m/w/d) mit Karriereambitionen!",
+      "company": "Auralis Group",
+      "location": "Markt Indersdorf",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/platform-engineer-mit-karriereambitionen-markt-indersdorf-176615",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1ddcdf74",
+      "title": "Werkstudent (m/w/d) IT Help Desk & Anwendersupport",
+      "company": "Assecor GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/werkstudent-it-help-desk-anwendersupport-berlin-108308",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Internship, hilfstätigkeit / student",
+      "tags": [
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5206435c",
+      "title": "Konstrukteur*in CAD Maschinenbau (w/m/d)",
+      "company": "Kaindl Schleiftechnik, Reiling GmbH",
+      "location": "Königsbach-Stein",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/kaindl-schleiftechnik-reiling-gmbh/konstrukteurin-cad-maschinenbau-konigsbach-stein-324679",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8561aa1d",
+      "title": "Backend Engineer - POS",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-pos-berlin-431352",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "ddca4883",
+      "title": "Junior Paid Media Manager",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/junior-paid-media-manager-munich-94042",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "online marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "094fe4a9",
+      "title": "Junior Paid Social Specialist",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/junior-paid-social-specialist-munich-423298",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "online marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "478d94fa",
+      "title": "Junior Paid Acquisition",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/junior-paid-acquisition-munich-391531",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "online marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "226c094d",
+      "title": "Junior Growth Manager",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/junior-growth-manager-munich-368965",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "online marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a0ca9e28",
+      "title": "Team Lead Content und Social Media (m/w/d) - 100% remote, Vollzeit",
+      "company": "Endo Health GmbH",
+      "location": "Chemnitz",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/endo-health-gmbh/team-lead-content-und-social-media-100-remote-vollzeit-chemnitz-306090",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "teamleitung",
+      "tags": [
+        "remote",
+        "marketing and communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5d17ccfd",
+      "title": "Digital Advertising Trainee",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/digital-advertising-trainee-munich-147797",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "hilfstätigkeit / student",
+      "tags": [
+        "training",
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8f643251",
+      "title": "Qualitätsmanagementbeauftragter (m/w/d)  |  Ref.-Nr. 10621",
+      "company": "GUGGENMOS Personalmanagement GmbH & Co. KG",
+      "location": "Kempten",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/guggenmos-personalmanagement-gmbh-co-kg/qualitatsmanagementbeauftragter-ref-nr-10621-kempten-369547",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4a160ea0",
+      "title": "Praktikant im Bereich Business Development (m/w/d)",
+      "company": "CKM Group",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ckm-group/praktikant-im-bereich-business-development-berlin-369071",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "Internship, berufseinstieg",
+      "tags": [
+        "business development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e1f12770",
+      "title": "Steuerberater (m/w/d) in Würzburg, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Würzburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-wurzburg-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-303943",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2f58881a",
+      "title": "Steuerberater (m/w/d) in Falkensee, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Falkensee",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-falkensee-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-462974",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c83c7f4a",
+      "title": "Steuerberater (m/w/d) in Lemgow, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Lemgow",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-lemgow-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-323624",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "07ed1314",
+      "title": "Steuerberater (m/w/d) in Steinach, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Steinach",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-steinach-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-95607",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c809c026",
+      "title": "Steuerberater (m/w/d) in Leinfelden-Echterdingen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Leinfelden-Echterdingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-leinfelden-echterdingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-388232",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cebf0515",
+      "title": "Steuerberater (m/w/d) in Wiehl, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Wiehl",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-wiehl-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-344748",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5371ddab",
+      "title": "Steuerberater (m/w/d) in Landau, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Landau",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-landau-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-380274",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "283b8def",
+      "title": "Steuerberater (m/w/d) in Schondorf am Ammersee, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Schondorf am Ammersee",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-schondorf-am-ammersee-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-175071",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "directors",
+        "chief executives"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "751ec86b",
+      "title": "Programmierer Für Sps & Safety (M/W/D)",
+      "company": "Satisloh GmbH",
+      "location": "Wetzlar",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/satisloh-gmbh/programmierer-fur-sps-safety-wetzlar-219378",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ba49a8c8",
       "title": "Позиция: AQA engineer",
