@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T13:56:58.064879+00:00",
-  "total": 4,
+  "updated_at": "2026-07-22T14:05:53.473100+00:00",
+  "total": 5,
   "jobs": [
     {
       "id": "a3fa9066",
@@ -16,6 +16,33 @@
       "type": "",
       "tags": [
         "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0a6aef2d",
+      "title": "Senior Software Engineer in Test (SDET)",
+      "company": "Hazelcast",
+      "location": "United Kingdom",
+      "remote": true,
+      "country": "GB",
+      "url": "https://himalayas.app/companies/hazelcast/jobs/senior-software-engineer-in-test-sdet",
+      "source": "himalayas",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software-engineer-in-test",
+        "sdet",
+        "automation-testing",
+        "quality-assurance-engineer",
+        "qa-engineering",
+        "senior-software-development-engineer-in-test-(sdet)",
+        "senior-software-development-engineer-in-test",
+        "senior-software-engineer-in-test",
+        "senior-software-test-engineer",
+        "software-development-engineer-in-test-(sdet)",
+        "senior-automation-test-engineer"
       ],
       "miss_count": 0
     },
