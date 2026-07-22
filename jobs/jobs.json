@@ -1,0 +1,114 @@
+{
+  "updated_at": "2026-07-22T11:37:59.448635+00:00",
+  "total": 6,
+  "jobs": [
+    {
+      "id": "ba49a8c8",
+      "title": "#вакансия #AQA #Eur",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258046",
+      "source": "telegram",
+      "date": "2026-07-21",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "957df637",
+      "title": "**Senior Mobile Automation QA Engineer (iOS & Android)**",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://am.linkedin.com/jobs/view/mobile-automation-qa-engineer-ios-android-at-grid-dynamics-4432758575?trk=public_post_feed-job-posting-content",
+      "source": "telegram",
+      "date": "2026-07-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "66314e41",
+      "title": "**🎆SDET** (AQA) -тестирование приложений iOS/Android и веб-сайтов.",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/257918",
+      "source": "telegram",
+      "date": "2026-07-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4d080935",
+      "title": "**Quality Assurance Engineer**",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.linkedin.com/jobs/view/4428243489/).",
+      "source": "telegram",
+      "date": "2026-06-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b183459c",
+      "title": "[**QA фуллстек-инженер**](https://www.vseti.app/vakansii/3484394300344343434343)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.vseti.app/vakansii/3484394300344343434343",
+      "source": "telegram",
+      "date": "2026-06-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9ccaa1b5",
+      "title": "[**Тестировщик (Mobile QA автоматизация на Java)**](https://www.vseti.app/vakansii/83434943994334043",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.vseti.app/vakansii/834349439943340430439344334",
+      "source": "telegram",
+      "date": "2026-06-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    }
+  ]
+}
