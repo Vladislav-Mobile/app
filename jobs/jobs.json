@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-07-22T14:14:14.132611+00:00",
+  "updated_at": "2026-07-22T19:11:12.874670+00:00",
   "total": 55,
   "jobs": [
+    {
+      "id": "fc2f6e97",
+      "title": "SOC Automation (Senior) Consultant (m/w/d)",
+      "company": "NVISO",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nviso/soc-automation-senior-consultant-frankfurt-am-main-369237",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "it security"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "57bb3543",
+      "title": "Ingenieur (gn) für Robotik und Automatisierungstechnik",
+      "company": "3D.aero GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/3daero-gmbh/ingenieur-gn-fur-robotik-und-automatisierungstechnik-hamburg-312710",
+      "source": "arbeitnow",
+      "date": "2026-07-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "b98b389b",
       "title": "Qualitätsmanager (m/w/d)",
@@ -20,36 +54,46 @@
       "miss_count": 0
     },
     {
-      "id": "a3fa9066",
-      "title": "Head of Quality (m/w/d) - unbefristete Direkteinstellung beim Kunden",
-      "company": "Bachmann-Executive",
-      "location": "Trossingen",
-      "remote": false,
+      "id": "1873c651",
+      "title": "Digital Lead Generation Specialist",
+      "company": "CrewBloom",
+      "location": "India",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/bachmann-executive/head-of-quality-unbefristete-direkteinstellung-beim-kunden-trossingen-123230",
-      "source": "arbeitnow",
+      "url": "https://himalayas.app/companies/crewbloom/jobs/digital-lead-generation-specialist",
+      "source": "himalayas",
       "date": "2026-07-22",
       "salary": "",
       "type": "",
       "tags": [
-        "quality management"
+        "digital-marketing",
+        "lead-generation",
+        "marketing-automation",
+        "growth-marketing",
+        "demand-generation",
+        "lead-generation-specialist",
+        "b2b-lead-generation-specialist",
+        "digital-marketing-specialist",
+        "lead-generation-strategist",
+        "demand-generation-specialist"
       ],
       "miss_count": 0
     },
     {
-      "id": "8f643251",
-      "title": "Qualitätsmanagementbeauftragter (m/w/d)  |  Ref.-Nr. 10621",
-      "company": "GUGGENMOS Personalmanagement GmbH & Co. KG",
-      "location": "Kempten",
-      "remote": false,
+      "id": "8851fa0b",
+      "title": "test",
+      "company": "Event Staff App",
+      "location": "San Jose, ",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/guggenmos-personalmanagement-gmbh-co-kg/qualitatsmanagementbeauftragter-ref-nr-10621-kempten-369547",
-      "source": "arbeitnow",
-      "date": "2026-07-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-event-staff-app-1135189",
+      "source": "remoteok",
+      "date": "2026-07-21",
       "salary": "",
-      "type": "berufserfahren",
+      "type": "full-time",
       "tags": [
-        "quality management"
+        "testing",
+        "non tech"
       ],
       "miss_count": 0
     },
@@ -494,55 +538,6 @@
         "recruiter",
         "illustrator",
         "digital nomad"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "40d23832",
-      "title": "Designer",
-      "company": "RideTEGO",
-      "location": "Haridwar, ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-ridetego-1135030",
-      "source": "remoteok",
-      "date": "2026-07-18",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "project manager",
-        "exec",
-        "technical",
-        "designer",
-        "testing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "50b39d1a",
-      "title": "Patient Scheduler",
-      "company": "ARStrat",
-      "location": "Greater Houston, ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-arstrat-1135015",
-      "source": "remoteok",
-      "date": "2026-07-18",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "sys admin",
-        "supervisor",
-        "customer support",
-        "testing",
-        "finance",
-        "education",
-        "microsoft",
-        "exec",
-        "ops",
-        "golang",
-        "medical",
-        "full time"
       ],
       "miss_count": 0
     },
