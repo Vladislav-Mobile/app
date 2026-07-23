@@ -1,38 +1,29 @@
 {
-  "updated_at": "2026-07-23T13:49:40.437590+00:00",
-  "total": 93,
+  "updated_at": "2026-07-23T19:10:29.366515+00:00",
+  "total": 91,
   "jobs": [
     {
-      "id": "10362a0b",
-      "title": "Abschluss- oder Projektarbeit im Bereich KI-basierter Tiefenschätzung aus monokularen Bilddaten",
-      "company": "3D.aero GmbH",
-      "location": "Hamburg",
-      "remote": false,
+      "id": "ad0eda7c",
+      "title": "Mobile QA Engineer (Manual)",
+      "company": "MobileUp",
+      "location": "",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/3daero-gmbh/abschluss-oder-projektarbeit-im-bereich-ki-basierter-tiefenschatzung-aus-monokularen-bilddaten-hamburg-129155",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/768024-mobile-qa-engineer-manual",
+      "source": "hirify",
       "date": "2026-07-23",
-      "salary": "",
-      "type": "Working student",
+      "salary": "RUB 120000 (~$1529)",
+      "type": "fulltime",
       "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "86f7cd84",
-      "title": "Leitung Qualitätsmanagement und Regulatory Affairs (m/w/d)",
-      "company": "epias GmbH",
-      "location": "Idstein",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/epias-gmbh/leitung-qualitatsmanagement-und-regulatory-affairs-idstein-399895",
-      "source": "arbeitnow",
-      "date": "2026-07-23",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -114,28 +105,20 @@
       "miss_count": 0
     },
     {
-      "id": "66e90e7a",
-      "title": "QA Engineer",
-      "company": "Code & Pepper",
-      "location": "Poland",
+      "id": "07c98a90",
+      "title": "Вакансия: Mobile QA (Manual)",
+      "company": "",
+      "location": "Remote",
       "remote": true,
-      "country": "PL",
-      "url": "https://himalayas.app/companies/code-pepper/jobs/qa-engineer",
-      "source": "himalayas",
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258130",
+      "source": "telegram",
       "date": "2026-07-23",
       "salary": "",
       "type": "",
       "tags": [
-        "qa-engineering",
-        "software-testing",
-        "testing-automation",
-        "quality-assurance",
-        "qa-engineer",
-        "qa-test-engineer",
-        "quality-assurance-engineer",
-        "software-qa-engineer",
-        "sqa-engineer",
-        "software-quality-assurance-engineer"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -156,23 +139,6 @@
         "salesforce",
         "video",
         "spark"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "54b52014",
-      "title": "Solutions Architect - Enterprise Architecture IT, Industrial Automation & Transformation",
-      "company": "Muxon",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/muxon/solutions-architect-enterprise-architecture-it-industrial-automation-transformation-munich-328815",
-      "source": "arbeitnow",
-      "date": "2026-07-22",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "software development"
       ],
       "miss_count": 0
     },
