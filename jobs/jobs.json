@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-07-24T08:21:55.050916+00:00",
-  "total": 89,
+  "updated_at": "2026-07-24T13:29:34.235472+00:00",
+  "total": 90,
   "jobs": [
+    {
+      "id": "120a4cf6",
+      "title": "Surveyor - Hospital MD (Psych)",
+      "company": "The Joint Commission",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/the-joint-commission/jobs/surveyor-hospital-md-psych",
+      "source": "himalayas",
+      "date": "2026-07-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "healthcare-surveyor",
+        "psychiatrist",
+        "quality-assurance",
+        "field-representative",
+        "healthcare-consultant",
+        "accreditation-specialist",
+        "healthcare-compliance",
+        "medical-surveyor",
+        "staff-psychiatrist",
+        "mental-health-physician",
+        "medical-director-psychiatry",
+        "psychiatry---medical-director"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "615d02ce",
+      "title": "Software Test Coordinator",
+      "company": "Peraton",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/peraton/jobs/software-test-coordinator",
+      "source": "himalayas",
+      "date": "2026-07-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software-testing",
+        "test-coordination",
+        "quality-assurance",
+        "it",
+        "testing-coordinator",
+        "software-test-manager",
+        "test-coordinator",
+        "software-testing-manager",
+        "software-test-engineer",
+        "software-test-analyst"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ad0eda7c",
       "title": "Mobile QA Engineer (Manual)",
@@ -2185,33 +2239,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "80db8afb",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
-      "source": "remotive",
-      "date": "2026-06-24",
-      "salary": "$30k - $100k",
-      "type": "full_time",
-      "tags": [
-        "excel",
-        "video",
-        "ai/ml",
-        "customer acquisition",
-        "graphic design",
-        "video production",
-        "after effects",
-        "editing",
-        "solid",
-        "rest",
-        "insurance"
       ],
       "miss_count": 0
     },
