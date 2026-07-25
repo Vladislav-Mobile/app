@@ -1,7 +1,78 @@
 {
-  "updated_at": "2026-07-25T08:01:59.284848+00:00",
-  "total": 85,
+  "updated_at": "2026-07-25T13:17:57.530475+00:00",
+  "total": 89,
   "jobs": [
+    {
+      "id": "73123f64",
+      "title": "Praktikant Marketing Automation mit KI (m/w/d) in remote / Homeoffice",
+      "company": "Mindskills",
+      "location": "Cologne",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/mindskills/praktikant-marketing-automation-mit-ki-in-remote-homeoffice-cologne-445496",
+      "source": "arbeitnow",
+      "date": "2026-07-25",
+      "salary": "",
+      "type": "Internship",
+      "tags": [
+        "remote",
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9a638a25",
+      "title": "Associate Auditor Clinical Validation DRG",
+      "company": "name",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/cotiviti/jobs/associate-auditor-clinical-validation-drg",
+      "source": "himalayas",
+      "date": "2026-07-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "clinical-auditing",
+        "medical-coding",
+        "healthcare-auditing",
+        "drg-validation",
+        "inpatient-claims-audit",
+        "drg-validation-auditor",
+        "clinical-validation-auditor",
+        "clinical-qa-auditor",
+        "clinical-auditor",
+        "clinical-validation-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "80db8afb",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
+      "source": "remotive",
+      "date": "2026-07-24",
+      "salary": "$30k - $100k",
+      "type": "full_time",
+      "tags": [
+        "excel",
+        "video",
+        "ai/ml",
+        "customer acquisition",
+        "graphic design",
+        "video production",
+        "after effects",
+        "editing",
+        "solid",
+        "rest",
+        "insurance"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "99f551a7",
       "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
@@ -52,6 +123,52 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bf196819",
+      "title": "Business Development Representative",
+      "company": "Outsite",
+      "location": "Northern America, Europe, UK, France, European timezones",
+      "remote": true,
+      "country": "GB",
+      "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
+      "source": "remotive",
+      "date": "2026-07-23",
+      "salary": "$45,000 - $50,000",
+      "type": "full_time",
+      "tags": [
+        "ai/ml",
+        "crm",
+        "business development",
+        "account management",
+        "partnerships",
+        "startup",
+        "sdr",
+        "hubspot",
+        "travel",
+        "pipedrive"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e1a78cb5",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
+      "source": "remotive",
+      "date": "2026-07-23",
+      "salary": "$14/hr",
+      "type": "part_time",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "ai/ml"
       ],
       "miss_count": 0
     },
@@ -523,24 +640,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "66314e41",
-      "title": "🎆SDET (AQA) -тестирование приложений iOS/Android и веб-сайтов.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/257918",
-      "source": "telegram",
-      "date": "2026-07-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
