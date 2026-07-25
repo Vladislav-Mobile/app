@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T02:22:42.197845+00:00",
-  "total": 87,
+  "updated_at": "2026-07-25T08:01:59.284848+00:00",
+  "total": 85,
   "jobs": [
     {
       "id": "99f551a7",
@@ -16,40 +16,6 @@
       "type": "",
       "tags": [
         "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8176ee24",
-      "title": "Werkstudent Product Compliance & Quality (m/w/d)",
-      "company": "GORNATION GmbH",
-      "location": "Münster",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/gornation-gmbh/werkstudent-product-compliance-quality-munster-341989",
-      "source": "arbeitnow",
-      "date": "2026-07-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e36e8669",
-      "title": "Product Compliance & Quality Manager (m/w/d)",
-      "company": "GORNATION GmbH",
-      "location": "Münster",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/gornation-gmbh/product-compliance-quality-manager-munster-160622",
-      "source": "arbeitnow",
-      "date": "2026-07-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
       ],
       "miss_count": 0
     },
