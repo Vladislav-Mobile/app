@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T13:17:57.530475+00:00",
-  "total": 89,
+  "updated_at": "2026-07-25T19:02:20.516636+00:00",
+  "total": 88,
   "jobs": [
     {
       "id": "73123f64",
@@ -17,32 +17,6 @@
       "tags": [
         "remote",
         "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9a638a25",
-      "title": "Associate Auditor Clinical Validation DRG",
-      "company": "name",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/cotiviti/jobs/associate-auditor-clinical-validation-drg",
-      "source": "himalayas",
-      "date": "2026-07-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "clinical-auditing",
-        "medical-coding",
-        "healthcare-auditing",
-        "drg-validation",
-        "inpatient-claims-audit",
-        "drg-validation-auditor",
-        "clinical-validation-auditor",
-        "clinical-qa-auditor",
-        "clinical-auditor",
-        "clinical-validation-specialist"
       ],
       "miss_count": 0
     },
