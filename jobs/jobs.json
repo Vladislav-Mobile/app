@@ -1,61 +1,7 @@
 {
-  "updated_at": "2026-07-26T02:28:58.007035+00:00",
-  "total": 87,
+  "updated_at": "2026-07-26T08:21:47.217423+00:00",
+  "total": 85,
   "jobs": [
-    {
-      "id": "b821f0b9",
-      "title": "Senior Patient Experience Professional",
-      "company": "CenterWell Senior Primary Care",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/senior-patient-experience-professional",
-      "source": "himalayas",
-      "date": "2026-07-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "patient-experience",
-        "healthcare-quality-improvement",
-        "healthcare-strategy",
-        "healthcare-operations",
-        "patient-experience-analytics",
-        "senior-patient-experience-consultant",
-        "senior-director-of-patient-experience-strategy",
-        "principal-patient-experience-consultant",
-        "patient-experience-manager",
-        "senior-director-patient-services"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4f7e9e41",
-      "title": "Marketing & Outreach Assistant",
-      "company": "Vertu Agent",
-      "location": "Guatemala",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/vertu-agent/jobs/marketing-outreach-assistant-2041882849",
-      "source": "himalayas",
-      "date": "2026-07-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "digital-marketing",
-        "marketing-operations",
-        "crm-coordination",
-        "marketing-automation",
-        "lead-generation",
-        "marketing-and-outreach-specialist",
-        "marketing-and-fundraising-assistant",
-        "outreach-assistant",
-        "marketing-assistant",
-        "community-outreach-assistant",
-        "marketing-program-assistant",
-        "marketing-and-outreach"
-      ],
-      "miss_count": 0
-    },
     {
       "id": "73123f64",
       "title": "Praktikant Marketing Automation mit KI (m/w/d) in remote / Homeoffice",
