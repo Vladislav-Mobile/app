@@ -1,22 +1,111 @@
 {
-  "updated_at": "2026-07-26T13:13:08.414966+00:00",
-  "total": 85,
+  "updated_at": "2026-07-26T19:05:57.258520+00:00",
+  "total": 88,
   "jobs": [
     {
-      "id": "73123f64",
-      "title": "Praktikant Marketing Automation mit KI (m/w/d) in remote / Homeoffice",
-      "company": "Mindskills",
-      "location": "Cologne",
-      "remote": true,
+      "id": "3266abc1",
+      "title": "Quality Assurance Engineer",
+      "company": "spire",
+      "location": "Glasgow",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/mindskills/praktikant-marketing-automation-mit-ki-in-remote-homeoffice-cologne-445496",
+      "url": "https://arbeitnow.co.uk/jobs/companies/spire/quality-assurance-engineer-glasgow-468197",
+      "source": "arbeitnow",
+      "date": "2026-07-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d050bf82",
+      "title": "Data Quality Engineer (m/f/d)",
+      "company": "Agile Robots SE",
+      "location": "Germany, Munich (HQ)",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/agile-robots-se/data-quality-engineer-germany-munich-hq-48714",
       "source": "arbeitnow",
       "date": "2026-07-25",
       "salary": "",
-      "type": "Internship",
+      "type": "Entry, Permanent, Full time",
       "tags": [
-        "remote",
-        "it"
+        "robot data",
+        "data analysis",
+        "software engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4b853552",
+      "title": "Data Quality Coordinator (m/f/d)",
+      "company": "Agile Robots SE",
+      "location": "Germany, Munich (HQ)",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/agile-robots-se/data-quality-coordinator-germany-munich-hq-432323",
+      "source": "arbeitnow",
+      "date": "2026-07-25",
+      "salary": "",
+      "type": "Entry, Permanent, Full time",
+      "tags": [
+        "robot data",
+        "data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fb30d605",
+      "title": "Senior Crm Manager*In (M/W/D) Hubspot & Marketing Automation",
+      "company": "OMR",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/omr/senior-crm-managerin-hubspot-marketing-automation-hamburg-396650",
+      "source": "arbeitnow",
+      "date": "2026-07-25",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "ramp106",
+        "omr",
+        "marketing",
+        "omr festival",
+        "crm",
+        "e-mail",
+        "crm marketing",
+        "e-mail marketing",
+        "crm & e-mail marketing",
+        "marketing manager",
+        "marketing managerin",
+        "senior marketing manager",
+        "online marketing",
+        "vollzeit",
+        "job",
+        "hamburg"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "481a95f5",
+      "title": "(Senior) Sales Manager – Mobile Robotics & Automation (m/w/d)",
+      "company": "Idealworks",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealworks/senior-sales-manager-mobile-robotics-automation-munchen-498160",
+      "source": "arbeitnow",
+      "date": "2026-07-25",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "sales",
+        "robotics",
+        "intralogistics",
+        "sales manager",
+        "idealworks"
       ],
       "miss_count": 0
     },
@@ -44,23 +133,6 @@
         "solid",
         "rest",
         "insurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "99f551a7",
-      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-23385",
-      "source": "arbeitnow",
-      "date": "2026-07-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
