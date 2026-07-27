@@ -1,21 +1,63 @@
 {
-  "updated_at": "2026-07-27T09:44:27.444968+00:00",
+  "updated_at": "2026-07-27T14:26:10.895441+00:00",
   "total": 83,
   "jobs": [
     {
-      "id": "651c5dc5",
-      "title": "AI Process Automation Consultant (m/w/d)",
-      "company": "Bridgemaker GmbH",
-      "location": "Berlin",
+      "id": "4c1f3de5",
+      "title": "Product Quality Analyst M/W/D",
+      "company": "Contservice GmbH",
+      "location": "Frankfurt am Main",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/bridgemaker-gmbh/ai-process-automation-consultant-berlin-222343",
+      "url": "https://www.arbeitnow.com/jobs/companies/contservice-gmbh/product-quality-analyst-frankfurt-am-main-53764",
       "source": "arbeitnow",
       "date": "2026-07-27",
       "salary": "",
-      "type": "berufserfahren",
+      "type": "berufseinstieg",
       "tags": [
-        "software development"
+        "product management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a2410658",
+      "title": "Software & Hardware Test Engineer (m/f/d) - Medical Devices",
+      "company": "IBA Dosimetry GmbH",
+      "location": "Nuremberg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/iba-dosimetry-gmbh/software-hardware-test-engineer-medical-devices-nuremberg-424813",
+      "source": "arbeitnow",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4bdc142f",
+      "title": "Senior QA Mobile (GovTech)",
+      "company": "RED",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/775961-senior-qa-mobile-govtech",
+      "source": "hirify",
+      "date": "2026-07-27",
+      "salary": "RUB 155000 (~$1632)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -42,35 +84,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ffe0a3b8",
-      "title": "Senior Performance Marketing Manager (m/w/d)",
-      "company": "Egocentric Systems Gmbh",
-      "location": "Dresden",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/egocentric-systems-gmbh/senior-performance-marketing-manager-dresden-47446",
-      "source": "arbeitnow",
-      "date": "2026-07-26",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "online marketing",
-        "digital marketing",
-        "leadgenerierung",
-        "seo",
-        "sea",
-        "social media marketing",
-        "paid social",
-        "b2b marketing",
-        "marketing automation",
-        "e-mail marketing",
-        "content management system",
-        "performance markeing",
-        "ai-driven marketing"
       ],
       "miss_count": 0
     },
@@ -1929,25 +1942,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "be0b5ce8",
-      "title": "Data Labeling Specialists",
-      "company": "Workada",
-      "location": "USA",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-      "source": "remotive",
-      "date": "2026-07-01",
-      "salary": "$18 - $22/hr",
-      "type": "freelance",
-      "tags": [
-        "research",
-        "digital content",
-        "spreadsheets"
       ],
       "miss_count": 0
     },
