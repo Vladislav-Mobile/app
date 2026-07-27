@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-07-27T02:36:21.403912+00:00",
-  "total": 82,
+  "updated_at": "2026-07-27T09:44:27.444968+00:00",
+  "total": 83,
   "jobs": [
+    {
+      "id": "651c5dc5",
+      "title": "AI Process Automation Consultant (m/w/d)",
+      "company": "Bridgemaker GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/bridgemaker-gmbh/ai-process-automation-consultant-berlin-222343",
+      "source": "arbeitnow",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "283e5a37",
+      "title": "Mobile QA Lead (iGaming)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/774963-mobile-qa-lead-igaming",
+      "source": "hirify",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ffe0a3b8",
       "title": "Senior Performance Marketing Manager (m/w/d)",
@@ -465,24 +508,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "957df637",
-      "title": "Senior Mobile Automation QA Engineer (iOS & Android)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://am.linkedin.com/jobs/view/mobile-automation-qa-engineer-ios-android-at-grid-dynamics-4432758575?trk=public_post_feed-job-posting-content",
-      "source": "telegram",
-      "date": "2026-07-17",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
