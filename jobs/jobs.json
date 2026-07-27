@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-07-27T14:26:10.895441+00:00",
-  "total": 83,
+  "updated_at": "2026-07-27T19:22:27.810253+00:00",
+  "total": 90,
   "jobs": [
+    {
+      "id": "ab159ab2",
+      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-449691",
+      "source": "arbeitnow",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "remote",
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "92941b91",
+      "title": "Senior QA Engineer (Financial Apps)",
+      "company": "Fireblocks",
+      "location": "Belgrade, Serbia; Berlin, Berlin, Prague, Czech Republic; United Kingdom; Warszawa, Masovian Voivodeship, Poland",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.com/jobs/companies/fireblocks/senior-qa-engineer-financial-apps-belgrade-serbia-berlin-berlin-prague-czech-republic-united-kingdom-warszawa-masovian-voivodeship-poland-55497",
+      "source": "arbeitnow",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "r&d"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "4c1f3de5",
       "title": "Product Quality Analyst M/W/D",
@@ -20,20 +55,101 @@
       "miss_count": 0
     },
     {
-      "id": "a2410658",
-      "title": "Software & Hardware Test Engineer (m/f/d) - Medical Devices",
-      "company": "IBA Dosimetry GmbH",
-      "location": "Nuremberg",
+      "id": "c4892b87",
+      "title": "Middle QA Engineer (Mobile)",
+      "company": "PLAYSTROM",
+      "location": "WW",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/iba-dosimetry-gmbh/software-hardware-test-engineer-medical-devices-nuremberg-424813",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/776667-middle-qa-engineer-mobile",
+      "source": "hirify",
       "date": "2026-07-27",
       "salary": "",
-      "type": "professional / experienced",
+      "type": "fulltime",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fcad450d",
+      "title": "Mobile QA Engineer (AI/Flutter)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/776640-mobile-qa-engineer-ai-flutter",
+      "source": "hirify",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c7c4fdd6",
+      "title": "QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "WW",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/775980-qa-engineer-mobile-testing",
+      "source": "hirify",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8f0f6bfe",
+      "title": "Mobile QA Engineer (iOS)",
+      "company": "Mobiways",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/775977-mobile-qa-engineer-ios",
+      "source": "hirify",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -84,6 +200,67 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c0edba67",
+      "title": "Senior Software Engineer — Python-to-.NET Data Automation Migration - Ubiminds (",
+      "company": "Ubiminds",
+      "location": "Brazil",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/ubiminds/jobs/senior-software-engineer-python-to-net-data-automation-migration-ubiminds",
+      "source": "himalayas",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software-engineering",
+        ".net-development",
+        "backend-development",
+        "data-engineering",
+        "migration-engineering",
+        "senior-c#-.net-software-engineer",
+        "senior-.net-engineer",
+        "senior-python-engineer",
+        "senior-python-developer---ai-ml"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5734ad70",
+      "title": "🧾 Вакансия: QA Automation Engineer Java (Appium Mobile от 3 лет)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258171",
+      "source": "telegram",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "90fe495c",
+      "title": "🧾 Вакансия: QA Lead (от 3 лет опыта Java Appium Mobile + управления командой)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258170",
+      "source": "telegram",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -193,24 +370,6 @@
         "ios",
         "social media",
         "ai/ml"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9aff8e7b",
-      "title": "QA Online",
-      "company": "Indonesia Banking School",
-      "location": "Surabaya, ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-online-indonesia-banking-school-1135373",
-      "source": "remoteok",
-      "date": "2026-07-23",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "quality assurance",
-        "finance"
       ],
       "miss_count": 0
     },
