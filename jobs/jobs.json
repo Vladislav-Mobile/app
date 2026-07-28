@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-28T08:28:47.437684+00:00",
+  "updated_at": "2026-07-28T13:58:13.961790+00:00",
   "total": 90,
   "jobs": [
+    {
+      "id": "65fff10b",
+      "title": "Engineering Manager - Automation Platform (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/engineering-manager-automation-platform-berlin-89560",
+      "source": "arbeitnow",
+      "date": "2026-07-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b6faf039",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-293277",
+      "source": "arbeitnow",
+      "date": "2026-07-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3fb784fa",
+      "title": "Fullstack QA Engineer (Mobile/Backend)",
+      "company": "Dodo",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/779015-fullstack-qa-engineer-mobilebackend",
+      "source": "hirify",
+      "date": "2026-07-28",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
     {
       "id": "a6e1fe7b",
       "title": "Mobile QA Engineer (iGaming)",
@@ -23,77 +89,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "14097805",
-      "title": "Компания: 01.tech",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://01.tech/)**",
-      "source": "telegram",
-      "date": "2026-07-28",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "80f707a5",
-      "title": "Senior SEA & Google Ads Manager (m/w/d) - Performance Max, Automation & AI  - 100 % remote",
-      "company": "hurra.com",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/senior-sea-google-ads-manager-performance-max-automation-ai-100-remote-berlin-195131",
-      "source": "arbeitnow",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "remote",
-        "online marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ab159ab2",
-      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-449691",
-      "source": "arbeitnow",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "professional / experienced",
-      "tags": [
-        "remote",
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "92941b91",
-      "title": "Senior QA Engineer (Financial Apps)",
-      "company": "Fireblocks",
-      "location": "Belgrade, Serbia; Berlin, Berlin, Prague, Czech Republic; United Kingdom; Warszawa, Masovian Voivodeship, Poland",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.com/jobs/companies/fireblocks/senior-qa-engineer-financial-apps-belgrade-serbia-berlin-berlin-prague-czech-republic-united-kingdom-warszawa-masovian-voivodeship-poland-55497",
-      "source": "arbeitnow",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "r&d"
       ],
       "miss_count": 0
     },
@@ -279,6 +274,25 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "be0b5ce8",
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
+      "location": "USA",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "source": "remotive",
+      "date": "2026-07-26",
+      "salary": "$18 - $22/hr",
+      "type": "freelance",
+      "tags": [
+        "research",
+        "digital content",
+        "spreadsheets"
       ],
       "miss_count": 0
     },
