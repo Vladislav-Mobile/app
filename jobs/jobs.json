@@ -1,7 +1,108 @@
 {
-  "updated_at": "2026-07-27T19:22:27.810253+00:00",
-  "total": 90,
+  "updated_at": "2026-07-28T02:11:02.216775+00:00",
+  "total": 91,
   "jobs": [
+    {
+      "id": "0dc8d018",
+      "title": "Head of Global GxP Quality System and Compliance",
+      "company": "name",
+      "location": "Sweden",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/sobi/jobs/head-of-global-gxp-quality-system-and-compliance",
+      "source": "himalayas",
+      "date": "2026-07-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-assurance",
+        "pharmaceutical",
+        "quality-systems",
+        "gxp-compliance",
+        "regulatory-compliance",
+        "quality-management",
+        "leadership",
+        "global-head-of-quality-compliance",
+        "executive-quality-and-regulatory-affairs-director",
+        "global-quality-director",
+        "vp-quality-and-compliance",
+        "quality-and-compliance-director"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "15172abc",
+      "title": "AI Automation Team Lead (Remote, Contract)",
+      "company": "name",
+      "location": "Romania",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/infuse/jobs/ai-automation-team-lead-remote-contract-2194443646",
+      "source": "himalayas",
+      "date": "2026-07-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-automation",
+        "automation-engineering",
+        "ai-ml-team-lead",
+        "process-automation",
+        "technical-leadership",
+        "ai-and-automation-lead",
+        "automation-team-lead",
+        "ai-workflow-automation-lead",
+        "ai-automation-customer-success-lead",
+        "ai-team-lead"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5c12e0a5",
+      "title": "Senior Quality Engineer,  Findata",
+      "company": "name",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/alphasense/jobs/senior-quality-engineer-findata-2880636490",
+      "source": "himalayas",
+      "date": "2026-07-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-engineering",
+        "qa-engineering",
+        "testing-automation",
+        "software-testing",
+        "ai-platform-quality",
+        "senior-quality-engineer",
+        "senior-qa-engineering",
+        "senior-software-quality-engineer",
+        "senior-qc-engineer",
+        "quality-assurance-engineer",
+        "lead-qa-engineer",
+        "senior-field-quality-engineer",
+        "senior-product-qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "80f707a5",
+      "title": "Senior SEA & Google Ads Manager (m/w/d) - Performance Max, Automation & AI  - 100 % remote",
+      "company": "hurra.com",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/senior-sea-google-ads-manager-performance-max-automation-ai-100-remote-berlin-195131",
+      "source": "arbeitnow",
+      "date": "2026-07-27",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "online marketing"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ab159ab2",
       "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
@@ -34,23 +135,6 @@
       "type": "",
       "tags": [
         "r&d"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4c1f3de5",
-      "title": "Product Quality Analyst M/W/D",
-      "company": "Contservice GmbH",
-      "location": "Frankfurt am Main",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/contservice-gmbh/product-quality-analyst-frankfurt-am-main-53764",
-      "source": "arbeitnow",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "berufseinstieg",
-      "tags": [
-        "product management"
       ],
       "miss_count": 0
     },
@@ -200,31 +284,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c0edba67",
-      "title": "Senior Software Engineer — Python-to-.NET Data Automation Migration - Ubiminds (",
-      "company": "Ubiminds",
-      "location": "Brazil",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/ubiminds/jobs/senior-software-engineer-python-to-net-data-automation-migration-ubiminds",
-      "source": "himalayas",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software-engineering",
-        ".net-development",
-        "backend-development",
-        "data-engineering",
-        "migration-engineering",
-        "senior-c#-.net-software-engineer",
-        "senior-.net-engineer",
-        "senior-python-engineer",
-        "senior-python-developer---ai-ml"
       ],
       "miss_count": 0
     },
@@ -2266,28 +2325,6 @@
         "onboarding",
         "spreadsheets",
         "gsuite"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6341ec3d",
-      "title": "Manual QA Tester (Mobile Games)",
-      "company": "GameDuell",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/695106-manual-qa-tester-mobile-games",
-      "source": "hirify",
-      "date": "2026-06-29",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
