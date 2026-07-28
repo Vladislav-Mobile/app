@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T13:58:13.961790+00:00",
-  "total": 90,
+  "updated_at": "2026-07-28T19:17:52.323308+00:00",
+  "total": 89,
   "jobs": [
     {
       "id": "65fff10b",
@@ -20,19 +20,19 @@
       "miss_count": 0
     },
     {
-      "id": "b6faf039",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
+      "id": "f2052bf1",
+      "title": "Senior QA Automation Engineer",
+      "company": "nice",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-293277",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-qa-automation-engineer-277206",
       "source": "arbeitnow",
       "date": "2026-07-28",
       "salary": "",
       "type": "",
       "tags": [
-        "quality management"
+        "cx - r&d engineering"
       ],
       "miss_count": 0
     },
@@ -1656,31 +1656,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bbf0355b",
-      "title": "Senior Mobile QA Engineer (Incogni)",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/724092-senior-mobile-qa-engineer-incogni",
-      "source": "hirify",
-      "date": "2026-07-09",
-      "salary": "EUR 3500–5200 (~$4965)",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
