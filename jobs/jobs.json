@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-29T14:02:44.668963+00:00",
+  "updated_at": "2026-07-29T19:10:49.818171+00:00",
   "total": 89,
   "jobs": [
     {
-      "id": "8b7a095d",
-      "title": "Aircraft Vehicle Automation Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "id": "234fac53",
+      "title": "Senior Quality Engineer",
+      "company": "Hypersonica",
+      "location": "London",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/aircraft-vehicle-automation-engineer-gilching-43711",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/senior-quality-engineer-london-218946",
       "source": "arbeitnow",
       "date": "2026-07-29",
       "salary": "",
-      "type": "Mid, fulltime permanent",
+      "type": "Full-time",
       "tags": [
-        "software"
+        "engineering"
       ],
       "miss_count": 0
     },
@@ -33,6 +33,32 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e94a5efe",
+      "title": "Mobile QA Automation Engineer (iOS)",
+      "company": "Островок",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/784154-mobile-qa-automation-ios",
+      "source": "hirify",
+      "date": "2026-07-29",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -63,28 +89,30 @@
       "miss_count": 0
     },
     {
-      "id": "0a337104",
-      "title": "Especialista em RevOps Engineering – Partner Operations (Low-Code)",
-      "company": "Clicksign",
-      "location": "Brazil",
+      "id": "8fae9e33",
+      "title": "Red Team Operator (Hive Member) - Apply Anytime!",
+      "company": "CovertSwarm",
+      "location": "Australia",
       "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/clicksign/jobs/especialista-em-revops-engineering-partner-operations-low-code",
+      "country": "AU",
+      "url": "https://himalayas.app/companies/covertswarm/jobs/red-team-operator-hive-member-apply-anytime",
       "source": "himalayas",
       "date": "2026-07-29",
       "salary": "",
       "type": "",
       "tags": [
-        "revops-engineering",
-        "partner-operations",
-        "low-code-development",
-        "automation-engineering",
-        "sales-operations",
-        "revops-engineer",
-        "revops-technical-specialist",
-        "partner-operations-specialist",
-        "revops-specialist",
-        "low-code-automation-engineer"
+        "red-team-operations",
+        "penetration-testing",
+        "offensive-security",
+        "ethical-hacking",
+        "cybersecurity",
+        "red-team-operator",
+        "red-team-security-engineer",
+        "red-team-engineer",
+        "red-team-specialist",
+        "red-teamer",
+        "red-team-lead",
+        "red-team"
       ],
       "miss_count": 0
     },
@@ -225,31 +253,6 @@
       "remote": true,
       "country": "WW",
       "url": "https://hirify.me/vacancies/776640-mobile-qa-engineer-ai-flutter",
-      "source": "hirify",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c7c4fdd6",
-      "title": "QA Engineer (Mobile)",
-      "company": "%hirify_global%",
-      "location": "WW",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/775980-qa-engineer-mobile-testing",
       "source": "hirify",
       "date": "2026-07-27",
       "salary": "",
