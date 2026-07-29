@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-07-29T08:34:47.207039+00:00",
-  "total": 88,
+  "updated_at": "2026-07-29T14:02:44.668963+00:00",
+  "total": 89,
   "jobs": [
+    {
+      "id": "8b7a095d",
+      "title": "Aircraft Vehicle Automation Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/aircraft-vehicle-automation-engineer-gilching-43711",
+      "source": "arbeitnow",
+      "date": "2026-07-29",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "software"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "f1f561c5",
       "title": "Business QA Engineer / UAT",
@@ -42,6 +59,32 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0a337104",
+      "title": "Especialista em RevOps Engineering – Partner Operations (Low-Code)",
+      "company": "Clicksign",
+      "location": "Brazil",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/clicksign/jobs/especialista-em-revops-engineering-partner-operations-low-code",
+      "source": "himalayas",
+      "date": "2026-07-29",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "revops-engineering",
+        "partner-operations",
+        "low-code-development",
+        "automation-engineering",
+        "sales-operations",
+        "revops-engineer",
+        "revops-technical-specialist",
+        "partner-operations-specialist",
+        "revops-specialist",
+        "low-code-automation-engineer"
       ],
       "miss_count": 0
     },
@@ -2232,30 +2275,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ac7bbc00",
-      "title": "Client Success Coach (CSM)",
-      "company": "Impact Clients",
-      "location": "Northern America, Europe, South Africa",
-      "remote": true,
-      "country": "EU",
-      "url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
-      "source": "remotive",
-      "date": "2026-06-29",
-      "salary": "$120k - $220k",
-      "type": "full_time",
-      "tags": [
-        "backend",
-        "video",
-        "crm",
-        "youtube",
-        "organic marketing",
-        "onboarding",
-        "spreadsheets",
-        "gsuite"
       ],
       "miss_count": 0
     }
