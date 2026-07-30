@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-07-29T19:10:49.818171+00:00",
-  "total": 89,
+  "updated_at": "2026-07-30T02:03:35.094317+00:00",
+  "total": 90,
   "jobs": [
+    {
+      "id": "ab9ee29a",
+      "title": "Lead, Offensive Security",
+      "company": "name",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/humana/jobs/lead-offensive-security-509016215",
+      "source": "himalayas",
+      "date": "2026-07-30",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "offensive-security",
+        "ai-security-engineer",
+        "red-team-lead",
+        "penetration-testing",
+        "security-engineering",
+        "offensive-security-lead",
+        "senior-offensive-security-specialist",
+        "offensive-security-leadership",
+        "offensive-security-director"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3942e453",
+      "title": "Senior Hive Member - Blockchain, Cryptography & Digital Asset Offensive Security",
+      "company": "name",
+      "location": "United Kingdom",
+      "remote": true,
+      "country": "GB",
+      "url": "https://himalayas.app/companies/covertswarm/jobs/senior-hive-member-blockchain-cryptography-digital-asset-offensive-security",
+      "source": "himalayas",
+      "date": "2026-07-30",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "offensive-security",
+        "blockchain-security",
+        "penetration-testing",
+        "security-research",
+        "cryptography-security",
+        "senior-offensive-security-specialist",
+        "lead-blockchain-security-architect",
+        "blockchain-security-executive",
+        "blockchain-security-engineer",
+        "defi-security-specialist",
+        "cryptography-expert",
+        "offensive-security-lead",
+        "web3-security-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2d4a5d90",
+      "title": "AI-first QA Engineer",
+      "company": "Jobgether",
+      "location": "Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-first-qa-engineer-germany-434674",
+      "source": "arbeitnow",
+      "date": "2026-07-29",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bb6606ae",
+      "title": "AI-first QA Engineer",
+      "company": "Jobgether",
+      "location": "UK",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-first-qa-engineer-uk-194027",
+      "source": "arbeitnow",
+      "date": "2026-07-29",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "it"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "234fac53",
       "title": "Senior Quality Engineer",
@@ -16,23 +104,6 @@
       "type": "Full-time",
       "tags": [
         "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f1f561c5",
-      "title": "Business QA Engineer / UAT",
-      "company": "Kuoni Tumlare",
-      "location": "London, Greater London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kuoni-tumlare/business-qa-engineer-uat-london-405779",
-      "source": "arbeitnow",
-      "date": "2026-07-29",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "it"
       ],
       "miss_count": 0
     },
@@ -85,34 +156,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8fae9e33",
-      "title": "Red Team Operator (Hive Member) - Apply Anytime!",
-      "company": "CovertSwarm",
-      "location": "Australia",
-      "remote": true,
-      "country": "AU",
-      "url": "https://himalayas.app/companies/covertswarm/jobs/red-team-operator-hive-member-apply-anytime",
-      "source": "himalayas",
-      "date": "2026-07-29",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "red-team-operations",
-        "penetration-testing",
-        "offensive-security",
-        "ethical-hacking",
-        "cybersecurity",
-        "red-team-operator",
-        "red-team-security-engineer",
-        "red-team-engineer",
-        "red-team-specialist",
-        "red-teamer",
-        "red-team-lead",
-        "red-team"
       ],
       "miss_count": 0
     },
@@ -2155,30 +2198,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "23936067",
-      "title": "Senior QA Automation Engineer (Playwright, Mobile)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/703370-senior-qa-automation-engineer-playwright",
-      "source": "hirify",
-      "date": "2026-07-01",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
