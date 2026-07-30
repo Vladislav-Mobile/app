@@ -1,45 +1,64 @@
 {
-  "updated_at": "2026-07-30T13:51:13.811177+00:00",
+  "updated_at": "2026-07-30T19:20:40.706062+00:00",
   "total": 88,
   "jobs": [
     {
-      "id": "ddd50bae",
-      "title": "Working Student – Process Automation (w/m/d)",
-      "company": "SpotmyEnergy GmbH",
-      "location": "Berlin",
+      "id": "39b57b91",
+      "title": "Software Development Engineers in Test (Python)",
+      "company": "Xm",
+      "location": "Remote",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/spotmyenergy-gmbh/working-student-process-automation-berlin-499681",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-software-development-engineers-in-test-python-297658",
       "source": "arbeitnow",
       "date": "2026-07-30",
       "salary": "",
-      "type": "Internship, berufserfahren",
+      "type": "Full-time",
       "tags": [
-        "database administration"
+        "quality assurance"
       ],
       "miss_count": 0
     },
     {
-      "id": "b4abc960",
-      "title": "Operational Excellence Manager",
-      "company": "Nebius",
-      "location": "Netherlands",
-      "remote": true,
-      "country": "NL",
-      "url": "https://himalayas.app/companies/nebius/jobs/operational-excellence-manager",
-      "source": "himalayas",
+      "id": "06e52964",
+      "title": "QA Software Test Automation Engineers (Java)",
+      "company": "Xm",
+      "location": "Remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-256417",
+      "source": "arbeitnow",
       "date": "2026-07-30",
       "salary": "",
-      "type": "",
+      "type": "Full-time",
       "tags": [
-        "data-center-planning-and-operations",
-        "operational-excellence",
-        "critical-facility-management",
-        "facilities-operations",
-        "process-improvement",
-        "operational-excellence-manager",
-        "operations-excellence-manager",
-        "quality-excellence-manager"
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "96bf77e8",
+      "title": "Senior Mobile QA Engineer",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/787058-senior-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-07-30",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -57,23 +76,6 @@
       "type": "Full-time",
       "tags": [
         "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "234fac53",
-      "title": "Senior Quality Engineer",
-      "company": "Hypersonica",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/senior-quality-engineer-london-218946",
-      "source": "arbeitnow",
-      "date": "2026-07-29",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "engineering"
       ],
       "miss_count": 0
     },
