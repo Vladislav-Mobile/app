@@ -1,15 +1,32 @@
 {
-  "updated_at": "2026-07-31T13:56:58.036791+00:00",
+  "updated_at": "2026-07-31T19:20:06.804277+00:00",
   "total": 84,
   "jobs": [
     {
-      "id": "e48e58cf",
-      "title": "Elektroniker für Betriebs- und/oder Automatisierungstechnik (m/w/d) für die Abteilung Technischer Service Gebäude und Anlagen",
-      "company": "Transcoject GmbH",
-      "location": "Neumünster",
+      "id": "eff5745e",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/transcoject-gmbh/elektroniker-fur-betriebs-und-oder-automatisierungstechnik-fur-die-abteilung-technischer-service-gebaude-und-anlagen-neumunster-149431",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-7172",
+      "source": "arbeitnow",
+      "date": "2026-07-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "367baf09",
+      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-444543",
       "source": "arbeitnow",
       "date": "2026-07-31",
       "salary": "",
@@ -20,83 +37,53 @@
       "miss_count": 0
     },
     {
-      "id": "38ca2166",
-      "title": "Associate Engineer Quality Control (m/w/d)",
-      "company": "Oxford PV Germany GmbH",
-      "location": "Brandenburg",
+      "id": "d41a3835",
+      "title": "Senior Quality Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/oxford-pv-germany-gmbh/associate-engineer-quality-control-brandenburg-480491",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-quality-engineer-ottobrunn-bavaria-236786",
       "source": "arbeitnow",
       "date": "2026-07-31",
       "salary": "",
       "type": "",
       "tags": [
-        "engineering"
+        "production"
       ],
       "miss_count": 0
     },
     {
-      "id": "cf205897",
-      "title": "Sr. Swimlane Turbine Engineer | Remote, USA",
-      "company": "Optiv",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/optiv/jobs/sr-swimlane-turbine-engineer-remote-usa",
-      "source": "himalayas",
-      "date": "2026-07-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "soar-engineering",
-        "security-operations",
-        "cybersecurity-engineering",
-        "security-automation-engineer",
-        "soc-engineer",
-        "senior-flow-engineer",
-        "turbine-resident-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "82297f7c",
-      "title": "Semiconductor Systems Engineer",
-      "company": "Bright Vision Technologies",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/semiconductor-systems-engineer-7740186336",
-      "source": "himalayas",
-      "date": "2026-07-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "semiconductor-engineering",
-        "semiconductor-software-engineering",
-        "firmware-engineering",
-        "hardware-software-integration",
-        "electronic-design-automation",
-        "senior-semiconductor-engineer",
-        "electronics-systems-engineer",
-        "systems-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "39b57b91",
-      "title": "Software Development Engineers in Test (Python)",
-      "company": "Xm",
-      "location": "Remote",
+      "id": "d0ad6a64",
+      "title": "Leiter Qualitätssicherung (m/w/d) mit Perspektive",
+      "company": "VOLENTUM Deutschland GmbH",
+      "location": "Hildesheim",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-software-development-engineers-in-test-python-297658",
+      "url": "https://www.arbeitnow.com/jobs/companies/volentum-deutschland-gmbh/leiter-qualitatssicherung-mit-perspektive-hildesheim-379439",
       "source": "arbeitnow",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "salary": "",
-      "type": "Full-time",
+      "type": "",
       "tags": [
-        "quality assurance"
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "55bab589",
+      "title": "Werkstudent:in GTM Engineering & AI Automation (m/w/d)",
+      "company": "Soley GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/soley-gmbh/werkstudentin-gtm-engineering-ai-automation-munich-267859",
+      "source": "arbeitnow",
+      "date": "2026-07-31",
+      "salary": "",
+      "type": "Working student",
+      "tags": [
+        "it"
       ],
       "miss_count": 0
     },
