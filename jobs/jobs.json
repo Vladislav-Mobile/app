@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-30T19:20:40.706062+00:00",
-  "total": 88,
+  "updated_at": "2026-07-31T02:29:58.133905+00:00",
+  "total": 84,
   "jobs": [
+    {
+      "id": "5281fae9",
+      "title": "Senior Crm Manager*In (M/W/D) Hubspot & Marketing Automation",
+      "company": "OMR",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/omr/senior-crm-managerin-hubspot-marketing-automation-hamburg-255098",
+      "source": "arbeitnow",
+      "date": "2026-07-31",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "ramp106",
+        "omr",
+        "marketing",
+        "omr festival",
+        "crm",
+        "e-mail",
+        "crm marketing",
+        "e-mail marketing",
+        "crm & e-mail marketing",
+        "marketing manager",
+        "marketing managerin",
+        "senior marketing manager",
+        "online marketing",
+        "vollzeit",
+        "job",
+        "hamburg"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "39b57b91",
       "title": "Software Development Engineers in Test (Python)",
@@ -59,23 +91,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bb6606ae",
-      "title": "AI-first QA Engineer",
-      "company": "Jobgether",
-      "location": "UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-first-qa-engineer-uk-194027",
-      "source": "arbeitnow",
-      "date": "2026-07-29",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "it"
       ],
       "miss_count": 0
     },
@@ -2168,28 +2183,6 @@
       "miss_count": 0
     },
     {
-      "id": "be1039f6",
-      "title": "QA Lead (Mobile)",
-      "company": null,
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/706384-qa-lead-mobile",
-      "source": "hirify",
-      "date": "2026-07-02",
-      "salary": "USD 3200",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "af0c8acf",
       "title": "Senior QA Engineer (Mobile)",
       "company": "%hirify_global%",
@@ -2203,76 +2196,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "df35b3fc",
-      "title": "Communications Manager",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe",
-      "remote": true,
-      "country": "EU",
-      "url": "https://remotive.com/remote-jobs/communications/communications-manager-2090985",
-      "source": "remotive",
-      "date": "2026-06-30",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "go",
-        "ai/ml",
-        "automation",
-        "responsive"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b30594ee",
-      "title": "Senior Technical QA Tester (Mobile Gaming)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/698132-senior-technical-qa-tester-python",
-      "source": "hirify",
-      "date": "2026-06-30",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "251687d8",
-      "title": "Senior QA Engineer (Mobile)",
-      "company": "Bolt",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/697077-senior-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-06-30",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
