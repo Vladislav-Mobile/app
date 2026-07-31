@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-07-31T08:44:50.352745+00:00",
+  "updated_at": "2026-07-31T13:56:58.036791+00:00",
   "total": 84,
   "jobs": [
+    {
+      "id": "e48e58cf",
+      "title": "Elektroniker für Betriebs- und/oder Automatisierungstechnik (m/w/d) für die Abteilung Technischer Service Gebäude und Anlagen",
+      "company": "Transcoject GmbH",
+      "location": "Neumünster",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/transcoject-gmbh/elektroniker-fur-betriebs-und-oder-automatisierungstechnik-fur-die-abteilung-technischer-service-gebaude-und-anlagen-neumunster-149431",
+      "source": "arbeitnow",
+      "date": "2026-07-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "38ca2166",
       "title": "Associate Engineer Quality Control (m/w/d)",
@@ -20,19 +37,49 @@
       "miss_count": 0
     },
     {
-      "id": "7f842a07",
-      "title": "Controls & Automation Engineer (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/controls-automation-engineer-ottobrunn-bavaria-460409",
-      "source": "arbeitnow",
+      "id": "cf205897",
+      "title": "Sr. Swimlane Turbine Engineer | Remote, USA",
+      "company": "Optiv",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/optiv/jobs/sr-swimlane-turbine-engineer-remote-usa",
+      "source": "himalayas",
       "date": "2026-07-31",
       "salary": "",
       "type": "",
       "tags": [
-        "ground systems"
+        "soar-engineering",
+        "security-operations",
+        "cybersecurity-engineering",
+        "security-automation-engineer",
+        "soc-engineer",
+        "senior-flow-engineer",
+        "turbine-resident-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "82297f7c",
+      "title": "Semiconductor Systems Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/semiconductor-systems-engineer-7740186336",
+      "source": "himalayas",
+      "date": "2026-07-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "semiconductor-engineering",
+        "semiconductor-software-engineering",
+        "firmware-engineering",
+        "hardware-software-integration",
+        "electronic-design-automation",
+        "senior-semiconductor-engineer",
+        "electronics-systems-engineer",
+        "systems-engineer"
       ],
       "miss_count": 0
     },
@@ -44,23 +91,6 @@
       "remote": false,
       "country": "WW",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-software-development-engineers-in-test-python-297658",
-      "source": "arbeitnow",
-      "date": "2026-07-30",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "06e52964",
-      "title": "QA Software Test Automation Engineers (Java)",
-      "company": "Xm",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-256417",
       "source": "arbeitnow",
       "date": "2026-07-30",
       "salary": "",
@@ -660,24 +690,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ba49a8c8",
-      "title": "Позиция: AQA engineer",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258046",
-      "source": "telegram",
-      "date": "2026-07-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
