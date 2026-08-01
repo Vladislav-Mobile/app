@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-08-01T02:30:02.159763+00:00",
-  "total": 82,
+  "updated_at": "2026-08-01T08:14:41.844219+00:00",
+  "total": 81,
   "jobs": [
+    {
+      "id": "b1d3c01d",
+      "title": "GoHighLevel Automation Specialist",
+      "company": "Huzzle",
+      "location": "Chile",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/huzzle/jobs/gohighlevel-automation-specialist-4337575766",
+      "source": "himalayas",
+      "date": "2026-08-01",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing-automation",
+        "gohighlevel-specialist",
+        "crm-administration",
+        "martech",
+        "automation-consulting",
+        "senior-automation-specialist",
+        "automation-specialist",
+        "gohighlevel-integration-developer",
+        "gohighlevel-expert"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "eff5745e",
       "title": "Qualitätsprüfer Wareneingang (m/w/d)",
@@ -16,40 +41,6 @@
       "type": "",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "367baf09",
-      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-444543",
-      "source": "arbeitnow",
-      "date": "2026-07-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d41a3835",
-      "title": "Senior Quality Engineer (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-quality-engineer-ottobrunn-bavaria-236786",
-      "source": "arbeitnow",
-      "date": "2026-07-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production"
       ],
       "miss_count": 0
     },
