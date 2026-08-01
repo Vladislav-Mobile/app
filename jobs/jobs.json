@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-08-01T13:12:17.482290+00:00",
+  "updated_at": "2026-08-01T19:04:02.052922+00:00",
   "total": 82,
   "jobs": [
+    {
+      "id": "bd24c7ff",
+      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+      "company": "1Komma5Grad",
+      "location": "Remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-qa-engineer-ai-driven-testing-158120",
+      "source": "arbeitnow",
+      "date": "2026-08-01",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "join"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "b10cfd37",
       "title": "AI Speech & Audio Specialist – ASR | TTS | Voice AI | Audio Data",
@@ -46,23 +63,6 @@
         "automation-specialist",
         "gohighlevel-integration-developer",
         "gohighlevel-expert"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "eff5745e",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-7172",
-      "source": "arbeitnow",
-      "date": "2026-07-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
       ],
       "miss_count": 0
     },
