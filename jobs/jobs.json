@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T19:20:06.804277+00:00",
-  "total": 84,
+  "updated_at": "2026-08-01T02:30:02.159763+00:00",
+  "total": 82,
   "jobs": [
     {
       "id": "eff5745e",
@@ -50,40 +50,6 @@
       "type": "",
       "tags": [
         "production"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d0ad6a64",
-      "title": "Leiter Qualitätssicherung (m/w/d) mit Perspektive",
-      "company": "VOLENTUM Deutschland GmbH",
-      "location": "Hildesheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/volentum-deutschland-gmbh/leiter-qualitatssicherung-mit-perspektive-hildesheim-379439",
-      "source": "arbeitnow",
-      "date": "2026-07-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "55bab589",
-      "title": "Werkstudent:in GTM Engineering & AI Automation (m/w/d)",
-      "company": "Soley GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/soley-gmbh/werkstudentin-gtm-engineering-ai-automation-munich-267859",
-      "source": "arbeitnow",
-      "date": "2026-07-31",
-      "salary": "",
-      "type": "Working student",
-      "tags": [
-        "it"
       ],
       "miss_count": 0
     },
