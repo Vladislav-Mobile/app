@@ -1,55 +1,38 @@
 {
-  "updated_at": "2026-08-02T13:13:23.841097+00:00",
-  "total": 77,
+  "updated_at": "2026-08-02T19:04:46.828773+00:00",
+  "total": 75,
   "jobs": [
     {
-      "id": "f368935e",
-      "title": "IT Systems & Automation Engineer",
-      "company": "n8n",
-      "location": "Berlin Office",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/n8n/it-systems-automation-engineer-berlin-133428",
-      "source": "arbeitnow",
-      "date": "2026-08-02",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7771b656",
-      "title": "Data Quality Engineer",
-      "company": "Fundingcircle",
+      "id": "cdc2437e",
+      "title": "Lead Quality Assurance Engineer - Machine Learning",
+      "company": "Hudl",
       "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/data-quality-engineer-london-435983",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/lead-quality-assurance-engineer-machine-learning-london-189675",
       "source": "arbeitnow",
       "date": "2026-08-02",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "data"
+        "aml"
       ],
       "miss_count": 0
     },
     {
-      "id": "a4ab1733",
-      "title": "Senior Software Engineer, Backend - Core/API & Process Automation",
-      "company": "Camunda",
-      "location": "Remote",
+      "id": "66d0ccec",
+      "title": "Associate Penetration Tester",
+      "company": "Bugcrowd",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-core-api-process-automation-394292",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bugcrowd/associate-penetration-tester-302681",
       "source": "arbeitnow",
       "date": "2026-08-02",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "products"
+        "operations : pentest operations"
       ],
       "miss_count": 0
     },
@@ -583,24 +566,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "07c98a90",
-      "title": "Вакансия: Mobile QA (Manual)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258130",
-      "source": "telegram",
-      "date": "2026-07-23",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
