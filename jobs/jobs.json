@@ -1,21 +1,55 @@
 {
-  "updated_at": "2026-08-02T08:17:48.903473+00:00",
-  "total": 75,
+  "updated_at": "2026-08-02T13:13:23.841097+00:00",
+  "total": 77,
   "jobs": [
     {
-      "id": "bd24c7ff",
-      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
-      "company": "1Komma5Grad",
+      "id": "f368935e",
+      "title": "IT Systems & Automation Engineer",
+      "company": "n8n",
+      "location": "Berlin Office",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/n8n/it-systems-automation-engineer-berlin-133428",
+      "source": "arbeitnow",
+      "date": "2026-08-02",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7771b656",
+      "title": "Data Quality Engineer",
+      "company": "Fundingcircle",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fundingcircle/data-quality-engineer-london-435983",
+      "source": "arbeitnow",
+      "date": "2026-08-02",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "data"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a4ab1733",
+      "title": "Senior Software Engineer, Backend - Core/API & Process Automation",
+      "company": "Camunda",
       "location": "Remote",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-qa-engineer-ai-driven-testing-158120",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-software-engineer-backend-core-api-process-automation-394292",
       "source": "arbeitnow",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "Full Time",
       "tags": [
-        "join"
+        "products"
       ],
       "miss_count": 0
     },
