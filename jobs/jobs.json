@@ -1,32 +1,7 @@
 {
-  "updated_at": "2026-08-02T02:27:50.131644+00:00",
-  "total": 76,
+  "updated_at": "2026-08-02T08:17:48.903473+00:00",
+  "total": 75,
   "jobs": [
-    {
-      "id": "37cafbad",
-      "title": "Thai AI Product Tester",
-      "company": "Productive Playhouse",
-      "location": "Thailand",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/productive-playhouse/jobs/thai-ai-product-tester",
-      "source": "himalayas",
-      "date": "2026-08-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-product-testing",
-        "linguistic-testing",
-        "mobile-app-testing",
-        "product-tester",
-        "ai-evaluation",
-        "ai-content-tester",
-        "ai-application-tester",
-        "ai-model-tester",
-        "ai-systems-tester"
-      ],
-      "miss_count": 0
-    },
     {
       "id": "bd24c7ff",
       "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
