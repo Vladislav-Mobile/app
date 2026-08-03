@@ -1,38 +1,55 @@
 {
-  "updated_at": "2026-08-02T19:04:46.828773+00:00",
-  "total": 75,
+  "updated_at": "2026-08-03T02:30:17.647208+00:00",
+  "total": 76,
   "jobs": [
     {
-      "id": "cdc2437e",
-      "title": "Lead Quality Assurance Engineer - Machine Learning",
-      "company": "Hudl",
-      "location": "London",
+      "id": "0d8c6914",
+      "title": "Senior Product Manager - Finance Automation (f/m/d)",
+      "company": "Zeal Network",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/lead-quality-assurance-engineer-machine-learning-london-189675",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-product-manager-finance-automation-hamburg-407243",
       "source": "arbeitnow",
       "date": "2026-08-02",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "aml"
+        "product & ux"
       ],
       "miss_count": 0
     },
     {
-      "id": "66d0ccec",
-      "title": "Associate Penetration Tester",
-      "company": "Bugcrowd",
-      "location": "",
+      "id": "edc602b1",
+      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
+      "company": "Zeal Network",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bugcrowd/associate-penetration-tester-302681",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-51469",
       "source": "arbeitnow",
       "date": "2026-08-02",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "operations : pentest operations"
+        "technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fea88cb4",
+      "title": "Content Operations QA Analyst",
+      "company": "Cargo One",
+      "location": "Remote (EMEA)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cargo-one/remote-content-operations-qa-analyst-101367",
+      "source": "arbeitnow",
+      "date": "2026-08-02",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "content operations"
       ],
       "miss_count": 0
     },
