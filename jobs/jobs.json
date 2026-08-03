@@ -1,225 +1,89 @@
 {
-  "updated_at": "2026-08-03T14:31:47.962674+00:00",
-  "total": 89,
+  "updated_at": "2026-08-03T19:26:24.974339+00:00",
+  "total": 79,
   "jobs": [
     {
-      "id": "bb4c82a6",
-      "title": "Software-Tester (m/w/x)",
-      "company": "K-tronik GmbH",
-      "location": "Erlangen",
+      "id": "825fc4ef",
+      "title": "AI Automation Engineer (f/m/d)",
+      "company": "Integral De",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-tester-erlangen-376204",
+      "url": "https://www.arbeitnow.com/jobs/companies/integral-de/ai-automation-engineer-berlin-197946",
       "source": "arbeitnow",
       "date": "2026-08-03",
       "salary": "",
-      "type": "berufseinstieg",
+      "type": "Full Time",
       "tags": [
-        "software development"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "242d2b0b",
-      "title": "Staff Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Cambridge",
+      "id": "bc902ce1",
+      "title": "IT Administration & Automation Manager (all genders)",
+      "company": "Lio",
+      "location": "Munich Office",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-cambridge-333508",
+      "url": "https://www.arbeitnow.com/jobs/companies/lio/it-administration-automation-manager-all-genders-munich-317300",
       "source": "arbeitnow",
       "date": "2026-08-03",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "software ops"
+        "business operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "80aa851b",
-      "title": "Staff Software Engineer (ML QA)",
-      "company": "Graphcore",
+      "id": "e3965849",
+      "title": "Head of Finance Automation/ AI Agentification",
+      "company": "Rohlik",
+      "location": "München, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-230177",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cc6f10ed",
+      "title": "Senior Lab Automation Engineer",
+      "company": "Relationrx",
       "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-london-95711",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/senior-lab-automation-engineer-london-232075",
       "source": "arbeitnow",
       "date": "2026-08-03",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "software ops"
+        "discovery"
       ],
       "miss_count": 0
     },
     {
-      "id": "b8b9dfec",
-      "title": "Staff Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Bristol",
+      "id": "f26d6231",
+      "title": "Head/VP of Product (AI Process Insights & Automation)",
+      "company": "Mimica",
+      "location": "UK",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-bristol-132847",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/head-vp-of-product-ai-process-insights-automation-london-209419",
       "source": "arbeitnow",
       "date": "2026-08-03",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3d3cdef0",
-      "title": "Senior Systems Engineer – Performance & Reliability (Analysis)",
-      "company": "Graphcore",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-analysis-london-250207",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "system qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "80e7c452",
-      "title": "Senior Systems Engineer – Performance & Reliability (Analysis)",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-analysis-bristol-394423",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "system qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c5fb5548",
-      "title": "Senior Systems Engineer – Performance & Reliability",
-      "company": "Graphcore",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-london-142209",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "system qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1f803f59",
-      "title": "Senior Systems Engineer – Performance & Reliability",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-bristol-60195",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "system qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "901a4405",
-      "title": "Senior Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-london-80305",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f14862ae",
-      "title": "Senior Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-bristol-424158",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f3922f22",
-      "title": "Senior Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Cambridge",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-cambridge-72875",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2aa14b28",
-      "title": "Senior Semiconductor Reliability Engineer – Advanced Silicon & Packaging",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-semiconductor-reliability-engineer-advanced-silicon-packaging-bristol-340628",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8923ad5b",
-      "title": "Senior Integrated Management System Engineer",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-integrated-management-system-engineer-bristol-236677",
-      "source": "arbeitnow",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality"
+        "product"
       ],
       "miss_count": 0
     },
@@ -271,32 +135,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "17a06683",
-      "title": "Senior Sales Engineer, ACT",
-      "company": "Commvault",
-      "location": "Australia",
-      "remote": true,
-      "country": "AU",
-      "url": "https://himalayas.app/companies/commvault/jobs/senior-sales-engineer-act",
-      "source": "himalayas",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "sales-engineering",
-        "pre-sales-engineering",
-        "technical-sales",
-        "solutions-engineering",
-        "federal-sales-engineering",
-        "senior-sales-engineer",
-        "lead-sales-engineer",
-        "senior-sales-engineer-industrial-automation",
-        "sales-engineering-manager",
-        "senior-technical-sales-representative"
       ],
       "miss_count": 0
     },
@@ -1908,31 +1746,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9376d2f9",
-      "title": "Mobile QA Engineer (Fintech)",
-      "company": "RWB",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/724892-mobile-qa-engineer-fintech",
-      "source": "hirify",
-      "date": "2026-07-09",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
