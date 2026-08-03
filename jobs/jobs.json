@@ -1,22 +1,302 @@
 {
-  "updated_at": "2026-08-03T09:37:21.874310+00:00",
-  "total": 75,
+  "updated_at": "2026-08-03T14:31:47.962674+00:00",
+  "total": 89,
   "jobs": [
     {
-      "id": "70a73985",
-      "title": "Looking for an AQA (Android) Engineer",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
+      "id": "bb4c82a6",
+      "title": "Software-Tester (m/w/x)",
+      "company": "K-tronik GmbH",
+      "location": "Erlangen",
+      "remote": false,
       "country": "WW",
-      "url": "https://t.me/qa_jobs/258275",
-      "source": "telegram",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-tester-erlangen-376204",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "berufseinstieg",
+      "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "242d2b0b",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Cambridge",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-cambridge-333508",
+      "source": "arbeitnow",
       "date": "2026-08-03",
       "salary": "",
       "type": "",
       "tags": [
-        "mobile",
-        "qa"
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "80aa851b",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-london-95711",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b8b9dfec",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-bristol-132847",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3d3cdef0",
+      "title": "Senior Systems Engineer – Performance & Reliability (Analysis)",
+      "company": "Graphcore",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-analysis-london-250207",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "system qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "80e7c452",
+      "title": "Senior Systems Engineer – Performance & Reliability (Analysis)",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-analysis-bristol-394423",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "system qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c5fb5548",
+      "title": "Senior Systems Engineer – Performance & Reliability",
+      "company": "Graphcore",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-london-142209",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "system qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1f803f59",
+      "title": "Senior Systems Engineer – Performance & Reliability",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-systems-engineer-performance-reliability-bristol-60195",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "system qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "901a4405",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-london-80305",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f14862ae",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-bristol-424158",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f3922f22",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Cambridge",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-cambridge-72875",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2aa14b28",
+      "title": "Senior Semiconductor Reliability Engineer – Advanced Silicon & Packaging",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-semiconductor-reliability-engineer-advanced-silicon-packaging-bristol-340628",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8923ad5b",
+      "title": "Senior Integrated Management System Engineer",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-integrated-management-system-engineer-bristol-236677",
+      "source": "arbeitnow",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fe7be767",
+      "title": "Mobile QA Automation Engineer",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/796652-mobile-qa-automation-engineer",
+      "source": "hirify",
+      "date": "2026-08-03",
+      "salary": "USD 60–100",
+      "type": "parttime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0b11343b",
+      "title": "Senior QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/795973-senior-qa-engineer-mobile",
+      "source": "hirify",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "17a06683",
+      "title": "Senior Sales Engineer, ACT",
+      "company": "Commvault",
+      "location": "Australia",
+      "remote": true,
+      "country": "AU",
+      "url": "https://himalayas.app/companies/commvault/jobs/senior-sales-engineer-act",
+      "source": "himalayas",
+      "date": "2026-08-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "sales-engineering",
+        "pre-sales-engineering",
+        "technical-sales",
+        "solutions-engineering",
+        "federal-sales-engineering",
+        "senior-sales-engineer",
+        "lead-sales-engineer",
+        "senior-sales-engineer-industrial-automation",
+        "sales-engineering-manager",
+        "senior-technical-sales-representative"
       ],
       "miss_count": 0
     },
@@ -422,24 +702,6 @@
         "research",
         "digital content",
         "spreadsheets"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9882f90d",
-      "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258139",
-      "source": "telegram",
-      "date": "2026-07-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
