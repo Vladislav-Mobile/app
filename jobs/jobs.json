@@ -1,7 +1,89 @@
 {
-  "updated_at": "2026-08-04T02:09:37.789941+00:00",
-  "total": 71,
+  "updated_at": "2026-08-04T08:31:47.815191+00:00",
+  "total": 75,
   "jobs": [
+    {
+      "id": "22c5e9a8",
+      "title": "Growth Intern - Automation & AI",
+      "company": "Vrey",
+      "location": "Berlin HQ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/growth-intern-automation-ai-berlin-51110",
+      "source": "arbeitnow",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "Intern",
+      "tags": [
+        "growth"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "13efb3d9",
+      "title": "Senior AI Software Engineer",
+      "company": "Nice",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-3027",
+      "source": "arbeitnow",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "cx - agentic experience automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1920b5d7",
+      "title": "Senior Account Executive",
+      "company": "Nice",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-account-executive-23146",
+      "source": "arbeitnow",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "cx - agentic experience automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d3b94067",
+      "title": "AI Solution Strategist",
+      "company": "NICE",
+      "location": "Australia",
+      "remote": true,
+      "country": "AU",
+      "url": "https://himalayas.app/companies/nice/jobs/ai-solution-strategist-2036759985",
+      "source": "himalayas",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-solution-strategist",
+        "cx---agentic-experience-automation",
+        "ai-product-management",
+        "conversational-ai",
+        "solution-strategy",
+        "ai-strategy",
+        "enterprise-ai",
+        "customer-experience",
+        "ai-solution-specialist",
+        "ai-solution-architect",
+        "ai-solutions-specialist",
+        "ai-solutions-architect",
+        "ai-solutions-consultant",
+        "ai-strategist",
+        "ai-transformation-strategist"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "fe7be767",
       "title": "Mobile QA Automation Engineer",
