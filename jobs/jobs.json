@@ -1,90 +1,204 @@
 {
-  "updated_at": "2026-08-05T14:00:36.857566+00:00",
-  "total": 85,
+  "updated_at": "2026-08-05T19:24:54.715627+00:00",
+  "total": 90,
   "jobs": [
     {
-      "id": "30230b24",
-      "title": "Quality Assurance Engineer (m/w/d)",
-      "company": "Yalwa GmbH",
-      "location": "Wiesbaden",
+      "id": "d85863bc",
+      "title": "Robotics Quality & Reliability Engineering Lead (m/f/d)",
+      "company": "RobCo",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/yalwa-gmbh/quality-assurance-engineer-wiesbaden-391932",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Full-time permanent, entry",
-      "tags": [
-        "internet and software",
-        "high school coursework"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6148b629",
-      "title": "Operations & Automation Berufseinstieg (m/w/d)",
-      "company": "Vogel",
-      "location": "München",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/operations-automation-berufseinstieg-munchen-40528",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/robotics-quality-reliability-engineering-lead-munich-83833",
       "source": "arbeitnow",
       "date": "2026-08-05",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "vogel"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "c63c4f5c",
-      "title": "Finance Automation Internship (m/w/d)",
-      "company": "Vogel",
-      "location": "München",
+      "id": "9c9a6fa4",
+      "title": "AI Workflow Automation Specialist (m/w/d)",
+      "company": "Stackfuel",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-internship-munchen-485641",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Intern",
-      "tags": [
-        "vogel"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "799b325f",
-      "title": "Finance Automation Berufseinstieg (m/w/d)",
-      "company": "Vogel",
-      "location": "München",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-berufseinstieg-munchen-444330",
+      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/ai-workflow-automation-specialist-berlin-267942",
       "source": "arbeitnow",
       "date": "2026-08-05",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "vogel"
+        "strategy & insights"
       ],
       "miss_count": 0
     },
     {
-      "id": "4b96d717",
-      "title": "Automation Engineer (m/w/d)",
-      "company": "Vogel",
-      "location": "München",
+      "id": "21d5c3c6",
+      "title": "Freelance Localization Tester - German",
+      "company": "KAYAK",
+      "location": "Remote Location - Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/kayak/freelance-localization-tester-german-schwangau-341778",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Part Time",
+      "tags": [
+        "cost centers"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a7eafe12",
+      "title": "Freelance Localization Tester - European Spanish",
+      "company": "KAYAK",
+      "location": "Remote Location - Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/kayak/freelance-localization-tester-european-spanish-schwangau-454364",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Part Time",
+      "tags": [
+        "cost centers"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f32b6fd1",
+      "title": "AI Integration & Automation Engineer (m/w/d)",
+      "company": "Customs Support Group",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-412569",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "it & tech",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b8063258",
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "company": "Customs Support Group",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-371377",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "it & tech",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0cca44c3",
+      "title": "Senior QA Engineer with Automation",
+      "company": "Alex Staff Agency Careers",
+      "location": "Germany",
+      "remote": true,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/alex-staff-agency-careers/remote-senior-qa-engineer-with-automation-germany-358609",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "information technology and services",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "544920d7",
+      "title": "Senior Software Development Engineer in Test - Show Production",
+      "company": "HOLOPLOT",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/automation-engineer-munchen-110215",
+      "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-development-engineer-in-test-show-production-berlin-340186",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "quality assurance",
+        "audio industry",
+        "test engineer",
+        "desktop audio applications",
+        "python",
+        "c++",
+        "audio plugin testing",
+        "ravenna",
+        "dante",
+        "aes67",
+        "testing multi-channel audio systems"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "766b11e9",
+      "title": "Financial Crime QA Analyst",
+      "company": "Lendable",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/financial-crime-qa-analyst-london-280805",
       "source": "arbeitnow",
       "date": "2026-08-05",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "vogel"
+        "central"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8b47a918",
+      "title": "Senior Quality Engineer",
+      "company": "Lendable",
+      "location": "Remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-senior-quality-engineer-311289",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering & product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f60e9719",
+      "title": "Revenue AI & Automation Architect",
+      "company": "Fonoa",
+      "location": "London, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fonoa/revenue-ai-automation-architect-london-223367",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "revenue"
       ],
       "miss_count": 0
     },
@@ -141,56 +255,6 @@
       "miss_count": 0
     },
     {
-      "id": "c1036cdc",
-      "title": "Outpatient Trainer",
-      "company": "EXL",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/exl/jobs/outpatient-trainer",
-      "source": "himalayas",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "training-and-development",
-        "medical-coding-training",
-        "healthcare-education",
-        "quality-assurance",
-        "healthcare-training",
-        "outpatient-coding-trainer",
-        "clinical-trainer",
-        "medical-trainer",
-        "trainer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5c0b432e",
-      "title": "Director of Lifecycle Marketing",
-      "company": "Metro Vein Centers",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/metro-vein-centers/jobs/director-of-lifecycle-marketing-865643541",
-      "source": "himalayas",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "lifecycle-marketing",
-        "marketing-automation",
-        "crm-marketing",
-        "healthcare-marketing",
-        "marketing",
-        "director-of-lifecycle-marketing",
-        "head-of-lifecycle-marketing",
-        "vp-of-lifecycle-marketing",
-        "director-of-lifecycle"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "c64583d7",
       "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
       "company": "",
@@ -205,6 +269,24 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "76a1a9b0",
+      "title": "Improving the quality of life by reducing city noise levels",
+      "company": "World Data League",
+      "location": "Society, ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-improving-the-quality-of-life-by-reducing-city-noise-levels-world-data-league-1136099",
+      "source": "remoteok",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "dev",
+        "digital nomad"
       ],
       "miss_count": 0
     },
