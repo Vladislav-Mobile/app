@@ -1,7 +1,195 @@
 {
-  "updated_at": "2026-08-05T08:30:32.780153+00:00",
-  "total": 75,
+  "updated_at": "2026-08-05T14:00:36.857566+00:00",
+  "total": 85,
   "jobs": [
+    {
+      "id": "30230b24",
+      "title": "Quality Assurance Engineer (m/w/d)",
+      "company": "Yalwa GmbH",
+      "location": "Wiesbaden",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/yalwa-gmbh/quality-assurance-engineer-wiesbaden-391932",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Full-time permanent, entry",
+      "tags": [
+        "internet and software",
+        "high school coursework"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6148b629",
+      "title": "Operations & Automation Berufseinstieg (m/w/d)",
+      "company": "Vogel",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/operations-automation-berufseinstieg-munchen-40528",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "vogel"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c63c4f5c",
+      "title": "Finance Automation Internship (m/w/d)",
+      "company": "Vogel",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-internship-munchen-485641",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Intern",
+      "tags": [
+        "vogel"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "799b325f",
+      "title": "Finance Automation Berufseinstieg (m/w/d)",
+      "company": "Vogel",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/finance-automation-berufseinstieg-munchen-444330",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "vogel"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4b96d717",
+      "title": "Automation Engineer (m/w/d)",
+      "company": "Vogel",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vogel/automation-engineer-munchen-110215",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "vogel"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b938753c",
+      "title": "Lead QA (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/808218-lead-qa-mobile-games",
+      "source": "hirify",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "23b66578",
+      "title": "Mobile QA Engineer (Fintech)",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/807665-mobile-qa-engineer-appium",
+      "source": "hirify",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c1036cdc",
+      "title": "Outpatient Trainer",
+      "company": "EXL",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/exl/jobs/outpatient-trainer",
+      "source": "himalayas",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "training-and-development",
+        "medical-coding-training",
+        "healthcare-education",
+        "quality-assurance",
+        "healthcare-training",
+        "outpatient-coding-trainer",
+        "clinical-trainer",
+        "medical-trainer",
+        "trainer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5c0b432e",
+      "title": "Director of Lifecycle Marketing",
+      "company": "Metro Vein Centers",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/metro-vein-centers/jobs/director-of-lifecycle-marketing-865643541",
+      "source": "himalayas",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "lifecycle-marketing",
+        "marketing-automation",
+        "crm-marketing",
+        "healthcare-marketing",
+        "marketing",
+        "director-of-lifecycle-marketing",
+        "head-of-lifecycle-marketing",
+        "vp-of-lifecycle-marketing",
+        "director-of-lifecycle"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c64583d7",
       "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
@@ -17,6 +205,27 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c83a8d63",
+      "title": "Testing",
+      "company": "Richmond and Wandsworth Councils",
+      "location": "Wandsworth, ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-testing-richmond-and-wandsworth-councils-1136093",
+      "source": "remoteok",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "dev",
+        "finance",
+        "exec",
+        "digital nomad",
+        "testing"
       ],
       "miss_count": 0
     },
