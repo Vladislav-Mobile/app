@@ -1,81 +1,22 @@
 {
-  "updated_at": "2026-08-05T02:09:11.803468+00:00",
-  "total": 78,
+  "updated_at": "2026-08-05T08:30:32.780153+00:00",
+  "total": 75,
   "jobs": [
     {
-      "id": "0e598ccf",
-      "title": "HR Documents Specialist (Japanese)",
-      "company": "micro1",
-      "location": "United States",
+      "id": "c64583d7",
+      "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
+      "company": "",
+      "location": "Remote",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/micro1/jobs/hr-documents-specialist-japanese-9751818248",
-      "source": "himalayas",
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258325",
+      "source": "telegram",
       "date": "2026-08-05",
       "salary": "",
       "type": "",
       "tags": [
-        "documentation-specialist-jobs",
-        "document-qa-specialist",
-        "benefits-document-specialist",
-        "japanese-content-specialist",
-        "language-documentation-specialist",
-        "documentation-specialist",
-        "hr-support-specialist",
-        "junior-document-management-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "61675d63",
-      "title": "Growth Intern - Automation & AI (w/m/d)",
-      "company": "VREY",
-      "location": "Berlin HQ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vrey/growth-intern-automation-ai-berlin-157911",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Intern",
-      "tags": [
-        "growth"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8f2a6429",
-      "title": "(Junior) Data & Automation Manager - Energy Operations (m/w/d)",
-      "company": "VREY",
-      "location": "Berlin HQ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vrey/junior-data-automation-manager-energy-operations-berlin-344742",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "10233503",
-      "title": "Senior CRM & Lifecycle Automation Manager:in - Freelance & 100 % remote",
-      "company": "everydays",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/everydays/senior-crm-lifecycle-automation-managerin-freelance-100-remote-berlin-126403",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Freelance, berufserfahren",
-      "tags": [
-        "remote",
-        "crm",
-        "direct marketing"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
