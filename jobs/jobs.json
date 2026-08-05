@@ -1,123 +1,81 @@
 {
-  "updated_at": "2026-08-04T19:26:40.398251+00:00",
-  "total": 81,
+  "updated_at": "2026-08-05T02:09:11.803468+00:00",
+  "total": 78,
   "jobs": [
     {
-      "id": "8adf7b47",
-      "title": "(Junior) Data & Automation Manager - Energy Operations (m/w/d)",
-      "company": "Vrey",
-      "location": "Berlin HQ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vrey/junior-data-automation-manager-energy-operations-berlin-307216",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c1792c05",
-      "title": "Senior CRM Automation & Data Manager (all genders)",
-      "company": "Sunday Natural",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-automation-data-manager-all-genders-berlin-346665",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "62be2968",
-      "title": "Working Student Product QA - Freecash",
-      "company": "Almedia",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/working-student-product-qa-freecash-berlin-129705",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0ecfd535",
-      "title": "Applied AI Engineer – AI & Automation",
-      "company": "Clera",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-187396",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0683e9cf",
-      "title": "QA Lead",
-      "company": "Foundation Health",
-      "location": "United Kingdom - Remote",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/foundation-health/remote-qa-lead-106277",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7af29384",
-      "title": "QA Engineer",
-      "company": "Foundation Health",
-      "location": "Manchester",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/foundation-health/qa-engineer-manchester-191324",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f244cef4",
-      "title": "Senior Software Engineer, Quality Engineering",
-      "company": "Sonyinteractiveentertainmentglobal",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-software-engineer-quality-engineering-london-113196",
-      "source": "arbeitnow",
-      "date": "2026-08-04",
+      "id": "0e598ccf",
+      "title": "HR Documents Specialist (Japanese)",
+      "company": "micro1",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/micro1/jobs/hr-documents-specialist-japanese-9751818248",
+      "source": "himalayas",
+      "date": "2026-08-05",
       "salary": "",
       "type": "",
       "tags": [
-        "admin (fsee)"
+        "documentation-specialist-jobs",
+        "document-qa-specialist",
+        "benefits-document-specialist",
+        "japanese-content-specialist",
+        "language-documentation-specialist",
+        "documentation-specialist",
+        "hr-support-specialist",
+        "junior-document-management-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "61675d63",
+      "title": "Growth Intern - Automation & AI (w/m/d)",
+      "company": "VREY",
+      "location": "Berlin HQ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/growth-intern-automation-ai-berlin-157911",
+      "source": "arbeitnow",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "Intern",
+      "tags": [
+        "growth"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8f2a6429",
+      "title": "(Junior) Data & Automation Manager - Energy Operations (m/w/d)",
+      "company": "VREY",
+      "location": "Berlin HQ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/junior-data-automation-manager-energy-operations-berlin-344742",
+      "source": "arbeitnow",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "10233503",
+      "title": "Senior CRM & Lifecycle Automation Manager:in - Freelance & 100 % remote",
+      "company": "everydays",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/everydays/senior-crm-lifecycle-automation-managerin-freelance-100-remote-berlin-126403",
+      "source": "arbeitnow",
+      "date": "2026-08-04",
+      "salary": "",
+      "type": "Freelance, berufserfahren",
+      "tags": [
+        "remote",
+        "crm",
+        "direct marketing"
       ],
       "miss_count": 0
     },
