@@ -1,21 +1,122 @@
 {
-  "updated_at": "2026-08-06T08:29:59.823690+00:00",
-  "total": 79,
+  "updated_at": "2026-08-06T13:58:51.797797+00:00",
+  "total": 84,
   "jobs": [
     {
-      "id": "05f126ed",
-      "title": "Operations & Automation Berufseinstieg (m/w/d)",
-      "company": "Vogel",
-      "location": "München",
+      "id": "e883e648",
+      "title": "QA Engineer",
+      "company": "InCycling GmbH",
+      "location": "Erfurt",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vogel/operations-automation-berufseinstieg-munchen-186651",
+      "url": "https://www.arbeitnow.com/jobs/companies/incycling-gmbh/qa-engineer-erfurt-343668",
       "source": "arbeitnow",
       "date": "2026-08-06",
       "salary": "",
-      "type": "Full Time",
+      "type": "professional / experienced",
       "tags": [
-        "vogel"
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0761bc4b",
+      "title": "Mobile QA Automation Engineer (iOS)",
+      "company": null,
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/813234-mobile-qa-automation-engineer-ios",
+      "source": "hirify",
+      "date": "2026-08-06",
+      "salary": "USD 2000–2500",
+      "type": "project",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2008484d",
+      "title": "Senior Mobile QA Automation (Fintech)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/813012-senior-mobile-qa-automation-fintech",
+      "source": "hirify",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0e796663",
+      "title": "QA Lead (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/812448-qa-lead-mobile-games",
+      "source": "hirify",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "49aac871",
+      "title": "QA Engineer Mobile Fullstack (Java)",
+      "company": "Альфа-Банк",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/812404-senior-mobile-qa-java",
+      "source": "hirify",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -45,6 +146,107 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5ceeb3d6",
+      "title": "Filipino - AI Model Rater",
+      "company": "Productive Playhouse",
+      "location": "Philippines",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/productive-playhouse/jobs/filipino-ai-model-rater",
+      "source": "himalayas",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-evaluation",
+        "language-testing",
+        "ai-model-rater",
+        "linguistic-analysis",
+        "ai-product-testing",
+        "ai-data-rater",
+        "ai-model-evaluator",
+        "ai-model-evaluation-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d97c454f",
+      "title": "Verification Specialist",
+      "company": "Veremark",
+      "location": "Estonia",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/veremark/jobs/verification-specialist",
+      "source": "himalayas",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "verification-specialist",
+        "background-screening",
+        "employment-verification",
+        "human-resources",
+        "hr-services",
+        "verification-control-specialist",
+        "verification-and-validation-specialist",
+        "data-verification-specialist",
+        "verification-associate",
+        "qa-and-verification-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9ab084d6",
+      "title": "Sales Jedi",
+      "company": "Creative Force ",
+      "location": "Europe",
+      "remote": true,
+      "country": "EU",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "source": "remotive",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "full_time",
+      "tags": [
+        "saas",
+        "video",
+        "solid",
+        "chat",
+        "saas sales",
+        "mental health"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "01f42d5d",
+      "title": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "remote": true,
+      "country": "GB",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "source": "remotive",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "full_time",
+      "tags": [
+        "api",
+        "css",
+        "go",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "chat",
+        "startup",
+        "troubleshooting",
+        "product support",
+        "testing",
+        "github"
       ],
       "miss_count": 0
     },
@@ -119,6 +321,23 @@
       "miss_count": 0
     },
     {
+      "id": "ab155e77",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "remotive",
+      "date": "2026-08-04",
+      "salary": "$50-$75 /hour",
+      "type": "freelance",
+      "tags": [
+        "rest"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "76a1a9b0",
       "title": "Improving the quality of life by reducing city noise levels",
       "company": "World Data League",
@@ -133,27 +352,6 @@
       "tags": [
         "dev",
         "digital nomad"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c83a8d63",
-      "title": "Testing",
-      "company": "Richmond and Wandsworth Councils",
-      "location": "Wandsworth, ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-testing-richmond-and-wandsworth-councils-1136093",
-      "source": "remoteok",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "dev",
-        "finance",
-        "exec",
-        "digital nomad",
-        "testing"
       ],
       "miss_count": 0
     },
@@ -516,33 +714,6 @@
       "miss_count": 0
     },
     {
-      "id": "8f0f6bfe",
-      "title": "Mobile QA Engineer (iOS)",
-      "company": "Mobiways",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/775977-mobile-qa-engineer-ios",
-      "source": "hirify",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "c4892b87",
       "title": "Middle QA Engineer (Mobile)",
       "company": "PLAYSTROM",
@@ -586,42 +757,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5734ad70",
-      "title": "🧾 Вакансия: QA Automation Engineer Java (Appium Mobile от 3 лет)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258171",
-      "source": "telegram",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "90fe495c",
-      "title": "🧾 Вакансия: QA Lead (от 3 лет опыта Java Appium Mobile + управления командой)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258170",
-      "source": "telegram",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
