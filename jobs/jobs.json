@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-05T19:24:54.715627+00:00",
-  "total": 90,
+  "updated_at": "2026-08-06T02:12:41.288756+00:00",
+  "total": 81,
   "jobs": [
+    {
+      "id": "2d74dd51",
+      "title": "Senior QA Engineer I",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-qa-engineer-i-berlin-69773",
+      "source": "arbeitnow",
+      "date": "2026-08-05",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
     {
       "id": "d85863bc",
       "title": "Robotics Quality & Reliability Engineering Lead (m/f/d)",
@@ -37,168 +52,19 @@
       "miss_count": 0
     },
     {
-      "id": "21d5c3c6",
-      "title": "Freelance Localization Tester - German",
-      "company": "KAYAK",
-      "location": "Remote Location - Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/kayak/freelance-localization-tester-german-schwangau-341778",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Part Time",
-      "tags": [
-        "cost centers"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a7eafe12",
-      "title": "Freelance Localization Tester - European Spanish",
-      "company": "KAYAK",
-      "location": "Remote Location - Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/kayak/freelance-localization-tester-european-spanish-schwangau-454364",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Part Time",
-      "tags": [
-        "cost centers"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f32b6fd1",
-      "title": "AI Integration & Automation Engineer (m/w/d)",
-      "company": "Customs Support Group",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-412569",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "it & tech",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b8063258",
-      "title": "AI Integration & Automation Engineer (m/w/d) GER",
-      "company": "Customs Support Group",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-371377",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "it & tech",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0cca44c3",
-      "title": "Senior QA Engineer with Automation",
-      "company": "Alex Staff Agency Careers",
-      "location": "Germany",
-      "remote": true,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/alex-staff-agency-careers/remote-senior-qa-engineer-with-automation-germany-358609",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "information technology and services",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "544920d7",
-      "title": "Senior Software Development Engineer in Test - Show Production",
-      "company": "HOLOPLOT",
-      "location": "Berlin",
+      "id": "381646ee",
+      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+      "company": "1Komma5Grad",
+      "location": "Remote",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-development-engineer-in-test-show-production-berlin-340186",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-qa-engineer-ai-driven-testing-323514",
       "source": "arbeitnow",
       "date": "2026-08-05",
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [
-        "quality assurance",
-        "audio industry",
-        "test engineer",
-        "desktop audio applications",
-        "python",
-        "c++",
-        "audio plugin testing",
-        "ravenna",
-        "dante",
-        "aes67",
-        "testing multi-channel audio systems"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "766b11e9",
-      "title": "Financial Crime QA Analyst",
-      "company": "Lendable",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/financial-crime-qa-analyst-london-280805",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "central"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8b47a918",
-      "title": "Senior Quality Engineer",
-      "company": "Lendable",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-senior-quality-engineer-311289",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering & product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f60e9719",
-      "title": "Revenue AI & Automation Architect",
-      "company": "Fonoa",
-      "location": "London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fonoa/revenue-ai-automation-architect-london-223367",
-      "source": "arbeitnow",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "revenue"
+        "join"
       ],
       "miss_count": 0
     },
@@ -369,27 +235,6 @@
       "tags": [
         "mobile",
         "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "add4eca5",
-      "title": "AI Integration &amp; Automation",
-      "company": "Kleverio",
-      "location": "Ajmer, ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-integration-amp-automation-kleverio-1136035",
-      "source": "remoteok",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "amazon",
-        "web dev",
-        "engineer",
-        "ecommerce",
-        "marketing"
       ],
       "miss_count": 0
     },
@@ -2224,35 +2069,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "88229626",
-      "title": "Middle Mobile QA Engineer (Manual)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/713821-middle-mobile-qa-engineer-manual",
-      "source": "hirify",
-      "date": "2026-07-06",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
         "",
         "",
         "",
