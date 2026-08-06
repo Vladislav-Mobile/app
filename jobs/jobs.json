@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-08-06T13:58:51.797797+00:00",
-  "total": 84,
+  "updated_at": "2026-08-06T23:55:12.116654+00:00",
+  "total": 83,
   "jobs": [
     {
-      "id": "e883e648",
-      "title": "QA Engineer",
-      "company": "InCycling GmbH",
-      "location": "Erfurt",
+      "id": "d8c8e67c",
+      "title": "Quality Assurance Manager - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10Xteam",
+      "location": "Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/incycling-gmbh/qa-engineer-erfurt-343668",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/10xteam/quality-assurance-manager-ai-trainer-freelance-8-20-hrs-week-remote-berlin-416984",
       "source": "arbeitnow",
       "date": "2026-08-06",
       "salary": "",
-      "type": "professional / experienced",
+      "type": "Contract",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fbe57791",
+      "title": "Data Scientist — Agent Evaluations & Quality",
+      "company": "Clera",
+      "location": "remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-data-scientist-agent-evaluations-quality-298047",
+      "source": "arbeitnow",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
       ],
       "miss_count": 0
     },
@@ -150,52 +166,24 @@
       "miss_count": 0
     },
     {
-      "id": "5ceeb3d6",
-      "title": "Filipino - AI Model Rater",
-      "company": "Productive Playhouse",
-      "location": "Philippines",
+      "id": "c58cb225",
+      "title": "QA Automation Engineer",
+      "company": "name",
+      "location": "United States",
       "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/productive-playhouse/jobs/filipino-ai-model-rater",
+      "country": "US",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/qa-automation-engineer-2070906470",
       "source": "himalayas",
       "date": "2026-08-06",
       "salary": "",
       "type": "",
       "tags": [
-        "ai-evaluation",
-        "language-testing",
-        "ai-model-rater",
-        "linguistic-analysis",
-        "ai-product-testing",
-        "ai-data-rater",
-        "ai-model-evaluator",
-        "ai-model-evaluation-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d97c454f",
-      "title": "Verification Specialist",
-      "company": "Veremark",
-      "location": "Estonia",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/veremark/jobs/verification-specialist",
-      "source": "himalayas",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "verification-specialist",
-        "background-screening",
-        "employment-verification",
-        "human-resources",
-        "hr-services",
-        "verification-control-specialist",
-        "verification-and-validation-specialist",
-        "data-verification-specialist",
-        "verification-associate",
-        "qa-and-verification-specialist"
+        "qa-automation-engineer",
+        "testing-automation",
+        "software-quality-assurance",
+        "automation-testing",
+        "quality-engineering",
+        "senior-qa-automation-engineer"
       ],
       "miss_count": 0
     },
@@ -334,24 +322,6 @@
       "type": "freelance",
       "tags": [
         "rest"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "76a1a9b0",
-      "title": "Improving the quality of life by reducing city noise levels",
-      "company": "World Data League",
-      "location": "Society, ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-improving-the-quality-of-life-by-reducing-city-noise-levels-world-data-league-1136099",
-      "source": "remoteok",
-      "date": "2026-08-04",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "dev",
-        "digital nomad"
       ],
       "miss_count": 0
     },
