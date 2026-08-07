@@ -1,55 +1,40 @@
 {
-  "updated_at": "2026-08-07T07:10:00.679519+00:00",
-  "total": 86,
+  "updated_at": "2026-08-07T12:55:22.572947+00:00",
+  "total": 90,
   "jobs": [
     {
-      "id": "0566e446",
-      "title": "Applied AI Engineer – AI & Automation",
-      "company": "Clera",
+      "id": "a8e92e3f",
+      "title": "Quality Assurance Rater - German (DE)",
+      "company": "TELUS Digital",
       "location": "Berlin",
-      "remote": false,
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-228748",
+      "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/quality-assurance-rater-german-de-berlin-137274",
       "source": "arbeitnow",
       "date": "2026-08-07",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "engineering"
+        "remote",
+        "database administration"
       ],
       "miss_count": 0
     },
     {
-      "id": "3ca2d2fc",
-      "title": "Data Scientist — Agent Evaluations & Quality",
-      "company": "Clera",
-      "location": "remote",
-      "remote": false,
+      "id": "32d4c9ee",
+      "title": "Senior Infrastructure Automation Engineer",
+      "company": "OPSinnovate",
+      "location": "Hamburg",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-data-scientist-agent-evaluations-quality-434210",
+      "url": "https://www.arbeitnow.com/jobs/companies/opsinnovate/senior-infrastructure-automation-engineer-hamburg-278494",
       "source": "arbeitnow",
       "date": "2026-08-07",
       "salary": "",
-      "type": "Full Time",
+      "type": "professional / experienced",
       "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "13abae33",
-      "title": "(Senior) CRM Manager – Analytics & Automation (all genders)",
-      "company": "Sunday Natural",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-manager-analytics-automation-all-genders-berlin-10043",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "marketing"
+        "remote",
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -122,19 +107,56 @@
       "miss_count": 0
     },
     {
-      "id": "598e9dc1",
-      "title": "Automation Engineer - Influencers",
-      "company": "ElevenLabs",
-      "location": "London",
-      "remote": false,
+      "id": "700fd133",
+      "title": "Mobile QA Engineer",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/automation-engineer-influencers-london-433540",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/816820-mobile-qa-engineer",
+      "source": "hirify",
       "date": "2026-08-07",
       "salary": "",
-      "type": "Full Time",
+      "type": "fulltime",
       "tags": [
-        "growth"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d2e2b168",
+      "title": "Middle/Senior Mobile QA Engineer (Android/iOS)",
+      "company": null,
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/816393-middlesenior-mobile-qa-engineer-androidios",
+      "source": "hirify",
+      "date": "2026-08-07",
+      "salary": "RUB 200000 (~$2460)",
+      "type": "project",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -163,6 +185,98 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c7e76880",
+      "title": "AI Evaluation Engineer (Python, QA or Security)",
+      "company": "Mindrift",
+      "location": "Egypt",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/mindrift/jobs/ai-evaluation-engineer-python-qa-or-security-8520836638",
+      "source": "himalayas",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-evaluation-engineer",
+        "qa-engineer",
+        "software-testing-engineer",
+        "ai-testing-specialist",
+        "software-developer",
+        "ai-evaluation-lead",
+        "ai-quality-assurance-engineer",
+        "ai-qa-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8a471cb6",
+      "title": "Automation Developer (IN, Mumbai, Virtual, India, APAC)",
+      "company": "BCD Travel",
+      "location": "India",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/bcd-travel/jobs/automation-developer-in-mumbai-virtual-india-apac",
+      "source": "himalayas",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "automation-developer",
+        "rpa-developer",
+        "power-automate-developer",
+        "low-code-developer",
+        "process-automation-engineer",
+        "remote-mid-level-automation-developer",
+        "qa-automation-developer",
+        "senior-automation-developer",
+        "automation-developer-iii"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "33b0c02b",
+      "title": "Salesforce Marketing Cloud Consultant (SFMC & Pardot)",
+      "company": "Bamboo Works",
+      "location": "Philippines",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/bambooworks/jobs/salesforce-marketing-cloud-consultant-sfmc-pardot-4632073318",
+      "source": "himalayas",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "salesforce-marketing-cloud-consultant",
+        "marketing-automation-consultant",
+        "crm-consultant",
+        "digital-marketing-consultant",
+        "customer-journey-consultant",
+        "senior-marketing-cloud-consultant",
+        "salesforce-marketing-cloud-specialist",
+        "marketing-cloud-consultant",
+        "salesforce-marketing-cloud-architect"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "05b505be",
+      "title": "📎 Ищем Mobile QA (Middle+ / Senior)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258369",
+      "source": "telegram",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -866,7 +980,7 @@
       "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
       "source": "remotive",
       "date": "2026-07-26",
-      "salary": "$18 - $22/hr",
+      "salary": "$17/hr",
       "type": "freelance",
       "tags": [
         "research",
