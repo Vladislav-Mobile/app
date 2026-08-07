@@ -1,50 +1,186 @@
 {
-  "updated_at": "2026-08-07T02:29:51.329849+00:00",
-  "total": 78,
+  "updated_at": "2026-08-07T07:10:00.679519+00:00",
+  "total": 86,
   "jobs": [
     {
-      "id": "cac07ab0",
-      "title": "British English - AI Model Rater",
-      "company": "Productive Playhouse",
-      "location": "United Kingdom",
-      "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/productive-playhouse/jobs/british-english-ai-model-rater",
-      "source": "himalayas",
+      "id": "0566e446",
+      "title": "Applied AI Engineer – AI & Automation",
+      "company": "Clera",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/applied-ai-engineer-ai-automation-berlin-228748",
+      "source": "arbeitnow",
       "date": "2026-08-07",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "ai-evaluation",
-        "ai-testing",
-        "linguistic-testing",
-        "ai-product-testing",
-        "language-services",
-        "ai-model-rater",
-        "ai-data-rater",
-        "ai-model-evaluator",
-        "language-model-evaluator",
-        "english-language-ai-specialist",
-        "ai-language-evaluator",
-        "ai-language-model-tester",
-        "ai-language-model-evaluation"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "d8c8e67c",
-      "title": "Quality Assurance Manager - AI Trainer - Freelance - 8-20 hrs/week - Remote",
-      "company": "10Xteam",
-      "location": "Germany",
+      "id": "3ca2d2fc",
+      "title": "Data Scientist — Agent Evaluations & Quality",
+      "company": "Clera",
+      "location": "remote",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/10xteam/quality-assurance-manager-ai-trainer-freelance-8-20-hrs-week-remote-berlin-416984",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-data-scientist-agent-evaluations-quality-434210",
       "source": "arbeitnow",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "salary": "",
-      "type": "Contract",
+      "type": "Full Time",
       "tags": [
-        "operations"
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "13abae33",
+      "title": "(Senior) CRM Manager – Analytics & Automation (all genders)",
+      "company": "Sunday Natural",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-manager-analytics-automation-all-genders-berlin-10043",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5d37810a",
+      "title": "Senior Software Engineer - k6 Core | USA, EST only | Remote",
+      "company": "grafanalabs",
+      "location": "United States (Remote)",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-usa-est-only-remote-283344",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "r&d: performance testing (k6)"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bf74cadf",
+      "title": "Senior Software Engineer - k6 Core | United Kingdom | Remote",
+      "company": "grafanalabs",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/senior-software-engineer-k6-core-united-kingdom-remote-36418",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "r&d: performance testing (k6)"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a27b004c",
+      "title": "Software Quality Operations Specialist",
+      "company": "Waymo",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/software-quality-operations-specialist-london-477347",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "triage (sqw)"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "324df002",
+      "title": "Automation Engineer (PAM/CPBF)",
+      "company": "Astspacemobile",
+      "location": "Edinburgh",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/astspacemobile/automation-engineer-pam-cpbf-edinburgh-399725",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "598e9dc1",
+      "title": "Automation Engineer - Influencers",
+      "company": "ElevenLabs",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/automation-engineer-influencers-london-433540",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "growth"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6aefa480",
+      "title": "Senior QA Engineer (Mobile)",
+      "company": null,
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/815962-senior-qa-engineer-mobile",
+      "source": "hirify",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "148fb32a",
+      "title": "Mobile QA Automation Engineer (iOS)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.vseti.app/vakansii/434384394334043943943433333",
+      "source": "telegram",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
