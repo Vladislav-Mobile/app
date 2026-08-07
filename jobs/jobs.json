@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-08-06T23:55:12.116654+00:00",
-  "total": 83,
+  "updated_at": "2026-08-07T02:29:51.329849+00:00",
+  "total": 78,
   "jobs": [
+    {
+      "id": "cac07ab0",
+      "title": "British English - AI Model Rater",
+      "company": "Productive Playhouse",
+      "location": "United Kingdom",
+      "remote": true,
+      "country": "GB",
+      "url": "https://himalayas.app/companies/productive-playhouse/jobs/british-english-ai-model-rater",
+      "source": "himalayas",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-evaluation",
+        "ai-testing",
+        "linguistic-testing",
+        "ai-product-testing",
+        "language-services",
+        "ai-model-rater",
+        "ai-data-rater",
+        "ai-model-evaluator",
+        "language-model-evaluator",
+        "english-language-ai-specialist",
+        "ai-language-evaluator",
+        "ai-language-model-tester",
+        "ai-language-model-evaluation"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "d8c8e67c",
       "title": "Quality Assurance Manager - AI Trainer - Freelance - 8-20 hrs/week - Remote",
@@ -16,23 +45,6 @@
       "type": "Contract",
       "tags": [
         "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fbe57791",
-      "title": "Data Scientist — Agent Evaluations & Quality",
-      "company": "Clera",
-      "location": "remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-data-scientist-agent-evaluations-quality-298047",
-      "source": "arbeitnow",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
       ],
       "miss_count": 0
     },
@@ -162,28 +174,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c58cb225",
-      "title": "QA Automation Engineer",
-      "company": "name",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/qa-automation-engineer-2070906470",
-      "source": "himalayas",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-automation-engineer",
-        "testing-automation",
-        "software-quality-assurance",
-        "automation-testing",
-        "quality-engineering",
-        "senior-qa-automation-engineer"
       ],
       "miss_count": 0
     },
@@ -1989,40 +1979,6 @@
       "miss_count": 0
     },
     {
-      "id": "fc2d6197",
-      "title": "Manual QA Engineer (Mobile/Web) (Fintech)",
-      "company": null,
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/724217-manual-qa-engineer-mobileweb-fintech",
-      "source": "hirify",
-      "date": "2026-07-09",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "2422fc6e",
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
@@ -2081,86 +2037,6 @@
         "ai/ml",
         "research",
         "diversity"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "17f629b4",
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "USA",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "remotive",
-      "date": "2026-07-07",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "azure",
-        "cisco",
-        "security",
-        "video",
-        "documentation",
-        "hardware",
-        "helpdesk",
-        "onboarding",
-        "msp",
-        "ticketing",
-        "microsoft 365",
-        "it systems"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "db90c190",
-      "title": "Mobile QA Engineer (Crypto)",
-      "company": "Utorg",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/716673-mobile-qa-engineer-crypto",
-      "source": "hirify",
-      "date": "2026-07-07",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "10054f28",
-      "title": "Senior QA Mobile Engineer (Fintech)",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/719578-senior-qa-mobile-engineer-fintech",
-      "source": "hirify",
-      "date": "2026-07-07",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
