@@ -1,41 +1,7 @@
 {
-  "updated_at": "2026-08-08T12:40:01.083619+00:00",
-  "total": 74,
+  "updated_at": "2026-08-08T18:32:39.131251+00:00",
+  "total": 67,
   "jobs": [
-    {
-      "id": "1596953a",
-      "title": "SEO Automation Lead (w/m/d)",
-      "company": "Enpal",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/seo-automation-lead-berlin-217129",
-      "source": "arbeitnow",
-      "date": "2026-08-08",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "headquarter growth"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "88f4ea46",
-      "title": "Flight Control Automation Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-223927",
-      "source": "arbeitnow",
-      "date": "2026-08-08",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "software"
-      ],
-      "miss_count": 0
-    },
     {
       "id": "35d9087f",
       "title": "Manager, Software Engineering (Libraries Automation)",
@@ -50,57 +16,6 @@
       "type": "",
       "tags": [
         "r&d engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "69513ab1",
-      "title": "Automation Framework Engineer",
-      "company": "name",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/automation-framework-engineer-2670101637",
-      "source": "himalayas",
-      "date": "2026-08-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software-development-engineer-in-test",
-        "automation-testing",
-        "qa-automation-engineer",
-        "automation-framework-engineer",
-        "sdet",
-        "automation-framework-architect",
-        "automation-framework-development",
-        "software-automation-engineer",
-        "framework-engineer",
-        "automation-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2526d578",
-      "title": "Quality & Compliance Analyst",
-      "company": "name",
-      "location": "India",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/domino-data-lab/jobs/quality-compliance-analyst",
-      "source": "himalayas",
-      "date": "2026-08-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "grc",
-        "compliance-operations",
-        "quality-assurance",
-        "audit-support",
-        "quality-management-systems",
-        "compliance-quality-analyst",
-        "quality-compliance-specialist",
-        "qa-compliance-specialist",
-        "compliance-analyst"
       ],
       "miss_count": 0
     },
@@ -133,40 +48,6 @@
       "miss_count": 0
     },
     {
-      "id": "746c2536",
-      "title": "Automation Engineer (all genders)",
-      "company": "Cmbluenergyag",
-      "location": "Alzenau, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/automation-engineer-all-genders-alzenau-bavaria-192069",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "electrical engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2039364b",
-      "title": "QA Lead",
-      "company": "Almedia",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/qa-lead-berlin-311918",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "d2e2b168",
       "title": "Middle/Senior Mobile QA Engineer (Android/iOS)",
       "company": null,
@@ -183,31 +64,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "700fd133",
-      "title": "Mobile QA Engineer",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/816820-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
