@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-08-07T18:51:05.309414+00:00",
-  "total": 89,
+  "updated_at": "2026-08-08T01:18:11.660358+00:00",
+  "total": 83,
   "jobs": [
+    {
+      "id": "746c2536",
+      "title": "Automation Engineer (all genders)",
+      "company": "Cmbluenergyag",
+      "location": "Alzenau, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cmbluenergyag/automation-engineer-all-genders-alzenau-bavaria-192069",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "electrical engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2039364b",
+      "title": "QA Lead",
+      "company": "Almedia",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/qa-lead-berlin-311918",
+      "source": "arbeitnow",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "1b0070af",
       "title": "Qualitätsprüfer Wareneingang (m/w/d)",
@@ -16,40 +50,6 @@
       "type": "",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e343851a",
-      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-458499",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "72e18356",
-      "title": "Technical Product Manager - Code Quality (f/m/d)",
-      "company": "Sonar",
-      "location": "Bochum",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sonar/technical-product-manager-code-quality-bochum-27450",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "Employee / Full-Time",
-      "tags": [
-        "product management"
       ],
       "miss_count": 0
     },
@@ -167,80 +167,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c7e76880",
-      "title": "AI Evaluation Engineer (Python, QA or Security)",
-      "company": "Mindrift",
-      "location": "Egypt",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/mindrift/jobs/ai-evaluation-engineer-python-qa-or-security-8520836638",
-      "source": "himalayas",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-evaluation-engineer",
-        "qa-engineer",
-        "software-testing-engineer",
-        "ai-testing-specialist",
-        "software-developer",
-        "ai-evaluation-lead",
-        "ai-quality-assurance-engineer",
-        "ai-qa-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8a471cb6",
-      "title": "Automation Developer (IN, Mumbai, Virtual, India, APAC)",
-      "company": "BCD Travel",
-      "location": "India",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/bcd-travel/jobs/automation-developer-in-mumbai-virtual-india-apac",
-      "source": "himalayas",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "automation-developer",
-        "rpa-developer",
-        "power-automate-developer",
-        "low-code-developer",
-        "process-automation-engineer",
-        "remote-mid-level-automation-developer",
-        "qa-automation-developer",
-        "senior-automation-developer",
-        "automation-developer-iii"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "33b0c02b",
-      "title": "Salesforce Marketing Cloud Consultant (SFMC & Pardot)",
-      "company": "Bamboo Works",
-      "location": "Philippines",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/bambooworks/jobs/salesforce-marketing-cloud-consultant-sfmc-pardot-4632073318",
-      "source": "himalayas",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "salesforce-marketing-cloud-consultant",
-        "marketing-automation-consultant",
-        "crm-consultant",
-        "digital-marketing-consultant",
-        "customer-journey-consultant",
-        "senior-marketing-cloud-consultant",
-        "salesforce-marketing-cloud-specialist",
-        "marketing-cloud-consultant",
-        "salesforce-marketing-cloud-architect"
       ],
       "miss_count": 0
     },
@@ -609,31 +535,6 @@
       "miss_count": 0
     },
     {
-      "id": "fe7be767",
-      "title": "Mobile QA Automation Engineer",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/796652-mobile-qa-automation-engineer",
-      "source": "hirify",
-      "date": "2026-08-03",
-      "salary": "USD 9600–16000",
-      "type": "parttime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "0b11343b",
       "title": "Senior QA Engineer (Mobile)",
       "company": "%hirify_global%",
@@ -647,6 +548,31 @@
       "type": "fulltime",
       "tags": [
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fe7be767",
+      "title": "Mobile QA Automation Engineer",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/796652-mobile-qa-automation-engineer",
+      "source": "hirify",
+      "date": "2026-08-03",
+      "salary": "USD 9600–16000",
+      "type": "parttime",
+      "tags": [
         "",
         "",
         "",
@@ -686,32 +612,6 @@
       "miss_count": 0
     },
     {
-      "id": "8b50d192",
-      "title": "QA Engineer (Desktop & Mobile)",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/787806-qa-engineer-desktopmobile",
-      "source": "hirify",
-      "date": "2026-07-30",
-      "salary": "USD 2600",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "96bf77e8",
       "title": "Senior Mobile QA Engineer",
       "company": "%hirify_global%",
@@ -738,16 +638,16 @@
       "miss_count": 0
     },
     {
-      "id": "e94a5efe",
-      "title": "Mobile QA Automation Engineer (iOS)",
-      "company": "Островок",
+      "id": "8b50d192",
+      "title": "QA Engineer (Desktop & Mobile)",
+      "company": null,
       "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/784154-mobile-qa-automation-ios",
+      "url": "https://hirify.me/vacancies/787806-qa-engineer-desktopmobile",
       "source": "hirify",
-      "date": "2026-07-29",
-      "salary": "",
+      "date": "2026-07-30",
+      "salary": "USD 2600",
       "type": "fulltime",
       "tags": [
         "",
@@ -771,6 +671,32 @@
       "remote": false,
       "country": "WW",
       "url": "https://hirify.me/vacancies/782080-senior-qa-engineer-mobile-appium",
+      "source": "hirify",
+      "date": "2026-07-29",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e94a5efe",
+      "title": "Mobile QA Automation Engineer (iOS)",
+      "company": "Островок",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/784154-mobile-qa-automation-ios",
       "source": "hirify",
       "date": "2026-07-29",
       "salary": "",
@@ -850,6 +776,30 @@
       "miss_count": 0
     },
     {
+      "id": "a6e1fe7b",
+      "title": "Mobile QA Engineer (iGaming)",
+      "company": "01.tech",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/778346-mobile-qa-engineer-igaming",
+      "source": "hirify",
+      "date": "2026-07-28",
+      "salary": "USD 2350",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "3fb784fa",
       "title": "Fullstack QA Engineer (Mobile/Backend)",
       "company": "Dodo",
@@ -882,18 +832,19 @@
       "miss_count": 0
     },
     {
-      "id": "a6e1fe7b",
-      "title": "Mobile QA Engineer (iGaming)",
-      "company": "01.tech",
+      "id": "fcad450d",
+      "title": "Mobile QA Engineer (AI/Flutter)",
+      "company": "%hirify_global%",
       "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/778346-mobile-qa-engineer-igaming",
+      "url": "https://hirify.me/vacancies/776640-mobile-qa-engineer-ai-flutter",
       "source": "hirify",
-      "date": "2026-07-28",
-      "salary": "USD 2350",
+      "date": "2026-07-27",
+      "salary": "",
       "type": "fulltime",
       "tags": [
+        "",
         "",
         "",
         "",
@@ -918,31 +869,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fcad450d",
-      "title": "Mobile QA Engineer (AI/Flutter)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/776640-mobile-qa-engineer-ai-flutter",
-      "source": "hirify",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
         "",
         "",
         "",
@@ -1018,18 +944,43 @@
       "miss_count": 0
     },
     {
-      "id": "ad0eda7c",
-      "title": "Mobile QA Engineer (Manual)",
-      "company": "MobileUp",
+      "id": "db902cc5",
+      "title": "Manual QA Engineer (Web, Mobile, SmartTV)",
+      "company": "Виасат Тех",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/766470-manual-qa-engineer-web-mobile-smarttv",
+      "source": "hirify",
+      "date": "2026-07-23",
+      "salary": "RUB 140000 (~$1722)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d1b6bf1c",
+      "title": "Middle/Senior QA Engineer (Mobile, EdTech)",
+      "company": "Perlem",
       "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/768024-mobile-qa-engineer-manual",
+      "url": "https://hirify.me/vacancies/767259-middlesenior-qa-engineer-mobile-edtech",
       "source": "hirify",
       "date": "2026-07-23",
-      "salary": "RUB 120000 (~$1529)",
+      "salary": "RUB 180000 (~$2214)",
       "type": "fulltime",
       "tags": [
+        "",
         "",
         "",
         "",
@@ -1070,44 +1021,19 @@
       "miss_count": 0
     },
     {
-      "id": "d1b6bf1c",
-      "title": "Middle/Senior QA Engineer (Mobile, EdTech)",
-      "company": "Perlem",
+      "id": "ad0eda7c",
+      "title": "Mobile QA Engineer (Manual)",
+      "company": "MobileUp",
       "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/767259-middlesenior-qa-engineer-mobile-edtech",
+      "url": "https://hirify.me/vacancies/768024-mobile-qa-engineer-manual",
       "source": "hirify",
       "date": "2026-07-23",
-      "salary": "RUB 180000 (~$2293)",
+      "salary": "RUB 120000 (~$1476)",
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "db902cc5",
-      "title": "Manual QA Engineer (Web, Mobile, SmartTV)",
-      "company": "Виасат Тех",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/766470-manual-qa-engineer-web-mobile-smarttv",
-      "source": "hirify",
-      "date": "2026-07-23",
-      "salary": "RUB 140000 (~$1783)",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
@@ -1235,7 +1161,7 @@
       "url": "https://hirify.me/vacancies/753220-qa-engineer-mobile-games",
       "source": "hirify",
       "date": "2026-07-20",
-      "salary": "RUB 170000–200000 (~$2363)",
+      "salary": "RUB 170000–200000 (~$2276)",
       "type": "fulltime",
       "tags": [
         "",
@@ -2207,68 +2133,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2422fc6e",
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "remotive",
-      "date": "2026-07-08",
-      "salary": "OTE $25k - $35k",
-      "type": "full_time",
-      "tags": [
-        "crm",
-        "google sheets",
-        "financial services",
-        "inside sales"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c8b3c9aa",
-      "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
-      "company": "FSE LLC",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
-      "source": "remotive",
-      "date": "2026-07-08",
-      "salary": "$3k - $10k",
-      "type": "full_time",
-      "tags": [
-        "c",
-        "excel",
-        "team lead",
-        "financial services",
-        "c-suite"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "27bd579e",
-      "title": "Online Data Analyst Canada (French Language) (C)",
-      "company": "TELUS Digital",
-      "location": "Canada",
-      "remote": true,
-      "country": "CA",
-      "url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-c-2091047",
-      "source": "remotive",
-      "date": "2026-07-08",
-      "salary": "",
-      "type": "part_time",
-      "tags": [
-        "go",
-        "social media",
-        "ai/ml",
-        "research",
-        "diversity"
       ],
       "miss_count": 0
     }
