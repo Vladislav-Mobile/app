@@ -1,7 +1,92 @@
 {
-  "updated_at": "2026-08-08T01:18:11.660358+00:00",
+  "updated_at": "2026-08-08T06:44:53.196234+00:00",
   "total": 83,
   "jobs": [
+    {
+      "id": "88f4ea46",
+      "title": "Flight Control Automation Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-223927",
+      "source": "arbeitnow",
+      "date": "2026-08-08",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "software"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "35d9087f",
+      "title": "Manager, Software Engineering (Libraries Automation)",
+      "company": "chainguard",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/manager-software-engineering-libraries-automation-100913",
+      "source": "arbeitnow",
+      "date": "2026-08-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "r&d engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "69513ab1",
+      "title": "Automation Framework Engineer",
+      "company": "name",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/automation-framework-engineer-2670101637",
+      "source": "himalayas",
+      "date": "2026-08-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software-development-engineer-in-test",
+        "automation-testing",
+        "qa-automation-engineer",
+        "automation-framework-engineer",
+        "sdet",
+        "automation-framework-architect",
+        "automation-framework-development",
+        "software-automation-engineer",
+        "framework-engineer",
+        "automation-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2526d578",
+      "title": "Quality & Compliance Analyst",
+      "company": "name",
+      "location": "India",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/domino-data-lab/jobs/quality-compliance-analyst",
+      "source": "himalayas",
+      "date": "2026-08-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "grc",
+        "compliance-operations",
+        "quality-assurance",
+        "audit-support",
+        "quality-management-systems",
+        "compliance-quality-analyst",
+        "quality-compliance-specialist",
+        "qa-compliance-specialist",
+        "compliance-analyst"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "746c2536",
       "title": "Automation Engineer (all genders)",
@@ -33,58 +118,6 @@
       "type": "Full Time",
       "tags": [
         "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1b0070af",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-1831",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "771bdd2e",
-      "title": "QA Engineer - Software Tester",
-      "company": "Vision RT Ltd.",
-      "location": "Finchley Central, North London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vision-rt-ltd/qa-engineer-software-tester-finchley-central-north-london-130128",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "Permanent, Full-time",
-      "tags": [
-        "mis/it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b52fd943",
-      "title": "Software quality engineer (UK)",
-      "company": "Writer",
-      "location": "London, UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-quality-engineer-uk-london-387820",
-      "source": "arbeitnow",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering",
-        "product & design"
       ],
       "miss_count": 0
     },
@@ -1635,34 +1668,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5bb85a83",
-      "title": "Mobile QA Engineer (Manual)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/728535-mobile-qa-engineer-manual",
-      "source": "hirify",
-      "date": "2026-07-10",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
         "",
         "",
         "",
