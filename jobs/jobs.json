@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-08-09T06:51:01.091463+00:00",
-  "total": 66,
+  "updated_at": "2026-08-09T12:41:56.840423+00:00",
+  "total": 67,
   "jobs": [
+    {
+      "id": "b72499ca",
+      "title": "Penetration Tester (m/w/d) - Remote",
+      "company": "Swissitsecuritygroup",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissitsecuritygroup/penetration-tester-remote-357642",
+      "source": "arbeitnow",
+      "date": "2026-08-09",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "information technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "35513e0b",
+      "title": "(Intern) AI Automation Engineer",
+      "company": "Tacto",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/tacto/intern-ai-automation-engineer-munich-252752",
+      "source": "arbeitnow",
+      "date": "2026-08-09",
+      "salary": "",
+      "type": "Intern",
+      "tags": [
+        "customer experience (cx)"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "fb2fc991",
       "title": "Automation Engineer - Influencers",
@@ -20,43 +54,26 @@
       "miss_count": 0
     },
     {
-      "id": "2a7a9c5d",
-      "title": "Electrical Inspector - Lightning Protection, Full Time Remote",
-      "company": "name",
+      "id": "a1dcda9e",
+      "title": "Associate Director, Quality Assurance (Clinical Research Preferred)",
+      "company": "Lifelancer",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/intertek/jobs/electrical-inspector-lightning-protection-full-time-remote",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/associate-director-quality-assurance-clinical-research-preferred",
       "source": "himalayas",
       "date": "2026-08-09",
       "salary": "",
       "type": "",
       "tags": [
-        "electrical-inspector",
-        "lightning-protection-inspector",
-        "field-inspector",
-        "quality-assurance-inspector",
-        "construction-inspector",
-        "remote-electrical-inspector",
-        "electrical-safety-inspector",
-        "lightning-protection-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a75b044c",
-      "title": "AI Automation & Systems Engineer (m/w/d) in KI-First-Marketing-Agentur",
-      "company": "NAO Skalierung GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nao-skalierung-gmbh/ai-automation-systems-engineer-in-ki-first-marketing-agentur-hamburg-124719",
-      "source": "arbeitnow",
-      "date": "2026-08-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "it"
+        "quality-assurance",
+        "clinical-research-quality-assurance",
+        "pharmaceutical-quality-assurance",
+        "gcp-compliance",
+        "clinical-operations",
+        "associate-director-clinical-quality-assurance",
+        "clinical-quality-assurance-manager",
+        "clinical-quality-director"
       ],
       "miss_count": 0
     },
