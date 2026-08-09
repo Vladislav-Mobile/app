@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-08-09T12:41:56.840423+00:00",
-  "total": 67,
+  "updated_at": "2026-08-09T18:35:15.970067+00:00",
+  "total": 69,
   "jobs": [
+    {
+      "id": "4949dd9e",
+      "title": "Software Test Engineer (m/w/d)",
+      "company": "FoxTalent",
+      "location": "Nuremberg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/foxtalent/software-test-engineer-nuremberg-68217",
+      "source": "arbeitnow",
+      "date": "2026-08-09",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7f0158dc",
+      "title": "SPS-Programmierer (m/w/d)",
+      "company": "de Man Automation + Service GmbH & Co. KG",
+      "location": "Borgholzhausen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/de-man-automation-service-gmbh-co-kg/sps-programmierer-borgholzhausen-89445",
+      "source": "arbeitnow",
+      "date": "2026-08-09",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "b72499ca",
       "title": "Penetration Tester (m/w/d) - Remote",
@@ -54,26 +89,26 @@
       "miss_count": 0
     },
     {
-      "id": "a1dcda9e",
-      "title": "Associate Director, Quality Assurance (Clinical Research Preferred)",
-      "company": "Lifelancer",
+      "id": "2a7a9c5d",
+      "title": "Electrical Inspector - Lightning Protection, Full Time Remote",
+      "company": "name",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/associate-director-quality-assurance-clinical-research-preferred",
+      "url": "https://himalayas.app/companies/intertek/jobs/electrical-inspector-lightning-protection-full-time-remote",
       "source": "himalayas",
       "date": "2026-08-09",
       "salary": "",
       "type": "",
       "tags": [
-        "quality-assurance",
-        "clinical-research-quality-assurance",
-        "pharmaceutical-quality-assurance",
-        "gcp-compliance",
-        "clinical-operations",
-        "associate-director-clinical-quality-assurance",
-        "clinical-quality-assurance-manager",
-        "clinical-quality-director"
+        "electrical-inspector",
+        "lightning-protection-inspector",
+        "field-inspector",
+        "quality-assurance-inspector",
+        "construction-inspector",
+        "remote-electrical-inspector",
+        "electrical-safety-inspector",
+        "lightning-protection-specialist"
       ],
       "miss_count": 0
     },
