@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-08T18:32:39.131251+00:00",
-  "total": 67,
+  "updated_at": "2026-08-09T01:22:54.348296+00:00",
+  "total": 64,
   "jobs": [
     {
-      "id": "35d9087f",
-      "title": "Manager, Software Engineering (Libraries Automation)",
-      "company": "chainguard",
-      "location": "",
+      "id": "a75b044c",
+      "title": "AI Automation & Systems Engineer (m/w/d) in KI-First-Marketing-Agentur",
+      "company": "NAO Skalierung GmbH",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/manager-software-engineering-libraries-automation-100913",
+      "url": "https://www.arbeitnow.com/jobs/companies/nao-skalierung-gmbh/ai-automation-systems-engineer-in-ki-first-marketing-agentur-hamburg-124719",
       "source": "arbeitnow",
       "date": "2026-08-08",
       "salary": "",
       "type": "",
       "tags": [
-        "r&d engineering"
+        "it"
       ],
       "miss_count": 0
     },
@@ -1570,71 +1570,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "31513ac0",
-      "title": "Product Sales Specialist - Pet Health",
-      "company": "Tribe Wellness",
-      "location": "USA, CST (UTC-6)",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
-      "source": "remotive",
-      "date": "2026-07-09",
-      "salary": "$55k - $100k",
-      "type": "full_time",
-      "tags": [
-        "excel",
-        "salesforce",
-        "video",
-        "spark"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8f5e9c7e",
-      "title": "Middle QA Engineer (Mobile)",
-      "company": "Volmi",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/725748-middle-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-07-09",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5625a125",
-      "title": "QA Mobile Automation Engineer",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/727427-qa-mobile-automation-engineer",
-      "source": "hirify",
-      "date": "2026-07-09",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
