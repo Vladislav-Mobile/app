@@ -1,7 +1,112 @@
 {
-  "updated_at": "2026-08-09T18:35:15.970067+00:00",
-  "total": 69,
+  "updated_at": "2026-08-10T01:24:53.446373+00:00",
+  "total": 70,
   "jobs": [
+    {
+      "id": "33742efe",
+      "title": "1631 PRODUCT SUPPORT SPECIALIST",
+      "company": "Softgic",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/softgic/jobs/1631-product-support-specialist-1264371753",
+      "source": "himalayas",
+      "date": "2026-08-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "product-support-specialist",
+        "qa-testing",
+        "product-operations",
+        "technical-support",
+        "software-quality-assurance",
+        "product-support-representative",
+        "product-support-associate",
+        "product-support-expert",
+        "product-support-technician",
+        "product-support-consultant",
+        "product-support-agent",
+        "product-support-analyst"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d94f9fb7",
+      "title": "Hardware Penetration Tester",
+      "company": "Packetlabs Ltd.",
+      "location": "Canada",
+      "remote": true,
+      "country": "CA",
+      "url": "https://himalayas.app/companies/packetlabs-ltd/jobs/hardware-penetration-tester",
+      "source": "himalayas",
+      "date": "2026-08-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "hardware-penetration-testing",
+        "firmware-reverse-engineering",
+        "iot-security",
+        "embedded-systems-security",
+        "offensive-security-consulting",
+        "penetration-tester",
+        "physical-penetration-testing",
+        "penetration-testing",
+        "senior-penetration-tester"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ac1c07e2",
+      "title": "Quality Assurance Engineer",
+      "company": "Huzzle",
+      "location": "India",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer",
+      "source": "himalayas",
+      "date": "2026-08-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-assurance-engineering",
+        "qa-engineering",
+        "software-testing",
+        "testing-automation",
+        "quality-assurance",
+        "quality-assurance-engineer",
+        "quality-engineer",
+        "qa-engineer",
+        "software-quality-assurance-engineer",
+        "senior-quality-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "23c534c1",
+      "title": "Patient Resolution & Complaints Administrator",
+      "company": "Prenuvo",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/prenuvo/jobs/patient-resolution-complaints-administrator-4484071531",
+      "source": "himalayas",
+      "date": "2026-08-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "patient-resolution-specialist",
+        "complaints-administrator",
+        "patient-experience",
+        "healthcare-customer-service",
+        "clinical-quality",
+        "patient-relations-manager",
+        "patient-experience-coordinator",
+        "patient-relations-associate",
+        "patient-communications-coordinator",
+        "patient-experience-representative"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "4949dd9e",
       "title": "Software Test Engineer (m/w/d)",
@@ -68,47 +173,6 @@
       "type": "Intern",
       "tags": [
         "customer experience (cx)"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fb2fc991",
-      "title": "Automation Engineer - Influencers",
-      "company": "Elevenlabs",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/automation-engineer-influencers-london-303255",
-      "source": "arbeitnow",
-      "date": "2026-08-09",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "growth"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2a7a9c5d",
-      "title": "Electrical Inspector - Lightning Protection, Full Time Remote",
-      "company": "name",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/intertek/jobs/electrical-inspector-lightning-protection-full-time-remote",
-      "source": "himalayas",
-      "date": "2026-08-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "electrical-inspector",
-        "lightning-protection-inspector",
-        "field-inspector",
-        "quality-assurance-inspector",
-        "construction-inspector",
-        "remote-electrical-inspector",
-        "electrical-safety-inspector",
-        "lightning-protection-specialist"
       ],
       "miss_count": 0
     },
@@ -1646,31 +1710,6 @@
         "insurance",
         "jquery",
         "ajax"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8695612b",
-      "title": "Middle QA Mobile Automation Engineer (Java)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/728983-middle-qa-mobile-automation-engineer",
-      "source": "hirify",
-      "date": "2026-07-10",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
