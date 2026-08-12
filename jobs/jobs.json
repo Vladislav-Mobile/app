@@ -1,39 +1,21 @@
 {
-  "updated_at": "2026-08-11T18:57:55.126737+00:00",
-  "total": 68,
+  "updated_at": "2026-08-12T01:39:43.650154+00:00",
+  "total": 65,
   "jobs": [
     {
-      "id": "ca65c1f5",
-      "title": "Director Value Stream (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
+      "id": "89e86bb6",
+      "title": "QA Automation Engineer (IDEA Ultimate QA)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich; Remote",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-value-stream-ottobrunn-bavaria-28506",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-qa-automation-engineer-idea-ultimate-qa-51359",
       "source": "arbeitnow",
       "date": "2026-08-11",
       "salary": "",
       "type": "",
       "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "aaed610d",
-      "title": "(Senior) Machine Learning Developer (Junie)",
-      "company": "Jetbrains",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-machine-learning-developer-junie-london-168371",
-      "source": "arbeitnow",
-      "date": "2026-08-11",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "junie base quality"
+        "idea ultimate qa"
       ],
       "miss_count": 0
     },
@@ -441,33 +423,6 @@
       "miss_count": 0
     },
     {
-      "id": "0e796663",
-      "title": "QA Lead (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/812448-qa-lead-mobile-games",
-      "source": "hirify",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "49aac871",
       "title": "QA Engineer Mobile Fullstack (Java)",
       "company": "Альфа-Банк",
@@ -701,7 +656,7 @@
       "url": "https://hirify.me/vacancies/796652-mobile-qa-automation-engineer",
       "source": "hirify",
       "date": "2026-08-03",
-      "salary": "USD 9600–16000",
+      "salary": "USD 60–100",
       "type": "parttime",
       "tags": [
         "",
@@ -1612,26 +1567,6 @@
         "chat",
         "next.js",
         "infrastructure"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ba9e2cb6",
-      "title": "Assistant Account Payable",
-      "company": "The Obesity Society",
-      "location": "USA",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
-      "source": "remotive",
-      "date": "2026-07-12",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "accounting",
-        "excel",
-        "data entry",
-        "outlook"
       ],
       "miss_count": 0
     }
