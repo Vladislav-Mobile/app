@@ -1,39 +1,109 @@
 {
-  "updated_at": "2026-08-12T13:00:50.822230+00:00",
-  "total": 68,
+  "updated_at": "2026-08-12T18:57:22.097976+00:00",
+  "total": 72,
   "jobs": [
     {
-      "id": "5d413f41",
-      "title": "Senior Manager Quality (w/m/d)",
-      "company": "ADDVANCE Consumer Health Group GmbH",
-      "location": "Leipzig",
+      "id": "29dfd4d9",
+      "title": "Software Test Engineer (m/w/d)",
+      "company": "Worldwide Placement Limited",
+      "location": "Nuremberg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/addvance-consumer-health-group-gmbh/senior-manager-quality-leipzig-258437",
+      "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/software-test-engineer-nuremberg-82273",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fa821f62",
+      "title": "Quality Assurance Engineer (m/f/d)",
+      "company": "Yalwa GmbH",
+      "location": "Wiesbaden",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/yalwa-gmbh/quality-assurance-engineer-wiesbaden-56559",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "Full-time permanent, entry",
+      "tags": [
+        "internet and software",
+        "high school coursework"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8e3fce6a",
+      "title": "Software-Tester (m/w/d) SAP® - Automatisiertes Testing mit ABAP, Fiori und Python",
+      "company": "Software4Professionals GmbH & Co. KG",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/software4professionals-gmbh-co-kg/software-tester-sap-automatisiertes-testing-mit-abap-fiori-und-python-stuttgart-235516",
       "source": "arbeitnow",
       "date": "2026-08-12",
       "salary": "",
       "type": "berufserfahren",
       "tags": [
-        "business operations"
+        "sap/erp consulting",
+        "development"
       ],
       "miss_count": 0
     },
     {
-      "id": "1cef6ec3",
-      "title": "Design Quality Engineer",
-      "company": "Heidi",
+      "id": "76621dd3",
+      "title": "Automation Engineer - Production (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/automation-engineer-production-gilching-127200",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "production & automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "93c9ebb9",
+      "title": "Growth Marketing Automation Engineer",
+      "company": "Globalwebindex",
       "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/design-quality-engineer-london-428330",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/globalwebindex/growth-marketing-automation-engineer-london-4981",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "be1eec9b",
+      "title": "Technical Marketing Intern (Analytics, Research & Automation)",
+      "company": "Outpost Technologies",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/outpost-technologies/technical-marketing-intern-analytics-research-automation-london-472610",
       "source": "arbeitnow",
       "date": "2026-08-12",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "legal",
-        "regulatory & compliance"
+        "marketing"
       ],
       "miss_count": 0
     },
@@ -108,6 +178,24 @@
         "ai-coding-agent-evaluator",
         "ai-python-developer",
         "python-ai-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "896aa6f5",
+      "title": "🧾 Вакансия: QA Automation Engineer Java (Appium Mobile от 3 лет)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258488",
+      "source": "telegram",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -527,31 +615,6 @@
       "remote": false,
       "country": "WW",
       "url": "https://hirify.me/vacancies/813012-senior-mobile-qa-automation-fintech",
-      "source": "hirify",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "49aac871",
-      "title": "QA Engineer Mobile Fullstack (Java)",
-      "company": "Альфа-Банк",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/812404-senior-mobile-qa-java",
       "source": "hirify",
       "date": "2026-08-06",
       "salary": "",
