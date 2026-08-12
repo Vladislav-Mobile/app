@@ -1,7 +1,72 @@
 {
-  "updated_at": "2026-08-12T01:39:43.650154+00:00",
-  "total": 65,
+  "updated_at": "2026-08-12T07:19:15.351756+00:00",
+  "total": 67,
   "jobs": [
+    {
+      "id": "6c7e4268",
+      "title": "System Test Automation Engineer, HIL",
+      "company": "Wayve",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/system-test-automation-engineer-hil-12153",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "product & delivery"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "67cd6a91",
+      "title": "Product Manager (w/m/d)",
+      "company": "Remind Me",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/remind-me/product-manager-berlin-169684",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "produkt",
+        "produktmanagement",
+        "produktmanager",
+        "produktmanagerin",
+        "product owner",
+        "product manager",
+        "product management",
+        "agile",
+        "scrum",
+        "automatisierung",
+        "automation",
+        "sql",
+        "node.js",
+        "puppeteer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1cef6ec3",
+      "title": "Design Quality Engineer",
+      "company": "Heidi",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/design-quality-engineer-london-428330",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "legal",
+        "regulatory & compliance"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "89e86bb6",
       "title": "QA Automation Engineer (IDEA Ultimate QA)",
@@ -20,6 +85,28 @@
       "miss_count": 0
     },
     {
+      "id": "dbc14ff8",
+      "title": "QA Lead (Java, Appium, Mobile)",
+      "company": "Tihonova IT Search",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/827826-qa-lead-java-appium-mobile",
+      "source": "hirify",
+      "date": "2026-08-11",
+      "salary": "USD 3200",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "d6159406",
       "title": "QA Engineer (Mobile Games)",
       "company": "%hirify_global%",
@@ -34,28 +121,6 @@
       "tags": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "dbc14ff8",
-      "title": "QA Lead (Java, Appium, Mobile)",
-      "company": "Tihonova IT Search",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/827826-qa-lead-java-appium-mobile",
-      "source": "hirify",
-      "date": "2026-08-11",
-      "salary": "USD 3200",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
@@ -1512,26 +1577,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "018c50e6",
-      "title": "Mid QA Mobile Automation Engineer (Mobile)",
-      "company": "KWAN",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/737179-mid-qa-mobile-automation-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-07-14",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
