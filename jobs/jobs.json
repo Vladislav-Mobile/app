@@ -1,7 +1,173 @@
 {
-  "updated_at": "2026-08-12T18:57:22.097976+00:00",
-  "total": 72,
+  "updated_at": "2026-08-13T01:41:55.414998+00:00",
+  "total": 74,
   "jobs": [
+    {
+      "id": "4481c537",
+      "title": "Quality Assurance Technologist",
+      "company": "Irca Group",
+      "location": "Peterborough, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/irca-group/quality-assurance-technologist-peterborough-united-kingdom-359701",
+      "source": "arbeitnow",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "Permanent Full-Time",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fbf3cf69",
+      "title": "Senior AI Test Engineer",
+      "company": "name",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/testpros/jobs/senior-ai-test-engineer",
+      "source": "himalayas",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-testing-engineer",
+        "qa-engineer",
+        "quality-engineering",
+        "ai-llm-testing",
+        "software-quality-assurance",
+        "senior-ai-product-tester",
+        "ai-ml-testing-engineer",
+        "lead-ai-test-automation-architect",
+        "senior-test-engineer",
+        "senior-software-test-engineer",
+        "senior-automation-test-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e6c8a997",
+      "title": "Senior QA Engineer",
+      "company": "name",
+      "location": "Brazil",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/cial-dun-bradstreet/jobs/senior-qa-engineer",
+      "source": "himalayas",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-assurance-engineering",
+        "software-qa",
+        "automation-testing",
+        "qa-engineering",
+        "senior-qa-engineering",
+        "senior-quality-engineer",
+        "senior-qa-tester",
+        "senior-software-quality-engineer",
+        "senior-qc-engineer",
+        "senior-qa-analyst",
+        "senior-qa-automation-engineer",
+        "lead-qa-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "064370b6",
+      "title": "Team Lead- EMPI Data Integrity",
+      "company": "name",
+      "location": "Philippines",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/r1-rcm/jobs/team-lead-empi-data-integrity",
+      "source": "himalayas",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "empi-data-integrity",
+        "healthcare-it",
+        "patient-identity-management",
+        "health-information-management",
+        "data-quality-assurance",
+        "data-quality-lead",
+        "team-lead-(data-engineering)",
+        "data-team-lead",
+        "data-engineering-team-lead",
+        "data-management-lead"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "57e05825",
+      "title": "SW Testing Automatisierung (m/w/x)",
+      "company": "K-tronik GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/sw-testing-automatisierung-stuttgart-216989",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "201be290",
+      "title": "Senior Marketing Automation Engineer (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-automation-engineer-all-genders-berlin-berlin-115083",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5a8b2307",
+      "title": "Senior FSQA Manager - PHF (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-5976",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "food safety and quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fa2a78c0",
+      "title": "Quality Assurance Specialist",
+      "company": "Irca Group",
+      "location": "Hochheim am Main, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/irca-group/quality-assurance-specialist-hochheim-am-main-germany-354555",
+      "source": "arbeitnow",
+      "date": "2026-08-12",
+      "salary": "",
+      "type": "Permanent Full-Time",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "29dfd4d9",
       "title": "Software Test Engineer (m/w/d)",
@@ -21,59 +187,6 @@
       "miss_count": 0
     },
     {
-      "id": "fa821f62",
-      "title": "Quality Assurance Engineer (m/f/d)",
-      "company": "Yalwa GmbH",
-      "location": "Wiesbaden",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/yalwa-gmbh/quality-assurance-engineer-wiesbaden-56559",
-      "source": "arbeitnow",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "Full-time permanent, entry",
-      "tags": [
-        "internet and software",
-        "high school coursework"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8e3fce6a",
-      "title": "Software-Tester (m/w/d) SAP® - Automatisiertes Testing mit ABAP, Fiori und Python",
-      "company": "Software4Professionals GmbH & Co. KG",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/software4professionals-gmbh-co-kg/software-tester-sap-automatisiertes-testing-mit-abap-fiori-und-python-stuttgart-235516",
-      "source": "arbeitnow",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "sap/erp consulting",
-        "development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "76621dd3",
-      "title": "Automation Engineer - Production (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/automation-engineer-production-gilching-127200",
-      "source": "arbeitnow",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "production & automation"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "93c9ebb9",
       "title": "Growth Marketing Automation Engineer",
       "company": "Globalwebindex",
@@ -85,23 +198,6 @@
       "date": "2026-08-12",
       "salary": "",
       "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "be1eec9b",
-      "title": "Technical Marketing Intern (Analytics, Research & Automation)",
-      "company": "Outpost Technologies",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/outpost-technologies/technical-marketing-intern-analytics-research-automation-london-472610",
-      "source": "arbeitnow",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "Full Time",
       "tags": [
         "marketing"
       ],
@@ -153,31 +249,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "eeadd633",
-      "title": "Senior Python Engineer - AI Coding Agent Evaluation (Freelance)",
-      "company": "name",
-      "location": "Germany",
-      "remote": true,
-      "country": "DE",
-      "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-engineer-ai-coding-agent-evaluation-freelance-9561574078",
-      "source": "himalayas",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-evaluation-specialist",
-        "software-testing-engineer",
-        "python-engineer",
-        "ai-dataset-creator",
-        "qa-engineer",
-        "senior-python-developer---ai-ml",
-        "ai-coding-agent-evaluator",
-        "ai-python-developer",
-        "python-ai-engineer"
       ],
       "miss_count": 0
     },
@@ -1681,37 +1752,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "128f1956",
-      "title": "Senior Product Engineer (Fullstack)",
-      "company": "Clipster",
-      "location": "Europe, UK, Germany, France, European timezones",
-      "remote": true,
-      "country": "GB",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
-      "source": "remotive",
-      "date": "2026-07-13",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "backend",
-        "frontend",
-        "fullstack",
-        "golang",
-        "postgresql",
-        "react",
-        "ai/ml",
-        "documentation",
-        "youtube",
-        "redis",
-        "distributed systems",
-        "gcp",
-        "chat",
-        "next.js",
-        "infrastructure"
       ],
       "miss_count": 0
     }
