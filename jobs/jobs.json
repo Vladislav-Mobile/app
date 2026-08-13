@@ -1,21 +1,38 @@
 {
-  "updated_at": "2026-08-13T07:21:52.641615+00:00",
-  "total": 71,
+  "updated_at": "2026-08-13T13:01:45.491180+00:00",
+  "total": 70,
   "jobs": [
     {
-      "id": "d1de4e98",
-      "title": "QA Engineer (IJ Platform / Remote Development)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
+      "id": "806d084d",
+      "title": "Senior GTM AI Engineer (m/w/d) Agentic Automation & Revenue Systems",
+      "company": "Mandl. Executives & Experts",
+      "location": "Cologne",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/qa-engineer-ij-platform-remote-development-berlin-munich-214174",
+      "url": "https://www.arbeitnow.com/jobs/companies/mandl-executives-experts/senior-gtm-ai-engineer-agentic-automation-revenue-systems-cologne-133118",
+      "source": "arbeitnow",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "data scientist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "42713937",
+      "title": "Global Service Line Lead: Agentic Automation Engineering",
+      "company": "roboyo",
+      "location": "Europe",
+      "remote": false,
+      "country": "EU",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/global-service-line-lead-agentic-automation-engineering-europe-378407",
       "source": "arbeitnow",
       "date": "2026-08-13",
       "salary": "",
       "type": "",
       "tags": [
-        "rdct – qa & support"
+        "global practices"
       ],
       "miss_count": 0
     },
@@ -37,87 +54,22 @@
       "miss_count": 0
     },
     {
-      "id": "cc07cc3f",
-      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-qa-engineer-ai-driven-testing-209817",
-      "source": "arbeitnow",
-      "date": "2026-08-13",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "join"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4481c537",
-      "title": "Quality Assurance Technologist",
-      "company": "Irca Group",
-      "location": "Peterborough, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/irca-group/quality-assurance-technologist-peterborough-united-kingdom-359701",
-      "source": "arbeitnow",
-      "date": "2026-08-13",
-      "salary": "",
-      "type": "Permanent Full-Time",
-      "tags": [
-        "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "57e05825",
-      "title": "SW Testing Automatisierung (m/w/x)",
-      "company": "K-tronik GmbH",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/sw-testing-automatisierung-stuttgart-216989",
-      "source": "arbeitnow",
+      "id": "ba9e2cb6",
+      "title": "Assistant Account Payable",
+      "company": "The Obesity Society",
+      "location": "USA",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
+      "source": "remotive",
       "date": "2026-08-12",
       "salary": "",
-      "type": "berufserfahren",
+      "type": "full_time",
       "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "201be290",
-      "title": "Senior Marketing Automation Engineer (all genders)",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-marketing-automation-engineer-all-genders-berlin-berlin-115083",
-      "source": "arbeitnow",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5a8b2307",
-      "title": "Senior FSQA Manager - PHF (all genders)",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-5976",
-      "source": "arbeitnow",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "food safety and quality"
+        "accounting",
+        "excel",
+        "data entry",
+        "outlook"
       ],
       "miss_count": 0
     },
@@ -185,6 +137,41 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b0497692",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "remotive",
+      "date": "2026-08-11",
+      "salary": "$31,2k- $52k",
+      "type": "full_time",
+      "tags": [
+        "css",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "mysql",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jquery",
+        "ajax"
       ],
       "miss_count": 0
     },
@@ -452,6 +439,31 @@
       "miss_count": 0
     },
     {
+      "id": "700fd133",
+      "title": "Mobile QA Engineer",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/816820-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-08-07",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "d2e2b168",
       "title": "Middle/Senior Mobile QA Engineer (Android/iOS)",
       "company": null,
@@ -541,6 +553,31 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "49aac871",
+      "title": "QA Engineer Mobile Fullstack (Java)",
+      "company": "Альфа-Банк",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/812404-senior-mobile-qa-java",
+      "source": "hirify",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -833,32 +870,6 @@
       "salary": "USD 60–100",
       "type": "parttime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0b11343b",
-      "title": "Senior QA Engineer (Mobile)",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/795973-senior-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-08-03",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
