@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-08-13T13:01:45.491180+00:00",
-  "total": 70,
+  "updated_at": "2026-08-13T18:58:47.160700+00:00",
+  "total": 71,
   "jobs": [
+    {
+      "id": "9257ba83",
+      "title": "Elektroniker / Mechatroniker / Betriebselektriker (m/w/d)",
+      "company": "EuSearch GmbH",
+      "location": "Werne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/eusearch-gmbh/elektroniker-mechatroniker-betriebselektriker-werne-246794",
+      "source": "arbeitnow",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "806d084d",
       "title": "Senior GTM AI Engineer (m/w/d) Agentic Automation & Revenue Systems",
@@ -20,36 +37,87 @@
       "miss_count": 0
     },
     {
-      "id": "42713937",
-      "title": "Global Service Line Lead: Agentic Automation Engineering",
-      "company": "roboyo",
-      "location": "Europe",
+      "id": "57df05b2",
+      "title": "Automation Engineer - Wet Lab",
+      "company": "Level Zero Health",
+      "location": "London",
       "remote": false,
-      "country": "EU",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/global-service-line-lead-agentic-automation-engineering-europe-378407",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/level-zero-health/automation-engineer-wet-lab-london-212958",
       "source": "arbeitnow",
       "date": "2026-08-13",
       "salary": "",
-      "type": "",
+      "type": "Engineering",
       "tags": [
-        "global practices"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "4d062e9d",
-      "title": "Staff Engineer for IT Automation & AI transformation (Remote)",
-      "company": "SoSafe",
-      "location": "London",
+      "id": "7688cc45",
+      "title": "Principal AI Productivity & Automation Architect",
+      "company": "Legend",
+      "location": "United Kingdom",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-for-it-automation-ai-transformation-remote-london-192874",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legend/principal-ai-productivity-automation-architect-united-kingdom-356274",
       "source": "arbeitnow",
       "date": "2026-08-13",
       "salary": "",
-      "type": "Full Time",
+      "type": "Full-time",
       "tags": [
-        "operations"
+        "programme management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9d443038",
+      "title": "Mobile QA Engineer (Unity)",
+      "company": "Genza",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/838823-mobile-qa-engineer-unity",
+      "source": "hirify",
+      "date": "2026-08-13",
+      "salary": "USD 2000",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2da74964",
+      "title": "Speech Audio Engineer - Fully Remote | Upto $50/hr",
+      "company": "name",
+      "location": "Luxembourg",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/mercor/jobs/speech-audio-engineer-fully-remote-upto-50-hr-2375808225",
+      "source": "himalayas",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "audio-engineering",
+        "speech-engineer",
+        "tts-audio-specialist",
+        "voice-ai-engineering",
+        "audio-quality-assurance",
+        "speech-audio-engineer",
+        "speech-ai-engineer",
+        "voice-engineer",
+        "voice-ai-engineer"
       ],
       "miss_count": 0
     },
@@ -736,32 +804,6 @@
       "miss_count": 0
     },
     {
-      "id": "23b66578",
-      "title": "Mobile QA Engineer (Fintech)",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/807665-mobile-qa-engineer-appium",
-      "source": "hirify",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "c64583d7",
       "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
       "company": "",
@@ -793,31 +835,6 @@
       "type": "freelance",
       "tags": [
         "rest"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8f4d7c18",
-      "title": "Engineer I, Mobile QA",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/802400-mobile-qa-engineer-testing",
-      "source": "hirify",
-      "date": "2026-08-04",
-      "salary": "USD 7083",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
