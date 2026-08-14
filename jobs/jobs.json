@@ -1,57 +1,38 @@
 {
-  "updated_at": "2026-08-14T12:57:50.516563+00:00",
+  "updated_at": "2026-08-14T18:48:46.237066+00:00",
   "total": 68,
   "jobs": [
     {
-      "id": "6f05156a",
-      "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
-      "company": "Auralis Group",
-      "location": "Markt Indersdorf",
-      "remote": true,
+      "id": "e2532a37",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-241909",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-174048",
       "source": "arbeitnow",
       "date": "2026-08-14",
       "salary": "",
       "type": "",
       "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "ae2c675f",
-      "title": "Working Student - Privacy Engineering & Compliance Automation (f/m/d)",
-      "company": "TYTAN Technologies GmbH",
-      "location": "Munich, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-privacy-engineering-compliance-automation-munich-307613",
-      "source": "arbeitnow",
-      "date": "2026-08-14",
-      "salary": "",
-      "type": "Student college, parttime fixed term",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "211fed6c",
-      "title": "NQA1 Expert / Manager",
-      "company": "REEL GmbH",
-      "location": "Veitshöchheim",
+      "id": "814bb174",
+      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/reel-gmbh/nqa1-expert-manager-veitshochheim-109794",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-107141",
       "source": "arbeitnow",
       "date": "2026-08-14",
       "salary": "",
-      "type": "professional / experienced",
+      "type": "",
       "tags": [
-        "quality management"
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -69,6 +50,31 @@
       "type": "Full-time",
       "tags": [
         "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a17bcba9",
+      "title": "Mobile QA Engineer (Flutter)",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/844327-mobile-qa-engineer-flutter",
+      "source": "hirify",
+      "date": "2026-08-14",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
