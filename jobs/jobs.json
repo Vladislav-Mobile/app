@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-08-14T01:40:27.313765+00:00",
-  "total": 68,
+  "updated_at": "2026-08-14T07:19:09.940922+00:00",
+  "total": 66,
   "jobs": [
+    {
+      "id": "9eb2cdb1",
+      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+      "company": "Jobgether",
+      "location": "Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/senior-software-engineer-tools-automation-germany-84380",
+      "source": "arbeitnow",
+      "date": "2026-08-14",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d1dcd5a1",
+      "title": "Senior Crm Manager*In (M/W/D) Hubspot & Marketing Automation",
+      "company": "OMR",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/omr/senior-crm-managerin-hubspot-marketing-automation-hamburg-2097",
+      "source": "arbeitnow",
+      "date": "2026-08-14",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "ramp106",
+        "omr",
+        "marketing",
+        "omr festival",
+        "crm",
+        "e-mail",
+        "crm marketing",
+        "e-mail marketing",
+        "crm & e-mail marketing",
+        "marketing manager",
+        "marketing managerin",
+        "senior marketing manager",
+        "online marketing",
+        "vollzeit",
+        "job",
+        "hamburg"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "5bcc2f10",
       "title": "Operations & Automation Engineer – Renewable Energy",
@@ -37,55 +86,6 @@
         "internship",
         "working student"
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "9257ba83",
-      "title": "Elektroniker / Mechatroniker / Betriebselektriker (m/w/d)",
-      "company": "EuSearch GmbH",
-      "location": "Werne",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/eusearch-gmbh/elektroniker-mechatroniker-betriebselektriker-werne-246794",
-      "source": "arbeitnow",
-      "date": "2026-08-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "baa85c51",
-      "title": "Senior FSQA Manager - PHF (all genders)",
-      "company": "hellofresh",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-london-51901",
-      "source": "arbeitnow",
-      "date": "2026-08-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "food safety and quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e7623d46",
-      "title": "Software and Satellite Operations Quality Assurance Engineer",
-      "company": "Spire",
-      "location": "Glasgow, Scotland, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/software-and-satellite-operations-quality-assurance-engineer-glasgow-40975",
-      "source": "arbeitnow",
-      "date": "2026-08-13",
-      "salary": "",
-      "type": "",
-      "tags": [],
       "miss_count": 0
     },
     {
@@ -1555,29 +1555,6 @@
       "salary": "$150k - $230k",
       "type": "contract",
       "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "3defa07f",
-      "title": "Senior QA Automation Engineer (Mobile)",
-      "company": "Uberall",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/744501-senior-qa-automation-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-07-16",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
       "miss_count": 0
     },
     {
