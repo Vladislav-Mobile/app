@@ -1,7 +1,44 @@
 {
-  "updated_at": "2026-08-13T18:58:47.160700+00:00",
-  "total": 71,
+  "updated_at": "2026-08-14T01:40:27.313765+00:00",
+  "total": 68,
   "jobs": [
+    {
+      "id": "5bcc2f10",
+      "title": "Operations & Automation Engineer – Renewable Energy",
+      "company": "trawa",
+      "location": "Berlin HQ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-automation-engineer-renewable-energy-berlin-455125",
+      "source": "arbeitnow",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "business operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2c9f3990",
+      "title": "Intern / Working Student for Product Quality & Testing – all genders welcome!",
+      "company": "Vicegolf",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vicegolf/intern-working-student-for-product-quality-testing-all-genders-welcome-munchen-56072",
+      "source": "arbeitnow",
+      "date": "2026-08-13",
+      "salary": "",
+      "type": "Student, Intern, Full or part time",
+      "tags": [
+        "product quality",
+        "testing",
+        "internship",
+        "working student"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "9257ba83",
       "title": "Elektroniker / Mechatroniker / Betriebselektriker (m/w/d)",
@@ -20,54 +57,35 @@
       "miss_count": 0
     },
     {
-      "id": "806d084d",
-      "title": "Senior GTM AI Engineer (m/w/d) Agentic Automation & Revenue Systems",
-      "company": "Mandl. Executives & Experts",
-      "location": "Cologne",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/mandl-executives-experts/senior-gtm-ai-engineer-agentic-automation-revenue-systems-cologne-133118",
-      "source": "arbeitnow",
-      "date": "2026-08-13",
-      "salary": "",
-      "type": "professional / experienced",
-      "tags": [
-        "data scientist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "57df05b2",
-      "title": "Automation Engineer - Wet Lab",
-      "company": "Level Zero Health",
+      "id": "baa85c51",
+      "title": "Senior FSQA Manager - PHF (all genders)",
+      "company": "hellofresh",
       "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/level-zero-health/automation-engineer-wet-lab-london-212958",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-london-51901",
       "source": "arbeitnow",
       "date": "2026-08-13",
       "salary": "",
-      "type": "Engineering",
+      "type": "",
       "tags": [
-        "engineering"
+        "food safety and quality"
       ],
       "miss_count": 0
     },
     {
-      "id": "7688cc45",
-      "title": "Principal AI Productivity & Automation Architect",
-      "company": "Legend",
-      "location": "United Kingdom",
+      "id": "e7623d46",
+      "title": "Software and Satellite Operations Quality Assurance Engineer",
+      "company": "Spire",
+      "location": "Glasgow, Scotland, United Kingdom",
       "remote": false,
       "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/legend/principal-ai-productivity-automation-architect-united-kingdom-356274",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/software-and-satellite-operations-quality-assurance-engineer-glasgow-40975",
       "source": "arbeitnow",
       "date": "2026-08-13",
       "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "programme management"
-      ],
+      "type": "",
+      "tags": [],
       "miss_count": 0
     },
     {
@@ -93,31 +111,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2da74964",
-      "title": "Speech Audio Engineer - Fully Remote | Upto $50/hr",
-      "company": "name",
-      "location": "Luxembourg",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/mercor/jobs/speech-audio-engineer-fully-remote-upto-50-hr-2375808225",
-      "source": "himalayas",
-      "date": "2026-08-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "audio-engineering",
-        "speech-engineer",
-        "tts-audio-specialist",
-        "voice-ai-engineering",
-        "audio-quality-assurance",
-        "speech-audio-engineer",
-        "speech-ai-engineer",
-        "voice-engineer",
-        "voice-ai-engineer"
       ],
       "miss_count": 0
     },
@@ -1168,31 +1161,6 @@
       "miss_count": 0
     },
     {
-      "id": "fcad450d",
-      "title": "Mobile QA Engineer (AI/Flutter)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/776640-mobile-qa-engineer-ai-flutter",
-      "source": "hirify",
-      "date": "2026-07-27",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "be0b5ce8",
       "title": "Data Labeling Specialists",
       "company": "Workada",
@@ -1625,71 +1593,6 @@
       "salary": "GBP 72000 (~$96386)",
       "type": "project",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e8f2893b",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "remotive",
-      "date": "2026-07-14",
-      "salary": "$170k - $200k",
-      "type": "full_time",
-      "tags": [
-        "api",
-        "css",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "ai/ml",
-        "cad",
-        "advertising",
-        "redis",
-        "es6",
-        "web applications",
-        "mysql",
-        "nlp",
-        "fintech",
-        "micro services",
-        "github",
-        "system architecture"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "28c5c063",
-      "title": "QA Engineer (Mobile)",
-      "company": "Yandex",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/739556-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-07-14",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
