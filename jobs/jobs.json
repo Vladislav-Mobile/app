@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-08-14T18:48:46.237066+00:00",
+  "updated_at": "2026-08-15T01:01:41.281231+00:00",
   "total": 68,
   "jobs": [
+    {
+      "id": "71cc4004",
+      "title": "Framework Software Engineer",
+      "company": "name",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/extrahop-networks/jobs/framework-software-engineer",
+      "source": "himalayas",
+      "date": "2026-08-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "framework-engineer",
+        "network-security-engineering",
+        "systems-engineering",
+        "protocol-engineering",
+        "backend-engineering",
+        "framework-engineering",
+        "automation-framework-engineer",
+        "android-framework-engineer",
+        "software-platform-engineer",
+        "ai-framework-developer",
+        "infrastructure-software-engineer",
+        "software-engineer"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "e2532a37",
       "title": "Qualitätsprüfer Wareneingang (m/w/d)",
@@ -37,19 +65,29 @@
       "miss_count": 0
     },
     {
-      "id": "2ad4cb6b",
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "company": "Jobgether",
-      "location": "UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/senior-software-engineer-tools-automation-uk-362397",
-      "source": "arbeitnow",
+      "id": "9e9b3aab",
+      "title": "Mobile Staff QA Engineer I (AI)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/845325-mobile-staff-qa-engineer-ai",
+      "source": "hirify",
       "date": "2026-08-14",
-      "salary": "",
-      "type": "Full-time",
+      "salary": "USD 6400",
+      "type": "fulltime",
       "tags": [
-        "it"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -1601,30 +1639,6 @@
       "salary": "$150k - $230k",
       "type": "contract",
       "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "073ed5ec",
-      "title": "Mobile QA Tester (Edtech)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/740458-mobile-qa-tester-edtech",
-      "source": "hirify",
-      "date": "2026-07-15",
-      "salary": "GBP 72000 (~$96386)",
-      "type": "project",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
       "miss_count": 0
     }
   ]
