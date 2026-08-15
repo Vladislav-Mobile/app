@@ -1,32 +1,40 @@
 {
-  "updated_at": "2026-08-15T01:01:41.281231+00:00",
+  "updated_at": "2026-08-15T06:31:38.187978+00:00",
   "total": 68,
   "jobs": [
     {
-      "id": "71cc4004",
-      "title": "Framework Software Engineer",
-      "company": "name",
-      "location": "United States",
+      "id": "cfe245ff",
+      "title": "QA Engineer",
+      "company": "ScholarshipOwl",
+      "location": "Remote job",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/extrahop-networks/jobs/framework-software-engineer",
-      "source": "himalayas",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-berlin-144177",
+      "source": "arbeitnow",
       "date": "2026-08-15",
       "salary": "",
-      "type": "",
+      "type": "Mid, fulltime permanent",
       "tags": [
-        "framework-engineer",
-        "network-security-engineering",
-        "systems-engineering",
-        "protocol-engineering",
-        "backend-engineering",
-        "framework-engineering",
-        "automation-framework-engineer",
-        "android-framework-engineer",
-        "software-platform-engineer",
-        "ai-framework-developer",
-        "infrastructure-software-engineer",
-        "software-engineer"
+        "development",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5a02745d",
+      "title": "QA Engineer Mobile",
+      "company": "ScholarshipOwl",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-235915",
+      "source": "arbeitnow",
+      "date": "2026-08-15",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "development",
+        "remote"
       ],
       "miss_count": 0
     },
@@ -44,23 +52,6 @@
       "type": "",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "814bb174",
-      "title": "Techniker Systemintegration / Mechatronik (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-107141",
-      "source": "arbeitnow",
-      "date": "2026-08-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
