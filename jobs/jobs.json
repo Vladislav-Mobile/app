@@ -1,57 +1,120 @@
 {
-  "updated_at": "2026-08-15T06:31:38.187978+00:00",
-  "total": 68,
+  "updated_at": "2026-08-15T12:30:16.140093+00:00",
+  "total": 69,
   "jobs": [
     {
-      "id": "cfe245ff",
-      "title": "QA Engineer",
-      "company": "ScholarshipOwl",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-berlin-144177",
-      "source": "arbeitnow",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "development",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5a02745d",
-      "title": "QA Engineer Mobile",
-      "company": "ScholarshipOwl",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-235915",
-      "source": "arbeitnow",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "development",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e2532a37",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
+      "id": "bf08b677",
+      "title": "Working Student Field Marketing and Events DACH (f/m/d)",
+      "company": "Eqs Group",
       "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-174048",
+      "url": "https://www.arbeitnow.com/jobs/companies/eqs-group/working-student-field-marketing-and-events-dach-munich-191289",
       "source": "arbeitnow",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
+      "salary": "",
+      "type": "Entry, Working student, Full or part time",
+      "tags": [
+        "field marketing",
+        "b2b marketing",
+        "event management",
+        "campaign management",
+        "webinars",
+        "salesforce",
+        "hubspot",
+        "crm",
+        "marketing automation",
+        "ai tools",
+        "excel",
+        "powerpoint",
+        "marketing analytics",
+        "sales enablement",
+        "lead management",
+        "market research",
+        "data analysis",
+        "content localization",
+        "saas",
+        "compliance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "def7f037",
+      "title": "Working Student – Community & User Generated Content Operations",
+      "company": "Lovehoney Group",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/working-student-community-user-generated-content-operations-berlin-133840",
+      "source": "arbeitnow",
+      "date": "2026-08-15",
+      "salary": "",
+      "type": "Working Student",
+      "tags": [
+        "52.3. product - ux testing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "304f8eb6",
+      "title": "Software and Satellite Operations Quality Assurance Engineer",
+      "company": "spire",
+      "location": "Glasgow",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spire/software-and-satellite-operations-quality-assurance-engineer-glasgow-183822",
+      "source": "arbeitnow",
+      "date": "2026-08-15",
       "salary": "",
       "type": "",
       "tags": [
-        "quality management"
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "71cc4004",
+      "title": "Framework Software Engineer",
+      "company": "name",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/extrahop-networks/jobs/framework-software-engineer",
+      "source": "himalayas",
+      "date": "2026-08-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "framework-engineer",
+        "network-security-engineering",
+        "systems-engineering",
+        "protocol-engineering",
+        "backend-engineering",
+        "framework-engineering",
+        "automation-framework-engineer",
+        "android-framework-engineer",
+        "software-platform-engineer",
+        "ai-framework-developer",
+        "infrastructure-software-engineer",
+        "software-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "63e78440",
+      "title": "Quality Checker",
+      "company": "InTechNative",
+      "location": "Nellore, ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
+      "source": "remoteok",
+      "date": "2026-08-14",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "infosec",
+        "javascript"
       ],
       "miss_count": 0
     },
@@ -904,24 +967,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c64583d7",
-      "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258325",
-      "source": "telegram",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
