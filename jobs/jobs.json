@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T06:33:42.457781+00:00",
-  "total": 71,
+  "updated_at": "2026-08-16T12:31:54.101811+00:00",
+  "total": 72,
   "jobs": [
     {
       "id": "64dfcd7e",
@@ -218,6 +218,46 @@
       "type": "",
       "tags": [
         "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e8f2893b",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "remotive",
+      "date": "2026-08-14",
+      "salary": "$170k - $200k",
+      "type": "full_time",
+      "tags": [
+        "api",
+        "css",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "ai/ml",
+        "cad",
+        "advertising",
+        "redis",
+        "es6",
+        "web applications",
+        "mysql",
+        "nlp",
+        "fintech",
+        "micro services",
+        "github",
+        "system architecture"
       ],
       "miss_count": 0
     },
