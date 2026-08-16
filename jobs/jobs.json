@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-15T18:22:58.623040+00:00",
-  "total": 76,
+  "updated_at": "2026-08-16T01:05:05.124821+00:00",
+  "total": 69,
   "jobs": [
+    {
+      "id": "83fb5537",
+      "title": "CNC Machinist - Fully Remote | Upto $175/hr Part-time",
+      "company": "name",
+      "location": "Japan",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/mercor/jobs/cnc-machinist-fully-remote-upto-175-hr-part-time-8448357520",
+      "source": "himalayas",
+      "date": "2026-08-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "cnc-machinist",
+        "cnc-machining-expert",
+        "manufacturing-quality-assurance",
+        "technical-review-specialist",
+        "machining-consultant",
+        "remote-part-time-cnc-machinist",
+        "remote-cnc-machinist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "066819b5",
+      "title": "QA Tester Entry Level",
+      "company": "Ace IT Careers",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+      "source": "remoteok",
+      "date": "2026-08-15",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "testing",
+        "dev",
+        "analyst",
+        "quality assurance",
+        "digital nomad"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "1ed3f2d3",
       "title": "Senior Data Analyst - Experimentation & A/B Testing (f/m/d)",
@@ -124,138 +168,6 @@
       "type": "",
       "tags": [
         "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "51c19fc1",
-      "title": "Microsoft Office Expert - Fully Remote | Upto $100/hr",
-      "company": "name",
-      "location": "Australia",
-      "remote": true,
-      "country": "AU",
-      "url": "https://himalayas.app/companies/mercor/jobs/microsoft-office-expert-fully-remote-upto-100-hr-976998485",
-      "source": "himalayas",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "office-suite-administration",
-        "document-evaluation",
-        "ai-content-review",
-        "quality-assurance",
-        "office-productivity",
-        "remote-microsoft-office-instructor",
-        "microsoft-office-specialist",
-        "microsoft-word-expert",
-        "remote-excel-work",
-        "microsoft-word-specialist",
-        "microsoft-powerpoint-specialist",
-        "microsoft-365-specialist",
-        "ms-word-specialist",
-        "microsoft-office-trainer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "631b507f",
-      "title": "Quality Analyst, Gen AI Data Quality",
-      "company": "name",
-      "location": "India",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/welocalize/jobs/quality-analyst-gen-ai-data-quality",
-      "source": "himalayas",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-analyst",
-        "data-quality-analyst",
-        "ai-quality-assurance",
-        "qa-manager",
-        "generative-ai",
-        "ai-data-quality-analyst",
-        "data-qa-analyst",
-        "ai-data-quality-analyst-jobs",
-        "ai-quality-assurance-analyst",
-        "ai-data-quality-specialist",
-        "quality-data-analyst",
-        "data-quality-analyst-jobs",
-        "data-quality-associate"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "64dfcd7e",
-      "title": "Audio Engineer - Fully Remote | Upto $36/hr",
-      "company": "name",
-      "location": "Slovakia",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/mercor/jobs/audio-engineer-fully-remote-upto-36-hr",
-      "source": "himalayas",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "music-production",
-        "audio-engineering",
-        "music-evaluation",
-        "ai-quality-assurance",
-        "freelance-music",
-        "audio-engineer",
-        "freelance-audio-editor",
-        "freelance-audio-production",
-        "technical-audio-engineer",
-        "real-time-audio-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0c0e49f6",
-      "title": "Senior Lifecycle Marketing Manager",
-      "company": "name",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/destination-pet/jobs/senior-lifecycle-marketing-manager",
-      "source": "himalayas",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "lifecycle-marketing",
-        "crm-marketing",
-        "retention-marketing",
-        "customer-marketing",
-        "marketing-automation",
-        "senior-lifecycle-marketing-manager",
-        "lifecycle-marketing-manager",
-        "senior-lifecycle-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c490296f",
-      "title": "Visual Data Analyst - Fully Remote | Upto $35/hr",
-      "company": "name",
-      "location": "Australia",
-      "remote": true,
-      "country": "AU",
-      "url": "https://himalayas.app/companies/mercor/jobs/visual-data-analyst-fully-remote-upto-35-hr-1557641635",
-      "source": "himalayas",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-testing",
-        "data-labeling",
-        "prompt-engineering",
-        "image-analysis",
-        "visual-data-analyst",
-        "data-visualization-analyst",
-        "data-analyst"
       ],
       "miss_count": 0
     },
@@ -1756,84 +1668,6 @@
         "",
         ""
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "4a4b63ac",
-      "title": "Patient Care Specialist",
-      "company": "STATLINX",
-      "location": "USA",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
-      "source": "remotive",
-      "date": "2026-07-16",
-      "salary": "$36k",
-      "type": "full_time",
-      "tags": [
-        "research",
-        "insurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5dea3c5d",
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "remote": true,
-      "country": "EU",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "source": "remotive",
-      "date": "2026-07-16",
-      "salary": "$90 - $150 /hour",
-      "type": "contract",
-      "tags": [
-        "go",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cbb76f75",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "remote": true,
-      "country": "EU",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "remotive",
-      "date": "2026-07-16",
-      "salary": "$120 - $170 /hour",
-      "type": "contract",
-      "tags": [
-        "go",
-        "ui/ux",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e6840f53",
-      "title": "Head of Marketing & Communications",
-      "company": "garden3d",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "source": "remotive",
-      "date": "2026-07-16",
-      "salary": "$150k - $230k",
-      "type": "contract",
-      "tags": [],
       "miss_count": 0
     }
   ]
