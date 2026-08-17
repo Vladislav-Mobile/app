@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-17T06:46:41.750601+00:00",
-  "total": 67,
+  "updated_at": "2026-08-17T12:36:44.665820+00:00",
+  "total": 69,
   "jobs": [
+    {
+      "id": "9c32a16a",
+      "title": "Working Student CAD(m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/working-student-cad-ottobrunn-bavaria-457676",
+      "source": "arbeitnow",
+      "date": "2026-08-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "production",
+        "operations & quality"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "8275a905",
       "title": "Chief Revenue Officer (m/w/d)",
@@ -49,6 +67,51 @@
         "red-team-expert",
         "freelance-ai-security-consultant",
         "red-team-consultant"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cbb76f75",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "remote": true,
+      "country": "EU",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "source": "remotive",
+      "date": "2026-08-16",
+      "salary": "$120 - $170 /hour",
+      "type": "contract",
+      "tags": [
+        "go",
+        "ui/ux",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5dea3c5d",
+      "title": "Senior Independent Software Developer",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "remote": true,
+      "country": "EU",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "source": "remotive",
+      "date": "2026-08-16",
+      "salary": "$90 - $150 /hour",
+      "type": "contract",
+      "tags": [
+        "go",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
       ],
       "miss_count": 0
     },
@@ -108,6 +171,33 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e6840f53",
+      "title": "Head of Marketing & Communications",
+      "company": "garden3d",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
+      "source": "remotive",
+      "date": "2026-08-15",
+      "salary": "$150k - $230k",
+      "type": "contract",
+      "tags": [
+        "c",
+        "video",
+        "open source",
+        "ai/ml",
+        "figma",
+        "project management",
+        "editing",
+        "iot",
+        "testing",
+        "themes",
+        "mobile development"
       ],
       "miss_count": 0
     },
@@ -824,42 +914,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "05b505be",
-      "title": "📎 Ищем Mobile QA (Middle+ / Senior)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258369",
-      "source": "telegram",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "148fb32a",
-      "title": "Mobile QA Automation Engineer (iOS)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.vseti.app/vakansii/434384394334043943943433333",
-      "source": "telegram",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
