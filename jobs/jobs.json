@@ -1,20 +1,77 @@
 {
-  "updated_at": "2026-08-18T06:36:44.902557+00:00",
-  "total": 65,
+  "updated_at": "2026-08-18T12:38:14.594356+00:00",
+  "total": 69,
   "jobs": [
     {
-      "id": "b6111b8b",
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "company": "Vmray Gmbh",
-      "location": "Germany, Bochum or Remote (Europe)",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-89931",
+      "id": "be913df8",
+      "title": "Software Quality Engineer (W/M/D)",
+      "company": "secupay AG",
+      "location": "Pulsnitz",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/secupay-ag/software-quality-engineer-pulsnitz-385961",
       "source": "arbeitnow",
       "date": "2026-08-18",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "consulting",
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f489c14f",
+      "title": "Monitoring Specialist/IT Operations Engineer (W/M/D)",
+      "company": "secupay AG",
+      "location": "Pulsnitz",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/secupay-ag/monitoring-specialist-it-operations-engineer-pulsnitz-240722",
+      "source": "arbeitnow",
+      "date": "2026-08-18",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "aa15ad61",
+      "title": "Junior Qualitätsmanager / Ass. der Qualitätsmanagement Leitung (w/m/d) gesucht",
+      "company": "Peter van Eyk GmbH & Co. KG",
+      "location": "Brüggen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/peter-van-eyk-gmbh-co-kg/junior-qualitatsmanager-ass-der-qualitatsmanagement-leitung-gesucht-bruggen-289800",
+      "source": "arbeitnow",
+      "date": "2026-08-18",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bf4bc99a",
+      "title": "Business Automation Specialist - Customer Care",
+      "company": "Perk",
+      "location": "Birmingham",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-specialist-customer-care-birmingham-368118",
+      "source": "arbeitnow",
+      "date": "2026-08-18",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "customer care"
+      ],
       "miss_count": 0
     },
     {
@@ -48,6 +105,31 @@
       "type": "Permanent",
       "tags": [
         "personalization"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bfe5d19c",
+      "title": "QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/856929-qa-engineer-mobile-testing",
+      "source": "hirify",
+      "date": "2026-08-18",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -97,21 +179,20 @@
       "miss_count": 0
     },
     {
-      "id": "173ed5ae",
-      "title": "AI Engineering & Automation Specialist (on-site)",
-      "company": "Cloover",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-215529",
-      "source": "arbeitnow",
-      "date": "2026-08-17",
-      "salary": "",
-      "type": "Entry, Permanent, Full time",
+      "id": "4a4b63ac",
+      "title": "Patient Care Specialist",
+      "company": "STATLINX",
+      "location": "USA",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+      "source": "remotive",
+      "date": "2026-08-16",
+      "salary": "$36k",
+      "type": "full_time",
       "tags": [
-        "ai",
-        "artificial intelligence",
-        "renewal energy"
+        "research",
+        "insurance"
       ],
       "miss_count": 0
     },
