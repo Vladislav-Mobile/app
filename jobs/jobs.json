@@ -1,49 +1,7 @@
 {
-  "updated_at": "2026-08-17T18:33:44.314099+00:00",
-  "total": 68,
+  "updated_at": "2026-08-18T01:01:38.402724+00:00",
+  "total": 70,
   "jobs": [
-    {
-      "id": "9541e766",
-      "title": "(Senior) Software Engineer - Android (m/w/d)",
-      "company": "Mway",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/mway/senior-software-engineer-android-stuttgart-256054",
-      "source": "arbeitnow",
-      "date": "2026-08-17",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "android",
-        "kotlin",
-        "software",
-        "ci/cd",
-        "software-testing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8275a905",
-      "title": "Chief Revenue Officer (m/w/d)",
-      "company": "Leafworks Gmbh",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leafworks-gmbh/remote-chief-revenue-officer-28895",
-      "source": "arbeitnow",
-      "date": "2026-08-17",
-      "salary": "",
-      "type": "Executive, Permanent, Full time",
-      "tags": [
-        "customer service",
-        "automation",
-        "cro",
-        "chief revenue officer",
-        "it"
-      ],
-      "miss_count": 0
-    },
     {
       "id": "d29b7540",
       "title": "Research Consultant - Fully Remote | Upto $70/hr",
@@ -53,7 +11,7 @@
       "country": "US",
       "url": "https://himalayas.app/companies/mercor/jobs/research-consultant-fully-remote-upto-70-hr",
       "source": "himalayas",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "salary": "",
       "type": "",
       "tags": [
@@ -76,7 +34,7 @@
       "country": "US",
       "url": "https://himalayas.app/companies/medline-industries-lp/jobs/product-servicing-spec",
       "source": "himalayas",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "salary": "",
       "type": "",
       "tags": [
@@ -104,7 +62,7 @@
       "country": "US",
       "url": "https://himalayas.app/companies/mercor/jobs/music-lyrics-specialist-remote-upto-15-hr-5990416331",
       "source": "himalayas",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "salary": "",
       "type": "",
       "tags": [
@@ -118,6 +76,85 @@
         "lyrics-specialist",
         "music-content-specialist",
         "music-lyricist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "173ed5ae",
+      "title": "AI Engineering & Automation Specialist (on-site)",
+      "company": "Cloover",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-215529",
+      "source": "arbeitnow",
+      "date": "2026-08-17",
+      "salary": "",
+      "type": "Entry, Permanent, Full time",
+      "tags": [
+        "ai",
+        "artificial intelligence",
+        "renewal energy"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4296568c",
+      "title": "Werkstudent in E-Commerce (m/w/d)",
+      "company": "Dedicom",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dedicom/werkstudent-in-e-commerce-munchen-72075",
+      "source": "arbeitnow",
+      "date": "2026-08-17",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [
+        "werkstudent",
+        "e-commerce",
+        "shopmanagement",
+        "stammdatenpflege",
+        "qualitätsmanagement",
+        "cms",
+        "html",
+        "css",
+        "prozessdokumentation",
+        "quality checks"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a278ef53",
+      "title": "Senior Machine Learning Engineer: Search Quality",
+      "company": "Constructor",
+      "location": "Remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/senior-machine-learning-engineer-search-quality-munich-265685",
+      "source": "arbeitnow",
+      "date": "2026-08-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "31b2edce",
+      "title": "Engineering Manager - Software and System Testing (f/m/d)",
+      "company": "Munich Electrification",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/munich-electrification/engineering-manager-software-and-system-testing-munich-29791",
+      "source": "arbeitnow",
+      "date": "2026-08-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "munich electrification"
       ],
       "miss_count": 0
     },
