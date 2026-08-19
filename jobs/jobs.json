@@ -1,33 +1,67 @@
 {
-  "updated_at": "2026-08-19T01:02:08.541521+00:00",
-  "total": 67,
+  "updated_at": "2026-08-19T06:38:02.557615+00:00",
+  "total": 68,
   "jobs": [
     {
-      "id": "88340d91",
-      "title": "QA Automation Analyst",
+      "id": "b38cec76",
+      "title": "Working Student Product Manager – MarTech",
+      "company": "JustWatch",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/justwatch/working-student-product-manager-martech-berlin-80887",
+      "source": "arbeitnow",
+      "date": "2026-08-19",
+      "salary": "",
+      "type": "Part-time",
+      "tags": [
+        "martech & automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5f143266",
+      "title": "Product Manager – MarTech",
+      "company": "JustWatch",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/justwatch/product-manager-martech-berlin-482580",
+      "source": "arbeitnow",
+      "date": "2026-08-19",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "martech & automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4e779c26",
+      "title": "Finance & Accounts",
       "company": "name",
-      "location": "Canada",
+      "location": "India",
       "remote": true,
-      "country": "CA",
-      "url": "https://himalayas.app/companies/j-d-power/jobs/qa-automation-analyst",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/drivetrain/jobs/finance-accounts",
       "source": "himalayas",
       "date": "2026-08-19",
       "salary": "",
       "type": "",
       "tags": [
-        "qa-automation",
-        "software-testing",
-        "quality-assurance",
-        "test-engineering",
-        "automation-engineering",
-        "qa-automation-analyst",
-        "automation-qa-analyst",
-        "qa-automation-engineer",
-        "qa-automation-specialist",
-        "automation-test-analyst",
-        "qa-automation-developer",
-        "test-automation-analyst",
-        "automation-qa-specialist"
+        "finance-and-accounts",
+        "accounting",
+        "finance-operations",
+        "process-automation",
+        "indian-tax-compliance",
+        "accounts-and-finance",
+        "finance-&amp;-accounting",
+        "finance-and-accounting",
+        "accounting-and-finance",
+        "finance-and-accounting-support",
+        "finance-and-accounting-management",
+        "finance-and-accounting-operations",
+        "finance"
       ],
       "miss_count": 0
     },
@@ -85,24 +119,6 @@
         "engineering",
         "computer software",
         "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a82cafaa",
-      "title": "Automation & AI Specialist (m/w/d)",
-      "company": "WorkflowX",
-      "location": "München",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/workflowx/automation-ai-specialist-munchen-229852",
-      "source": "arbeitnow",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "remote",
-        "it"
       ],
       "miss_count": 0
     },
