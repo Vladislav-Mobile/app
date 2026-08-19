@@ -1,7 +1,93 @@
 {
-  "updated_at": "2026-08-18T18:32:39.226906+00:00",
-  "total": 70,
+  "updated_at": "2026-08-19T01:02:08.541521+00:00",
+  "total": 67,
   "jobs": [
+    {
+      "id": "88340d91",
+      "title": "QA Automation Analyst",
+      "company": "name",
+      "location": "Canada",
+      "remote": true,
+      "country": "CA",
+      "url": "https://himalayas.app/companies/j-d-power/jobs/qa-automation-analyst",
+      "source": "himalayas",
+      "date": "2026-08-19",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-automation",
+        "software-testing",
+        "quality-assurance",
+        "test-engineering",
+        "automation-engineering",
+        "qa-automation-analyst",
+        "automation-qa-analyst",
+        "qa-automation-engineer",
+        "qa-automation-specialist",
+        "automation-test-analyst",
+        "qa-automation-developer",
+        "test-automation-analyst",
+        "automation-qa-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f921e51c",
+      "title": "Quality Assurance Engineer (m/f/d)",
+      "company": "Hero Software",
+      "location": "Germany",
+      "remote": true,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/hero-software/remote-quality-assurance-engineer-germany-390882",
+      "source": "arbeitnow",
+      "date": "2026-08-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering",
+        "computer software",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ec43f7ab",
+      "title": "Quality Assurance Engineer (m/f/d)",
+      "company": "Hero Software",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/hero-software/remote-quality-assurance-engineer-berlin-278465",
+      "source": "arbeitnow",
+      "date": "2026-08-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering",
+        "computer software",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6624dc45",
+      "title": "Quality Assurance Engineer (m/f/d)",
+      "company": "Hero Software",
+      "location": "Hanover, Germany",
+      "remote": true,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/hero-software/remote-quality-assurance-engineer-hanover-79244",
+      "source": "arbeitnow",
+      "date": "2026-08-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering",
+        "computer software",
+        "remote"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "a82cafaa",
       "title": "Automation & AI Specialist (m/w/d)",
@@ -17,120 +103,6 @@
       "tags": [
         "remote",
         "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6564d1de",
-      "title": "Senior Customer Solution Architect – AI & Automation (m/f/d)",
-      "company": "Cdq Ag",
-      "location": "Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/cdq-ag/senior-customer-solution-architect-ai-automation-deutschland-150736",
-      "source": "arbeitnow",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "data management",
-        "data quality",
-        "ai automation",
-        "python",
-        "solution architecture",
-        "saas integration",
-        "sap erp",
-        "sap mdg",
-        "forward-deployed engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "be913df8",
-      "title": "Software Quality Engineer (W/M/D)",
-      "company": "secupay AG",
-      "location": "Pulsnitz",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/secupay-ag/software-quality-engineer-pulsnitz-385961",
-      "source": "arbeitnow",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "remote",
-        "consulting",
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f489c14f",
-      "title": "Monitoring Specialist/IT Operations Engineer (W/M/D)",
-      "company": "secupay AG",
-      "location": "Pulsnitz",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/secupay-ag/monitoring-specialist-it-operations-engineer-pulsnitz-240722",
-      "source": "arbeitnow",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bf4bc99a",
-      "title": "Business Automation Specialist - Customer Care",
-      "company": "Perk",
-      "location": "Birmingham",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-specialist-customer-care-birmingham-368118",
-      "source": "arbeitnow",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "customer care"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "35a6490d",
-      "title": "Business Automation Specialist - Customer Care",
-      "company": "Perk",
-      "location": "Birmingham",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-specialist-customer-care-birmingham-375218",
-      "source": "arbeitnow",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "customer care"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f31f99aa",
-      "title": "Senior Product Quality Analyst - AI Voice",
-      "company": "Spotify",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-quality-analyst-ai-voice-london-134064",
-      "source": "arbeitnow",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "Permanent",
-      "tags": [
-        "personalization"
       ],
       "miss_count": 0
     },
@@ -156,32 +128,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "57d9a45a",
-      "title": "Full-Stack QA Engineer",
-      "company": "CXM Direct LLC",
-      "location": "Cyprus",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/cxm-direct-llc/jobs/full-stack-qa-engineer-4657689107",
-      "source": "himalayas",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineer",
-        "full-stack-qa-engineer",
-        "software-testing",
-        "quality-assurance",
-        "automation-testing",
-        "full-stack-qa",
-        "full-stack-application-tester",
-        "full-stack-testing",
-        "software-qa-engineer",
-        "software-qa-and-testing-engineer"
       ],
       "miss_count": 0
     },
