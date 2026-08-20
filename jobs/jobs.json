@@ -1,56 +1,24 @@
 {
-  "updated_at": "2026-08-20T12:40:35.526539+00:00",
-  "total": 68,
+  "updated_at": "2026-08-20T18:34:07.552188+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "9295480a",
-      "title": "(Junior) Operations Manager – Process Excellence & Automation (w/m/d)",
-      "company": "Enpal",
-      "location": "Berlin",
+      "id": "ab30c970",
+      "title": "AI Automation Engineer – Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin – Hybrid",
+      "company": "Klickpiloten",
+      "location": "Stuttgart",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/junior-operations-manager-process-excellence-automation-berlin-97457",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-275783",
       "source": "arbeitnow",
       "date": "2026-08-20",
       "salary": "",
-      "type": "Full Time",
+      "type": "Experienced, Permanent, Full time",
       "tags": [
-        "headquarter growth"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d55bd90f",
-      "title": "Working Student Technical Integrations & Automation",
-      "company": "MedMatic GmbH",
-      "location": "Munich",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/medmatic-gmbh/working-student-technical-integrations-automation-munich-188922",
-      "source": "arbeitnow",
-      "date": "2026-08-20",
-      "salary": "",
-      "type": "Working student, no experience required / student",
-      "tags": [
-        "remote",
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2ddb9699",
-      "title": "Principal Product Designer",
-      "company": "Nice",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/principal-product-designer-312349",
-      "source": "arbeitnow",
-      "date": "2026-08-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "cx - agentic experience automation"
+        "ai & automatisierung",
+        "interne systeme",
+        "kundenberatung",
+        "digital.marketing technologist"
       ],
       "miss_count": 0
     },
@@ -72,20 +40,18 @@
       "miss_count": 0
     },
     {
-      "id": "3e86298b",
-      "title": "Mobile QA Automation Engineer",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": false,
+      "id": "33400bb3",
+      "title": "QA Manual (Mobile Games)",
+      "company": "Doghowl Games",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/890752-mobile-qa-automation-engineer",
+      "url": "https://hirify.me/vacancies/896920-qa-manual-mobile-games",
       "source": "hirify",
       "date": "2026-08-20",
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
         "",
         "",
         "",
@@ -1657,6 +1623,28 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4a0f41b1",
+      "title": "QA Engineer (Mobile)",
+      "company": "DreamSoft",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/757779-aqa-engineer-python",
+      "source": "hirify",
+      "date": "2026-07-21",
+      "salary": "RUB 120000 (~$1412)",
+      "type": "project",
+      "tags": [
         "",
         "",
         "",
