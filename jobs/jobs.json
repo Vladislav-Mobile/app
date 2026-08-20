@@ -1,7 +1,78 @@
 {
-  "updated_at": "2026-08-20T01:01:30.282163+00:00",
-  "total": 69,
+  "updated_at": "2026-08-20T06:39:08.080949+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "5309716f",
+      "title": "Director AI & Automation",
+      "company": "Onemedia Consulting",
+      "location": "Onemedia Germany, Munich",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-269990",
+      "source": "arbeitnow",
+      "date": "2026-08-20",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "a7b9e940",
+      "title": "Product Manager (m/w/d) Quality Control Compliance (befristet auf 24 Monate)",
+      "company": "simtrabps",
+      "location": "Halle, North Rhine-Westphalia",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/simtrabps/product-manager-quality-control-compliance-befristet-auf-24-monate-halle-north-rhine-westphalia-10486",
+      "source": "arbeitnow",
+      "date": "2026-08-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality & regulatory"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "16aaafcf",
+      "title": "Senior Technical QA Tester (f/m/d)",
+      "company": "Kolibri Games",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/kolibri-games/senior-technical-qa-tester-berlin-germany-293124",
+      "source": "arbeitnow",
+      "date": "2026-08-20",
+      "salary": "",
+      "type": "Full-Time",
+      "tags": [
+        "idle bank tycoon"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2db77eb3",
+      "title": "Freiberufliche Auditorenin / Agrarwirtin / Agrartechniker*in / Landwirtschafts",
+      "company": "SGS",
+      "location": "Germany",
+      "remote": true,
+      "country": "DE",
+      "url": "https://himalayas.app/companies/sgs/jobs/freiberufliche-auditoren-in-agrarwirt-in-agrartechniker-in-landwirtschafts",
+      "source": "himalayas",
+      "date": "2026-08-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-assurance",
+        "farming",
+        "agricultural-auditor",
+        "livestock-management",
+        "food-safety",
+        "ingénieur-en-agronomie"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "4b7ba119",
       "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
@@ -71,26 +142,6 @@
         "datenschutz",
         "iso 27001",
         "tisax"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "da17f0a3",
-      "title": "Senior Manager Quality (w/m/d)",
-      "company": "Vitafy",
-      "location": "Leipzig",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vitafy/senior-manager-quality-leipzig-93900",
-      "source": "arbeitnow",
-      "date": "2026-08-19",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "quality",
-        "qualitätssicherung",
-        "freigaben",
-        "join"
       ],
       "miss_count": 0
     },
