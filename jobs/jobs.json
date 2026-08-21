@@ -1,92 +1,38 @@
 {
-  "updated_at": "2026-08-21T12:39:23.332292+00:00",
-  "total": 73,
+  "updated_at": "2026-08-21T18:31:24.275633+00:00",
+  "total": 69,
   "jobs": [
     {
-      "id": "14d12a8f",
-      "title": "Software Project Lead - Warehouse Automation",
-      "company": "Exotec",
-      "location": "Munich, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/exotec/software-project-lead-warehouse-automation-munich-468728",
-      "source": "arbeitnow",
-      "date": "2026-08-21",
-      "salary": "",
-      "type": "Full time, mid-senior",
-      "tags": [
-        "deployment"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6d4416eb",
-      "title": "CRM & Automation Manager",
-      "company": "Nailscamp GmbH",
-      "location": "Berlin",
+      "id": "049d17c9",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nailscamp-gmbh/crm-automation-manager-berlin-276424",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-61526",
       "source": "arbeitnow",
       "date": "2026-08-21",
       "salary": "",
       "type": "",
       "tags": [
-        "marketing and communication"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "53afc7df",
-      "title": "Go-to-Market Engineer – AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
+      "id": "ce04adf1",
+      "title": "Freelance Frontend Engineer (all genders)",
+      "company": "gropyus",
+      "location": "Berlin, Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/go-to-market-engineer-ai-automation-berlin-400699",
+      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/freelance-frontend-engineer-all-genders-berlin-berlin-353220",
       "source": "arbeitnow",
       "date": "2026-08-21",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "",
       "tags": [
-        "ai",
-        "gtm"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a4308376",
-      "title": "Senior Consultant Microsoft Dynamics 365 (gn)",
-      "company": "Ifblueprint",
-      "location": "München oder deutschlandweit remote",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/ifblueprint/remote-senior-consultant-microsoft-dynamics-365-gn-283254",
-      "source": "arbeitnow",
-      "date": "2026-08-21",
-      "salary": "",
-      "type": "Experienced, Permanent, Full or part time",
-      "tags": [
-        "microsoft dynamics 365",
-        "dynamics 365 sales",
-        "microsoft crm",
-        "customer engagement",
-        "power platform",
-        "power apps",
-        "power automate",
-        "dataverse",
-        "microsoft copilot",
-        "dynamics 365 copilot",
-        "copilot studio",
-        "ai",
-        "generative ai",
-        "ki-gestützte prozessautomatisierung",
-        "sales automation",
-        "crm consulting",
-        "solution architecture",
-        "requirements engineering",
-        "pre-sales",
-        "projektleitung"
+        "planning automation"
       ],
       "miss_count": 0
     },
@@ -1003,42 +949,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c576f372",
-      "title": "🧾 Вакансия: QA Lead (от 3 лет опыта Java Appium Mobile + управления командой)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258451",
-      "source": "telegram",
-      "date": "2026-08-11",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e01c2865",
-      "title": "🧾 Вакансия: QA Automation Engineer Java (Appium Mobile от 3 лет)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258449",
-      "source": "telegram",
-      "date": "2026-08-11",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
