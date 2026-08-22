@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-08-21T18:31:24.275633+00:00",
-  "total": 69,
+  "updated_at": "2026-08-22T01:01:16.880976+00:00",
+  "total": 66,
   "jobs": [
+    {
+      "id": "200ab18a",
+      "title": "Senior Data Analyst (m/f/d)",
+      "company": "Westwing Group SE",
+      "location": "Munich Office",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/westwing-group-se/senior-data-analyst-munich-office-472692",
+      "source": "arbeitnow",
+      "date": "2026-08-21",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "data",
+        "marketing",
+        "sql",
+        "python",
+        "streamlit",
+        "ai",
+        "automation"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "049d17c9",
       "title": "Qualitätsprüfer Wareneingang (m/w/d)",
@@ -16,57 +39,6 @@
       "type": "",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ce04adf1",
-      "title": "Freelance Frontend Engineer (all genders)",
-      "company": "gropyus",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/freelance-frontend-engineer-all-genders-berlin-berlin-353220",
-      "source": "arbeitnow",
-      "date": "2026-08-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "planning automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0dfceed0",
-      "title": "Manager, EMEA FCC Monitoring & Testing",
-      "company": "Airwallex",
-      "location": "UK - London",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/manager-emea-fcc-monitoring-testing-london-269846",
-      "source": "arbeitnow",
-      "date": "2026-08-21",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "regulatory & compliance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "65061810",
-      "title": "Manager, EMEA FCC Monitoring & Testing",
-      "company": "Airwallex",
-      "location": "UK - London",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/manager-emea-fcc-monitoring-testing-london-261025",
-      "source": "arbeitnow",
-      "date": "2026-08-21",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "regulatory & compliance"
       ],
       "miss_count": 0
     },
@@ -116,35 +88,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "72688ebf",
-      "title": "Integration Platform Developer",
-      "company": "Bright Vision Technologies",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/integration-platform-developer-3340637499",
-      "source": "himalayas",
-      "date": "2026-08-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "integration-platform-developer",
-        "enterprise-integration-developer",
-        "api-developer",
-        "integration-architect",
-        "dell-boomi-developer",
-        "integration-developer",
-        "integration-platform-engineering",
-        "integrations-developer",
-        "cloud-integration-developer",
-        "it-integration-developer",
-        "platform-integration-architect",
-        "integration-automation-solutions-developer",
-        "data-integration-developer"
       ],
       "miss_count": 0
     },
