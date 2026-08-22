@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-22T12:31:34.019488+00:00",
-  "total": 72,
+  "updated_at": "2026-08-22T18:23:55.657906+00:00",
+  "total": 73,
   "jobs": [
+    {
+      "id": "3192d608",
+      "title": "AI & Automation Werkstudent:in (m/w/d)",
+      "company": "Startup Insider",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-135532",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Entry, Intern, Part time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "e6497435",
+      "title": "Intern / Working Student for Product Quality & Testing – all genders welcome!",
+      "company": "Vice Golf Careers",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vice-golf-careers/intern-working-student-for-product-quality-testing-all-genders-welcome-munchen-395390",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Student, Intern, Full or part time",
+      "tags": [
+        "product quality",
+        "testing",
+        "internship",
+        "working student"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "369273b4",
+      "title": "Softwaretester (m/w/d) – Healthcare SaaS",
+      "company": "DMRZ",
+      "location": "Düsseldorf",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dmrz/softwaretester-healthcare-saas-dusseldorf-493764",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "testing",
+        "softwaretester",
+        "tester"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c37946c5",
       "title": "Business Automation & AI Intern/Working Student (f/m/d)",
@@ -118,37 +172,6 @@
       "type": "Full Time",
       "tags": [
         "customer care"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6c3c99b0",
-      "title": "Senior Business Unit Systems Analyst",
-      "company": "Assurant",
-      "location": "Argentina",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/assurant/jobs/senior-business-unit-systems-analyst-1340125855",
-      "source": "himalayas",
-      "date": "2026-08-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "systems-analysis",
-        "business-analysis",
-        "production-support",
-        "it-business-analysts",
-        "quality-assurance",
-        "business-unit-system-analyst",
-        "senior-business-systems-analyst",
-        "senior-business-systems-analysis",
-        "lead-business-systems-analyst",
-        "senior-systems-analyst",
-        "principal-business-systems-analyst",
-        "senior-it-business-analyst",
-        "senior-staff-business-analyst",
-        "senior-business-analyst",
-        "it-business-systems-analyst"
       ],
       "miss_count": 0
     },
@@ -936,24 +959,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "896aa6f5",
-      "title": "🧾 Вакансия: QA Automation Engineer Java (Appium Mobile от 3 лет)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258488",
-      "source": "telegram",
-      "date": "2026-08-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
