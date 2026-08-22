@@ -1,7 +1,126 @@
 {
-  "updated_at": "2026-08-22T06:33:35.042651+00:00",
-  "total": 65,
+  "updated_at": "2026-08-22T12:31:34.019488+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "c37946c5",
+      "title": "Business Automation & AI Intern/Working Student (f/m/d)",
+      "company": "Liqid Lig",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/business-automation-ai-intern-working-student-berlin-490216",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a46ff00f",
+      "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
+      "company": "Swissbit",
+      "location": "DE-Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-de-berlin-214016",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "firmware-validierung",
+        "embedded systems",
+        "testautomatisierung",
+        "qualitätssicherung",
+        "c/c++ entwicklung"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3f7bd1e4",
+      "title": "Werkstudent in E-Commerce (m/w/d)",
+      "company": "Dedicom",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dedicom/werkstudent-in-e-commerce-munchen-226215",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [
+        "werkstudent",
+        "e-commerce",
+        "shopmanagement",
+        "stammdatenpflege",
+        "qualitätsmanagement",
+        "cms",
+        "html",
+        "css",
+        "prozessdokumentation",
+        "quality checks"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cbf27dfc",
+      "title": "Chief Revenue Officer (m/w/d)",
+      "company": "Leafworks Gmbh",
+      "location": "Remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/leafworks-gmbh/remote-chief-revenue-officer-310331",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Executive, Permanent, Full time",
+      "tags": [
+        "customer service",
+        "automation",
+        "cro",
+        "chief revenue officer",
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "98eb759b",
+      "title": "Junior Automation Specialist",
+      "company": "Perk",
+      "location": "Birmingham",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/junior-automation-specialist-birmingham-357418",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "customer care"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "63e00fd4",
+      "title": "Junior Automation Specialist",
+      "company": "Perk",
+      "location": "Birmingham",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/junior-automation-specialist-birmingham-458072",
+      "source": "arbeitnow",
+      "date": "2026-08-22",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "customer care"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "6c3c99b0",
       "title": "Senior Business Unit Systems Analyst",
@@ -30,6 +149,26 @@
         "senior-staff-business-analyst",
         "senior-business-analyst",
         "it-business-systems-analyst"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5488c86b",
+      "title": "Content Reviewer - English US",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-english-us-2091105",
+      "source": "remotive",
+      "date": "2026-08-21",
+      "salary": "$14/hour",
+      "type": "part_time",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "ai/ml"
       ],
       "miss_count": 0
     },
@@ -97,6 +236,66 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "51bdf396",
+      "title": "Senior Golang Developer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Singapore",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
+      "source": "remotive",
+      "date": "2026-08-20",
+      "salary": "",
+      "type": "full_time",
+      "tags": [
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "research",
+        "rust",
+        "product management",
+        "unity",
+        "electron",
+        "spring",
+        "data analysis",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript ",
+        "angular ",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "marketplace",
+        "next.js",
+        "flutter"
       ],
       "miss_count": 0
     },
@@ -458,27 +657,6 @@
         "testing",
         "themes",
         "mobile development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "066819b5",
-      "title": "QA Tester Entry Level",
-      "company": "Ace IT Careers",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
-      "source": "remoteok",
-      "date": "2026-08-15",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "testing",
-        "dev",
-        "analyst",
-        "quality assurance",
-        "digital nomad"
       ],
       "miss_count": 0
     },
