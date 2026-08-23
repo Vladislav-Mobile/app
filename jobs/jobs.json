@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-08-23T06:35:14.848564+00:00",
-  "total": 66,
+  "updated_at": "2026-08-23T12:32:42.055230+00:00",
+  "total": 62,
   "jobs": [
+    {
+      "id": "fb9ee7d5",
+      "title": "Werkstudent HSEQ (m/w/d)",
+      "company": "Vulcan Energie Ressourcen GmbH",
+      "location": "Karlsruhe",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/werkstudent-hseq-karlsruhe-298159",
+      "source": "arbeitnow",
+      "date": "2026-08-23",
+      "salary": "",
+      "type": "Student, Intern, Full or part time",
+      "tags": [
+        "werkstudent",
+        "hse",
+        "quality"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "743af5cc",
       "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
@@ -77,95 +96,6 @@
         "clinical-documentation-improvement-specialist",
         "nursing-documentation-specialist",
         "clinical-documentation-nurse"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a2f42b66",
-      "title": "AI Deployment Strategist – MedTech Quality Management",
-      "company": "Rematiq Gmbh",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/ai-deployment-strategist-medtech-quality-management-berlin-127806",
-      "source": "arbeitnow",
-      "date": "2026-08-22",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "delivery"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9548eb5a",
-      "title": "AI Engineering & Automation Specialist (on-site)",
-      "company": "Cloover",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-204043",
-      "source": "arbeitnow",
-      "date": "2026-08-22",
-      "salary": "",
-      "type": "Entry, Permanent, Full time",
-      "tags": [
-        "ai",
-        "artificial intelligence",
-        "renewal energy"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3192d608",
-      "title": "AI & Automation Werkstudent:in (m/w/d)",
-      "company": "Startup Insider",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-135532",
-      "source": "arbeitnow",
-      "date": "2026-08-22",
-      "salary": "",
-      "type": "Entry, Intern, Part time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "cbf27dfc",
-      "title": "Chief Revenue Officer (m/w/d)",
-      "company": "Leafworks Gmbh",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leafworks-gmbh/remote-chief-revenue-officer-310331",
-      "source": "arbeitnow",
-      "date": "2026-08-22",
-      "salary": "",
-      "type": "Executive, Permanent, Full time",
-      "tags": [
-        "customer service",
-        "automation",
-        "cro",
-        "chief revenue officer",
-        "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "98eb759b",
-      "title": "Junior Automation Specialist",
-      "company": "Perk",
-      "location": "Birmingham",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/junior-automation-specialist-birmingham-357418",
-      "source": "arbeitnow",
-      "date": "2026-08-22",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "customer care"
       ],
       "miss_count": 0
     },
