@@ -1,7 +1,94 @@
 {
-  "updated_at": "2026-08-25T12:40:45.741620+00:00",
-  "total": 77,
+  "updated_at": "2026-08-25T18:34:47.967452+00:00",
+  "total": 76,
   "jobs": [
+    {
+      "id": "a94f43a7",
+      "title": "Director Production Engineering (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-production-engineering-ottobrunn-bavaria-parsdorf-bavaria-399644",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "production",
+        "operations & quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3933c768",
+      "title": "Director AI & Automation",
+      "company": "Onemedia Consulting",
+      "location": "Onemedia Germany, Munich",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-91702",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "86825a06",
+      "title": "Werkstudent Software Testing (all genders)",
+      "company": "Titanom Technologies",
+      "location": "Germering, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/werkstudent-software-testing-all-genders-germering-248657",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Part time",
+      "tags": [
+        "computer software"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "62e72e51",
+      "title": "Werkstudent Software-Testing (m/w/d)",
+      "company": "functionHR GmbH",
+      "location": "Munich",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/functionhr-gmbh/werkstudent-software-testing-munich-437385",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Working student, hilfstätigkeit / student",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "678e0585",
+      "title": "Automation Operations Lead (m/w/d)",
+      "company": "Ecoturn GmbH",
+      "location": "Munich",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-operations-lead-munich-342596",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "remote",
+        "it"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ffffae16",
       "title": "Automation Developer / Backoffice Automation (m/w/d)",
@@ -37,70 +124,27 @@
       "miss_count": 0
     },
     {
-      "id": "7139b14f",
-      "title": "(Senior) Quality Specialist (System Testing)- Pre‑Integration and Testing Team (all genders)",
-      "company": "moia",
-      "location": "Berlin; Hamburg; Wolfsburg",
-      "remote": false,
+      "id": "a5074295",
+      "title": "Senior QA (Manual, Native Mobile Apps)",
+      "company": "Persona",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-quality-specialist-system-testing-preintegration-and-testing-team-all-genders-berlin-hamburg-wolfsburg-223071",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/921438-senior-qa-manual-native-mobile-apps-ai",
+      "source": "hirify",
       "date": "2026-08-25",
-      "salary": "",
-      "type": "",
+      "salary": "USD 5000",
+      "type": "fulltime",
       "tags": [
-        "cloud & platform engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7477c9ab",
-      "title": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
-      "company": "TYTAN Technologies GmbH",
-      "location": "Munich, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/unsolicited-application-working-student-flight-testing-munich-109161",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "Student college, parttime fixed term",
-      "tags": [
-        "others"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b0bd7f61",
-      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
-      "company": "Lamm HR GmbH",
-      "location": "Landkreis Bergstraße, Hessen, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-369596",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4c15acf1",
-      "title": "Senior Quality Analyst",
-      "company": "Starrez",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/starrez/senior-quality-analyst-330064",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "engineering"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -153,31 +197,6 @@
       "miss_count": 0
     },
     {
-      "id": "a5074295",
-      "title": "Senior QA (Manual, Native Mobile Apps) (AI)",
-      "company": "Persona",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/921438-senior-qa-manual-native-mobile-apps-ai",
-      "source": "hirify",
-      "date": "2026-08-25",
-      "salary": "USD 5000",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "1f7604ba",
       "title": "QA Specialist (Mobile)",
       "company": null,
@@ -198,59 +217,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "21ebe7cd",
-      "title": "Systems Administrator (Salesforce) (6771)",
-      "company": "MetroStar",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/metrostar/jobs/systems-administrator-salesforce-6771-2208825293",
-      "source": "himalayas",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "salesforce-administration",
-        "crm-administration",
-        "systems-administrator",
-        "platform-administration",
-        "business-process-automation",
-        "salesforce-administrator-i",
-        "salesforce-system-analyst",
-        "salesforce-technical-administrator",
-        "systems-support-administrator",
-        "salesforce-support-administrator"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "de223d75",
-      "title": "Reliability and Testing Engineer, Manufacturing (12-month contract)",
-      "company": "Alcon",
-      "location": "Australia",
-      "remote": true,
-      "country": "AU",
-      "url": "https://himalayas.app/companies/alcon/jobs/reliability-and-testing-engineer-manufacturing-12-month-contract",
-      "source": "himalayas",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "reliability-engineering",
-        "testing-engineering",
-        "manufacturing-engineering",
-        "quality-assurance",
-        "product-development",
-        "product-reliability-engineer",
-        "production-reliability-engineer",
-        "testing-and-validation-engineer",
-        "reliability-engineer",
-        "product-quality-assurance-engineer",
-        "manufacturing-engineer"
       ],
       "miss_count": 0
     },
@@ -1497,6 +1463,31 @@
       "miss_count": 0
     },
     {
+      "id": "2008484d",
+      "title": "Senior Mobile QA Automation (Kotlin/Swift)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/813012-senior-mobile-qa-automation-fintech",
+      "source": "hirify",
+      "date": "2026-08-06",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "49aac871",
       "title": "QA Engineer Mobile Fullstack (Java)",
       "company": "Альфа-Банк",
@@ -1563,31 +1554,6 @@
       "salary": "USD 2000–2500",
       "type": "project",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2008484d",
-      "title": "Senior Mobile QA Automation (Fintech)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/813012-senior-mobile-qa-automation-fintech",
-      "source": "hirify",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
         "",
         "",
         "",
