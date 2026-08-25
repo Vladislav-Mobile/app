@@ -1,72 +1,89 @@
 {
-  "updated_at": "2026-08-25T06:40:16.852117+00:00",
-  "total": 72,
+  "updated_at": "2026-08-25T12:40:45.741620+00:00",
+  "total": 77,
   "jobs": [
     {
-      "id": "647055b9",
-      "title": "Working Student Automation (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-automation-gilching-262863",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "Entry, internship",
-      "tags": [
-        "student & early professionals"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bea2c673",
-      "title": "Senior AI & CRM Automation Specialist (x/f/m)",
-      "company": "Doctolib",
-      "location": "Berlin, Berlin",
+      "id": "ffffae16",
+      "title": "Automation Developer / Backoffice Automation (m/w/d)",
+      "company": "Ecoturn GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-ai-crm-automation-specialist-berlin-berlin-348486",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-developer-backoffice-automation-munich-227098",
       "source": "arbeitnow",
       "date": "2026-08-25",
       "salary": "",
       "type": "",
       "tags": [
-        "strategy"
+        "it"
       ],
       "miss_count": 0
     },
     {
-      "id": "b61827ea",
-      "title": "Senior Quality Assurance Engineer (f/m/d)",
-      "company": "Zeal Network",
-      "location": "Hamburg",
+      "id": "cb44aafb",
+      "title": "Operational QA Manager for Application Software Development (m/w/x)",
+      "company": "K-tronik GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-23520",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/operational-qa-manager-for-application-software-development-munich-154736",
       "source": "arbeitnow",
       "date": "2026-08-25",
       "salary": "",
-      "type": "Full Time",
+      "type": "berufserfahren",
       "tags": [
-        "technology"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "e04ed02c",
-      "title": "QA Engineer",
-      "company": "Sereact GmbH",
-      "location": "Stuttgart Schockenriedstr. 17",
+      "id": "7139b14f",
+      "title": "(Senior) Quality Specialist (System Testing)- Pre‑Integration and Testing Team (all genders)",
+      "company": "moia",
+      "location": "Berlin; Hamburg; Wolfsburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/qa-engineer-stuttgart-139209",
+      "url": "https://www.arbeitnow.com/jobs/companies/moia/senior-quality-specialist-system-testing-preintegration-and-testing-team-all-genders-berlin-hamburg-wolfsburg-223071",
       "source": "arbeitnow",
       "date": "2026-08-25",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "software"
+        "cloud & platform engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7477c9ab",
+      "title": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "location": "Munich, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/unsolicited-application-working-student-flight-testing-munich-109161",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Student college, parttime fixed term",
+      "tags": [
+        "others"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b0bd7f61",
+      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
+      "company": "Lamm HR GmbH",
+      "location": "Landkreis Bergstraße, Hessen, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-369596",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "quality"
       ],
       "miss_count": 0
     },
@@ -84,6 +101,103 @@
       "type": "",
       "tags": [
         "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a7bdf670",
+      "title": "Mobile QA Engineer",
+      "company": null,
+      "location": "WW",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/921808-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e8bb8869",
+      "title": "Senior QA Engineer (Mobile Gaming)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/921561-senior-qa-engineer-mobile-gaming",
+      "source": "hirify",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a5074295",
+      "title": "Senior QA (Manual, Native Mobile Apps) (AI)",
+      "company": "Persona",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/921438-senior-qa-manual-native-mobile-apps-ai",
+      "source": "hirify",
+      "date": "2026-08-25",
+      "salary": "USD 5000",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1f7604ba",
+      "title": "QA Specialist (Mobile)",
+      "company": null,
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/921039-qa-specialist-mobile",
+      "source": "hirify",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -141,19 +255,20 @@
       "miss_count": 0
     },
     {
-      "id": "318414b6",
-      "title": "Senior Manager, QA Engineering",
-      "company": "Camunda",
+      "id": "8334d0fb",
+      "title": "Компания: DreamSoft",
+      "company": "",
       "location": "Remote",
       "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-194334",
-      "source": "arbeitnow",
-      "date": "2026-08-24",
+      "url": "https://t.me/qa_jobs/258917",
+      "source": "telegram",
+      "date": "2026-08-25",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "products"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
