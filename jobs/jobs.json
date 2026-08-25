@@ -1,7 +1,145 @@
 {
-  "updated_at": "2026-08-25T01:03:25.654163+00:00",
-  "total": 67,
+  "updated_at": "2026-08-25T06:40:16.852117+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "647055b9",
+      "title": "Working Student Automation (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-automation-gilching-262863",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Entry, internship",
+      "tags": [
+        "student & early professionals"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bea2c673",
+      "title": "Senior AI & CRM Automation Specialist (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/senior-ai-crm-automation-specialist-berlin-berlin-348486",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "strategy"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b61827ea",
+      "title": "Senior Quality Assurance Engineer (f/m/d)",
+      "company": "Zeal Network",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-23520",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e04ed02c",
+      "title": "QA Engineer",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/qa-engineer-stuttgart-139209",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "software"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4c15acf1",
+      "title": "Senior Quality Analyst",
+      "company": "Starrez",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/starrez/senior-quality-analyst-330064",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "21ebe7cd",
+      "title": "Systems Administrator (Salesforce) (6771)",
+      "company": "MetroStar",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/metrostar/jobs/systems-administrator-salesforce-6771-2208825293",
+      "source": "himalayas",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "salesforce-administration",
+        "crm-administration",
+        "systems-administrator",
+        "platform-administration",
+        "business-process-automation",
+        "salesforce-administrator-i",
+        "salesforce-system-analyst",
+        "salesforce-technical-administrator",
+        "systems-support-administrator",
+        "salesforce-support-administrator"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "de223d75",
+      "title": "Reliability and Testing Engineer, Manufacturing (12-month contract)",
+      "company": "Alcon",
+      "location": "Australia",
+      "remote": true,
+      "country": "AU",
+      "url": "https://himalayas.app/companies/alcon/jobs/reliability-and-testing-engineer-manufacturing-12-month-contract",
+      "source": "himalayas",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "reliability-engineering",
+        "testing-engineering",
+        "manufacturing-engineering",
+        "quality-assurance",
+        "product-development",
+        "product-reliability-engineer",
+        "production-reliability-engineer",
+        "testing-and-validation-engineer",
+        "reliability-engineer",
+        "product-quality-assurance-engineer",
+        "manufacturing-engineer"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "318414b6",
       "title": "Senior Manager, QA Engineering",
@@ -16,38 +154,6 @@
       "type": "Full Time",
       "tags": [
         "products"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9007ef6a",
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "company": "Vmray Gmbh",
-      "location": "Germany, Bochum or Remote (Europe)",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433",
-      "source": "arbeitnow",
-      "date": "2026-08-24",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "83863c26",
-      "title": "Senior Specialist Financial Controlling & Automation (m/w/d)",
-      "company": "PAUL Tech AG",
-      "location": "Mannheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/paul-tech-ag/senior-specialist-financial-controlling-automation-mannheim-81032",
-      "source": "arbeitnow",
-      "date": "2026-08-24",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "finance"
       ],
       "miss_count": 0
     },
