@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-24T18:34:59.300544+00:00",
+  "updated_at": "2026-08-25T01:03:25.654163+00:00",
   "total": 67,
   "jobs": [
+    {
+      "id": "318414b6",
+      "title": "Senior Manager, QA Engineering",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-manager-qa-engineering-194334",
+      "source": "arbeitnow",
+      "date": "2026-08-24",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "products"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9007ef6a",
+      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
+      "company": "Vmray Gmbh",
+      "location": "Germany, Bochum or Remote (Europe)",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-94433",
+      "source": "arbeitnow",
+      "date": "2026-08-24",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
     {
       "id": "83863c26",
       "title": "Senior Specialist Financial Controlling & Automation (m/w/d)",
@@ -16,40 +48,6 @@
       "type": "berufserfahren",
       "tags": [
         "finance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "89d59376",
-      "title": "AI Automation Engineer (d/m/f)",
-      "company": "Scout24",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/scout24/ai-automation-engineer-berlin-30716",
-      "source": "arbeitnow",
-      "date": "2026-08-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "85b4c42a",
-      "title": "Spezialist Lebensmittelrecht und Kennzeichnung Export (m/w/d)",
-      "company": "Dovgan GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dovgan-gmbh/spezialist-lebensmittelrecht-und-kennzeichnung-export-hamburg-108529",
-      "source": "arbeitnow",
-      "date": "2026-08-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
       ],
       "miss_count": 0
     },
@@ -872,32 +870,6 @@
       "miss_count": 0
     },
     {
-      "id": "6436b109",
-      "title": "Principal QA Engineer (Mobile)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/842839-principal-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-08-14",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "35b685f1",
       "title": "Face Deduplication Collection",
       "company": "TELUS Digital",
@@ -1084,6 +1056,31 @@
       "type": "fulltime",
       "tags": [
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "85fa2e8b",
+      "title": "Senior Manual QA Analyst – Web and Mobile Applications",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/823070-senior-manual-qa-analyst",
+      "source": "hirify",
+      "date": "2026-08-10",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
         "",
         "",
         "",
