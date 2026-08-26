@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-08-26T06:41:30.722046+00:00",
-  "total": 68,
+  "updated_at": "2026-08-26T12:44:19.933540+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "984c674e",
+      "title": "Senior Quality Assurance Engineer",
+      "company": "Trading212",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/trading212/senior-quality-assurance-engineer-berlin-444956",
+      "source": "arbeitnow",
+      "date": "2026-08-26",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b00bf628",
+      "title": "(Senior) Business Automation Developer (all genders) I International",
+      "company": "Real Digital",
+      "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-9993",
+      "source": "arbeitnow",
+      "date": "2026-08-26",
+      "salary": "",
+      "type": "Experienced, Permanent, Full or part time",
+      "tags": [
+        "de",
+        "business automation",
+        "ai",
+        "ki",
+        "llm",
+        "international"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "acdfb651",
       "title": "Senior Manager, QA Engineering",
@@ -16,6 +55,49 @@
       "type": "Full Time",
       "tags": [
         "products"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fff86f46",
+      "title": "QA Engineer / Ручной тестировщик | FinTech | Web + Mobile",
+      "company": "Зонтик",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/928309-qa-engineer-rucnoi-testirovshhik-fintech-web-mobile",
+      "source": "hirify",
+      "date": "2026-08-26",
+      "salary": "RUB 200000 (~$2379)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ddbfac47",
+      "title": "🔸Должность -  AQA, Senior.",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/258949",
+      "source": "telegram",
+      "date": "2026-08-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
