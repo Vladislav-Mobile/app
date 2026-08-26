@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-25T18:34:47.967452+00:00",
-  "total": 76,
+  "updated_at": "2026-08-26T01:05:33.356867+00:00",
+  "total": 71,
   "jobs": [
+    {
+      "id": "daffd5dc",
+      "title": "Automation Engineer (All genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/automation-engineer-all-genders-munich-143675",
+      "source": "arbeitnow",
+      "date": "2026-08-25",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
     {
       "id": "a94f43a7",
       "title": "Director Production Engineering (m/f/d)",
@@ -33,94 +48,6 @@
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "86825a06",
-      "title": "Werkstudent Software Testing (all genders)",
-      "company": "Titanom Technologies",
-      "location": "Germering, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/werkstudent-software-testing-all-genders-germering-248657",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "Part time",
-      "tags": [
-        "computer software"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "62e72e51",
-      "title": "Werkstudent Software-Testing (m/w/d)",
-      "company": "functionHR GmbH",
-      "location": "Munich",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/functionhr-gmbh/werkstudent-software-testing-munich-437385",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "Working student, hilfstätigkeit / student",
-      "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "678e0585",
-      "title": "Automation Operations Lead (m/w/d)",
-      "company": "Ecoturn GmbH",
-      "location": "Munich",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-operations-lead-munich-342596",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "remote",
-        "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ffffae16",
-      "title": "Automation Developer / Backoffice Automation (m/w/d)",
-      "company": "Ecoturn GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoturn-gmbh/automation-developer-backoffice-automation-munich-227098",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cb44aafb",
-      "title": "Operational QA Manager for Application Software Development (m/w/x)",
-      "company": "K-tronik GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/operational-qa-manager-for-application-software-development-munich-154736",
-      "source": "arbeitnow",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "engineering"
-      ],
       "miss_count": 0
     },
     {
@@ -1921,25 +1848,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "be0b5ce8",
-      "title": "Data Labeling Specialists",
-      "company": "Workada",
-      "location": "USA",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-      "source": "remotive",
-      "date": "2026-07-26",
-      "salary": "$17/hr",
-      "type": "freelance",
-      "tags": [
-        "research",
-        "digital content",
-        "spreadsheets"
       ],
       "miss_count": 0
     }
