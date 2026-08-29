@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T12:13:37.989707+00:00",
-  "total": 76,
+  "updated_at": "2026-08-29T20:21:38.911080+00:00",
+  "total": 72,
   "jobs": [
     {
       "id": "e43c1cd1",
@@ -36,69 +36,6 @@
       "miss_count": 0
     },
     {
-      "id": "ba81cadb",
-      "title": "Systemadministrator (m/w/d) – Automation & Tools",
-      "company": "netzbest GmbH",
-      "location": "Homeoffice",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/netzbest-gmbh/remote-systemadministrator-automation-tools-deutschlandweit-27360",
-      "source": "arbeitnow",
-      "date": "2026-08-29",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "it-services",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7586cb00",
-      "title": "Werkstudent HSEQ (m/w/d)",
-      "company": "Vulcan Energie Ressourcen GmbH",
-      "location": "Karlsruhe",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/werkstudent-hseq-karlsruhe-343442",
-      "source": "arbeitnow",
-      "date": "2026-08-29",
-      "salary": "",
-      "type": "Student, Intern, Full or part time",
-      "tags": [
-        "werkstudent",
-        "hse",
-        "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d00ea598",
-      "title": "(Senior) CRM Automation & Lifecycle Manager (all genders)",
-      "company": "HolidayCheck Group AG",
-      "location": "München",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/senior-crm-automation-lifecycle-manager-all-genders-munchen-487238",
-      "source": "arbeitnow",
-      "date": "2026-08-29",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "crm",
-        "automatisierung",
-        "automatisation",
-        "crm marketing",
-        "directmarketing",
-        "direktmarketing",
-        "marketing manager",
-        "marketing manager b2c",
-        "b2c",
-        "b2b"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "fa530d81",
       "title": "Manual QA (Web and Mobile Testing)",
       "company": "%hirify_global%",
@@ -123,45 +60,24 @@
       "miss_count": 0
     },
     {
-      "id": "00584c56",
-      "title": "Senior Quality Compliance Professional",
-      "company": "Humana",
-      "location": "United States",
+      "id": "bb89c542",
+      "title": "Invitation Only",
+      "company": "Lostar",
+      "location": "Turkey",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/humana/jobs/senior-quality-compliance-professional",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/lostar/jobs/invitation-only",
       "source": "himalayas",
       "date": "2026-08-29",
       "salary": "",
       "type": "",
       "tags": [
-        "quality-compliance-specialist",
-        "healthcare-quality-assurance-and-compliance",
-        "medicaid-compliance",
-        "quality-improvement-specialist",
-        "regulatory-compliance-specialist",
-        "senior-qc-specialist",
-        "qc-compliance-specialist",
-        "senior-quality-assurance",
-        "qa-compliance-specialist",
-        "senior-compliance-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "79a333de",
-      "title": "Member Experience Training & Quality Coordinator - UK",
-      "company": "Neko Health",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/member-experience-training-quality-coordinator-uk-london-353696",
-      "source": "arbeitnow",
-      "date": "2026-08-28",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations & markets"
+        "infosec",
+        "cybersecurity",
+        "penetration-testing",
+        "security-consulting",
+        "it-security",
+        "invitation-only-event-or-access-coordination"
       ],
       "miss_count": 0
     },
