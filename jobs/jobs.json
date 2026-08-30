@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-30T11:11:06.983763+00:00",
-  "total": 71,
+  "updated_at": "2026-08-30T15:58:41.327599+00:00",
+  "total": 70,
   "jobs": [
+    {
+      "id": "c282ab79",
+      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
+      "company": "Greencells Gmbh",
+      "location": "Saarbrücken",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-161334",
+      "source": "arbeitnow",
+      "date": "2026-08-30",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "scada-manager",
+        "plant-control-ingenieur",
+        "monitoring-systeme",
+        "utility-scale",
+        "epc",
+        "bess",
+        "scada engineer",
+        "commissioning",
+        "supplier management",
+        "energy infrastructure",
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "5410ed51",
       "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
@@ -31,53 +58,6 @@
       "type": "Full Time",
       "tags": [
         "gtm"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "95c1dd94",
-      "title": "AI Red Team Specialist - Remote | Upto $25/hr",
-      "company": "mercor",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/mercor/jobs/ai-red-team-specialist-remote-upto-25-hr-2734489423",
-      "source": "himalayas",
-      "date": "2026-08-30",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-safety",
-        "red-teaming",
-        "cybersecurity",
-        "ai-research",
-        "prompt-engineering",
-        "ai-red-team-specialist",
-        "freelance-ai-red-team-specialist",
-        "ai-red-team-security-engineer",
-        "ai-red-team-tester",
-        "ai-red-team",
-        "ai-red-teaming",
-        "red-team-specialist",
-        "red-team-security-engineer",
-        "red-team-expert"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5c7de130",
-      "title": "Werkstudent:in CPD-Testing und Datenakquise (m/w/d)",
-      "company": "Technica Engineering GmbH",
-      "location": "München, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/technica-engineering-gmbh/werkstudentin-cpd-testing-und-datenakquise-munchen-473719",
-      "source": "arbeitnow",
-      "date": "2026-08-29",
-      "salary": "",
-      "type": "Student college, parttime fixed term",
-      "tags": [
-        "functional integration dep. 2026"
       ],
       "miss_count": 0
     },
