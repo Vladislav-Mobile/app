@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T15:58:41.327599+00:00",
-  "total": 70,
+  "updated_at": "2026-08-30T20:29:59.659786+00:00",
+  "total": 69,
   "jobs": [
     {
       "id": "c282ab79",
@@ -27,21 +27,6 @@
         "energy infrastructure",
         "automation engineering"
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "5410ed51",
-      "title": "(Senior) Software Engineer (M/F/D) - Tools & Automation",
-      "company": "Vmray Gmbh",
-      "location": "Germany, Bochum or Remote (Europe)",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/vmray-gmbh/remote-senior-software-engineer-tools-automation-251844",
-      "source": "arbeitnow",
-      "date": "2026-08-30",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
       "miss_count": 0
     },
     {
