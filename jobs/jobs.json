@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-08-30T20:29:59.659786+00:00",
-  "total": 69,
+  "updated_at": "2026-08-31T03:24:36.798783+00:00",
+  "total": 70,
   "jobs": [
+    {
+      "id": "8e438465",
+      "title": "Platform Engineer - Document Specialist",
+      "company": "mercor",
+      "location": "Germany",
+      "remote": true,
+      "country": "DE",
+      "url": "https://himalayas.app/companies/mercor/jobs/platform-engineer-document-specialist",
+      "source": "himalayas",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "document-review",
+        "document-specialist",
+        "technical-editing",
+        "quality-assurance",
+        "content-evaluation",
+        "documentation-engineer",
+        "document-platform-engineering",
+        "platform-engineer",
+        "engineering-documentation-specialist",
+        "technical-documentation-engineer"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c282ab79",
       "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
