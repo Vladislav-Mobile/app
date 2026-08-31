@@ -1,57 +1,78 @@
 {
-  "updated_at": "2026-08-31T03:24:36.798783+00:00",
-  "total": 70,
+  "updated_at": "2026-08-31T12:36:15.330159+00:00",
+  "total": 71,
   "jobs": [
     {
-      "id": "8e438465",
-      "title": "Platform Engineer - Document Specialist",
-      "company": "mercor",
-      "location": "Germany",
-      "remote": true,
-      "country": "DE",
-      "url": "https://himalayas.app/companies/mercor/jobs/platform-engineer-document-specialist",
-      "source": "himalayas",
+      "id": "3baf1070",
+      "title": "HSE-Koordinator / Sicherheits- und Gesundheitsschutzkoordinator (m/w/d)",
+      "company": "INP Deutschland GmbH",
+      "location": "Weiden in der Oberpfalz",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/hse-koordinator-sicherheits-und-gesundheitsschutzkoordinator-weiden-in-der-oberpfalz-62758",
+      "source": "arbeitnow",
       "date": "2026-08-31",
       "salary": "",
-      "type": "",
+      "type": "Contract, berufserfahren",
       "tags": [
-        "document-review",
-        "document-specialist",
-        "technical-editing",
-        "quality-assurance",
-        "content-evaluation",
-        "documentation-engineer",
-        "document-platform-engineering",
-        "platform-engineer",
-        "engineering-documentation-specialist",
-        "technical-documentation-engineer"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "c282ab79",
-      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
-      "company": "Greencells Gmbh",
-      "location": "Saarbrücken",
+      "id": "d5116360",
+      "title": "Associate Director Quality Compliance / QA Client",
+      "company": "simtrabps",
+      "location": "Halle, North Rhine-Westphalia",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-161334",
+      "url": "https://www.arbeitnow.com/jobs/companies/simtrabps/associate-director-quality-compliance-qa-client-halle-north-rhine-westphalia-336548",
       "source": "arbeitnow",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality assurance & regulatory affairs"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "27c2eeaf",
+      "title": "🧾 Вакансия: QA Automation Engineer Java (Appium Mobile от 3 лет)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/259052",
+      "source": "telegram",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cdb1faca",
+      "title": "MOT Tester",
+      "company": "Mr Clutch Autocentres",
+      "location": "Oxford, ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218",
+      "source": "remoteok",
       "date": "2026-08-30",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "full-time",
       "tags": [
-        "scada-manager",
-        "plant-control-ingenieur",
-        "monitoring-systeme",
-        "utility-scale",
-        "epc",
-        "bess",
-        "scada engineer",
-        "commissioning",
-        "supplier management",
-        "energy infrastructure",
-        "automation engineering"
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech"
       ],
       "miss_count": 0
     },
@@ -780,24 +801,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a8fb5ac5",
-      "title": "Вакансия: QA Engineer с опытом автоматизации в Aso Market (Удаленно)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258718",
-      "source": "telegram",
-      "date": "2026-08-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
