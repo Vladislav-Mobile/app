@@ -1,38 +1,137 @@
 {
-  "updated_at": "2026-08-31T12:36:15.330159+00:00",
-  "total": 71,
+  "updated_at": "2026-08-31T22:23:25.568877+00:00",
+  "total": 76,
   "jobs": [
     {
-      "id": "3baf1070",
-      "title": "HSE-Koordinator / Sicherheits- und Gesundheitsschutzkoordinator (m/w/d)",
-      "company": "INP Deutschland GmbH",
-      "location": "Weiden in der Oberpfalz",
-      "remote": false,
+      "id": "84494ef8",
+      "title": "Software Development Engineers in Test (Python)",
+      "company": "Xm",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/hse-koordinator-sicherheits-und-gesundheitsschutzkoordinator-weiden-in-der-oberpfalz-62758",
+      "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-software-development-engineers-in-test-python-130060",
       "source": "arbeitnow",
       "date": "2026-08-31",
       "salary": "",
-      "type": "Contract, berufserfahren",
+      "type": "Full-time",
+      "tags": [
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "37519c1d",
+      "title": "QA Software Test Automation Engineers (Java)",
+      "company": "Xm",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-204520",
+      "source": "arbeitnow",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "45839bba",
+      "title": "Qualitätsfachkraft / Mitarbeiter Qualitätssicherung im Bereich Fertigung (m/w/d)",
+      "company": "PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
+      "location": "Düsseldorf",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ptr-profi-talent-recruitment-ug-haftungsbeschrankt/qualitatsfachkraft-mitarbeiter-qualitatssicherung-im-bereich-fertigung-dusseldorf-308016",
+      "source": "arbeitnow",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "",
       "tags": [
         "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "d5116360",
-      "title": "Associate Director Quality Compliance / QA Client",
-      "company": "simtrabps",
-      "location": "Halle, North Rhine-Westphalia",
+      "id": "6a6d0df2",
+      "title": "Senior QA Engineer | London",
+      "company": "TransPerfect",
+      "location": "London, Greater London, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-88979",
+      "source": "arbeitnow",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "380c0fbf",
+      "title": "Mobile QA Engineer",
+      "company": "WannaPlay",
+      "location": "WW",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/simtrabps/associate-director-quality-compliance-qa-client-halle-north-rhine-westphalia-336548",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/975916-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b2c93a4e",
+      "title": "Middle / Senior QA Engineer (Mobile Games)",
+      "company": "Grand Games",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/975211-middle-senior-qa-engineer-mobile-games",
+      "source": "hirify",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4088b982",
+      "title": "Engineer II, Quality Complaint Management",
+      "company": "Axogen",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/axogen/jobs/engineer-ii-quality-complaint-management",
+      "source": "himalayas",
       "date": "2026-08-31",
       "salary": "",
       "type": "",
       "tags": [
-        "quality assurance & regulatory affairs"
+        "quality-engineering",
+        "complaint-management",
+        "regulatory-compliance",
+        "medical-device-quality",
+        "quality-systems",
+        "quality-engineer",
+        "customer-quality-engineer",
+        "quality-operations-engineer",
+        "product-quality-assurance-engineer",
+        "quality-assurance-engineer"
       ],
       "miss_count": 0
     },
@@ -55,6 +154,49 @@
       "miss_count": 0
     },
     {
+      "id": "3d871dfb",
+      "title": "Mobile QA Engineer",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://lnkd.in/p/eqxH_JHx).",
+      "source": "telegram",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "615f5464",
+      "title": "Professional PAT Tester",
+      "company": "Guardian Electrical Compliance Ltd",
+      "location": "Oxford, ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-professional-pat-tester-guardian-electrical-compliance-ltd-1137235",
+      "source": "remoteok",
+      "date": "2026-08-30",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "microsoft",
+        "testing",
+        "sys admin",
+        "customer support",
+        "dev",
+        "excel",
+        "recruiter",
+        "non tech",
+        "digital nomad"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "cdb1faca",
       "title": "MOT Tester",
       "company": "Mr Clutch Autocentres",
@@ -73,23 +215,6 @@
         "finance",
         "scheme",
         "non tech"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4939db1c",
-      "title": "Quality Systems Lead",
-      "company": "Encord",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/quality-systems-lead-london-392267",
-      "source": "arbeitnow",
-      "date": "2026-08-30",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "gtm"
       ],
       "miss_count": 0
     },
@@ -1813,32 +1938,6 @@
         "product support",
         "testing",
         "github"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b938753c",
-      "title": "Lead QA (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/808218-lead-qa-mobile-games",
-      "source": "hirify",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
