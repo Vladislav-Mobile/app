@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-08-31T22:23:25.568877+00:00",
-  "total": 76,
+  "updated_at": "2026-09-01T03:24:35.742946+00:00",
+  "total": 75,
   "jobs": [
+    {
+      "id": "4390d3f3",
+      "title": "AI Automation Engineer (FitMe)",
+      "company": "Gismart",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-ai-automation-engineer-fitme-395989",
+      "source": "arbeitnow",
+      "date": "2026-08-31",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "fitme"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "84494ef8",
       "title": "Software Development Engineers in Test (Python)",
@@ -33,23 +50,6 @@
       "type": "Full-time",
       "tags": [
         "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "45839bba",
-      "title": "Qualitätsfachkraft / Mitarbeiter Qualitätssicherung im Bereich Fertigung (m/w/d)",
-      "company": "PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
-      "location": "Düsseldorf",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ptr-profi-talent-recruitment-ug-haftungsbeschrankt/qualitatsfachkraft-mitarbeiter-qualitatssicherung-im-bereich-fertigung-dusseldorf-308016",
-      "source": "arbeitnow",
-      "date": "2026-08-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
       ],
       "miss_count": 0
     },
@@ -106,32 +106,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4088b982",
-      "title": "Engineer II, Quality Complaint Management",
-      "company": "Axogen",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/axogen/jobs/engineer-ii-quality-complaint-management",
-      "source": "himalayas",
-      "date": "2026-08-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-engineering",
-        "complaint-management",
-        "regulatory-compliance",
-        "medical-device-quality",
-        "quality-systems",
-        "quality-engineer",
-        "customer-quality-engineer",
-        "quality-operations-engineer",
-        "product-quality-assurance-engineer",
-        "quality-assurance-engineer"
       ],
       "miss_count": 0
     },
