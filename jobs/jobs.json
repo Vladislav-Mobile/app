@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-09-03T02:48:09.051280+00:00",
-  "total": 82,
+  "updated_at": "2026-09-03T10:37:41.364148+00:00",
+  "total": 81,
   "jobs": [
+    {
+      "id": "3a9ee5b6",
+      "title": "Mitarbeiter:in EHSQ (m/w/d)",
+      "company": "Brauerei Riegele Inh. Riegele KG",
+      "location": "Augsburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/brauerei-riegele-inh-riegele-kg/mitarbeiterin-ehsq-augsburg-81599",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4224e9f3",
+      "title": "Working Student (m/f/d) Catena-X Project Management & Implementation",
+      "company": "One Mobility",
+      "location": "Reutlingen, Baden-Württemberg, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/one-mobility/working-student-catena-x-project-management-implementation-reutlingen-152810",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "Student college, temporary",
+      "tags": [
+        "global quality & sustainability"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c71c2d99",
       "title": "Founding Lead Engineer — AI & Workflow Automation",
@@ -37,73 +71,50 @@
       "miss_count": 0
     },
     {
-      "id": "39a7118a",
-      "title": "AI Automation Engineer – Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin – Hybrid",
-      "company": "Klickpiloten",
-      "location": "Stuttgart",
-      "remote": false,
+      "id": "f4bbd500",
+      "title": "Manual QA Engineer - Web & Mobile (Fintech)",
+      "company": "HHHUB",
+      "location": ", ",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-374710",
-      "source": "arbeitnow",
-      "date": "2026-09-02",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "url": "https://hirify.me/vacancies/1023017-manual-qa-engineer-web-mobile-fintech",
+      "source": "hirify",
+      "date": "2026-09-03",
+      "salary": "EUR 1600–2900 (~$2606)",
+      "type": "fulltime",
       "tags": [
-        "ai & automatisierung",
-        "interne systeme",
-        "kundenberatung",
-        "digital.marketing technologist"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
     {
-      "id": "75dc87b5",
-      "title": "Working Student PMO & Quality (m/f/d)",
-      "company": "SGB-SMIT Group",
-      "location": "Regensburg, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/working-student-pmo-quality-regensburg-30832",
-      "source": "arbeitnow",
-      "date": "2026-09-02",
+      "id": "06f13b44",
+      "title": "Application Security Engineer",
+      "company": "Parallels",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/parallels/jobs/application-security-engineer-1333053963",
+      "source": "himalayas",
+      "date": "2026-09-03",
       "salary": "",
-      "type": "Student college, parttime fixed term",
+      "type": "",
       "tags": [
-        "production & logistics"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "47c9c3df",
-      "title": "Director Quality Management DD (m/f/d)",
-      "company": "SGB-SMIT Group",
-      "location": "Regensburg, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/director-quality-management-dd-regensburg-344446",
-      "source": "arbeitnow",
-      "date": "2026-09-02",
-      "salary": "",
-      "type": "Senior manager, fulltime permanent",
-      "tags": [
-        "division distribution"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6337b137",
-      "title": "Electromechanical Quality Inspector Level II – Welding / HVAC Systems - GO",
-      "company": "SQA Services",
-      "location": "Worchester",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sqa-services/electromechanical-quality-inspector-level-ii-welding-hvac-systems-go-worchester-323341",
-      "source": "arbeitnow",
-      "date": "2026-09-02",
-      "salary": "",
-      "type": "Contract: Part-Time",
-      "tags": [
-        "industrial"
+        "application-security-engineering",
+        "offensive-security",
+        "vulnerability-research",
+        "security-engineering",
+        "penetration-testing",
+        "application-security-engineer",
+        "appsec-engineer",
+        "software-security-engineer"
       ],
       "miss_count": 0
     },
@@ -1292,31 +1303,6 @@
         "marketplace",
         "next.js",
         "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bfe3c64c",
-      "title": "Mobile QA Engineer (Payments)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/863140-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-08-19",
-      "salary": "",
-      "type": "project",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
