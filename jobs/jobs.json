@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-09-03T15:43:56.627869+00:00",
+  "updated_at": "2026-09-03T20:27:46.762349+00:00",
   "total": 78,
   "jobs": [
+    {
+      "id": "73ea11b5",
+      "title": "Remote AI Systems & Automation Engineer (Internal Operations) (m/f/d)",
+      "company": "Roompricegenie",
+      "location": "Remote Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-ai-systems-automation-engineer-internal-operations-96452",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product & engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d9c687a9",
+      "title": "Software Engineer, Backend - Core/API & Process Automation",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-492538",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "products"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "7ef41ea6",
       "title": "Content Operations QA Analyst",
@@ -16,42 +50,6 @@
       "type": "Full Time",
       "tags": [
         "content operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4fd42888",
-      "title": "Testingenieur:in Automation R&S Kommunikationssysteme, Dresden 60.000 - 80.000",
-      "company": "wabcon",
-      "location": "Dresden",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/testingenieurin-automation-rs-kommunikationssysteme-dresden-60000-80000-347541",
-      "source": "arbeitnow",
-      "date": "2026-09-03",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "189d6f7e",
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-236643",
-      "source": "arbeitnow",
-      "date": "2026-09-03",
-      "salary": "",
-      "type": "Student, Permanent, Full time",
-      "tags": [
-        "ai",
-        "gtm"
       ],
       "miss_count": 0
     },
