@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-09-02T20:28:35.264677+00:00",
-  "total": 79,
+  "updated_at": "2026-09-03T02:48:09.051280+00:00",
+  "total": 82,
   "jobs": [
+    {
+      "id": "c71c2d99",
+      "title": "Founding Lead Engineer — AI & Workflow Automation",
+      "company": "Founders Factory",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/founding-lead-engineer-ai-workflow-automation-berlin-429045",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "berlin studio"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "be41b2a7",
+      "title": "AI Quality Assurance Program Manager",
+      "company": "tripadvisor",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-quality-assurance-program-manager-london-295649",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "customer service"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "39a7118a",
+      "title": "AI Automation Engineer – Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin – Hybrid",
+      "company": "Klickpiloten",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-374710",
+      "source": "arbeitnow",
+      "date": "2026-09-02",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "ai & automatisierung",
+        "interne systeme",
+        "kundenberatung",
+        "digital.marketing technologist"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "75dc87b5",
       "title": "Working Student PMO & Quality (m/f/d)",
@@ -37,44 +91,45 @@
       "miss_count": 0
     },
     {
-      "id": "65ce4b0e",
-      "title": "Softwaretester (m/w/d) – Healthcare SaaS",
-      "company": "DMRZ",
-      "location": "Düsseldorf",
+      "id": "6337b137",
+      "title": "Electromechanical Quality Inspector Level II – Welding / HVAC Systems - GO",
+      "company": "SQA Services",
+      "location": "Worchester",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dmrz/softwaretester-healthcare-saas-dusseldorf-60012",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sqa-services/electromechanical-quality-inspector-level-ii-welding-hvac-systems-go-worchester-323341",
       "source": "arbeitnow",
       "date": "2026-09-02",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "Contract: Part-Time",
       "tags": [
-        "testing",
-        "softwaretester",
-        "tester"
+        "industrial"
       ],
       "miss_count": 0
     },
     {
-      "id": "bcf7ff7b",
-      "title": "Werkstudent (m/w/d) Energy Optimization & Development",
-      "company": "Consolinno",
-      "location": "München",
-      "remote": false,
+      "id": "71005b46",
+      "title": "Middle Manual QA Engineer (Mobile Casual / Tycoon)",
+      "company": "Neptunex Studios",
+      "location": "",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/consolinno/werkstudent-energy-optimization-development-munchen-294590",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/1020141-middle-manual-qa-engineer-mobile-casual-tycoon",
+      "source": "hirify",
       "date": "2026-09-02",
       "salary": "",
-      "type": "Entry, Working student, Part time",
+      "type": "fulltime",
       "tags": [
-        "energy",
-        "development",
-        "software",
-        "testing",
-        "qualitätssicherung",
-        "simulation",
-        "datenanalyse"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
