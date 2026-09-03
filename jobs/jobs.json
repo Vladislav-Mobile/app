@@ -1,72 +1,57 @@
 {
-  "updated_at": "2026-09-03T10:37:41.364148+00:00",
-  "total": 81,
+  "updated_at": "2026-09-03T15:43:56.627869+00:00",
+  "total": 78,
   "jobs": [
     {
-      "id": "3a9ee5b6",
-      "title": "Mitarbeiter:in EHSQ (m/w/d)",
-      "company": "Brauerei Riegele Inh. Riegele KG",
-      "location": "Augsburg",
+      "id": "7ef41ea6",
+      "title": "Content Operations QA Analyst",
+      "company": "Cargo One",
+      "location": "Remote (EMEA)",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/brauerei-riegele-inh-riegele-kg/mitarbeiterin-ehsq-augsburg-81599",
-      "source": "arbeitnow",
-      "date": "2026-09-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4224e9f3",
-      "title": "Working Student (m/f/d) Catena-X Project Management & Implementation",
-      "company": "One Mobility",
-      "location": "Reutlingen, Baden-Württemberg, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/one-mobility/working-student-catena-x-project-management-implementation-reutlingen-152810",
-      "source": "arbeitnow",
-      "date": "2026-09-03",
-      "salary": "",
-      "type": "Student college, temporary",
-      "tags": [
-        "global quality & sustainability"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c71c2d99",
-      "title": "Founding Lead Engineer — AI & Workflow Automation",
-      "company": "Founders Factory",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/founding-lead-engineer-ai-workflow-automation-berlin-429045",
+      "url": "https://www.arbeitnow.com/jobs/companies/cargo-one/remote-content-operations-qa-analyst-326919",
       "source": "arbeitnow",
       "date": "2026-09-03",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "berlin studio"
+        "content operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "be41b2a7",
-      "title": "AI Quality Assurance Program Manager",
-      "company": "tripadvisor",
-      "location": "London",
+      "id": "4fd42888",
+      "title": "Testingenieur:in Automation R&S Kommunikationssysteme, Dresden 60.000 - 80.000",
+      "company": "wabcon",
+      "location": "Dresden",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-quality-assurance-program-manager-london-295649",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/testingenieurin-automation-rs-kommunikationssysteme-dresden-60000-80000-347541",
       "source": "arbeitnow",
       "date": "2026-09-03",
       "salary": "",
-      "type": "",
+      "type": "berufserfahren",
       "tags": [
-        "customer service"
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "189d6f7e",
+      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
+      "company": "Autarcenergy",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-236643",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "Student, Permanent, Full time",
+      "tags": [
+        "ai",
+        "gtm"
       ],
       "miss_count": 0
     },
@@ -91,30 +76,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "06f13b44",
-      "title": "Application Security Engineer",
-      "company": "Parallels",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/parallels/jobs/application-security-engineer-1333053963",
-      "source": "himalayas",
-      "date": "2026-09-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "application-security-engineering",
-        "offensive-security",
-        "vulnerability-research",
-        "security-engineering",
-        "penetration-testing",
-        "application-security-engineer",
-        "appsec-engineer",
-        "software-security-engineer"
       ],
       "miss_count": 0
     },
@@ -157,32 +118,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8cfee331",
-      "title": "Middle+/Senior QA Engineer (Mobile)",
-      "company": "Perlem",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1016301-middlesenior-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-09-02",
-      "salary": "RUB 250000–300000 (~$3169)",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
@@ -851,19 +786,18 @@
       "miss_count": 0
     },
     {
-      "id": "1f7604ba",
-      "title": "QA Engineer Mobile",
-      "company": null,
-      "location": "",
-      "remote": false,
+      "id": "a5074295",
+      "title": "Senior QA (Manual, Native Mobile Apps)",
+      "company": "Persona",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/921039-qa-specialist-mobile",
+      "url": "https://hirify.me/vacancies/921438-senior-qa-manual-native-mobile-apps-ai",
       "source": "hirify",
       "date": "2026-08-25",
-      "salary": "RUB 190000 (~$2254)",
+      "salary": "USD 5000",
       "type": "fulltime",
       "tags": [
-        "",
         "",
         "",
         "",
@@ -877,18 +811,19 @@
       "miss_count": 0
     },
     {
-      "id": "a5074295",
-      "title": "Senior QA (Manual, Native Mobile Apps)",
-      "company": "Persona",
-      "location": "Remote",
-      "remote": true,
+      "id": "1f7604ba",
+      "title": "QA Engineer Mobile",
+      "company": null,
+      "location": "",
+      "remote": false,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/921438-senior-qa-manual-native-mobile-apps-ai",
+      "url": "https://hirify.me/vacancies/921039-qa-specialist-mobile",
       "source": "hirify",
       "date": "2026-08-25",
-      "salary": "USD 5000",
+      "salary": "RUB 190000 (~$2254)",
       "type": "fulltime",
       "tags": [
+        "",
         "",
         "",
         "",
