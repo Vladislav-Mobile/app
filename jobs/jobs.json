@@ -1,39 +1,36 @@
 {
-  "updated_at": "2026-09-04T15:42:48.997911+00:00",
-  "total": 79,
+  "updated_at": "2026-09-04T20:13:47.401556+00:00",
+  "total": 81,
   "jobs": [
     {
-      "id": "7a45f209",
-      "title": "Qualitätsfachkraft / Mitarbeiter Qualitätssicherung im Bereich Fertigung (m/w/d)",
-      "company": "PTR - Profi Talent Recruitment UG (haftungsbeschränkt)",
-      "location": "Düsseldorf",
+      "id": "dfa4bc79",
+      "title": "Director AI & Automation",
+      "company": "Onemedia Consulting",
+      "location": "Onemedia Germany, Munich",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-384842",
+      "source": "arbeitnow",
+      "date": "2026-09-04",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "b5bc079b",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ptr-profi-talent-recruitment-ug-haftungsbeschrankt/qualitatsfachkraft-mitarbeiter-qualitatssicherung-im-bereich-fertigung-dusseldorf-424135",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-254230",
       "source": "arbeitnow",
       "date": "2026-09-04",
       "salary": "",
       "type": "",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cc3236e2",
-      "title": "AI Product Engineer - Internal Tools & Automation (m/w/d) - fully remote",
-      "company": "Lyto Brands Group GmbH",
-      "location": "Düsseldorf",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lyto-brands-group-gmbh/ai-product-engineer-internal-tools-automation-fully-remote-dusseldorf-81871",
-      "source": "arbeitnow",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "remote",
-        "software development"
       ],
       "miss_count": 0
     },
@@ -156,6 +153,57 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5ede2687",
+      "title": "Platform Strategist - Fully Remote | Upto $160/hr",
+      "company": "mercor",
+      "location": "Austria",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/mercor/jobs/platform-strategist-fully-remote-upto-160-hr-3086024786",
+      "source": "himalayas",
+      "date": "2026-09-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "product-expert",
+        "platform-specialist",
+        "document-review",
+        "content-evaluation",
+        "quality-assurance",
+        "platform-strategy-analyst",
+        "platform-strategy-manager",
+        "platform-product-manager",
+        "platform-consultant",
+        "product-platform-manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "49e38ec3",
+      "title": "QA Engineer",
+      "company": "SunnyData",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+      "source": "remoteok",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "education",
+        "cloud",
+        "engineer",
+        "digital nomad"
       ],
       "miss_count": 0
     },
