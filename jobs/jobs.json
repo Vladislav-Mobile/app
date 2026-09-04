@@ -1,55 +1,123 @@
 {
-  "updated_at": "2026-09-03T20:27:46.762349+00:00",
-  "total": 78,
+  "updated_at": "2026-09-04T02:45:53.673073+00:00",
+  "total": 79,
   "jobs": [
     {
-      "id": "73ea11b5",
-      "title": "Remote AI Systems & Automation Engineer (Internal Operations) (m/f/d)",
-      "company": "Roompricegenie",
-      "location": "Remote Germany",
+      "id": "aef7c904",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "company": "METYCLE",
+      "location": "Cologne (GER)",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-ai-systems-automation-engineer-internal-operations-96452",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-404460",
       "source": "arbeitnow",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product & engineering"
-      ],
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
       "miss_count": 0
     },
     {
-      "id": "d9c687a9",
-      "title": "Software Engineer, Backend - Core/API & Process Automation",
-      "company": "Camunda",
-      "location": "Remote",
+      "id": "5ede2687",
+      "title": "Platform Strategist - Fully Remote | Upto $160/hr",
+      "company": "mercor",
+      "location": "Austria",
       "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-492538",
-      "source": "arbeitnow",
-      "date": "2026-09-03",
+      "url": "https://himalayas.app/companies/mercor/jobs/platform-strategist-fully-remote-upto-160-hr-3086024786",
+      "source": "himalayas",
+      "date": "2026-09-04",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "products"
+        "product-expert",
+        "platform-specialist",
+        "document-review",
+        "content-evaluation",
+        "quality-assurance",
+        "platform-strategy-analyst",
+        "platform-strategy-manager",
+        "platform-product-manager",
+        "platform-consultant",
+        "product-platform-manager"
       ],
       "miss_count": 0
     },
     {
-      "id": "7ef41ea6",
-      "title": "Content Operations QA Analyst",
-      "company": "Cargo One",
-      "location": "Remote (EMEA)",
+      "id": "7a2d8b9a",
+      "title": "Senior Customer Success Manager",
+      "company": "nice",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/cargo-one/remote-content-operations-qa-analyst-326919",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-customer-success-manager-326771",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "cx - agentic experience automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4c3b4e96",
+      "title": "Field Service Quality Manager (m/w/d)",
+      "company": "GALVANY",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/galvany/field-service-quality-manager-berlin-378102",
       "source": "arbeitnow",
       "date": "2026-09-03",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "content operations"
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "457e29bf",
+      "title": "Customer Operations AI & Automation Manager (f/m/d)",
+      "company": "Zeal Network",
+      "location": "Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/customer-operations-ai-automation-manager-germany-106343",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "customer operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "becdc1f2",
+      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
+      "company": "Greencells Gmbh",
+      "location": "Saarbrücken",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-28647",
+      "source": "arbeitnow",
+      "date": "2026-09-03",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "scada-manager",
+        "plant-control-ingenieur",
+        "monitoring-systeme",
+        "utility-scale",
+        "epc",
+        "bess",
+        "scada engineer",
+        "commissioning",
+        "supplier management",
+        "energy infrastructure",
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -1941,29 +2009,6 @@
       "miss_count": 0
     },
     {
-      "id": "0761bc4b",
-      "title": "Mobile QA Automation Engineer (iOS)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/813234-mobile-qa-automation-engineer-ios",
-      "source": "hirify",
-      "date": "2026-08-06",
-      "salary": "USD 2000–2500",
-      "type": "project",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "9ab084d6",
       "title": "Sales Jedi",
       "company": "Creative Force ",
@@ -2011,23 +2056,6 @@
         "product support",
         "testing",
         "github"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ab155e77",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "remotive",
-      "date": "2026-08-04",
-      "salary": "$50-$75 /hour",
-      "type": "freelance",
-      "tags": [
-        "rest"
       ],
       "miss_count": 0
     }
