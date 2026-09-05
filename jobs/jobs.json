@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-09-05T02:48:01.240156+00:00",
+  "updated_at": "2026-09-05T09:54:47.296339+00:00",
   "total": 74,
   "jobs": [
+    {
+      "id": "66c4c383",
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
+      "source": "arbeitnow",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "revenue operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2654dee2",
+      "title": "Test Automation Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-80166",
+      "source": "arbeitnow",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "software"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "64fae7e5",
+      "title": "Software quality engineer (UK)",
+      "company": "Writer",
+      "location": "London, UK",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-quality-engineer-uk-london-220045",
+      "source": "arbeitnow",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering",
+        "product & design"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "aba4ad69",
       "title": "Senior QA Engineer | London",
@@ -17,62 +69,6 @@
       "tags": [
         "engineering"
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "c5468f27",
-      "title": "Senior Air Quality Consultant",
-      "company": "Geosyntec Consultants",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/geosyntec-consultants/jobs/senior-air-quality-consultant",
-      "source": "himalayas",
-      "date": "2026-09-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "air-quality",
-        "environmental-consulting",
-        "air-quality-consulting",
-        "environmental-engineering",
-        "regulatory-compliance",
-        "senior-air-quality-engineer",
-        "senior-environmental-consultant",
-        "air-quality-specialist",
-        "air-emissions-consultant",
-        "senior-environmental-scientist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8b7d76f1",
-      "title": "Studentische Hilfskraft, Team Questionnaire Design & Evaluation / Team Assessing Survey Data Quality (SHK_SDM_2026_020)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-questionnaire-design-evaluation-team-assessing-survey-data-quality-shk-sdm-2026-020-mannheim-39180",
-      "source": "arbeitnow",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "Student, Working student, Part time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "dfa4bc79",
-      "title": "Director AI & Automation",
-      "company": "Onemedia Consulting",
-      "location": "Onemedia Germany, Munich",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-384842",
-      "source": "arbeitnow",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
       "miss_count": 0
     },
     {
