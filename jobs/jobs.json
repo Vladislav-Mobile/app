@@ -1,7 +1,65 @@
 {
-  "updated_at": "2026-09-04T20:13:47.401556+00:00",
-  "total": 81,
+  "updated_at": "2026-09-05T02:48:01.240156+00:00",
+  "total": 74,
   "jobs": [
+    {
+      "id": "aba4ad69",
+      "title": "Senior QA Engineer | London",
+      "company": "TransPerfect",
+      "location": "London, Greater London, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-364206",
+      "source": "arbeitnow",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c5468f27",
+      "title": "Senior Air Quality Consultant",
+      "company": "Geosyntec Consultants",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/geosyntec-consultants/jobs/senior-air-quality-consultant",
+      "source": "himalayas",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "air-quality",
+        "environmental-consulting",
+        "air-quality-consulting",
+        "environmental-engineering",
+        "regulatory-compliance",
+        "senior-air-quality-engineer",
+        "senior-environmental-consultant",
+        "air-quality-specialist",
+        "air-emissions-consultant",
+        "senior-environmental-scientist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8b7d76f1",
+      "title": "Studentische Hilfskraft, Team Questionnaire Design & Evaluation / Team Assessing Survey Data Quality (SHK_SDM_2026_020)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "location": "Mannheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-questionnaire-design-evaluation-team-assessing-survey-data-quality-shk-sdm-2026-020-mannheim-39180",
+      "source": "arbeitnow",
+      "date": "2026-09-04",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [],
+      "miss_count": 0
+    },
     {
       "id": "dfa4bc79",
       "title": "Director AI & Automation",
@@ -15,72 +73,6 @@
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "b5bc079b",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-254230",
-      "source": "arbeitnow",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "dd39bb7c",
-      "title": "Quality Assurance Manager",
-      "company": "PHMG Careers",
-      "location": "Manchester, England, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/quality-assurance-manager-manchester-494991",
-      "source": "arbeitnow",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "2a7486bd",
-      "title": "Senior GTM Systems AI and Automation Engineer",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-447360",
-      "source": "arbeitnow",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "revenue operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e8b4fcb6",
-      "title": "Software Engineer, Backend - Core/API & Process Automation",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-134204",
-      "source": "arbeitnow",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "products"
-      ],
       "miss_count": 0
     },
     {
@@ -153,32 +145,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5ede2687",
-      "title": "Platform Strategist - Fully Remote | Upto $160/hr",
-      "company": "mercor",
-      "location": "Austria",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/mercor/jobs/platform-strategist-fully-remote-upto-160-hr-3086024786",
-      "source": "himalayas",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "product-expert",
-        "platform-specialist",
-        "document-review",
-        "content-evaluation",
-        "quality-assurance",
-        "platform-strategy-analyst",
-        "platform-strategy-manager",
-        "platform-product-manager",
-        "platform-consultant",
-        "product-platform-manager"
       ],
       "miss_count": 0
     },
@@ -1917,63 +1883,6 @@
       "miss_count": 0
     },
     {
-      "id": "d2e2b168",
-      "title": "Middle/Senior Mobile QA Engineer (Android/iOS)",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/816393-middlesenior-mobile-qa-engineer-androidios",
-      "source": "hirify",
-      "date": "2026-08-07",
-      "salary": "RUB 200000 (~$2460)",
-      "type": "project",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6aefa480",
-      "title": "Senior QA Engineer (Mobile)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/815962-senior-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-08-07",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "2008484d",
       "title": "Senior Mobile QA Automation (Kotlin/Swift)",
       "company": "%hirify_global%",
@@ -2020,86 +1929,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ab20a4a6",
-      "title": "Senior QA Engineer Mobile Fullstack (Java)",
-      "company": "Alfa-Bank",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/812152-senior-qa-engineer-mobile-fullstack-java",
-      "source": "hirify",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9ab084d6",
-      "title": "Sales Jedi",
-      "company": "Creative Force ",
-      "location": "Europe",
-      "remote": true,
-      "country": "EU",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "source": "remotive",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "saas",
-        "video",
-        "solid",
-        "chat",
-        "saas sales",
-        "mental health"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "01f42d5d",
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "remote": true,
-      "country": "GB",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "source": "remotive",
-      "date": "2026-08-05",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "api",
-        "css",
-        "go",
-        "html",
-        "javascript",
-        "saas",
-        "onboarding",
-        "chat",
-        "startup",
-        "troubleshooting",
-        "product support",
-        "testing",
-        "github"
       ],
       "miss_count": 0
     }
