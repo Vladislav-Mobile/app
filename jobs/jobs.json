@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-09-05T09:54:47.296339+00:00",
+  "updated_at": "2026-09-05T14:30:51.943569+00:00",
   "total": 74,
   "jobs": [
+    {
+      "id": "981d903f",
+      "title": "Qualitätsmanager (m/w/d) - Lieferantenqualität & Produktprüfung",
+      "company": "Presch Tools GmbH",
+      "location": "Ganderkesee",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/presch-tools-gmbh/qualitatsmanager-lieferantenqualitat-produktprufung-ganderkesee-394337",
+      "source": "arbeitnow",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "66c4c383",
       "title": "Senior GTM Systems AI and Automation Engineer",
@@ -55,19 +72,19 @@
       "miss_count": 0
     },
     {
-      "id": "aba4ad69",
-      "title": "Senior QA Engineer | London",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
+      "id": "389edb0c",
+      "title": "Cybersecurity & AI Engineer Automation (F/H)",
+      "company": "mirakllabs",
+      "location": "Paris",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-364206",
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/cybersecurity-ai-engineer-automation-f-h-paris-270282",
       "source": "arbeitnow",
       "date": "2026-09-05",
       "salary": "",
-      "type": "Mid, fulltime permanent",
+      "type": "",
       "tags": [
-        "engineering"
+        "tech"
       ],
       "miss_count": 0
     },
@@ -880,24 +897,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ddbfac47",
-      "title": "🔸Должность -  AQA, Senior.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258949",
-      "source": "telegram",
-      "date": "2026-08-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
