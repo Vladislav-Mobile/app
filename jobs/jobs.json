@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T14:30:51.943569+00:00",
-  "total": 74,
+  "updated_at": "2026-09-05T19:53:21.375644+00:00",
+  "total": 72,
   "jobs": [
     {
       "id": "981d903f",
@@ -68,23 +68,6 @@
       "tags": [
         "engineering",
         "product & design"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "389edb0c",
-      "title": "Cybersecurity & AI Engineer Automation (F/H)",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/cybersecurity-ai-engineer-automation-f-h-paris-270282",
-      "source": "arbeitnow",
-      "date": "2026-09-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "tech"
       ],
       "miss_count": 0
     },
@@ -667,31 +650,6 @@
         "marketplace",
         "next.js",
         "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7ae04c23",
-      "title": "Senior QA Analyst (Mobile/API Testing)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/936296-senior-qa-analyst-mobile-api",
-      "source": "hirify",
-      "date": "2026-08-27",
-      "salary": "USD 70500–110000",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
