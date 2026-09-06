@@ -1,56 +1,113 @@
 {
-  "updated_at": "2026-09-05T19:53:21.375644+00:00",
-  "total": 72,
+  "updated_at": "2026-09-06T02:46:15.767909+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "981d903f",
-      "title": "Qualitätsmanager (m/w/d) - Lieferantenqualität & Produktprüfung",
-      "company": "Presch Tools GmbH",
-      "location": "Ganderkesee",
+      "id": "7989c720",
+      "title": "(Senior) Business Automation Developer (all genders) I International",
+      "company": "Real Digital",
+      "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/presch-tools-gmbh/qualitatsmanager-lieferantenqualitat-produktprufung-ganderkesee-394337",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411",
       "source": "arbeitnow",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "salary": "",
-      "type": "",
+      "type": "Experienced, Permanent, Full or part time",
       "tags": [
-        "quality management"
+        "de",
+        "business automation",
+        "ai",
+        "ki",
+        "llm",
+        "international"
       ],
       "miss_count": 0
     },
     {
-      "id": "66c4c383",
-      "title": "Senior GTM Systems AI and Automation Engineer",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": true,
+      "id": "78fa026d",
+      "title": "Software Engineer Network Automation, WAN & Edge",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-43415",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-wan-edge-paris-419258",
       "source": "arbeitnow",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "revenue operations"
+        "engineering & infra"
       ],
       "miss_count": 0
     },
     {
-      "id": "2654dee2",
-      "title": "Test Automation Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "id": "8329dc53",
+      "title": "Software Engineer Network Automation, Data Center Fabrics",
+      "company": "Mistral.ai",
+      "location": "Paris",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-80166",
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-data-center-fabrics-paris-469308",
+      "source": "arbeitnow",
+      "date": "2026-09-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering & infra"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e7609778",
+      "title": "AI & Automation Werkstudent:in (m/w/d)",
+      "company": "Startup Insider",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-429880",
       "source": "arbeitnow",
       "date": "2026-09-05",
       "salary": "",
-      "type": "Mid, fulltime permanent",
+      "type": "Entry, Intern, Part time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "434e6b58",
+      "title": "Werkstudent*in Information Security Awareness & Automation",
+      "company": "QAware GmbH",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/qaware-gmbh/werkstudentin-information-security-awareness-automation-munchen-415208",
+      "source": "arbeitnow",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "Student, Intern, Part time",
       "tags": [
-        "software"
+        "informationssicherheit",
+        "cyber security",
+        "it-sicherheit",
+        "datenschutz",
+        "iso 27001",
+        "tisax"
       ],
+      "miss_count": 0
+    },
+    {
+      "id": "ad73d8fb",
+      "title": "Quality Manager – Quality Control & Quality Assurance (all genders)",
+      "company": "YOSHI",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoshi/quality-manager-quality-control-quality-assurance-all-genders-berlin-74154",
+      "source": "arbeitnow",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
       "miss_count": 0
     },
     {
@@ -1832,56 +1889,6 @@
         "ticketing",
         "microsoft 365",
         "it systems"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2008484d",
-      "title": "Senior Mobile QA Automation (Kotlin/Swift)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/813012-senior-mobile-qa-automation-fintech",
-      "source": "hirify",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "49aac871",
-      "title": "QA Engineer Mobile Fullstack (Java)",
-      "company": "Альфа-Банк",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/812404-senior-mobile-qa-java",
-      "source": "hirify",
-      "date": "2026-08-06",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
