@@ -1,78 +1,20 @@
 {
-  "updated_at": "2026-09-06T10:12:54.044533+00:00",
+  "updated_at": "2026-09-06T14:52:36.885683+00:00",
   "total": 71,
   "jobs": [
     {
-      "id": "7989c720",
-      "title": "(Senior) Business Automation Developer (all genders) I International",
-      "company": "Real Digital",
-      "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+      "id": "8c3b8bfe",
+      "title": "Automation Engineer (gn) - 40 Std, (hybrid) (München)",
+      "company": "42Watt",
+      "location": "München",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411",
+      "url": "https://www.arbeitnow.com/jobs/companies/42watt/automation-engineer-gn-40-std-hybrid-munchen-90580",
       "source": "arbeitnow",
       "date": "2026-09-06",
       "salary": "",
-      "type": "Experienced, Permanent, Full or part time",
-      "tags": [
-        "de",
-        "business automation",
-        "ai",
-        "ki",
-        "llm",
-        "international"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "329d2e68",
-      "title": "Software Development Engineers in Test (Python)",
-      "company": "Xm",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-software-development-engineers-in-test-python-226133",
-      "source": "arbeitnow",
-      "date": "2026-09-06",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6476a09a",
-      "title": "QA Software Test Automation Engineers (Java)",
-      "company": "Xm",
-      "location": "Remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-233007",
-      "source": "arbeitnow",
-      "date": "2026-09-06",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d546586a",
-      "title": "Senior Software Integration Engineer - Warehouse Automation",
-      "company": "Exotec",
-      "location": "Lille, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/senior-software-integration-engineer-warehouse-automation-lille-241230",
-      "source": "arbeitnow",
-      "date": "2026-09-06",
-      "salary": "",
-      "type": "Full time, mid-senior",
-      "tags": [
-        "deployment"
-      ],
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
       "miss_count": 0
     },
     {
@@ -102,6 +44,57 @@
       "miss_count": 0
     },
     {
+      "id": "9ab084d6",
+      "title": "Sales Jedi",
+      "company": "Creative Force ",
+      "location": "Europe",
+      "remote": true,
+      "country": "EU",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "source": "remotive",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "full_time",
+      "tags": [
+        "saas",
+        "video",
+        "solid",
+        "chat",
+        "saas sales",
+        "mental health"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "01f42d5d",
+      "title": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "remote": true,
+      "country": "GB",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "source": "remotive",
+      "date": "2026-09-05",
+      "salary": "",
+      "type": "full_time",
+      "tags": [
+        "api",
+        "css",
+        "go",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "chat",
+        "startup",
+        "troubleshooting",
+        "product support",
+        "testing",
+        "github"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "64fae7e5",
       "title": "Software quality engineer (UK)",
       "company": "Writer",
@@ -116,6 +109,23 @@
       "tags": [
         "engineering",
         "product & design"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ab155e77",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "remotive",
+      "date": "2026-09-04",
+      "salary": "$50-$75 /hour",
+      "type": "freelance",
+      "tags": [
+        "rest"
       ],
       "miss_count": 0
     },
