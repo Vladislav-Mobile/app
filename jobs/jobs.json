@@ -1,7 +1,72 @@
 {
-  "updated_at": "2026-09-06T14:52:36.885683+00:00",
-  "total": 71,
+  "updated_at": "2026-09-06T19:57:17.421687+00:00",
+  "total": 74,
   "jobs": [
+    {
+      "id": "bb27d013",
+      "title": "Werkstudent HSEQ (m/w/d)",
+      "company": "Vulcan Energie Ressourcen GmbH",
+      "location": "Karlsruhe",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/werkstudent-hseq-karlsruhe-235621",
+      "source": "arbeitnow",
+      "date": "2026-09-06",
+      "salary": "",
+      "type": "Student, Intern, Full or part time",
+      "tags": [
+        "werkstudent",
+        "hse",
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6a60f685",
+      "title": "(Senior) CRM Automation & Lifecycle Manager (all genders)",
+      "company": "HolidayCheck Group AG",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/senior-crm-automation-lifecycle-manager-all-genders-munchen-472955",
+      "source": "arbeitnow",
+      "date": "2026-09-06",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "crm",
+        "automatisierung",
+        "automatisation",
+        "crm marketing",
+        "directmarketing",
+        "direktmarketing",
+        "marketing manager",
+        "marketing manager b2c",
+        "b2c",
+        "b2b"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "974f36dd",
+      "title": "Werkstudent (m/w/d) User Experience & Wissensmanagement mit Fokus KI",
+      "company": "PCS Systemtechnik GmbH",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/pcs-systemtechnik-gmbh/werkstudent-user-experience-wissensmanagement-mit-fokus-ki-munchen-41556",
+      "source": "arbeitnow",
+      "date": "2026-09-06",
+      "salary": "",
+      "type": "Student, Intern, Part time",
+      "tags": [
+        "ux",
+        "ui",
+        "usability",
+        "testing"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "8c3b8bfe",
       "title": "Automation Engineer (gn) - 40 Std, (hybrid) (München)",
@@ -18,28 +83,50 @@
       "miss_count": 0
     },
     {
-      "id": "6cba2c69",
-      "title": "Platform Strategist - Fully Remote | Upto $160/hr",
-      "company": "mercor",
-      "location": "United States",
+      "id": "86aca7ed",
+      "title": "Supply Chain Quality Engineer - MAIT",
+      "company": "The Exploration Company",
+      "location": "Bordeaux, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/supply-chain-quality-engineer-mait-bordeaux-313589",
+      "source": "arbeitnow",
+      "date": "2026-09-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "program"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0bf7529b",
+      "title": "QA Engineer (Anywhere in Europe)",
+      "company": "PadSplit",
+      "location": "Ukraine",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/mercor/jobs/platform-strategist-fully-remote-upto-160-hr-6611957624",
+      "country": "GB",
+      "url": "https://himalayas.app/companies/padsplit/jobs/qa-engineer-anywhere-in-europe",
       "source": "himalayas",
       "date": "2026-09-06",
       "salary": "",
       "type": "",
       "tags": [
-        "platform-strategy",
-        "product-management",
-        "document-review",
+        "qa-engineering",
         "quality-assurance",
-        "evaluation-specialist",
-        "platform-strategy-analyst",
-        "platform-strategy-manager",
-        "platform-product-manager",
-        "platform-consultant",
-        "product-platform-manager"
+        "software-testing",
+        "test-engineering",
+        "engineering",
+        "qa-engineer",
+        "qa-test-engineer",
+        "remote-quality-assurance-engineer",
+        "software-qa-and-testing-engineer",
+        "remote-qa-engineer",
+        "software-qa-engineer",
+        "remote-quality-engineer",
+        "qa-qc-engineer",
+        "quality-assurance-engineer",
+        "software-quality-assurance-engineer"
       ],
       "miss_count": 0
     },
@@ -91,24 +178,6 @@
         "product support",
         "testing",
         "github"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "64fae7e5",
-      "title": "Software quality engineer (UK)",
-      "company": "Writer",
-      "location": "London, UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-quality-engineer-uk-london-220045",
-      "source": "arbeitnow",
-      "date": "2026-09-05",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering",
-        "product & design"
       ],
       "miss_count": 0
     },
