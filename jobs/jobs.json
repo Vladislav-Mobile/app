@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T02:46:15.767909+00:00",
-  "total": 73,
+  "updated_at": "2026-09-06T10:12:54.044533+00:00",
+  "total": 71,
   "jobs": [
     {
       "id": "7989c720",
@@ -25,89 +25,80 @@
       "miss_count": 0
     },
     {
-      "id": "78fa026d",
-      "title": "Software Engineer Network Automation, WAN & Edge",
-      "company": "Mistral.ai",
-      "location": "Paris",
+      "id": "329d2e68",
+      "title": "Software Development Engineers in Test (Python)",
+      "company": "Xm",
+      "location": "Remote",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-wan-edge-paris-419258",
+      "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-software-development-engineers-in-test-python-226133",
       "source": "arbeitnow",
       "date": "2026-09-06",
       "salary": "",
-      "type": "Full Time",
+      "type": "Full-time",
       "tags": [
-        "engineering & infra"
+        "quality assurance"
       ],
       "miss_count": 0
     },
     {
-      "id": "8329dc53",
-      "title": "Software Engineer Network Automation, Data Center Fabrics",
-      "company": "Mistral.ai",
-      "location": "Paris",
+      "id": "6476a09a",
+      "title": "QA Software Test Automation Engineers (Java)",
+      "company": "Xm",
+      "location": "Remote",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-data-center-fabrics-paris-469308",
+      "url": "https://www.arbeitnow.fr/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-233007",
       "source": "arbeitnow",
       "date": "2026-09-06",
       "salary": "",
-      "type": "Full Time",
+      "type": "Full-time",
       "tags": [
-        "engineering & infra"
+        "quality assurance"
       ],
       "miss_count": 0
     },
     {
-      "id": "e7609778",
-      "title": "AI & Automation Werkstudent:in (m/w/d)",
-      "company": "Startup Insider",
-      "location": "Berlin",
+      "id": "d546586a",
+      "title": "Senior Software Integration Engineer - Warehouse Automation",
+      "company": "Exotec",
+      "location": "Lille, France",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-429880",
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/senior-software-integration-engineer-warehouse-automation-lille-241230",
       "source": "arbeitnow",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "salary": "",
-      "type": "Entry, Intern, Part time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "434e6b58",
-      "title": "Werkstudent*in Information Security Awareness & Automation",
-      "company": "QAware GmbH",
-      "location": "München",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/qaware-gmbh/werkstudentin-information-security-awareness-automation-munchen-415208",
-      "source": "arbeitnow",
-      "date": "2026-09-05",
-      "salary": "",
-      "type": "Student, Intern, Part time",
+      "type": "Full time, mid-senior",
       "tags": [
-        "informationssicherheit",
-        "cyber security",
-        "it-sicherheit",
-        "datenschutz",
-        "iso 27001",
-        "tisax"
+        "deployment"
       ],
       "miss_count": 0
     },
     {
-      "id": "ad73d8fb",
-      "title": "Quality Manager – Quality Control & Quality Assurance (all genders)",
-      "company": "YOSHI",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/yoshi/quality-manager-quality-control-quality-assurance-all-genders-berlin-74154",
-      "source": "arbeitnow",
-      "date": "2026-09-05",
+      "id": "6cba2c69",
+      "title": "Platform Strategist - Fully Remote | Upto $160/hr",
+      "company": "mercor",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/mercor/jobs/platform-strategist-fully-remote-upto-160-hr-6611957624",
+      "source": "himalayas",
+      "date": "2026-09-06",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
+      "type": "",
+      "tags": [
+        "platform-strategy",
+        "product-management",
+        "document-review",
+        "quality-assurance",
+        "evaluation-specialist",
+        "platform-strategy-analyst",
+        "platform-strategy-manager",
+        "platform-product-manager",
+        "platform-consultant",
+        "product-platform-manager"
+      ],
       "miss_count": 0
     },
     {
@@ -758,24 +749,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8c82d345",
-      "title": "🏢 Офис в Тбилиси, удалёнка не рассматривается.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/258964",
-      "source": "telegram",
-      "date": "2026-08-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
