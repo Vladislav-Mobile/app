@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-09-07T11:29:54.184206+00:00",
-  "total": 76,
+  "updated_at": "2026-09-07T17:10:22.135883+00:00",
+  "total": 75,
   "jobs": [
+    {
+      "id": "5b1db044",
+      "title": "Quality Operations - Praktikant / Werkstudent - 3D Modellierung (m/w/d)",
+      "company": "Enter by baupal GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/enter-by-baupal-gmbh/quality-operations-praktikant-werkstudent-3d-modellierung-berlin-249703",
+      "source": "arbeitnow",
+      "date": "2026-09-07",
+      "salary": "",
+      "type": "Internship, berufseinstieg",
+      "tags": [
+        "administration"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b75df401",
+      "title": "Qualitätsmanager*in mit Personalverantwortung (m/w/d)",
+      "company": "Dr. Herbert Executive Consultants",
+      "location": "Würzburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dr-herbert-executive-consultants/qualitatsmanagerin-mit-personalverantwortung-wurzburg-436728",
+      "source": "arbeitnow",
+      "date": "2026-09-07",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ce6db69b",
       "title": "Quality Assurance Engineer (m/f/d)",
@@ -21,92 +55,19 @@
       "miss_count": 0
     },
     {
-      "id": "da80f116",
-      "title": "AI Automation Engineer – Marketing & Operations Consulting (m/w/d) in Stuttgart, Hamburg oder Berlin – Hybrid",
-      "company": "Klickpiloten",
-      "location": "Stuttgart",
+      "id": "beabd2e4",
+      "title": "Senior QA Tester",
+      "company": "Frontier",
+      "location": "Cambridge / Hybrid",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/ai-automation-engineer-marketing-operations-consulting-in-stuttgart-hamburg-oder-berlin-hybrid-362836",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/frontier/senior-qa-tester-cambridge-hybrid-104954",
       "source": "arbeitnow",
       "date": "2026-09-07",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "Permanent",
       "tags": [
-        "ai & automatisierung",
-        "interne systeme",
-        "kundenberatung",
-        "digital.marketing technologist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3b9e9404",
-      "title": "Qualitätsprüfer (m/w/d) Qualitätssicherung - Kunststoff und Metall",
-      "company": "Laudenbach Formtechnik GmbH",
-      "location": "Gosheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/laudenbach-formtechnik-gmbh/qualitatsprufer-qualitatssicherung-kunststoff-und-metall-gosheim-30939",
-      "source": "arbeitnow",
-      "date": "2026-09-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a6a5357f",
-      "title": "Werkstudent*In Data & Automation (M/W/D)",
-      "company": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/werkstudentin-data-automation-hamburg-140873",
-      "source": "arbeitnow",
-      "date": "2026-09-07",
-      "salary": "",
-      "type": "Entry, Intern, Part time",
-      "tags": [
-        "ramp106",
-        "omr",
-        "tech",
-        "data",
-        "automation",
-        "sales",
-        "automation engineering",
-        "engineering",
-        "werkstudent",
-        "werkstudentin",
-        "hamburg",
-        "job",
-        "teilzeit"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1c271953",
-      "title": "(Senior) Marketing Operations Manager*In (M/W/D) Crm, Growth, Hubspot",
-      "company": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/senior-marketing-operations-managerin-crm-growth-hubspot-hamburg-385005",
-      "source": "arbeitnow",
-      "date": "2026-09-07",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "omr reviews",
-        "crm",
-        "growth",
-        "hubspot",
-        "marketing operations",
-        "reportings",
-        "marketing automation",
-        "crm administration"
+        "testing"
       ],
       "miss_count": 0
     },
@@ -377,6 +338,32 @@
       "miss_count": 0
     },
     {
+      "id": "37fdf489",
+      "title": "Experienced QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1014009-experienced-qa-engineer-mobile-games",
+      "source": "hirify",
+      "date": "2026-09-02",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "71005b46",
       "title": "Middle Manual QA Engineer (Mobile Casual / Tycoon)",
       "company": "Neptunex Studios",
@@ -464,32 +451,6 @@
       "source": "hirify",
       "date": "2026-09-02",
       "salary": "RUB 250000–300000 (~$3169)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "37fdf489",
-      "title": "Experienced QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1014009-experienced-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-02",
-      "salary": "",
       "type": "fulltime",
       "tags": [
         "",
@@ -1121,31 +1082,8 @@
       "miss_count": 0
     },
     {
-      "id": "779a7c0a",
-      "title": "QA Analyst (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/918210-qa-analyst-mobile-games",
-      "source": "hirify",
-      "date": "2026-08-24",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "5e0210e4",
-      "title": "QA Manager (Mobile Apps)",
+      "title": "QA Manager (Mobile Apps) (iGaming)",
       "company": "%hirify_global%",
       "location": "",
       "remote": false,
@@ -1159,6 +1097,29 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "779a7c0a",
+      "title": "QA Analyst (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/918210-qa-analyst-mobile-games",
+      "source": "hirify",
+      "date": "2026-08-24",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
         "",
         "",
         "",
