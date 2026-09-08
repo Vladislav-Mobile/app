@@ -1,7 +1,54 @@
 {
-  "updated_at": "2026-09-08T15:56:00.710744+00:00",
-  "total": 79,
+  "updated_at": "2026-09-08T20:40:17.604750+00:00",
+  "total": 76,
   "jobs": [
+    {
+      "id": "3f138b15",
+      "title": "Commercial Strategy Manager – Data Quality, KPI Monitoring, Processes (m/w/d)",
+      "company": "Edri",
+      "location": "Essen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/edri/commercial-strategy-manager-data-quality-kpi-monitoring-processes-essen-170505",
+      "source": "arbeitnow",
+      "date": "2026-09-08",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "5bd85bca",
+      "title": "Working Student - Product & QA (f/m/d)",
+      "company": "adjoe",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/working-student-product-qa-hamburg-417522",
+      "source": "arbeitnow",
+      "date": "2026-09-08",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "adjoe"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4f105f1c",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "company": "METYCLE",
+      "location": "Cologne (GER)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-73673",
+      "source": "arbeitnow",
+      "date": "2026-09-08",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
     {
       "id": "56333c97",
       "title": "Senior Quality Engineer Propulsion (m/f/d)",
@@ -34,33 +81,6 @@
       "type": "Student college, parttime fixed term",
       "tags": [
         "production & logistics"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "900f70f2",
-      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
-      "company": "Greencells Gmbh",
-      "location": "Saarbrücken",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-375330",
-      "source": "arbeitnow",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "scada-manager",
-        "plant-control-ingenieur",
-        "monitoring-systeme",
-        "utility-scale",
-        "epc",
-        "bess",
-        "scada engineer",
-        "commissioning",
-        "supplier management",
-        "energy infrastructure",
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -104,112 +124,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f8102fad",
-      "title": "Freelance Independent Rater",
-      "company": "Lifelancer",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/freelance-independent-rater-5222579276",
-      "source": "himalayas",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "central-independent-rater",
-        "clinical-research",
-        "mental-health-assessment",
-        "clinical-trials",
-        "psychiatric-assessment",
-        "freelance-reviewer",
-        "freelance-evaluator",
-        "freelance-expert-reviewer",
-        "rater-services",
-        "freelance-assessor",
-        "expert-rater",
-        "freelance-evaluation-specialist",
-        "quality-assurance-rater",
-        "freelance-content-reviewer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "728d0690",
-      "title": "Principal Security Researcher",
-      "company": "GitLab",
-      "location": "Canada",
-      "remote": true,
-      "country": "CA",
-      "url": "https://himalayas.app/companies/gitlab-com/jobs/principal-security-researcher",
-      "source": "himalayas",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "product-security",
-        "security-research",
-        "offensive-security",
-        "application-security",
-        "penetration-testing",
-        "principal-security-researcher",
-        "security-research-director",
-        "staff-security-researcher"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "87b13331",
-      "title": "Freelance Transportation Sector Experts at AI Startup",
-      "company": "Lightly AG",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/lightly-ag/jobs/freelance-transportation-sector-experts-at-ai-startup",
-      "source": "himalayas",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "transportation-forecasting",
-        "ai-evaluation-specialist",
-        "transportation-sector-consultant",
-        "forecast-quality-analyst",
-        "deep-tech-freelance",
-        "freelance-ai-consulting",
-        "freelance-ai-consultant",
-        "freelance-ai-specialist",
-        "freelance-ai-researcher"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "efcdcb55",
-      "title": "Manager of Quality Excellence",
-      "company": "First American",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/first-american/jobs/manager-of-quality-excellence",
-      "source": "himalayas",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-management",
-        "quality-assurance",
-        "operational-excellence",
-        "continuous-improvement",
-        "quality-engineering",
-        "quality-excellence-manager",
-        "quality-manager",
-        "operations-quality-manager",
-        "operational-excellence-manager",
-        "quality-and-compliance-manager",
-        "operations-excellence-manager"
       ],
       "miss_count": 0
     },
@@ -295,23 +209,6 @@
       "tags": [
         "mobile",
         "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "86aca7ed",
-      "title": "Supply Chain Quality Engineer - MAIT",
-      "company": "The Exploration Company",
-      "location": "Bordeaux, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/supply-chain-quality-engineer-mait-bordeaux-313589",
-      "source": "arbeitnow",
-      "date": "2026-09-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "program"
       ],
       "miss_count": 0
     },
