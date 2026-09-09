@@ -1,103 +1,122 @@
 {
-  "updated_at": "2026-09-09T02:55:29.009403+00:00",
-  "total": 76,
+  "updated_at": "2026-09-09T10:42:52.370407+00:00",
+  "total": 75,
   "jobs": [
     {
-      "id": "3f138b15",
-      "title": "Commercial Strategy Manager – Data Quality, KPI Monitoring, Processes (m/w/d)",
-      "company": "Edri",
-      "location": "Essen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/edri/commercial-strategy-manager-data-quality-kpi-monitoring-processes-essen-170505",
-      "source": "arbeitnow",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "5bd85bca",
-      "title": "Working Student - Product & QA (f/m/d)",
-      "company": "adjoe",
+      "id": "9c915446",
+      "title": "Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier",
+      "company": "AdKochMarketing GmbH",
       "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/working-student-product-qa-hamburg-417522",
+      "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/werkstudent-ai-automation-n8n-make-zapier-hamburg-249231",
       "source": "arbeitnow",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "salary": "",
-      "type": "Full Time",
+      "type": "Working student",
       "tags": [
-        "adjoe"
+        "it"
       ],
       "miss_count": 0
     },
     {
-      "id": "4f105f1c",
-      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
-      "company": "METYCLE",
-      "location": "Cologne (GER)",
+      "id": "388889f1",
+      "title": "Director AI & Automation",
+      "company": "Onemedia Consulting",
+      "location": "Onemedia Germany, Munich",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-73673",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-310057",
       "source": "arbeitnow",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [],
       "miss_count": 0
     },
     {
-      "id": "56333c97",
-      "title": "Senior Quality Engineer Propulsion (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-quality-engineer-propulsion-ottobrunn-bavaria-parsdorf-bavaria-84938",
-      "source": "arbeitnow",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "264a1e5b",
-      "title": "Working Student PMO & Quality (m/f/d)",
-      "company": "SGB-SMIT Group",
-      "location": "Regensburg, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/working-student-pmo-quality-regensburg-137457",
-      "source": "arbeitnow",
-      "date": "2026-09-08",
-      "salary": "",
-      "type": "Student college, parttime fixed term",
-      "tags": [
-        "production & logistics"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3530f8cc",
-      "title": "Senior Software QA Engineer",
-      "company": "Comind",
-      "location": "London, UK",
+      "id": "7c370a05",
+      "title": "Lead Business Analyst, Process & automation (London | remote)",
+      "company": "Lightspeedhq",
+      "location": "Remote in the UK",
       "remote": false,
       "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/senior-software-qa-engineer-london-340284",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-london-remote-495940",
       "source": "arbeitnow",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "product development"
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "51d62ee9",
+      "title": "Lead Business Analyst, Process & Automation (Belfast | remote)",
+      "company": "Lightspeedhq",
+      "location": "Belfast",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-belfast-remote-309459",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9ae92b0d",
+      "title": "Director, Customer Success",
+      "company": "nice",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/director-customer-success-250628",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "cx - agentic experience automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ba0292ea",
+      "title": "Senior QA Engineer | London",
+      "company": "TransPerfect",
+      "location": "London, Greater London, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-332514",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "47b16b3f",
+      "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/259345",
+      "source": "telegram",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -152,45 +171,6 @@
         "ticketing",
         "microsoft 365",
         "it systems"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b664ddae",
-      "title": "Cybersecurity & AI Engineer Automation (F/H)",
-      "company": "Mirakl - Labs",
-      "location": "Paris, Paris, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/cybersecurity-ai-engineer-automation-f-h-paris-194861",
-      "source": "arbeitnow",
-      "date": "2026-09-07",
-      "salary": "",
-      "type": "",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "3430278a",
-      "title": "Director – International Relations and Diplomacy Programs",
-      "company": "Schiller International University",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-10277",
-      "source": "arbeitnow",
-      "date": "2026-09-07",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "students",
-        "university",
-        "quality",
-        "support",
-        "faculty",
-        "director",
-        "international relations",
-        "diplomacy"
       ],
       "miss_count": 0
     },
