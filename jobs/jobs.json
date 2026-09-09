@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T15:52:01.597177+00:00",
-  "total": 82,
+  "updated_at": "2026-09-09T20:21:14.740647+00:00",
+  "total": 79,
   "jobs": [
     {
       "id": "48eb2372",
@@ -73,53 +73,6 @@
       "miss_count": 0
     },
     {
-      "id": "464f3d75",
-      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-13040",
-      "source": "arbeitnow",
-      "date": "2026-09-09",
-      "salary": "",
-      "type": "Student, Working student, Part time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "b0b5d30b",
-      "title": "Senior HR Tech Business Analyst — Automation & AI (m/f/d)",
-      "company": "Flix",
-      "location": "Berlin, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-berlin-76054",
-      "source": "arbeitnow",
-      "date": "2026-09-09",
-      "salary": "",
-      "type": "",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "6fc64b1e",
-      "title": "Freelance Senior QA Engineer (Mobile)",
-      "company": "Unzer",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/unzer/freelance-senior-qa-engineer-mobile-berlin-168351",
-      "source": "arbeitnow",
-      "date": "2026-09-09",
-      "salary": "",
-      "type": "Freelance",
-      "tags": [
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "dac59336",
       "title": "Senior QA Automation Engineer",
       "company": "OLR Holdings Ltd trading as DFYNE",
@@ -137,70 +90,72 @@
       "miss_count": 0
     },
     {
-      "id": "7c370a05",
-      "title": "Lead Business Analyst, Process & automation (London | remote)",
-      "company": "Lightspeedhq",
-      "location": "Remote in the UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-london-remote-495940",
+      "id": "7ffee2b3",
+      "title": "Senior Post-Market Surveillance Manager (m/f/d)",
+      "company": "Hilobyaktiia",
+      "location": "France",
+      "remote": true,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hilobyaktiia/remote-senior-post-market-surveillance-manager-france-8227",
       "source": "arbeitnow",
       "date": "2026-09-09",
       "salary": "",
-      "type": "Full Time",
+      "type": "Full time, mid-senior",
       "tags": [
-        "operations"
+        "quality assurance",
+        "medical devices",
+        "quality and regulatory",
+        "remote"
       ],
       "miss_count": 0
     },
     {
-      "id": "51d62ee9",
-      "title": "Lead Business Analyst, Process & Automation (Belfast | remote)",
-      "company": "Lightspeedhq",
-      "location": "Belfast",
-      "remote": false,
+      "id": "5cdccc7a",
+      "title": "QA Engineer (Mobile Gaming)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/lead-business-analyst-process-automation-belfast-remote-309459",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/1055840-qa-engineer-mobile-gaming",
+      "source": "hirify",
       "date": "2026-09-09",
-      "salary": "",
-      "type": "Full Time",
+      "salary": "EUR 1400–2400 (~$2209)",
+      "type": "fulltime",
       "tags": [
-        "operations"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
     {
-      "id": "9ae92b0d",
-      "title": "Director, Customer Success",
-      "company": "nice",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/director-customer-success-250628",
-      "source": "arbeitnow",
+      "id": "7a23f068",
+      "title": "AI Safety Specialist - Fully Remote | Upto $62/hr",
+      "company": "mercor",
+      "location": "Canada",
+      "remote": true,
+      "country": "CA",
+      "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-62-hr-3828955878",
+      "source": "himalayas",
       "date": "2026-09-09",
       "salary": "",
       "type": "",
       "tags": [
-        "cx - agentic experience automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ba0292ea",
-      "title": "Senior QA Engineer | London",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-332514",
-      "source": "arbeitnow",
-      "date": "2026-09-09",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "engineering"
+        "ai-safety",
+        "red-teaming",
+        "cybersecurity",
+        "ai-research",
+        "ai-model-testing",
+        "ai-safety-specialist",
+        "ai-safety-analyst",
+        "ai-safety-practitioner",
+        "ai-security-specialist",
+        "safety-ai",
+        "remote-ai-specialist"
       ],
       "miss_count": 0
     },
@@ -246,6 +201,25 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3758855e",
+      "title": "Campus testing",
+      "company": "Birla Opus",
+      "location": "Madhya Pradesh, ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-campus-testing-birla-opus-1137331",
+      "source": "remoteok",
+      "date": "2026-09-08",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "exec",
+        "golang",
+        "testing"
       ],
       "miss_count": 0
     },
