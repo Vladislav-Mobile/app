@@ -1,37 +1,139 @@
 {
-  "updated_at": "2026-09-09T10:42:52.370407+00:00",
-  "total": 75,
+  "updated_at": "2026-09-09T15:52:01.597177+00:00",
+  "total": 82,
   "jobs": [
     {
-      "id": "9c915446",
-      "title": "Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier",
-      "company": "AdKochMarketing GmbH",
-      "location": "Hamburg",
+      "id": "48eb2372",
+      "title": "Automatisierungstechniker (m/w/d)",
+      "company": "Classen Industries GmbH",
+      "location": "Baruth/Mark",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/werkstudent-ai-automation-n8n-make-zapier-hamburg-249231",
+      "url": "https://www.arbeitnow.com/jobs/companies/classen-industries-gmbh/automatisierungstechniker-baruth-mark-112656",
       "source": "arbeitnow",
       "date": "2026-09-09",
       "salary": "",
-      "type": "Working student",
+      "type": "berufserfahren",
       "tags": [
-        "it"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "388889f1",
-      "title": "Director AI & Automation",
-      "company": "Onemedia Consulting",
-      "location": "Onemedia Germany, Munich",
+      "id": "1b1107b5",
+      "title": "Testingenieur:in Software Aufbau Testframwork in Python, Berlin hybrid, 65.000 - 85.000",
+      "company": "wabcon",
+      "location": "Ingolstadt",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-310057",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/testingenieurin-software-aufbau-testframwork-in-python-berlin-hybrid-65000-85000-ingolstadt-216673",
       "source": "arbeitnow",
       "date": "2026-09-09",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3fd336b0",
+      "title": "Senior Post-Market Surveillance Manager (m/f/d)",
+      "company": "Hilobyaktiia",
+      "location": "Germany",
+      "remote": true,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/hilobyaktiia/remote-senior-post-market-surveillance-manager-germany-426071",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "Full time, mid-senior",
+      "tags": [
+        "quality assurance",
+        "medical devices",
+        "quality and regulatory",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2489ee2b",
+      "title": "Studentische Hilfskraft, Team Questionnaire Design & Evaluation / Team Assessing Survey Data Quality (SHK_SDM_2026_020)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "location": "Mannheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-questionnaire-design-evaluation-team-assessing-survey-data-quality-shk-sdm-2026-020-mannheim-41880",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "Student, Working student, Part time",
       "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "464f3d75",
+      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "location": "Mannheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-13040",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "b0b5d30b",
+      "title": "Senior HR Tech Business Analyst — Automation & AI (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-berlin-76054",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "6fc64b1e",
+      "title": "Freelance Senior QA Engineer (Mobile)",
+      "company": "Unzer",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/unzer/freelance-senior-qa-engineer-mobile-berlin-168351",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "Freelance",
+      "tags": [
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "dac59336",
+      "title": "Senior QA Automation Engineer",
+      "company": "OLR Holdings Ltd trading as DFYNE",
+      "location": "Uddingston",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olr-holdings-ltd-trading-as-dfyne/senior-qa-automation-engineer-uddingston-229952",
+      "source": "arbeitnow",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "it"
+      ],
       "miss_count": 0
     },
     {
@@ -99,6 +201,33 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "376e57bf",
+      "title": "Clinical Product Consultant - CDI",
+      "company": "Waystar",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/waystar/jobs/clinical-product-consultant-cdi-1178960047",
+      "source": "himalayas",
+      "date": "2026-09-09",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "clinical-documentation-improvement",
+        "healthcare-consulting",
+        "clinical-product-consultant",
+        "revenue-cycle-management",
+        "clinical-product-specialist",
+        "clinical-product-manager",
+        "clinical-product-lead",
+        "clinical-solutions-product-manager",
+        "clinical-product-management",
+        "clinical-product-quality-specialist",
+        "clinical-specialist-(medical-device)"
       ],
       "miss_count": 0
     },
