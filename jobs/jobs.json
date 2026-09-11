@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-09-11T02:51:01.090515+00:00",
-  "total": 71,
+  "updated_at": "2026-09-11T10:32:52.609156+00:00",
+  "total": 70,
   "jobs": [
+    {
+      "id": "adfecd8d",
+      "title": "Quality Inspector",
+      "company": "Andurilindustries",
+      "location": "Sydney, Australia",
+      "remote": false,
+      "country": "AU",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/quality-inspector-sydney-australia-414727",
+      "source": "arbeitnow",
+      "date": "2026-09-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "manufacturing : undersea dominance - production : quality engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "e8cdc84e",
       "title": "Communications Specialist - Fully Remote | Upto $120/hr",
@@ -143,40 +160,6 @@
         "software-qa-and-testing-engineer",
         "remote-quality-assurance-specialist",
         "software-qa-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "da2016e4",
-      "title": "Working Student Production Automation (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-production-automation-gilching-220497",
-      "source": "arbeitnow",
-      "date": "2026-09-10",
-      "salary": "",
-      "type": "Entry, internship",
-      "tags": [
-        "student & early professionals"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "19f971db",
-      "title": "Software QA Engineer II",
-      "company": "Axon",
-      "location": "Kassel, Hesse",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/axon/software-qa-engineer-ii-kassel-hesse-167685",
-      "source": "arbeitnow",
-      "date": "2026-09-10",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "2024 dedrone r&d"
       ],
       "miss_count": 0
     },
