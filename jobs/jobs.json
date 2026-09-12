@@ -1,21 +1,58 @@
 {
-  "updated_at": "2026-09-12T10:01:15.339714+00:00",
-  "total": 66,
+  "updated_at": "2026-09-12T14:56:12.493656+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "d237ae54",
-      "title": "PIM Data Cleansing Administrator (1 year fixed-term)",
-      "company": "Lovehoney Group",
+      "id": "3d199d4b",
+      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
+      "company": "Autarcenergy",
       "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/pim-data-cleansing-administrator-1-year-fixed-term-berlin-451970",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-10886",
       "source": "arbeitnow",
       "date": "2026-09-12",
       "salary": "",
-      "type": "Full time",
+      "type": "Student, Permanent, Full time",
       "tags": [
-        "56.1. quality global"
+        "ai",
+        "gtm"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "92e3a0f2",
+      "title": "Business Automation Engineer",
+      "company": "Perk",
+      "location": "Birmingham",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/business-automation-engineer-birmingham-225263",
+      "source": "arbeitnow",
+      "date": "2026-09-12",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "customer care"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "015897a8",
+      "title": "AI Response Evaluator",
+      "company": "iMerit Technology",
+      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
+      "remote": true,
+      "country": "FR",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
+      "source": "remotive",
+      "date": "2026-09-11",
+      "salary": "$10K-$20K",
+      "type": "freelance",
+      "tags": [
+        "ai/ml",
+        "research",
+        "solid"
       ],
       "miss_count": 0
     },
@@ -33,30 +70,6 @@
       "type": "",
       "tags": [
         "quality assurance & regulatory affairs"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2c0332d9",
-      "title": "Director – International Relations and Diplomacy Programs",
-      "company": "Schiller International University",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-397819",
-      "source": "arbeitnow",
-      "date": "2026-09-11",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "students",
-        "university",
-        "quality",
-        "support",
-        "faculty",
-        "director",
-        "international relations",
-        "diplomacy"
       ],
       "miss_count": 0
     },
