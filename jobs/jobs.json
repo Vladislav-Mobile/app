@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T14:56:12.493656+00:00",
-  "total": 67,
+  "updated_at": "2026-09-12T20:08:36.455322+00:00",
+  "total": 68,
   "jobs": [
     {
       "id": "3d199d4b",
@@ -17,6 +17,23 @@
       "tags": [
         "ai",
         "gtm"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ff9a5557",
+      "title": "Senior Digital Content Consultant",
+      "company": "dept",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/senior-digital-content-consultant-283056",
+      "source": "arbeitnow",
+      "date": "2026-09-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "crm/marketing automation"
       ],
       "miss_count": 0
     },
