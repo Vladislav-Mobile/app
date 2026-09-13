@@ -1,22 +1,60 @@
 {
-  "updated_at": "2026-09-12T20:08:36.455322+00:00",
-  "total": 68,
+  "updated_at": "2026-09-13T02:58:30.101532+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "3d199d4b",
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
+      "id": "b1036bad",
+      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
+      "company": "Greencells Gmbh",
+      "location": "Saarbrücken",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-10886",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-140312",
       "source": "arbeitnow",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "salary": "",
-      "type": "Student, Permanent, Full time",
+      "type": "Experienced, Permanent, Full time",
       "tags": [
-        "ai",
-        "gtm"
+        "scada-manager",
+        "plant-control-ingenieur",
+        "monitoring-systeme",
+        "utility-scale",
+        "epc",
+        "bess",
+        "scada engineer",
+        "commissioning",
+        "supplier management",
+        "energy infrastructure",
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1e240a6f",
+      "title": "Design Verification Engineer - Fully Remote | Upto $175/hr",
+      "company": "mercor",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/mercor/jobs/design-verification-engineer-fully-remote-upto-175-hr",
+      "source": "himalayas",
+      "date": "2026-09-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "rtl-design-engineer",
+        "digital-design-engineer",
+        "asic-design-engineer",
+        "design-verification-engineer",
+        "hardware-engineering",
+        "verification-engineer",
+        "design-validation-engineer",
+        "hardware-verification-engineer",
+        "verification-and-validation-engineer",
+        "ic-verification-engineer",
+        "senior-verification-engineer",
+        "qa-and-verification-engineer",
+        "design-verification-engineering"
       ],
       "miss_count": 0
     },
@@ -70,23 +108,6 @@
         "ai/ml",
         "research",
         "solid"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "89d9353e",
-      "title": "Sr Manager Quality Assurance",
-      "company": "Hasbro",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hasbro/sr-manager-quality-assurance-london-153515",
-      "source": "arbeitnow",
-      "date": "2026-09-11",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality assurance & regulatory affairs"
       ],
       "miss_count": 0
     },
@@ -1733,23 +1754,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "35b685f1",
-      "title": "Face Deduplication Collection",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
-      "source": "remotive",
-      "date": "2026-08-13",
-      "salary": "Pay per task",
-      "type": "part_time",
-      "tags": [
-        "research"
       ],
       "miss_count": 0
     }
