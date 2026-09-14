@@ -1,38 +1,65 @@
 {
-  "updated_at": "2026-09-14T17:36:16.713067+00:00",
-  "total": 69,
+  "updated_at": "2026-09-14T21:24:57.091877+00:00",
+  "total": 70,
   "jobs": [
     {
-      "id": "511a7c3e",
-      "title": "Mechatronik - Konstrukteur (m / w / d)",
-      "company": "Witte Barskamp GmbH & Co. KG",
-      "location": "Bleckede",
+      "id": "157a91ae",
+      "title": "Projektleiter Steuerungstechnik (m/w/d)",
+      "company": "EW-Tec Industrieservice & Anlagentechnik GmbH",
+      "location": "Viersen",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/witte-barskamp-gmbh-co-kg/mechatronik-konstrukteur-m-w-d-bleckede-443688",
-      "source": "arbeitnow",
-      "date": "2026-09-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e946717b",
-      "title": "Automatisierungsingenieur",
-      "company": "xpertsforwork GmbH",
-      "location": "Ratingen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/xpertsforwork-gmbh/automatisierungsingenieur-ratingen-88974",
+      "url": "https://www.arbeitnow.com/jobs/companies/ew-tec-industrieservice-anlagentechnik-gmbh/projektleiter-steuerungstechnik-viersen-250089",
       "source": "arbeitnow",
       "date": "2026-09-14",
       "salary": "",
       "type": "berufserfahren",
       "tags": [
         "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ac8f6887",
+      "title": "KI Automation & Content Builder (m/w/d)",
+      "company": "meetergo GmbH",
+      "location": "Cologne",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/meetergo-gmbh/ki-automation-content-builder-cologne-270474",
+      "source": "arbeitnow",
+      "date": "2026-09-14",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "online marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "23e8e555",
+      "title": "QA Analyst II (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1087753-qa-analyst-mobile-games",
+      "source": "hirify",
+      "date": "2026-09-14",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
