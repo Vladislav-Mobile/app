@@ -1,36 +1,165 @@
 {
-  "updated_at": "2026-09-15T10:59:39.376206+00:00",
-  "total": 67,
+  "updated_at": "2026-09-15T16:10:28.716718+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "22754661",
-      "title": "Working Student – Release Support and Automation",
-      "company": "Snke",
-      "location": "München",
+      "id": "e2de9bd4",
+      "title": "AI Automation & Operations Manager (m/w/d)",
+      "company": "Creative Dreams",
+      "location": "Düsseldorf",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-196690",
+      "url": "https://www.arbeitnow.com/jobs/companies/creative-dreams/ai-automation-operations-manager-dusseldorf-436183",
       "source": "arbeitnow",
       "date": "2026-09-15",
       "salary": "",
-      "type": "Student, Intern, Part time",
-      "tags": [],
+      "type": "",
+      "tags": [
+        "marketing and communication"
+      ],
       "miss_count": 0
     },
     {
-      "id": "97d34a65",
-      "title": "Senior Network Automation Engineer (EU)",
-      "company": "Megaport",
-      "location": "United Kingdom",
+      "id": "de2d89a1",
+      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
+      "company": "Lamm HR GmbH",
+      "location": "Landkreis Bergstraße, Hessen, Deutschland",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/megaport/senior-network-automation-engineer-eu-united-kingdom-196633",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-411041",
       "source": "arbeitnow",
       "date": "2026-09-15",
       "salary": "",
-      "type": "Full-time - Permanent",
+      "type": "Mid, fulltime permanent",
       "tags": [
-        "engineering"
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "880d6576",
+      "title": "Senior QA Manager - Fully Remote",
+      "company": "SOFTGAMES",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-435767",
+      "source": "arbeitnow",
+      "date": "2026-09-15",
+      "salary": "",
+      "type": "Entry, fulltime permanent",
+      "tags": [
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "450103de",
+      "title": "Social Media & KI-Automation Manager (m/w/d) - 100% Remote, Vollzeit | Start: ab sofort",
+      "company": "Endo Health GmbH",
+      "location": "Chemnitz",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/endo-health-gmbh/social-media-ki-automation-manager-100-remote-vollzeit-start-ab-sofort-chemnitz-238743",
+      "source": "arbeitnow",
+      "date": "2026-09-15",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "social media manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c63b0a55",
+      "title": "SPS-Programmierer (m/w/d)",
+      "company": "alphacoders GmbH",
+      "location": "Marburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/alphacoders-gmbh/sps-programmierer-marburg-201278",
+      "source": "arbeitnow",
+      "date": "2026-09-15",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a0f11d98",
+      "title": "Junior QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1094519-junior-qa-mobile-game-tester",
+      "source": "hirify",
+      "date": "2026-09-15",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "47eae306",
+      "title": "Mobile QA Engineer - Remote Work",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1092982-mobile-qa-engineer-appium",
+      "source": "hirify",
+      "date": "2026-09-15",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e8e997d3",
+      "title": "Senior QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1092878-senior-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-09-15",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
