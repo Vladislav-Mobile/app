@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T16:03:53.918586+00:00",
-  "total": 78,
+  "updated_at": "2026-09-16T20:50:33.145893+00:00",
+  "total": 71,
   "jobs": [
     {
       "id": "51ce2b4c",
@@ -21,98 +21,19 @@
       "miss_count": 0
     },
     {
-      "id": "da0ccff6",
-      "title": "Senior Collection Specialist Quality (m/w/d)",
-      "company": "Pair",
-      "location": "Berlin (Hybrid)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/pair/senior-collection-specialist-quality-berlin-hybrid-15805",
-      "source": "arbeitnow",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "8dccf389",
-      "title": "Senior QA Engineer",
-      "company": "Waracle",
-      "location": "Dundee, Scotland, United Kingdom",
+      "id": "7d15c617",
+      "title": "Quality Complaint Specialist",
+      "company": "Hims And Hers",
+      "location": "London, England",
       "remote": false,
       "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/senior-qa-engineer-dundee-124529",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/quality-complaint-specialist-london-278183",
       "source": "arbeitnow",
       "date": "2026-09-16",
       "salary": "",
-      "type": "Experienced, contract",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "4d8875a9",
-      "title": "Senior QA Engineer - Mobile",
-      "company": "Waracle",
-      "location": "London, England, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/senior-qa-engineer-mobile-london-241221",
-      "source": "arbeitnow",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
+      "type": "Full Time",
       "tags": [
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "00aab7ab",
-      "title": "QA Engineer - Mid Level",
-      "company": "Waracle",
-      "location": "Dundee, Scotland, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/qa-engineer-mid-level-dundee-399652",
-      "source": "arbeitnow",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "df550bd0",
-      "title": "Automation Engineer",
-      "company": "KP Snacks",
-      "location": "Ashby de la Zouch, England, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kp-snacks/automation-engineer-ashby-de-la-zouch-457055",
-      "source": "arbeitnow",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "792dab6f",
-      "title": "Senior Programme Manager - Data Quality & Transformation",
-      "company": "Delta Capita",
-      "location": "London, Greater London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/senior-programme-manager-data-quality-transformation-london-224140",
-      "source": "arbeitnow",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "Experienced, fulltime fixed term",
-      "tags": [
-        "consulting"
+        "quality"
       ],
       "miss_count": 0
     },
@@ -184,71 +105,27 @@
       "miss_count": 0
     },
     {
-      "id": "63cca3b1",
-      "title": "Korean Transcription Expert - Fully Remote | Upto $33/hr",
-      "company": "mercor",
-      "location": "Spain",
+      "id": "98481a04",
+      "title": "Manager, Quality Improvement, HEDIS Audit",
+      "company": "Centene Corporation",
+      "location": "Macao",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/mercor/jobs/korean-transcription-expert-fully-remote-upto-33-hr-7322984285",
+      "url": "https://himalayas.app/companies/centene-corporation/jobs/manager-quality-improvement-hedis-audit-6425372480",
       "source": "himalayas",
       "date": "2026-09-16",
       "salary": "",
       "type": "",
       "tags": [
-        "korean-audio-transcription",
-        "pdf-annotation",
-        "ai-training-data",
-        "bilingual-qa",
-        "localization",
-        "korean-language-transcriptionist",
-        "remote-korean-ai-data-annotation-specialist",
-        "remote-transcriptionist",
-        "entry-level-freelance-korean-data-annotator",
-        "korean-language-data-annotation-specialist",
-        "remote-transcriber"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "20be9366",
-      "title": "QA Automation Engineer (QB - QA - 20260617)",
-      "company": "Celara",
-      "location": "Argentina",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/celara/jobs/qa-automation-engineer-qb-qa-20260617-4140721079",
-      "source": "himalayas",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-automation-engineer",
-        "sdet",
-        "automation-testing",
-        "quality-engineer",
-        "software-engineer-in-test",
-        "kitchen-display-systems-(kds)",
-        "mid-level-qa-automation-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "43af6d99",
-      "title": "BDR, Enterprise AI Automation (SF)",
-      "company": "Lavendo",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/lavendo/jobs/bdr-enterprise-ai-automation-sf",
-      "source": "himalayas",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "enterprise-bdr",
-        "enterprise-ai-automation",
-        "bdr"
+        "quality-improvement-management",
+        "hedis-auditor",
+        "healthcare-quality-management",
+        "regulatory-compliance",
+        "managed-care-quality",
+        "quality-improvement-manager",
+        "quality-audit-manager",
+        "audit-quality-assurance-manager",
+        "healthcare-audit-manager"
       ],
       "miss_count": 0
     },
