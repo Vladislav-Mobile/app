@@ -1,7 +1,114 @@
 {
-  "updated_at": "2026-09-17T03:15:35.255925+00:00",
-  "total": 71,
+  "updated_at": "2026-09-17T10:54:47.565993+00:00",
+  "total": 80,
   "jobs": [
+    {
+      "id": "3fcbfa39",
+      "title": "Freelance QA Tester / Software-Tester (m/w/d)",
+      "company": "SEDIWORK",
+      "location": "Leipzig",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/sediwork/freelance-qa-tester-software-tester-leipzig-218890",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Freelance",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "36dc4457",
+      "title": "Werkstudent (m/w/d) für AI Data Annotation & Quality Assurance",
+      "company": "IUNA AI Systems GmbH",
+      "location": "Heilbronn",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/iuna-ai-systems-gmbh/werkstudent-fur-ai-data-annotation-quality-assurance-heilbronn-27249",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Working student",
+      "tags": [
+        "remote",
+        "data scientist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "671398b8",
+      "title": "QA Engineer - Quantum Computing (m/w/d)",
+      "company": "eleQtron GmbH",
+      "location": "Siegen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/qa-engineer-quantum-computing-siegen-333060",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Full-time permanent, experienced",
+      "tags": [
+        "information technology",
+        "bachelor's degree"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "210b4b00",
+      "title": "Chief of Regulatory Affairs & Quality (m/w/d)",
+      "company": "Aortex UG (haftungsbeschränkt)",
+      "location": "Magdeburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/aortex-ug-haftungsbeschrankt/chief-of-regulatory-affairs-quality-magdeburg-372346",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0ee2e3d4",
+      "title": "Senior Revenue Operations Manager - GTM Systems and Automation",
+      "company": "newrelic",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-revenue-operations-manager-gtm-systems-and-automation-london-217745",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "sales",
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "88bad73e",
+      "title": "Senior Quality Engineer",
+      "company": "Hypersonica",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/senior-quality-engineer-london-483670",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "85dfe34e",
       "title": "Software Engineer in Test, ToolChain QE",
@@ -37,6 +144,91 @@
       "miss_count": 0
     },
     {
+      "id": "3ede689e",
+      "title": "Mechatronic Engineer - Automation Test Equitment",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechatronic-engineer-automation-test-equitment-paris-200482",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "r&d"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ec2ac2d0",
+      "title": "Production Quality Engineer Intern",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/production-quality-engineer-intern-paris-477014",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "p&i"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3425a844",
+      "title": "Senior QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1110220-senior-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-09-17",
+      "salary": "EUR 400 (~$9663)",
+      "type": "project",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "44035b86",
+      "title": "Mobile QA (manual)",
+      "company": null,
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1109406-mobile-qa-manual",
+      "source": "hirify",
+      "date": "2026-09-17",
+      "salary": "USD 2000",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "694fe41d",
       "title": "QA Java Mobile",
       "company": "KA Selecty",
@@ -63,19 +255,47 @@
       "miss_count": 0
     },
     {
-      "id": "32846fb7",
-      "title": "Internship AI & Automation - Energy (m/f/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "remote": false,
+      "id": "add4d0b4",
+      "title": "Lead Software Engineer in Test – Agentic AI (Remote - US)",
+      "company": "Nextech Systems",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/nextech-systems/jobs/lead-software-engineer-in-test-agentic-ai-remote-us",
+      "source": "himalayas",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "lead-software-engineer-in-test",
+        "qa-automation-engineer",
+        "software-engineer-in-test",
+        "agentic-ai-quality-assurance",
+        "sdet",
+        "senior-agentic-ai-engineer",
+        "lead-ai-test-automation-architect",
+        "remote-software-development-engineer-in-test",
+        "agentic-qa-engineering",
+        "ai-testing-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "28e95e63",
+      "title": "AI Trainer Image QA Evaluator",
+      "company": "iMerit Technology",
+      "location": "",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-ai-automation-energy-berlin-78409",
-      "source": "arbeitnow",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
+      "source": "remoteok",
       "date": "2026-09-16",
       "salary": "",
-      "type": "Internship, berufseinstieg",
+      "type": "full-time",
       "tags": [
-        "software development"
+        "ai",
+        "data annotation",
+        "quality assurance"
       ],
       "miss_count": 0
     },
@@ -93,30 +313,6 @@
       "type": "Internship",
       "tags": [
         "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d5a40462",
-      "title": "Director – International Relations and Diplomacy Programs",
-      "company": "Schiller International University",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-28634",
-      "source": "arbeitnow",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "students",
-        "university",
-        "quality",
-        "support",
-        "faculty",
-        "director",
-        "international relations",
-        "diplomacy"
       ],
       "miss_count": 0
     },
@@ -183,16 +379,16 @@
       "miss_count": 0
     },
     {
-      "id": "a0f11d98",
-      "title": "Junior QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
+      "id": "6a2a53ff",
+      "title": "Mobile QA Engineer (Manual)",
+      "company": null,
+      "location": "Remote",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/1094519-junior-qa-mobile-game-tester",
+      "url": "https://hirify.me/vacancies/1090981-mobile-qa-engineer-manual",
       "source": "hirify",
       "date": "2026-09-15",
-      "salary": "",
+      "salary": "USD 2000",
       "type": "fulltime",
       "tags": [
         "",
@@ -208,16 +404,16 @@
       "miss_count": 0
     },
     {
-      "id": "6a2a53ff",
-      "title": "Mobile QA Engineer (Manual)",
-      "company": null,
-      "location": "Remote",
+      "id": "a0f11d98",
+      "title": "Junior QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/1090981-mobile-qa-engineer-manual",
+      "url": "https://hirify.me/vacancies/1094519-junior-qa-mobile-game-tester",
       "source": "hirify",
       "date": "2026-09-15",
-      "salary": "USD 2000",
+      "salary": "",
       "type": "fulltime",
       "tags": [
         "",
@@ -734,24 +930,6 @@
         "ticketing",
         "microsoft 365",
         "it systems"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cc0e0040",
-      "title": "🧾 Вакансия: QA Lead (от 3 лет опыта Java Appium Mobile + управления командой)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/259273",
-      "source": "telegram",
-      "date": "2026-09-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
