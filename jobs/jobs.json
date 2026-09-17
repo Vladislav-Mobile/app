@@ -1,39 +1,81 @@
 {
-  "updated_at": "2026-09-16T20:50:33.145893+00:00",
+  "updated_at": "2026-09-17T03:15:35.255925+00:00",
   "total": 71,
   "jobs": [
     {
-      "id": "51ce2b4c",
-      "title": "Cloud & Data Engineering Intern / Working Student (m/f/d) - Full-Stack Data Platforms & AI Automation",
-      "company": "PFASuiki GmbH",
-      "location": "Oberhaching",
+      "id": "85dfe34e",
+      "title": "Software Engineer in Test, ToolChain QE",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "Bristol",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/cloud-data-engineering-intern-working-student-full-stack-data-platforms-ai-automation-oberhaching-170366",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/software-engineer-in-test-toolchain-qe-bristol-77598",
       "source": "arbeitnow",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "salary": "",
-      "type": "no experience required / student",
+      "type": "",
       "tags": [
-        "data processing",
-        "data engineer"
+        "admin (fsee)"
       ],
       "miss_count": 0
     },
     {
-      "id": "7d15c617",
-      "title": "Quality Complaint Specialist",
-      "company": "Hims And Hers",
-      "location": "London, England",
+      "id": "9f066c6f",
+      "title": "Senior Localisation Quality Engineer",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "London",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/quality-complaint-specialist-london-278183",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-localisation-quality-engineer-london-407334",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "global design center"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "694fe41d",
+      "title": "QA Java Mobile",
+      "company": "KA Selecty",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1108762-qa-java-mobile",
+      "source": "hirify",
+      "date": "2026-09-17",
+      "salary": "RUB 300000–350000 (~$3853)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "32846fb7",
+      "title": "Internship AI & Automation - Energy (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/internship-ai-automation-energy-berlin-78409",
       "source": "arbeitnow",
       "date": "2026-09-16",
       "salary": "",
-      "type": "Full Time",
+      "type": "Internship, berufseinstieg",
       "tags": [
-        "quality"
+        "software development"
       ],
       "miss_count": 0
     },
@@ -101,31 +143,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "98481a04",
-      "title": "Manager, Quality Improvement, HEDIS Audit",
-      "company": "Centene Corporation",
-      "location": "Macao",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/centene-corporation/jobs/manager-quality-improvement-hedis-audit-6425372480",
-      "source": "himalayas",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-improvement-management",
-        "hedis-auditor",
-        "healthcare-quality-management",
-        "regulatory-compliance",
-        "managed-care-quality",
-        "quality-improvement-manager",
-        "quality-audit-manager",
-        "audit-quality-assurance-manager",
-        "healthcare-audit-manager"
       ],
       "miss_count": 0
     },
@@ -1800,32 +1817,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "66bee6b3",
-      "title": "QA Automation Engineer (Java, Mobile, Web)",
-      "company": "Centicore",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/850617-qa-fullstack-java",
-      "source": "hirify",
-      "date": "2026-08-17",
-      "salary": "RUB 270000–330000 (~$3624)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
