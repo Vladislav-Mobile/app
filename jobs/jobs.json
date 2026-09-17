@@ -1,7 +1,102 @@
 {
-  "updated_at": "2026-09-17T16:10:12.356787+00:00",
-  "total": 78,
+  "updated_at": "2026-09-17T20:55:38.771905+00:00",
+  "total": 84,
   "jobs": [
+    {
+      "id": "c3840f22",
+      "title": "Data Scientist, Data Quality & Provenance",
+      "company": "Wayve",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-scientist-data-quality-provenance-214091",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "simulation",
+        "evaluation",
+        "validation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e318cbe1",
+      "title": "Data Engineer, Data Quality & Provenance",
+      "company": "Wayve",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-134053",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "simulation",
+        "evaluation",
+        "validation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "39b6fe25",
+      "title": "AI & Automation Working Student (m/f/d)",
+      "company": "Planqc Gmbh",
+      "location": "Garching b. München (DE)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqc-gmbh/ai-automation-working-student-garching-b-munchen-de-115439",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "7656e7e7",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "company": "METYCLE",
+      "location": "Cologne (GER)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-45180",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "8d95666b",
+      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
+      "company": "Greencells Gmbh",
+      "location": "Saarbrücken",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-175243",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "scada-manager",
+        "plant-control-ingenieur",
+        "monitoring-systeme",
+        "utility-scale",
+        "epc",
+        "bess",
+        "scada engineer",
+        "commissioning",
+        "supplier management",
+        "energy infrastructure",
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "499f7bbe",
       "title": "Team Lead Engineering - Finance Automation",
@@ -16,6 +111,23 @@
       "type": "Full Time",
       "tags": [
         "technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8208d81f",
+      "title": "Data Quality Executive",
+      "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+      "location": "Milton Keynes",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/data-quality-executive-milton-keynes-319906",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "data & listings"
       ],
       "miss_count": 0
     },
@@ -88,6 +200,32 @@
       "miss_count": 0
     },
     {
+      "id": "44035b86",
+      "title": "Mobile QA (Manual)",
+      "company": null,
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1109406-mobile-qa-manual",
+      "source": "hirify",
+      "date": "2026-09-17",
+      "salary": "USD 1000–2000",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "f565ea8e",
       "title": "QA Lead (Java Appium Mobile)",
       "company": "Tihonova IT Search",
@@ -137,32 +275,6 @@
       "miss_count": 0
     },
     {
-      "id": "44035b86",
-      "title": "Mobile QA (manual)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1109406-mobile-qa-manual",
-      "source": "hirify",
-      "date": "2026-09-17",
-      "salary": "USD 2000",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "694fe41d",
       "title": "QA Java Mobile",
       "company": "KA Selecty",
@@ -189,28 +301,30 @@
       "miss_count": 0
     },
     {
-      "id": "add4d0b4",
-      "title": "Lead Software Engineer in Test – Agentic AI (Remote - US)",
-      "company": "Nextech Systems",
-      "location": "United States",
+      "id": "f649e458",
+      "title": "Senior Security Engineer - Blue Team",
+      "company": "Olo",
+      "location": "United Kingdom",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/nextech-systems/jobs/lead-software-engineer-in-test-agentic-ai-remote-us",
+      "country": "GB",
+      "url": "https://himalayas.app/companies/olo/jobs/senior-security-engineer-blue-team",
       "source": "himalayas",
       "date": "2026-09-17",
       "salary": "",
       "type": "",
       "tags": [
-        "lead-software-engineer-in-test",
-        "qa-automation-engineer",
-        "software-engineer-in-test",
-        "agentic-ai-quality-assurance",
-        "sdet",
-        "senior-agentic-ai-engineer",
-        "lead-ai-test-automation-architect",
-        "remote-software-development-engineer-in-test",
-        "agentic-qa-engineering",
-        "ai-testing-engineer"
+        "security-engineering",
+        "blue-team",
+        "cybersecurity",
+        "incident-response",
+        "soc",
+        "senior-cybersecurity-engineer",
+        "senior-security-operations-engineer",
+        "senior-information-security-engineer",
+        "senior-principal-security-engineer",
+        "senior-security-testing-engineer",
+        "senior-security-engineering-manager",
+        "security-engineer"
       ],
       "miss_count": 0
     },
