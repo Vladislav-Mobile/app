@@ -1,145 +1,55 @@
 {
-  "updated_at": "2026-09-17T10:54:47.565993+00:00",
-  "total": 80,
+  "updated_at": "2026-09-17T16:10:12.356787+00:00",
+  "total": 78,
   "jobs": [
     {
-      "id": "3fcbfa39",
-      "title": "Freelance QA Tester / Software-Tester (m/w/d)",
-      "company": "SEDIWORK",
-      "location": "Leipzig",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sediwork/freelance-qa-tester-software-tester-leipzig-218890",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "Freelance",
-      "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "36dc4457",
-      "title": "Werkstudent (m/w/d) für AI Data Annotation & Quality Assurance",
-      "company": "IUNA AI Systems GmbH",
-      "location": "Heilbronn",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/iuna-ai-systems-gmbh/werkstudent-fur-ai-data-annotation-quality-assurance-heilbronn-27249",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "Working student",
-      "tags": [
-        "remote",
-        "data scientist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "671398b8",
-      "title": "QA Engineer - Quantum Computing (m/w/d)",
-      "company": "eleQtron GmbH",
-      "location": "Siegen",
+      "id": "499f7bbe",
+      "title": "Team Lead Engineering - Finance Automation",
+      "company": "Zeal Network",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/qa-engineer-quantum-computing-siegen-333060",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-491998",
       "source": "arbeitnow",
       "date": "2026-09-17",
       "salary": "",
-      "type": "Full-time permanent, experienced",
+      "type": "Full Time",
       "tags": [
-        "information technology",
-        "bachelor's degree"
+        "technology"
       ],
       "miss_count": 0
     },
     {
-      "id": "210b4b00",
-      "title": "Chief of Regulatory Affairs & Quality (m/w/d)",
-      "company": "Aortex UG (haftungsbeschränkt)",
-      "location": "Magdeburg",
+      "id": "ea1883bc",
+      "title": "QA Tester - Brookhaven",
+      "company": "Voldex",
+      "location": "Remote - UK",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/aortex-ug-haftungsbeschrankt/chief-of-regulatory-affairs-quality-magdeburg-372346",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/voldex/qa-tester-brookhaven-london-449280",
       "source": "arbeitnow",
       "date": "2026-09-17",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "development"
+        "quality assurance"
       ],
       "miss_count": 0
     },
     {
-      "id": "0ee2e3d4",
-      "title": "Senior Revenue Operations Manager - GTM Systems and Automation",
-      "company": "newrelic",
-      "location": "London",
+      "id": "53bbb289",
+      "title": "Senior QA Engineer | London",
+      "company": "TransPerfect",
+      "location": "London, Greater London, United Kingdom",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/newrelic/senior-revenue-operations-manager-gtm-systems-and-automation-london-217745",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-22268",
       "source": "arbeitnow",
       "date": "2026-09-17",
       "salary": "",
-      "type": "",
-      "tags": [
-        "sales",
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "88bad73e",
-      "title": "Senior Quality Engineer",
-      "company": "Hypersonica",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/senior-quality-engineer-london-483670",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "Full-time",
+      "type": "Mid, fulltime permanent",
       "tags": [
         "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "85dfe34e",
-      "title": "Software Engineer in Test, ToolChain QE",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/software-engineer-in-test-toolchain-qe-bristol-77598",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "admin (fsee)"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9f066c6f",
-      "title": "Senior Localisation Quality Engineer",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-localisation-quality-engineer-london-407334",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "global design center"
       ],
       "miss_count": 0
     },
@@ -174,6 +84,30 @@
       "type": "Full Time",
       "tags": [
         "p&i"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f565ea8e",
+      "title": "QA Lead (Java Appium Mobile)",
+      "company": "Tihonova IT Search",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1111780-qa-lead-java-appium-mobile",
+      "source": "hirify",
+      "date": "2026-09-17",
+      "salary": "USD 3800",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -281,6 +215,69 @@
       "miss_count": 0
     },
     {
+      "id": "01d51de3",
+      "title": "🧾 Вакансия: QA Lead (от 3 лет опыта Java Appium Mobile + управления командой)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/259622",
+      "source": "telegram",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5dea3c5d",
+      "title": "Senior Independent Software Developer",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "remote": true,
+      "country": "EU",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+      "source": "remotive",
+      "date": "2026-09-16",
+      "salary": "$90 - $150 /hour",
+      "type": "contract",
+      "tags": [
+        "go",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cbb76f75",
+      "title": "Senior Independent AI Engineer / Architect",
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "remote": true,
+      "country": "EU",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "source": "remotive",
+      "date": "2026-09-16",
+      "salary": "$120 - $170 /hour",
+      "type": "contract",
+      "tags": [
+        "go",
+        "ui/ux",
+        "wordpress",
+        "chat",
+        "apple",
+        "testing",
+        "catalyst"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "28e95e63",
       "title": "AI Trainer Image QA Evaluator",
       "company": "iMerit Technology",
@@ -296,23 +293,6 @@
         "ai",
         "data annotation",
         "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "165e1ac8",
-      "title": "AI Engineer Intern, GenAI Internal Automation (GAIA)",
-      "company": "Equativ",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/equativ/ai-engineer-intern-genai-internal-automation-gaia-paris-63381",
-      "source": "arbeitnow",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "Internship",
-      "tags": [
-        "engineering"
       ],
       "miss_count": 0
     },
