@@ -1,72 +1,175 @@
 {
-  "updated_at": "2026-09-18T15:45:49.261254+00:00",
-  "total": 78,
+  "updated_at": "2026-09-18T20:21:11.712110+00:00",
+  "total": 81,
   "jobs": [
     {
-      "id": "19c98616",
-      "title": "Senior Automation Engineer  - UiPath",
-      "company": "roboyo",
-      "location": "",
+      "id": "fa7687ab",
+      "title": "AI Tester – German Speaker",
+      "company": "Tsmg",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-automation-engineer-uipath-122023",
+      "url": "https://www.arbeitnow.com/jobs/companies/tsmg/ai-tester-german-speaker-munich-42766",
       "source": "arbeitnow",
       "date": "2026-09-18",
       "salary": "",
-      "type": "",
+      "type": "Full time",
       "tags": [
-        "delivery"
+        "drive emea '26"
       ],
       "miss_count": 0
     },
     {
-      "id": "f5b3dd59",
-      "title": "Growth Marketer (AI-Powered QA Automation)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/growth-marketer-ai-powered-qa-automation-berlin-munich-21483",
-      "source": "arbeitnow",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "innovation hub"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "85743c0a",
-      "title": "Senior Vehicle Test Operator",
-      "company": "vay",
+      "id": "d3bb371f",
+      "title": "AI Innovation and Enablement Specialist",
+      "company": "Lovehoney Group",
       "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vay/senior-vehicle-test-operator-berlin-420200",
+      "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/ai-innovation-and-enablement-specialist-berlin-242817",
+      "source": "arbeitnow",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "70.2. tech - ai & automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "efb6dd1a",
+      "title": "Specialist QA Document & Training (m/w/d)",
+      "company": "simtrabps",
+      "location": "Halle, North Rhine-Westphalia",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/simtrabps/specialist-qa-document-training-halle-north-rhine-westphalia-209808",
       "source": "arbeitnow",
       "date": "2026-09-18",
       "salary": "",
       "type": "",
       "tags": [
-        "testing & validation (5800)"
+        "quality assurance & regulatory affairs"
       ],
       "miss_count": 0
     },
     {
-      "id": "36004139",
-      "title": "Head of Quality Engineering",
-      "company": "Lendable",
-      "location": "London",
+      "id": "0acf4fff",
+      "title": "Customer Claims Complaints & QA Specialist",
+      "company": "Prima",
+      "location": "Manchester",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/head-of-quality-engineering-london-437895",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/customer-claims-complaints-qa-specialist-manchester-154507",
       "source": "arbeitnow",
       "date": "2026-09-18",
       "salary": "",
-      "type": "Full Time",
+      "type": "Permanent Employment",
       "tags": [
-        "engineering & product"
+        "claims uk"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "78e2bcad",
+      "title": "Senior QA Automation Engineer - AI",
+      "company": "Anaplan",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-qa-automation-engineer-ai-london-347155",
+      "source": "arbeitnow",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e210a398",
+      "title": "SDET - AI",
+      "company": "Anaplan",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/sdet-ai-london-434301",
+      "source": "arbeitnow",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f1e38adf",
+      "title": "SDET - AI",
+      "company": "Anaplan",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/sdet-ai-london-431181",
+      "source": "arbeitnow",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c7422a7c",
+      "title": "QA Automation Engineer - AI",
+      "company": "Anaplan",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/qa-automation-engineer-ai-london-494529",
+      "source": "arbeitnow",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bdb17605",
+      "title": "Responsable Qualité Environnement Hygiène Sécurité (QEHS) H/F - Industrie / Comp",
+      "company": "Inautalent",
+      "location": "Cublize, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/inautalent/responsable-qualite-environnement-hygiene-securite-qehs-h-f-industrie-comp-cublize-336612",
+      "source": "arbeitnow",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "Full time, entry",
+      "tags": [
+        "quality assurance",
+        "plastics"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4493fffe",
+      "title": "Legal Engineer - AI Quality (Internship)",
+      "company": "DiliTrust",
+      "location": "Paris - La Défense",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/legal-engineer-ai-quality-internship-paris-la-defense-246969",
+      "source": "arbeitnow",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "Internship",
+      "tags": [
+        "machine learning"
       ],
       "miss_count": 0
     },
@@ -117,55 +220,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "79da3e57",
-      "title": "Pessoa Especialista People Operations - Remoto - 3624",
-      "company": "Softplan",
-      "location": "Brazil",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/softplan/jobs/pessoa-especialista-people-operations-remoto-3624",
-      "source": "himalayas",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "hr-administration",
-        "payroll-specialist",
-        "process-automation",
-        "hr-technology",
-        "hr-operations-specialist",
-        "senior-people-operations-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fc4eafd4",
-      "title": "French Speech Audio Engineer",
-      "company": "mercor",
-      "location": "France",
-      "remote": true,
-      "country": "FR",
-      "url": "https://himalayas.app/companies/mercor/jobs/french-speech-audio-engineer-3717460376",
-      "source": "himalayas",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "audio-engineering",
-        "speech-engineer",
-        "tts-audio-specialist",
-        "voice-ai-engineer",
-        "speech",
-        "audio-editing",
-        "ml-data-engineering",
-        "french-speech-engineer",
-        "french-audio-quality-assurance-specialist",
-        "speech-audio-engineer",
-        "french-audio-specialist"
       ],
       "miss_count": 0
     },
@@ -1928,30 +1982,6 @@
         "marketplace",
         "next.js",
         "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "33400bb3",
-      "title": "QA Manual (Mobile Games)",
-      "company": "Doghowl Games",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/896920-qa-manual-mobile-games",
-      "source": "hirify",
-      "date": "2026-08-20",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
