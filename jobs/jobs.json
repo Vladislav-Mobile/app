@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-09-17T20:55:38.771905+00:00",
-  "total": 84,
+  "updated_at": "2026-09-18T03:02:08.041523+00:00",
+  "total": 81,
   "jobs": [
+    {
+      "id": "889c70ad",
+      "title": "QA Engineer - Automation Testing & Risk Management (Mobile/API)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1115973-qa-automation-mobile-api",
+      "source": "hirify",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f649e458",
+      "title": "Senior Security Engineer - Blue Team",
+      "company": "Olo",
+      "location": "United Kingdom",
+      "remote": true,
+      "country": "GB",
+      "url": "https://himalayas.app/companies/olo/jobs/senior-security-engineer-blue-team",
+      "source": "himalayas",
+      "date": "2026-09-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "security-engineering",
+        "blue-team",
+        "cybersecurity",
+        "incident-response",
+        "soc",
+        "senior-cybersecurity-engineer",
+        "senior-security-operations-engineer",
+        "senior-information-security-engineer",
+        "senior-principal-security-engineer",
+        "senior-security-testing-engineer",
+        "senior-security-engineering-manager",
+        "security-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4f09992e",
+      "title": "QA Engineer - Quantum Computing (m/w/d)",
+      "company": "eleQtron GmbH",
+      "location": "Siegen, Nordrhein-Westfalen, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/qa-engineer-quantum-computing-siegen-152999",
+      "source": "arbeitnow",
+      "date": "2026-09-17",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "quantum firmware"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c3840f22",
       "title": "Data Scientist, Data Quality & Provenance",
@@ -98,23 +167,6 @@
       "miss_count": 0
     },
     {
-      "id": "499f7bbe",
-      "title": "Team Lead Engineering - Finance Automation",
-      "company": "Zeal Network",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-491998",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "technology"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "8208d81f",
       "title": "Data Quality Executive",
       "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
@@ -145,57 +197,6 @@
       "type": "Full Time",
       "tags": [
         "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "53bbb289",
-      "title": "Senior QA Engineer | London",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-22268",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3ede689e",
-      "title": "Mechatronic Engineer - Automation Test Equitment",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechatronic-engineer-automation-test-equitment-paris-200482",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "r&d"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ec2ac2d0",
-      "title": "Production Quality Engineer Intern",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/production-quality-engineer-intern-paris-477014",
-      "source": "arbeitnow",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "p&i"
       ],
       "miss_count": 0
     },
@@ -297,34 +298,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f649e458",
-      "title": "Senior Security Engineer - Blue Team",
-      "company": "Olo",
-      "location": "United Kingdom",
-      "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/olo/jobs/senior-security-engineer-blue-team",
-      "source": "himalayas",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "security-engineering",
-        "blue-team",
-        "cybersecurity",
-        "incident-response",
-        "soc",
-        "senior-cybersecurity-engineer",
-        "senior-security-operations-engineer",
-        "senior-information-security-engineer",
-        "senior-principal-security-engineer",
-        "senior-security-testing-engineer",
-        "senior-security-engineering-manager",
-        "security-engineer"
       ],
       "miss_count": 0
     },
@@ -2064,31 +2037,6 @@
         "marketplace",
         "next.js",
         "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "55a2ea01",
-      "title": "Digital Workplace & Automation Specialist",
-      "company": "Dreem Health",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "source": "remoteok",
-      "date": "2026-08-18",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "design",
-        "customer support",
-        "testing",
-        "exec",
-        "ops",
-        "marketing",
-        "sales",
-        "medical",
-        "digital nomad"
       ],
       "miss_count": 0
     }
