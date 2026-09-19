@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T02:59:43.835783+00:00",
-  "total": 78,
+  "updated_at": "2026-09-19T10:15:26.498099+00:00",
+  "total": 72,
   "jobs": [
     {
       "id": "dc0c6ea3",
@@ -20,142 +20,36 @@
       "miss_count": 0
     },
     {
-      "id": "3defc51c",
-      "title": "Finance & AI Automation Intern (Remote Part-time)",
-      "company": "Soda Data Nv",
-      "location": "Germany",
-      "remote": true,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-germany-30155",
-      "source": "arbeitnow",
-      "date": "2026-09-19",
-      "salary": "",
-      "type": "Part time, internship",
-      "tags": [
-        "computer software",
-        "operations",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "25b4a425",
-      "title": "Finance & AI Automation Intern (Remote Full-time)",
-      "company": "Soda Data Nv",
-      "location": "Germany",
-      "remote": true,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-germany-308319",
-      "source": "arbeitnow",
-      "date": "2026-09-19",
-      "salary": "",
-      "type": "Full time, internship",
-      "tags": [
-        "computer software",
-        "operations",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4ed89e1a",
-      "title": "Senior Red Teamer",
-      "company": "NVISO",
-      "location": "Greece",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/nviso/jobs/senior-red-teamer-2738189362",
-      "source": "himalayas",
-      "date": "2026-09-19",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "red-teaming",
-        "offensive-security",
-        "penetration-testing",
-        "cybersecurity",
-        "ethical-hacking",
-        "red-teamer",
-        "red-team-specialist",
-        "red-team-expert",
-        "red-team-security-engineer",
-        "red-team-engineer",
-        "red-team-operator",
-        "red-team-lead",
-        "red-team-consultant",
-        "senior-penetration-tester",
-        "red-team"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1cc09949",
-      "title": "Supply Chain Management Specialist / Transport Logistics (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/supply-chain-management-specialist-transport-logistics-ottobrunn-bavaria-250599",
-      "source": "arbeitnow",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0d09a89d",
-      "title": "Supply Chain Leader (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/supply-chain-leader-parsdorf-bavaria-484296",
-      "source": "arbeitnow",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e07dc68a",
-      "title": "NDT Inspector (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/ndt-inspector-ottobrunn-bavaria-parsdorf-bavaria-193993",
-      "source": "arbeitnow",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "90348a8b",
-      "title": "Responsable Contrôle Qualité (FinTech) - F/H",
-      "company": "Younited",
+      "id": "dfbe1b97",
+      "title": "Automated Testing Module Lead",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
       "location": "Paris",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/younited/responsable-controle-qualite-fintech-f-h-paris-102518",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/automated-testing-module-lead-paris-127829",
       "source": "arbeitnow",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "salary": "",
-      "type": "CDI",
+      "type": "Full Time",
       "tags": [
-        "training & quality"
+        "r&d"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "35095875",
+      "title": "Technicien Qualité (Quality Technician)",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-qualite-quality-technician-orly-9684",
+      "source": "arbeitnow",
+      "date": "2026-09-19",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "p&i"
       ],
       "miss_count": 0
     },
@@ -901,24 +795,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "47b16b3f",
-      "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/259345",
-      "source": "telegram",
-      "date": "2026-09-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
