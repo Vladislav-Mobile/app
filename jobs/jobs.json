@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T17:49:17.020333+00:00",
-  "total": 81,
+  "updated_at": "2026-09-21T21:40:22.853165+00:00",
+  "total": 77,
   "jobs": [
     {
       "id": "7da4b4fd",
@@ -50,35 +50,25 @@
       "miss_count": 0
     },
     {
-      "id": "10209c9a",
-      "title": "Robotics Engineer - Freelance (Mid-Level / Senior)",
-      "company": "RoboService GmbH",
-      "location": "Berlin",
+      "id": "57f45d7f",
+      "title": "Automation QA Engineer (Mobile)",
+      "company": "Finonex",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/roboservice-gmbh/robotics-engineer-freelance-mid-level-senior-berlin-332148",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/1126534-automation-qa-engineer-mobile",
+      "source": "hirify",
       "date": "2026-09-21",
       "salary": "",
-      "type": "Contract, professional / experienced",
+      "type": "fulltime",
       "tags": [
-        "automation engineering"
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "71803e88",
-      "title": "Team Lead AI Process Automation (m/f/d)",
-      "company": "DocuWare",
-      "location": "Germering / Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-413159",
-      "source": "arbeitnow",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
       "miss_count": 0
     },
     {
@@ -154,28 +144,6 @@
       "miss_count": 0
     },
     {
-      "id": "57f45d7f",
-      "title": "Automation QA Engineer (Mobile)",
-      "company": "Finonex",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1126534-automation-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "3b570768",
       "title": "QA Manual (Mobile Games)",
       "company": "Doghowl Games",
@@ -199,78 +167,24 @@
       "miss_count": 0
     },
     {
-      "id": "8b2d7701",
-      "title": "AVP, Strategy Advancement and Decision Quality",
-      "company": "Humana",
+      "id": "285551f2",
+      "title": "Marketing Automation Manager",
+      "company": "CallMiner",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/humana/jobs/avp-strategy-advancement-and-decision-quality-4177676671",
+      "url": "https://himalayas.app/companies/callminer/jobs/marketing-automation-manager",
       "source": "himalayas",
       "date": "2026-09-21",
       "salary": "",
       "type": "",
       "tags": [
-        "strategy-advancement",
-        "decision-quality",
-        "strategic-advisory",
-        "healthcare-strategy",
-        "governance-leadership",
-        "vp-strategy",
-        "avp"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0e7b0c00",
-      "title": "Regulatory Affairs",
-      "company": "Agilent Technologies",
-      "location": "Canada",
-      "remote": true,
-      "country": "CA",
-      "url": "https://himalayas.app/companies/agilent-technologies/jobs/regulatory-affairs",
-      "source": "himalayas",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "regulatory-affairs",
-        "quality-and-regulatory",
-        "ivd-regulatory-specialist",
-        "regulatory-compliance",
-        "regulatory-submissions",
-        "regulatory-affairs-and-compliance",
-        "us-regulatory-affairs",
-        "drug-regulatory-affairs",
-        "regulatory-affairs-and-licensing",
-        "pharmaceutical-regulatory-affairs",
-        "fda-regulatory-affairs",
-        "product-regulatory-affairs",
-        "regulatory-affairs-(eu)"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d05b4ea5",
-      "title": "Data Verification Assistant with Greek language",
-      "company": "TSMG",
-      "location": "Ukraine",
-      "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/tsmg/jobs/data-verification-assistant-with-greek-language",
-      "source": "himalayas",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "data-verification",
-        "data-entry",
-        "administrative-support",
-        "online-research",
-        "data-verification-specialist",
-        "data-quality-assistant",
-        "data-verification-analyst",
-        "language-verification"
+        "marketing-automation-manager",
+        "email-marketing",
+        "marketing-operations",
+        "campaign-management",
+        "digital-marketing",
+        "marketing-technology-automation-manager"
       ],
       "miss_count": 0
     },
