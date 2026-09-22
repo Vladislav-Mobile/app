@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T16:12:50.990518+00:00",
+  "updated_at": "2026-09-22T20:50:50.662183+00:00",
   "total": 73,
   "jobs": [
     {
-      "id": "1c0c1056",
-      "title": "Senior Penetration Tester - CTM",
-      "company": "Instil",
-      "location": "Belfast",
+      "id": "a0c950ba",
+      "title": "QA Engineer (f/m/d)",
+      "company": "adjoe",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/instil/senior-penetration-tester-ctm-belfast-33698",
+      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/qa-engineer-hamburg-357535",
       "source": "arbeitnow",
       "date": "2026-09-22",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "cyber security"
+        "adjoe"
       ],
       "miss_count": 0
     },
