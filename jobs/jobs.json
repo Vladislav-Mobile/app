@@ -1,60 +1,95 @@
 {
-  "updated_at": "2026-09-22T03:09:09.031876+00:00",
-  "total": 76,
+  "updated_at": "2026-09-22T10:54:34.042131+00:00",
+  "total": 77,
   "jobs": [
     {
-      "id": "1cd056fa",
-      "title": "Senior QA Engineer | London",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-413964",
-      "source": "arbeitnow",
-      "date": "2026-09-22",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "285551f2",
-      "title": "Marketing Automation Manager",
-      "company": "CallMiner",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/callminer/jobs/marketing-automation-manager",
-      "source": "himalayas",
-      "date": "2026-09-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing-automation-manager",
-        "email-marketing",
-        "marketing-operations",
-        "campaign-management",
-        "digital-marketing",
-        "marketing-technology-automation-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "aca83a74",
-      "title": "Senior Software Engineer in Test, Python",
-      "company": "Roku",
-      "location": "Cambridge",
+      "id": "73a98d9f",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "company": "METYCLE",
+      "location": "Cologne (GER)",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-in-test-python-cambridge-85395",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-250986",
       "source": "arbeitnow",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "2a33f418",
+      "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
+      "company": "IndieKidz GmbH",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
+      "source": "arbeitnow",
+      "date": "2026-09-22",
+      "salary": "",
+      "type": "Internship, professional / experienced",
+      "tags": [
+        "remote",
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "54f13755",
+      "title": "Senior Sales Engineer - AI Agents (Poland, CEE)",
+      "company": "nice",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-poland-cee-465888",
+      "source": "arbeitnow",
+      "date": "2026-09-22",
       "salary": "",
       "type": "",
       "tags": [
-        "205 - consumer & device os quality"
+        "cx - agentic experience automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d536137c",
+      "title": "Staff Engineer (IT Automation & AI-native Transformation)",
+      "company": "SoSafe",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-it-automation-ai-native-transformation-london-142370",
+      "source": "arbeitnow",
+      "date": "2026-09-22",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "32b71b27",
+      "title": "QA Engineer (Mobile Applications and Web Services)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1132287-qa-engineer-mobile-web",
+      "source": "hirify",
+      "date": "2026-09-22",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -172,30 +207,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a027aee3",
-      "title": "Director – International Relations and Diplomacy Programs",
-      "company": "Schiller International University",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-463407",
-      "source": "arbeitnow",
-      "date": "2026-09-20",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "students",
-        "university",
-        "quality",
-        "support",
-        "faculty",
-        "director",
-        "international relations",
-        "diplomacy"
       ],
       "miss_count": 0
     },
