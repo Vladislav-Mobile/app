@@ -1,71 +1,21 @@
 {
-  "updated_at": "2026-09-22T10:54:34.042131+00:00",
-  "total": 77,
+  "updated_at": "2026-09-22T16:12:50.990518+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "73a98d9f",
-      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
-      "company": "METYCLE",
-      "location": "Cologne (GER)",
+      "id": "1c0c1056",
+      "title": "Senior Penetration Tester - CTM",
+      "company": "Instil",
+      "location": "Belfast",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-250986",
-      "source": "arbeitnow",
-      "date": "2026-09-22",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "2a33f418",
-      "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
-      "company": "IndieKidz GmbH",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
-      "source": "arbeitnow",
-      "date": "2026-09-22",
-      "salary": "",
-      "type": "Internship, professional / experienced",
-      "tags": [
-        "remote",
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "54f13755",
-      "title": "Senior Sales Engineer - AI Agents (Poland, CEE)",
-      "company": "nice",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-poland-cee-465888",
-      "source": "arbeitnow",
-      "date": "2026-09-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "cx - agentic experience automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d536137c",
-      "title": "Staff Engineer (IT Automation & AI-native Transformation)",
-      "company": "SoSafe",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-it-automation-ai-native-transformation-london-142370",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/instil/senior-penetration-tester-ctm-belfast-33698",
       "source": "arbeitnow",
       "date": "2026-09-22",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "operations"
+        "cyber security"
       ],
       "miss_count": 0
     },
@@ -917,7 +867,7 @@
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
       "source": "remotive",
       "date": "2026-09-11",
-      "salary": "$31,2k- $52k",
+      "salary": "$35,3k- $52k",
       "type": "full_time",
       "tags": [
         "css",
@@ -1270,29 +1220,6 @@
       "miss_count": 0
     },
     {
-      "id": "6802e077",
-      "title": "Junior Manual QA (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1032707-junior-manual-qa-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "2c176fa2",
       "title": "Mobile Automation QA (Java/Appium)",
       "company": null,
@@ -1306,6 +1233,29 @@
       "type": "fulltime",
       "tags": [
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6802e077",
+      "title": "Junior Manual QA (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1032707-junior-manual-qa-mobile-games",
+      "source": "hirify",
+      "date": "2026-09-04",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
         "",
         "",
         "",
@@ -1967,32 +1917,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5e0210e4",
-      "title": "QA Manager (Mobile Apps) (iGaming)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/915987-mobile-qa-manager-appium-java",
-      "source": "hirify",
-      "date": "2026-08-24",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
