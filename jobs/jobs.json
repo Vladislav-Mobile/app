@@ -1,51 +1,60 @@
 {
-  "updated_at": "2026-09-21T21:40:22.853165+00:00",
-  "total": 77,
+  "updated_at": "2026-09-22T03:09:09.031876+00:00",
+  "total": 76,
   "jobs": [
     {
-      "id": "7da4b4fd",
-      "title": "Senior Corporate Development Manager (m/w/d)",
-      "company": "Thermondo",
-      "location": "Berlin (Zentrale)",
+      "id": "1cd056fa",
+      "title": "Senior QA Engineer | London",
+      "company": "TransPerfect",
+      "location": "London, Greater London, United Kingdom",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-corporate-development-manager-berlin-zentrale-285909",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-413964",
       "source": "arbeitnow",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "Mid, fulltime permanent",
       "tags": [
-        "corporate development",
-        "strategy manager",
-        "transformation",
-        "post-merger intergration",
-        "pmi",
-        "process harmonisierung & systemintegration",
-        "cross-functional leadership",
-        "project governance",
-        "target operating model (tom)",
-        "scale-up / high growth environment",
-        "ai agents & workflows",
-        "m&a integration",
-        "ai automation"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "9f54bd1f",
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
+      "id": "285551f2",
+      "title": "Marketing Automation Manager",
+      "company": "CallMiner",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/callminer/jobs/marketing-automation-manager",
+      "source": "himalayas",
+      "date": "2026-09-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing-automation-manager",
+        "email-marketing",
+        "marketing-operations",
+        "campaign-management",
+        "digital-marketing",
+        "marketing-technology-automation-manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "aca83a74",
+      "title": "Senior Software Engineer in Test, Python",
+      "company": "Roku",
+      "location": "Cambridge",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-98083",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-in-test-python-cambridge-85395",
       "source": "arbeitnow",
       "date": "2026-09-21",
       "salary": "",
-      "type": "Student, Permanent, Full time",
+      "type": "",
       "tags": [
-        "ai",
-        "gtm"
+        "205 - consumer & device os quality"
       ],
       "miss_count": 0
     },
@@ -163,28 +172,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "285551f2",
-      "title": "Marketing Automation Manager",
-      "company": "CallMiner",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/callminer/jobs/marketing-automation-manager",
-      "source": "himalayas",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing-automation-manager",
-        "email-marketing",
-        "marketing-operations",
-        "campaign-management",
-        "digital-marketing",
-        "marketing-technology-automation-manager"
       ],
       "miss_count": 0
     },
@@ -2020,30 +2007,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7cd64ec7",
-      "title": "QA Mobile Engineer (Android/iOS)",
-      "company": null,
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/915175-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-08-24",
-      "salary": "RUB 130000 (~$1570)",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
