@@ -1,21 +1,38 @@
 {
-  "updated_at": "2026-09-22T20:50:50.662183+00:00",
+  "updated_at": "2026-09-23T03:09:07.110313+00:00",
   "total": 73,
   "jobs": [
     {
-      "id": "a0c950ba",
-      "title": "QA Engineer (f/m/d)",
-      "company": "adjoe",
-      "location": "Hamburg",
+      "id": "9eb42edd",
+      "title": "Product Marketing Manager (Robotics & Automation)",
+      "company": "RobCo",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/adjoe/qa-engineer-hamburg-357535",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/product-marketing-manager-robotics-automation-munich-16227",
+      "source": "arbeitnow",
+      "date": "2026-09-23",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "revenue"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c1723a86",
+      "title": "Head of Finance Automation/ AI Agentification",
+      "company": "Rohlik",
+      "location": "München, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-20322",
       "source": "arbeitnow",
       "date": "2026-09-22",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "adjoe"
+        "finance"
       ],
       "miss_count": 0
     },
@@ -1871,29 +1888,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a7bdf670",
-      "title": "Mobile QA Engineer",
-      "company": null,
-      "location": "WW",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/921808-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-08-25",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
