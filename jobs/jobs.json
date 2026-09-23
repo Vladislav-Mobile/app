@@ -1,38 +1,56 @@
 {
-  "updated_at": "2026-09-23T03:09:07.110313+00:00",
-  "total": 73,
+  "updated_at": "2026-09-23T10:42:57.568983+00:00",
+  "total": 74,
   "jobs": [
     {
-      "id": "9eb42edd",
-      "title": "Product Marketing Manager (Robotics & Automation)",
-      "company": "RobCo",
-      "location": "Munich",
-      "remote": false,
+      "id": "f8642d76",
+      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/product-marketing-manager-robotics-automation-munich-16227",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-43054",
+      "source": "arbeitnow",
+      "date": "2026-09-23",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "remote",
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "863da83a",
+      "title": "Senior/Lead Quality Engineer - Chatbot",
+      "company": "Mimica",
+      "location": "UK",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/senior-lead-quality-engineer-chatbot-london-465767",
       "source": "arbeitnow",
       "date": "2026-09-23",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "revenue"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "c1723a86",
-      "title": "Head of Finance Automation/ AI Agentification",
-      "company": "Rohlik",
-      "location": "München, Germany",
+      "id": "eeaa2fc7",
+      "title": "Lead Quality Assurance Engineer - Machine Learning",
+      "company": "Hudl",
+      "location": "London",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-20322",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/lead-quality-assurance-engineer-machine-learning-london-298430",
       "source": "arbeitnow",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "finance"
+        "aml"
       ],
       "miss_count": 0
     },
