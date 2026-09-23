@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-09-23T16:01:44.823175+00:00",
-  "total": 76,
+  "updated_at": "2026-09-23T21:01:45.739718+00:00",
+  "total": 77,
   "jobs": [
+    {
+      "id": "856453f4",
+      "title": "IT Administration & Automation Manager (all genders)",
+      "company": "Lio",
+      "location": "Munich Office",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lio/it-administration-automation-manager-all-genders-munich-303004",
+      "source": "arbeitnow",
+      "date": "2026-09-23",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "business operations"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "f49820c2",
       "title": "QA Engineer",
@@ -16,6 +33,30 @@
       "type": "Full Time",
       "tags": [
         "white circle"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "dbd27a1e",
+      "title": "QA Manual Middle-Senior (Native Team) (Mobile)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1143736-senior-mobile-qa-tester",
+      "source": "hirify",
+      "date": "2026-09-23",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -67,36 +108,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1dbdb1bc",
-      "title": "Senior QA Engineer (Manual + Automation)",
-      "company": "Remote Office",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/remote-office/jobs/senior-qa-engineer-manual-automation",
-      "source": "himalayas",
-      "date": "2026-09-23",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineering",
-        "software-testing",
-        "manual-testing",
-        "automation-testing",
-        "quality-assurance",
-        "senior-qa-automation-engineer",
-        "senior-qa-automation-tester",
-        "senior-automation-qa-engineer",
-        "senior-qa-engineering",
-        "senior-automation-qa",
-        "senior-qa-tester",
-        "senior-automation-test-engineer",
-        "senior-product-qa",
-        "qa-engineer"
       ],
       "miss_count": 0
     },
