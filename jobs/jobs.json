@@ -1,73 +1,82 @@
 {
-  "updated_at": "2026-09-24T11:03:28.838726+00:00",
-  "total": 79,
+  "updated_at": "2026-09-24T16:26:42.500640+00:00",
+  "total": 78,
   "jobs": [
     {
-      "id": "052c7215",
-      "title": "Testautomatisierer (m/w/d)",
-      "company": "CPU Consulting & Software GmbH",
-      "location": "Karlsruhe",
+      "id": "5e3f744b",
+      "title": "AI Creative Strategist (m/w/d)",
+      "company": "Yoursquares",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/testautomatisierer-karlsruhe-71273",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-creative-strategist-berlin-194686",
       "source": "arbeitnow",
       "date": "2026-09-24",
       "salary": "",
-      "type": "berufserfahren",
+      "type": "Experienced, Permanent, Full time",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "ai-native creative",
+        "content marketing",
+        "performance creative",
+        "social media ads",
+        "meta & google ads",
+        "content-automatisierung",
+        "proptech",
+        "a/b-testing",
+        "brand consistency",
+        "senior / berlin"
       ],
       "miss_count": 0
     },
     {
-      "id": "63991250",
-      "title": "Testmanager (m/w/d)",
-      "company": "CPU Consulting & Software GmbH",
-      "location": "Karlsruhe",
+      "id": "60f9b0d4",
+      "title": "Qualitätsmanager (m/w/d) - Drohnenabwehr made in Germany",
+      "company": "Argus Interception GmbH",
+      "location": "Rotenburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/testmanager-karlsruhe-425547",
-      "source": "arbeitnow",
-      "date": "2026-09-24",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "aa59f92d",
-      "title": "Senior AI Software Engineer",
-      "company": "nice",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-157985",
+      "url": "https://www.arbeitnow.com/jobs/companies/argus-interception-gmbh/qualitatsmanager-drohnenabwehr-made-in-germany-rotenburg-66032",
       "source": "arbeitnow",
       "date": "2026-09-24",
       "salary": "",
       "type": "",
       "tags": [
-        "cx - agentic experience automation"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "75932427",
-      "title": "Working Student – Release Support and Automation",
-      "company": "Snke",
-      "location": "München",
+      "id": "d0288e26",
+      "title": "Automation & Industrial IT Engineer / Specialist (m/f/d)",
+      "company": "PFASuiki GmbH",
+      "location": "Oberhaching",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-131509",
+      "url": "https://www.arbeitnow.com/jobs/companies/pfasuiki-gmbh/automation-industrial-it-engineer-specialist-oberhaching-490074",
       "source": "arbeitnow",
       "date": "2026-09-24",
       "salary": "",
-      "type": "Student, Intern, Part time",
-      "tags": [],
+      "type": "professional / experienced",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "30c88143",
+      "title": "[ VO2 FORCE ] -  QA Automation - Senior",
+      "company": "VO2 Group",
+      "location": "Paris, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-qa-automation-senior-paris-france-110974",
+      "source": "arbeitnow",
+      "date": "2026-09-24",
+      "salary": "",
+      "type": "CDI",
+      "tags": [
+        "vo2 force"
+      ],
       "miss_count": 0
     },
     {
@@ -95,29 +104,28 @@
       "miss_count": 0
     },
     {
-      "id": "cd700adc",
-      "title": "AI Coach - Agentic Engineering",
-      "company": "Mindera",
-      "location": "Portugal",
+      "id": "cd754565",
+      "title": "Break-It-To-Build-It — Hardware Tester",
+      "company": "micro1",
+      "location": "United States",
       "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/mindera/jobs/ai-coach-agentic-engineering",
+      "country": "US",
+      "url": "https://himalayas.app/companies/micro1/jobs/break-it-to-build-it-hardware-tester",
       "source": "himalayas",
       "date": "2026-09-24",
       "salary": "",
       "type": "",
       "tags": [
-        "ai-coach",
-        "agentic-engineering",
-        "software-engineer",
-        "ai-adoption",
-        "engineering-enablement",
-        "agentic-ai-engineering",
-        "ai-agentic-engineer",
-        "ai-coaching",
-        "agentic-ai-engineer",
-        "agentic-automation-engineering",
-        "ai-agent-engineering"
+        "hardware-testing",
+        "hardware-testing-engineer",
+        "hardware-test-development",
+        "hardware-test-engineer",
+        "hardware-test-engineering",
+        "hardware-qa",
+        "hardware-debugging",
+        "hardware-qa-engineer",
+        "hardware-penetration-testing",
+        "hardware-software-qa"
       ],
       "miss_count": 0
     },
@@ -136,23 +144,6 @@
       "tags": [
         "mobile",
         "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f49820c2",
-      "title": "QA Engineer",
-      "company": "Npv",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/npv/qa-engineer-paris-163163",
-      "source": "arbeitnow",
-      "date": "2026-09-23",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "white circle"
       ],
       "miss_count": 0
     },
