@@ -1,111 +1,37 @@
 {
-  "updated_at": "2026-09-25T11:04:03.383409+00:00",
-  "total": 76,
+  "updated_at": "2026-09-25T16:27:00.269942+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "59129c77",
-      "title": "Senior Tester (m/w/d) Schwerpunkt SAP Testing",
-      "company": "QualityMinds GmbH",
-      "location": "Nuremberg",
+      "id": "b1e27b50",
+      "title": "Platform QA Chapter Lead (all genders)",
+      "company": "JustPlay GmbH",
+      "location": "Berlin (Hybrid)",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/qualityminds-gmbh/senior-tester-schwerpunkt-sap-testing-nuremberg-376260",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "consulting",
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fb4488b2",
-      "title": "Softwaretester (m/w/d) – Healthcare SaaS",
-      "company": "DMRZ",
-      "location": "Düsseldorf",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dmrz/softwaretester-healthcare-saas-dusseldorf-463967",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "testing",
-        "softwaretester",
-        "tester"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "47f4af7b",
-      "title": "Quality Assurance Specialist (m/w/d) E-Commerce Image Production",
-      "company": "Doopic GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/doopic-gmbh/quality-assurance-specialist-e-commerce-image-production-berlin-42362",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "graphic arts and communication design"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1ad93676",
-      "title": "AI Integration & Automation Engineer (m/w/d) GER",
-      "company": "Customs Support Group",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-32348",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "it & tech",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "62819628",
-      "title": "Automation Engineer (Brighter Foods) | THG Manufacturing",
-      "company": "Thehutgroup",
-      "location": "Tywyn",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/automation-engineer-brighter-foods-thg-manufacturing-tywyn-34863",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "thg nutrition manufacturing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4abf3ebd",
-      "title": "Director of Quality Assurance",
-      "company": "Comind",
-      "location": "London, UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/director-of-quality-assurance-london-126503",
+      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/platform-qa-chapter-lead-all-genders-berlin-436434",
       "source": "arbeitnow",
       "date": "2026-09-25",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "product development"
+        "engineering"
       ],
+      "miss_count": 0
+    },
+    {
+      "id": "73afcec2",
+      "title": "Senior Collection Specialist Quality (m/w/d)",
+      "company": "Pair",
+      "location": "Berlin (Hybrid)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/pair/senior-collection-specialist-quality-berlin-hybrid-18178",
+      "source": "arbeitnow",
+      "date": "2026-09-25",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
       "miss_count": 0
     },
     {
@@ -129,6 +55,56 @@
         "director",
         "international relations",
         "diplomacy"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b376446f",
+      "title": "Engineering Manager - Mobile Applications QA (Mobile QA)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1158388-engineering-manager-mobile-qa",
+      "source": "hirify",
+      "date": "2026-09-25",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d5454697",
+      "title": "Manual Mobile QA, Mobile",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1156825-manual-mobile-qa",
+      "source": "hirify",
+      "date": "2026-09-25",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -158,28 +134,27 @@
       "miss_count": 0
     },
     {
-      "id": "cd754565",
-      "title": "Break-It-To-Build-It — Hardware Tester",
-      "company": "micro1",
-      "location": "United States",
+      "id": "b79d80d4",
+      "title": "Senior Security Engineer",
+      "company": "Incognia",
+      "location": "Brazil",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/micro1/jobs/break-it-to-build-it-hardware-tester",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/incognia/jobs/senior-security-engineer",
       "source": "himalayas",
       "date": "2026-09-25",
       "salary": "",
       "type": "",
       "tags": [
-        "hardware-testing",
-        "hardware-testing-engineer",
-        "hardware-test-development",
-        "hardware-test-engineer",
-        "hardware-test-engineering",
-        "hardware-qa",
-        "hardware-debugging",
-        "hardware-qa-engineer",
-        "hardware-penetration-testing",
-        "hardware-software-qa"
+        "security-engineer",
+        "cybersecurity-engineer",
+        "security-specialist",
+        "information-security-analyst",
+        "senior-information-security-engineer",
+        "senior-cybersecurity-engineer",
+        "senior-security-operations-engineer",
+        "senior-application-security-engineer",
+        "senior-security-testing-engineer"
       ],
       "miss_count": 0
     },
@@ -1621,32 +1596,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "43810f2e",
-      "title": "QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1016303-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-02",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
