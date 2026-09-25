@@ -1,37 +1,62 @@
 {
-  "updated_at": "2026-09-25T16:27:00.269942+00:00",
-  "total": 73,
+  "updated_at": "2026-09-25T21:03:40.803006+00:00",
+  "total": 72,
   "jobs": [
     {
-      "id": "b1e27b50",
-      "title": "Platform QA Chapter Lead (all genders)",
-      "company": "JustPlay GmbH",
-      "location": "Berlin (Hybrid)",
+      "id": "a527a161",
+      "title": "Software Provisioning Technician (m/f/d) - UGV",
+      "company": "Quantum-Systems GmbH",
+      "location": "Göppingen, Baden-Württemberg, Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/platform-qa-chapter-lead-all-genders-berlin-436434",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-361171",
       "source": "arbeitnow",
       "date": "2026-09-25",
       "salary": "",
-      "type": "Full Time",
+      "type": "Mid, fulltime permanent",
       "tags": [
-        "engineering"
+        "production & automation"
       ],
       "miss_count": 0
     },
     {
-      "id": "73afcec2",
-      "title": "Senior Collection Specialist Quality (m/w/d)",
-      "company": "Pair",
-      "location": "Berlin (Hybrid)",
+      "id": "2a5e6cba",
+      "title": "Werkstudent (m/w/d) Digital Experience – Growth, Brand & New Business",
+      "company": "Lemundo",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/pair/senior-collection-specialist-quality-berlin-hybrid-18178",
+      "url": "https://www.arbeitnow.com/jobs/companies/lemundo/werkstudent-digital-experience-growth-brand-new-business-hamburg-193591",
       "source": "arbeitnow",
       "date": "2026-09-25",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
+      "type": "Entry, Working student, Part time",
+      "tags": [
+        "e-commerce strategy",
+        "b2b commerce",
+        "ai automation & ki-prozesse",
+        "artificial intelligence / ki",
+        "hamburg",
+        "agentur / digitalagentur",
+        "working student"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "75a48e79",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-315435",
+      "source": "arbeitnow",
+      "date": "2026-09-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality management"
+      ],
       "miss_count": 0
     },
     {
@@ -130,48 +155,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b79d80d4",
-      "title": "Senior Security Engineer",
-      "company": "Incognia",
-      "location": "Brazil",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/incognia/jobs/senior-security-engineer",
-      "source": "himalayas",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "security-engineer",
-        "cybersecurity-engineer",
-        "security-specialist",
-        "information-security-analyst",
-        "senior-information-security-engineer",
-        "senior-cybersecurity-engineer",
-        "senior-security-operations-engineer",
-        "senior-application-security-engineer",
-        "senior-security-testing-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "30c88143",
-      "title": "[ VO2 FORCE ] -  QA Automation - Senior",
-      "company": "VO2 Group",
-      "location": "Paris, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-qa-automation-senior-paris-france-110974",
-      "source": "arbeitnow",
-      "date": "2026-09-24",
-      "salary": "",
-      "type": "CDI",
-      "tags": [
-        "vo2 force"
       ],
       "miss_count": 0
     },
