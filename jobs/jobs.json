@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-09-26T03:21:20.731786+00:00",
-  "total": 75,
+  "updated_at": "2026-09-26T10:45:41.125965+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "d6085538",
+      "title": "(Senior) CRM Manager – Analytics & Automation (all genders)",
+      "company": "Sunday Natural",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-manager-analytics-automation-all-genders-berlin-190973",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "747945ca",
       "title": "Student QA Engineer (Working Student)",
@@ -63,77 +80,36 @@
       "miss_count": 0
     },
     {
-      "id": "3302d1de",
-      "title": "Senior Corporate Development Manager (m/w/d)",
-      "company": "Thermondo",
-      "location": "Berlin (Zentrale)",
+      "id": "e2348586",
+      "title": "Senior QA Engineer | London",
+      "company": "TransPerfect",
+      "location": "London, Greater London, United Kingdom",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-corporate-development-manager-berlin-zentrale-34485",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-275128",
       "source": "arbeitnow",
       "date": "2026-09-26",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "Mid, fulltime permanent",
       "tags": [
-        "corporate development",
-        "strategy manager",
-        "transformation",
-        "post-merger intergration",
-        "pmi",
-        "process harmonisierung & systemintegration",
-        "cross-functional leadership",
-        "project governance",
-        "target operating model (tom)",
-        "scale-up / high growth environment",
-        "ai agents & workflows",
-        "m&a integration",
-        "ai automation"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "56358a55",
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
+      "id": "332b835b",
+      "title": "Software Quality Operations Specialist",
+      "company": "Waymo",
+      "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-271758",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/software-quality-operations-specialist-london-495175",
       "source": "arbeitnow",
       "date": "2026-09-26",
       "salary": "",
-      "type": "Student, Permanent, Full time",
+      "type": "",
       "tags": [
-        "ai",
-        "gtm"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d53c238d",
-      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
-      "company": "Wattfox",
-      "location": "Home Office Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-380551",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "engineer",
-        "python",
-        "javascript",
-        "typescript",
-        "prototyp",
-        "mvp",
-        "fastapi",
-        "docker",
-        "ci",
-        "cd",
-        "git",
-        "sql"
+        "triage (sqw)"
       ],
       "miss_count": 0
     },
@@ -151,61 +127,6 @@
       "type": "FR Executive/Cadre",
       "tags": [
         "data"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "edcb6563",
-      "title": "Automation Engineer (gn) Industrial Robotics & Software Development",
-      "company": "Wandelbots GmbH",
-      "location": "Dresden",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/automation-engineer-gn-industrial-robotics-software-development-dresden-89935",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "automation",
-        "robotics",
-        "software",
-        "saas",
-        "platform",
-        "plc",
-        "python"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "592f895d",
-      "title": "Team Lead AI Process Automation (m/f/d)",
-      "company": "DocuWare",
-      "location": "Germering / Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-159182",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "acd8902a",
-      "title": "AI Quality Lead",
-      "company": "tripadvisor",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-quality-lead-london-468294",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "customer service"
       ],
       "miss_count": 0
     },
