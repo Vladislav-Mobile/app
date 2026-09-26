@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T15:42:01.554777+00:00",
+  "updated_at": "2026-09-26T20:36:54.061908+00:00",
   "total": 71,
   "jobs": [
     {
@@ -79,40 +79,6 @@
       "miss_count": 0
     },
     {
-      "id": "ff8d81d7",
-      "title": "QA Lead",
-      "company": "Almedia",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/qa-lead-berlin-433385",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3851584f",
-      "title": "Quality Assurance Specialist",
-      "company": "Motorway",
-      "location": "Brighton",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/quality-assurance-specialist-brighton-339707",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "seller services"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "1c40f0f3",
       "title": "AI & Automation Engineer / Sales Focus",
       "company": "Malt",
@@ -126,6 +92,57 @@
       "type": "FR Executive/Cadre",
       "tags": [
         "data"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "37529cb7",
+      "title": "Quality Assurance Engineer",
+      "company": "Exeon Analytics",
+      "location": "Zürich, Zürich, Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/quality-assurance-engineer-zurich-186771",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a2bef6ff",
+      "title": "Software Development Engineers in Test (Python)",
+      "company": "Xm",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-software-development-engineers-in-test-python-101930",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "67dcc31f",
+      "title": "QA Software Test Automation Engineers (Java)",
+      "company": "Xm",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "quality assurance"
       ],
       "miss_count": 0
     },
@@ -1457,29 +1474,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6802e077",
-      "title": "Junior Manual QA (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1032707-junior-manual-qa-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
