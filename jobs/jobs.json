@@ -1,115 +1,114 @@
 {
-  "updated_at": "2026-09-26T10:45:41.125965+00:00",
-  "total": 72,
+  "updated_at": "2026-09-26T15:42:01.554777+00:00",
+  "total": 71,
   "jobs": [
     {
-      "id": "d6085538",
-      "title": "(Senior) CRM Manager – Analytics & Automation (all genders)",
-      "company": "Sunday Natural",
-      "location": "Berlin",
+      "id": "c21ebcd1",
+      "title": "Senior Mechanical Engineer - Robotic Systems",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/senior-crm-manager-analytics-automation-all-genders-berlin-190973",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "747945ca",
-      "title": "Student QA Engineer (Working Student)",
-      "company": "Keyfactorinc",
-      "location": "Aachen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/keyfactorinc/student-qa-engineer-working-student-aachen-367694",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-408006",
       "source": "arbeitnow",
       "date": "2026-09-26",
       "salary": "",
       "type": "",
       "tags": [
-        "engineering"
+        "applied automation intelligence"
       ],
       "miss_count": 0
     },
     {
-      "id": "44d047eb",
-      "title": "Senior Network Engineer (all genders)",
-      "company": "Contabo",
-      "location": "Remote (Germany)",
-      "remote": true,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-464933",
+      "id": "441f2727",
+      "title": "Forward Deployed AI Engineer",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-383839",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "applied automation intelligence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e9509199",
+      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
+      "company": "METYCLE",
+      "location": "Cologne (GER)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-380072",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "0ee4575c",
+      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
+      "company": "Greencells Gmbh",
+      "location": "Saarbrücken",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-422415",
       "source": "arbeitnow",
       "date": "2026-09-26",
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [
-        "senior network engineer",
-        "network engineer",
-        "data center network",
-        "leaf-spine architecture",
-        "bgp evpn vxlan",
-        "cisco networking",
-        "network automation",
-        "network security engineer",
-        "network monitoring",
-        "infrastructure engineer",
-        "cloud network engineer",
-        "netops",
-        "kubernetes networking",
-        "network access control (nac)",
-        "ddos mitigation",
-        "it",
-        "cloud",
-        "hosting",
-        "cloud hosting",
-        "remote",
-        "germany",
-        "german",
-        "english",
-        "home office",
-        "homeoffice",
-        "dco",
-        "data center"
+        "scada-manager",
+        "plant-control-ingenieur",
+        "monitoring-systeme",
+        "utility-scale",
+        "epc",
+        "bess",
+        "scada engineer",
+        "commissioning",
+        "supplier management",
+        "energy infrastructure",
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "e2348586",
-      "title": "Senior QA Engineer | London",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-qa-engineer-london-275128",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "332b835b",
-      "title": "Software Quality Operations Specialist",
-      "company": "Waymo",
-      "location": "London",
+      "id": "ff8d81d7",
+      "title": "QA Lead",
+      "company": "Almedia",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/software-quality-operations-specialist-london-495175",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/qa-lead-berlin-433385",
       "source": "arbeitnow",
       "date": "2026-09-26",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "triage (sqw)"
+        "product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3851584f",
+      "title": "Quality Assurance Specialist",
+      "company": "Motorway",
+      "location": "Brighton",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/quality-assurance-specialist-brighton-339707",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "seller services"
       ],
       "miss_count": 0
     },
@@ -127,30 +126,6 @@
       "type": "FR Executive/Cadre",
       "tags": [
         "data"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6c869854",
-      "title": "Director – International Relations and Diplomacy Programs",
-      "company": "Schiller International University",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/schiller-international-university/director-international-relations-and-diplomacy-programs-paris-313751",
-      "source": "arbeitnow",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "students",
-        "university",
-        "quality",
-        "support",
-        "faculty",
-        "director",
-        "international relations",
-        "diplomacy"
       ],
       "miss_count": 0
     },
@@ -1015,24 +990,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "09fe1638",
-      "title": "Компетенция: QA java mobile",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/259582",
-      "source": "telegram",
-      "date": "2026-09-16",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
