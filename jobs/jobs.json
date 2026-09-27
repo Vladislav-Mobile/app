@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T16:20:13.776468+00:00",
-  "total": 72,
+  "updated_at": "2026-09-27T20:49:17.438959+00:00",
+  "total": 68,
   "jobs": [
     {
       "id": "589966d6",
@@ -53,23 +53,6 @@
       "miss_count": 0
     },
     {
-      "id": "33270579",
-      "title": "Flight Control Automation Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-62862",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "software"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "10bfa2a3",
       "title": "CX AI & Automation Lead",
       "company": "remotecom",
@@ -83,6 +66,23 @@
       "type": "",
       "tags": [
         "customer experience"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "40847221",
+      "title": "CAD/PLM Automation Software Engineer (Forward Deployed)",
+      "company": "Neuralconcept",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/neuralconcept/cad-plm-automation-software-engineer-forward-deployed-lausanne-300883",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product"
       ],
       "miss_count": 0
     },
@@ -117,111 +117,6 @@
       "type": "Full-Time",
       "tags": [
         "hardware"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c686d4c3",
-      "title": "Working Student Quality Assurance - Legal (40-60%)",
-      "company": "DeepJudge",
-      "location": "Zurich HQ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/working-student-quality-assurance-legal-40-60-zurich-348669",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Part Time",
-      "tags": [
-        "product & design"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6aacc4f8",
-      "title": "Quality Assurance Engineer",
-      "company": "Techdinamics",
-      "location": "Uruguay",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/techdinamics/jobs/quality-assurance-engineer",
-      "source": "himalayas",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-assurance-engineer",
-        "qa-engineer",
-        "software-quality-engineer",
-        "automation-testing",
-        "qa-analyst",
-        "quality-engineer",
-        "product-quality-assurance-engineer",
-        "software-quality-assurance-engineer",
-        "qa-qc-engineer",
-        "qa-test-engineer",
-        "quality-assurance-engineering",
-        "quality-assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4fb238d2",
-      "title": "Associate Director, Clinical Operations",
-      "company": "Lifelancer",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/associate-director-clinical-operations-5297967312",
-      "source": "himalayas",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "clinical-operations-director",
-        "clinical-research-director",
-        "clinical-manager",
-        "clinical-operations-manager",
-        "healthcare-manager",
-        "associate-director-clinical-operations",
-        "director-clinical-operations",
-        "senior-director-of-clinical-operations",
-        "associate-director-clinical-quality-assurance",
-        "vp-clinical-operations",
-        "clinical-operations-lead",
-        "svp-clinical-operations",
-        "operations",
-        "management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "eeafe62f",
-      "title": "QA/Test Engineer (Romania)",
-      "company": "CloudMargin",
-      "location": "Romania",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/cloudmargin/jobs/qa-test-engineer-romania",
-      "source": "himalayas",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "test-engineer",
-        "qa-engineer",
-        "software-test-engineer",
-        "automation-engineer",
-        "qa-analyst",
-        "qa-test-engineer",
-        "software-qa-and-testing-engineer",
-        "software-qa-engineer",
-        "software-quality-assurance-engineer",
-        "qa-and-verification-engineer",
-        "qa-qc-engineer",
-        "remote-quality-assurance-engineer",
-        "quality-assurance-engineer",
-        "remote-qa-engineer"
       ],
       "miss_count": 0
     },
