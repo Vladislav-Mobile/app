@@ -1,7 +1,74 @@
 {
-  "updated_at": "2026-09-27T03:29:38.614812+00:00",
-  "total": 76,
+  "updated_at": "2026-09-27T11:20:21.169348+00:00",
+  "total": 71,
   "jobs": [
+    {
+      "id": "589966d6",
+      "title": "Systems Integration & QA Engineer (All genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/systems-integration-qa-engineer-all-genders-munich-317938",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "1756a99c",
+      "title": "HR AI and Automation Lead (all genders)",
+      "company": "Stark",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/hr-ai-and-automation-lead-all-genders-berlin-221535",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "hr",
+        "ai",
+        "automation",
+        "lead"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cdc2f04c",
+      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "location": "Mannheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-251673",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "33270579",
+      "title": "Flight Control Automation Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-62862",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "software"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "094aa42e",
       "title": "Senior Fullstack Developer – Business Automation (m/w/d)",
@@ -31,223 +98,93 @@
       "miss_count": 0
     },
     {
-      "id": "ce838d06",
-      "title": "Senior GTM Systems AI and Automation Engineer",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": true,
+      "id": "50b51b22",
+      "title": "Testing Engineer (Zürich, 100%)",
+      "company": "Loki",
+      "location": "Zürich",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-98803",
+      "url": "https://www.arbeitnow.ch/jobs/companies/loki/testing-engineer-zurich-100-214899",
       "source": "arbeitnow",
       "date": "2026-09-27",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "revenue operations"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "fa1811ce",
-      "title": "Senior Manager, QA Engineering",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": true,
+      "id": "8b7e5ecf",
+      "title": "Quality Manager",
+      "company": "Eh Group",
+      "location": "Nyon",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-manager-qa-engineering-334552",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/quality-manager-nyon-109188",
       "source": "arbeitnow",
       "date": "2026-09-27",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "products"
+        "production"
       ],
       "miss_count": 0
     },
     {
-      "id": "e3959af8",
-      "title": "AI Tester with French",
-      "company": "Tsmg",
-      "location": "Lausanne",
-      "remote": false,
+      "id": "a7a7372b",
+      "title": "Advertising Auditor (PPC)",
+      "company": "My Amazon Guy",
+      "location": "United States",
+      "remote": true,
       "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-tester-with-french-lausanne-172109",
-      "source": "arbeitnow",
+      "url": "https://himalayas.app/companies/my-amazon-guy/jobs/advertising-auditor-ppc",
+      "source": "himalayas",
       "date": "2026-09-27",
       "salary": "",
-      "type": "Contract Full time",
+      "type": "",
       "tags": [
-        "content moderation '24"
+        "advertising-auditor",
+        "ppc-specialist",
+        "amazon-ppc-specialist",
+        "digital-marketing-specialist",
+        "account-manager",
+        "senior-ppc-auditor",
+        "ppc-analyst",
+        "paid-search-analyst",
+        "ad-quality-analyst",
+        "digital-advertising-quality-specialist",
+        "paid-media-analyst"
       ],
       "miss_count": 0
     },
     {
-      "id": "131b2400",
-      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Lugano",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-lugano-84957",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f20a7701",
-      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Bellinzona",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-bellinzona-152072",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "747e29fb",
-      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Basel",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-basel-126550",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a4dc3303",
-      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Zurich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-zurich-198293",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6d6e9877",
-      "title": "AI Speech Tester (French native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Lausanne",
-      "remote": false,
+      "id": "de4dbdef",
+      "title": "Clinical Operations Lead",
+      "company": "Reveleer",
+      "location": "United States",
+      "remote": true,
       "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-french-native-speaker-switzerland-regional-variant-lausanne-251279",
-      "source": "arbeitnow",
+      "url": "https://himalayas.app/companies/reveleer/jobs/clinical-operations-lead",
+      "source": "himalayas",
       "date": "2026-09-27",
       "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e6827cd6",
-      "title": "Senior Analyst - CX Automation Intelligence & Insights",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-analyst-cx-automation-intelligence-insights-berlin-berlin-89080",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
       "type": "",
       "tags": [
-        "customer care"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c21ebcd1",
-      "title": "Senior Mechanical Engineer - Robotic Systems",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-408006",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "applied automation intelligence"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "441f2727",
-      "title": "Forward Deployed AI Engineer",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-383839",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "applied automation intelligence"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1c40f0f3",
-      "title": "AI & Automation Engineer / Sales Focus",
-      "company": "Malt",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/malt/ai-automation-engineer-sales-focus-paris-40335",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "FR Executive/Cadre",
-      "tags": [
-        "data"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "299b6666",
-      "title": "Technical Product Manager - Code Quality",
-      "company": "Sonarsource",
-      "location": "Geneva",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/technical-product-manager-code-quality-geneva-123629",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Employee / Full-Time",
-      "tags": [
-        "product management"
+        "clinical-operations-lead",
+        "medical-coder",
+        "risk-adjustment-coder",
+        "hcc-coder",
+        "clinical-quality-reviewer",
+        "senior-clinical-operations-lead",
+        "clinical-operations-director",
+        "clinical-operations-health-lead",
+        "clinical-operations-manager",
+        "director-clinical-operations",
+        "clinical-operations-leadership",
+        "clinical-operations-executive",
+        "operations-lead",
+        "management"
       ],
       "miss_count": 0
     },
