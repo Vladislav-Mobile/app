@@ -1,7 +1,188 @@
 {
-  "updated_at": "2026-09-26T20:36:54.061908+00:00",
-  "total": 71,
+  "updated_at": "2026-09-27T03:29:38.614812+00:00",
+  "total": 76,
   "jobs": [
+    {
+      "id": "094aa42e",
+      "title": "Senior Fullstack Developer – Business Automation (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-451040",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "typescript",
+        "api integration",
+        "hubspot",
+        "automation",
+        "crm",
+        "saas",
+        "erneuerbare energien",
+        "tenant electricity",
+        "energiewende",
+        "mieterstrom",
+        "startup",
+        "scaleup"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ce838d06",
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-98803",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "revenue operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fa1811ce",
+      "title": "Senior Manager, QA Engineering",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-manager-qa-engineering-334552",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "products"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e3959af8",
+      "title": "AI Tester with French",
+      "company": "Tsmg",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-tester-with-french-lausanne-172109",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Contract Full time",
+      "tags": [
+        "content moderation '24"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "131b2400",
+      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Lugano",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-lugano-84957",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Contract Part time",
+      "tags": [
+        "audio data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f20a7701",
+      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Bellinzona",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-bellinzona-152072",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Contract Part time",
+      "tags": [
+        "audio data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "747e29fb",
+      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Basel",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-basel-126550",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Contract Part time",
+      "tags": [
+        "audio data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a4dc3303",
+      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-zurich-198293",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Contract Part time",
+      "tags": [
+        "audio data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6d6e9877",
+      "title": "AI Speech Tester (French native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-french-native-speaker-switzerland-regional-variant-lausanne-251279",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Contract Part time",
+      "tags": [
+        "audio data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e6827cd6",
+      "title": "Senior Analyst - CX Automation Intelligence & Insights",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-analyst-cx-automation-intelligence-insights-berlin-berlin-89080",
+      "source": "arbeitnow",
+      "date": "2026-09-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "customer care"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c21ebcd1",
       "title": "Senior Mechanical Engineer - Robotic Systems",
@@ -37,48 +218,6 @@
       "miss_count": 0
     },
     {
-      "id": "e9509199",
-      "title": "Automation Engineer - PLC / Plant Control (m/f/d)",
-      "company": "METYCLE",
-      "location": "Cologne (GER)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/automation-engineer-plc-plant-control-cologne-ger-380072",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "0ee4575c",
-      "title": "SCADA Engineering Manager (m/f/d) – Utility Scale PV & BESS",
-      "company": "Greencells Gmbh",
-      "location": "Saarbrücken",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/greencells-gmbh/scada-engineering-manager-utility-scale-pv-bess-saarbrucken-422415",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "scada-manager",
-        "plant-control-ingenieur",
-        "monitoring-systeme",
-        "utility-scale",
-        "epc",
-        "bess",
-        "scada engineer",
-        "commissioning",
-        "supplier management",
-        "energy infrastructure",
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "1c40f0f3",
       "title": "AI & Automation Engineer / Sales Focus",
       "company": "Malt",
@@ -96,53 +235,19 @@
       "miss_count": 0
     },
     {
-      "id": "37529cb7",
-      "title": "Quality Assurance Engineer",
-      "company": "Exeon Analytics",
-      "location": "Zürich, Zürich, Switzerland",
+      "id": "299b6666",
+      "title": "Technical Product Manager - Code Quality",
+      "company": "Sonarsource",
+      "location": "Geneva",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/quality-assurance-engineer-zurich-186771",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/technical-product-manager-code-quality-geneva-123629",
       "source": "arbeitnow",
       "date": "2026-09-26",
       "salary": "",
-      "type": "Mid, fulltime permanent",
+      "type": "Employee / Full-Time",
       "tags": [
-        "development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a2bef6ff",
-      "title": "Software Development Engineers in Test (Python)",
-      "company": "Xm",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-software-development-engineers-in-test-python-101930",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "67dcc31f",
-      "title": "QA Software Test Automation Engineers (Java)",
-      "company": "Xm",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/xm/remote-qa-software-test-automation-engineers-java-466766",
-      "source": "arbeitnow",
-      "date": "2026-09-26",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "quality assurance"
+        "product management"
       ],
       "miss_count": 0
     },
@@ -1770,68 +1875,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "19a28b85",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
-      "source": "remotive",
-      "date": "2026-08-27",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        ".net",
-        "android",
-        "aws",
-        "backend",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "fullstack",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "react js",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript ",
-        "angular ",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
       ],
       "miss_count": 0
     }
