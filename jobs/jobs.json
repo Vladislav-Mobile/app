@@ -1,55 +1,60 @@
 {
-  "updated_at": "2026-09-27T20:49:17.438959+00:00",
-  "total": 68,
+  "updated_at": "2026-09-28T03:27:36.692091+00:00",
+  "total": 66,
   "jobs": [
     {
-      "id": "589966d6",
-      "title": "Systems Integration & QA Engineer (All genders)",
-      "company": "Stark",
-      "location": "Munich",
+      "id": "cd1199c2",
+      "title": "Sr. Manager, Quality Assurance",
+      "company": "Acadia Job Listings",
+      "location": "Zug",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/systems-integration-qa-engineer-all-genders-munich-317938",
+      "url": "https://www.arbeitnow.ch/jobs/companies/acadia-job-listings/sr-manager-quality-assurance-zug-142731",
       "source": "arbeitnow",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "1756a99c",
-      "title": "HR AI and Automation Lead (all genders)",
-      "company": "Stark",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/hr-ai-and-automation-lead-all-genders-berlin-221535",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "",
       "tags": [
-        "hr",
-        "ai",
-        "automation",
-        "lead"
+        "quality assurance"
       ],
       "miss_count": 0
     },
     {
-      "id": "cdc2f04c",
-      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
+      "id": "2104b292",
+      "title": "Key Account Manager- Quality Assurance",
+      "company": "Xebiadach",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-251673",
+      "url": "https://www.arbeitnow.ch/jobs/companies/xebiadach/key-account-manager-quality-assurance-312366",
       "source": "arbeitnow",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "salary": "",
-      "type": "Student, Working student, Part time",
-      "tags": [],
+      "type": "",
+      "tags": [
+        "delivery"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c630bd44",
+      "title": "Unity UI/UX Developer - Automation Platform",
+      "company": "VirtuHire",
+      "location": "South Africa",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/virtuhire/jobs/unity-ui-ux-developer-automation-platform",
+      "source": "himalayas",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "unity-developer",
+        "ui-ux-developer",
+        "front-end-developer",
+        "game-developer",
+        "ui-test-automation-engineer"
+      ],
       "miss_count": 0
     },
     {
@@ -70,6 +75,23 @@
       "miss_count": 0
     },
     {
+      "id": "387ff61b",
+      "title": "Ingénieur Automation",
+      "company": "cross-ING AG",
+      "location": "Yverdon-les-Bains, Waadt, Schweiz",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/ingenieur-automation-yverdon-les-bains-343787",
+      "source": "arbeitnow",
+      "date": "2026-09-27",
+      "salary": "",
+      "type": "Entry, fulltime permanent",
+      "tags": [
+        "vaud"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "40847221",
       "title": "CAD/PLM Automation Software Engineer (Forward Deployed)",
       "company": "Neuralconcept",
@@ -83,40 +105,6 @@
       "type": "Full Time",
       "tags": [
         "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "38d92af2",
-      "title": "Testing Engineer",
-      "company": "Rivr",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/testing-engineer-zurich-178287",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Full-Time",
-      "tags": [
-        "hardware"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "79491592",
-      "title": "Tech Lead – Testing Engineer",
-      "company": "Rivr",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/rivr/tech-lead-testing-engineer-zurich-213088",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Full-Time",
-      "tags": [
-        "hardware"
       ],
       "miss_count": 0
     },
@@ -1692,30 +1680,6 @@
       "source": "hirify",
       "date": "2026-08-29",
       "salary": "EUR 100–500 (~$7314)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "73a2f4dc",
-      "title": "QA Engineer (Mobile Testing)",
-      "company": "Samsung",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/939823-qa-engineer-mobile-testing",
-      "source": "hirify",
-      "date": "2026-08-28",
-      "salary": "",
       "type": "fulltime",
       "tags": [
         "",
