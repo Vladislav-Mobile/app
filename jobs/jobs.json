@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-09-28T03:27:36.692091+00:00",
-  "total": 66,
+  "updated_at": "2026-09-28T12:49:34.006196+00:00",
+  "total": 71,
   "jobs": [
+    {
+      "id": "f1d1ad04",
+      "title": "Werkstudent (m/w/d) Brand & Employer Branding",
+      "company": "Es Group",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-brand-employer-branding-berlin-172846",
+      "source": "arbeitnow",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [
+        "employer branding",
+        "marketing",
+        "content creation",
+        "online marketing",
+        "brand marketing",
+        "marketing analytics",
+        "junior marketing assistant",
+        "kampagnenmanagement",
+        "a/b-testing",
+        "social media management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9d8d1bf8",
+      "title": "Praktikant Business Building & AI Automation (m/w/d) – Digital Education mit Impact",
+      "company": "Talentspring Academy",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-327491",
+      "source": "arbeitnow",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "Entry, Intern, Full time",
+      "tags": [
+        "business building",
+        "automation",
+        "intern",
+        "ai",
+        "ki"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "eb46f24c",
+      "title": "Head of Technical Operations & Automation (m/w/d)  - GreenTech/Recycling (Teilzeit 32h, Remote möglich)",
+      "company": "ecosistant",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosistant/head-of-technical-operations-automation-greentech-recycling-teilzeit-32h-remote-moglich-berlin-267477",
+      "source": "arbeitnow",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "remote",
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d6377a4f",
+      "title": "Staff Quality Engineer - Mobile",
+      "company": "Lendable",
+      "location": "Remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-staff-quality-engineer-mobile-139212",
+      "source": "arbeitnow",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering & product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c60186d6",
+      "title": "Senior Mobile Quality Engineer",
+      "company": "Lendable",
+      "location": "Remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-senior-mobile-quality-engineer-194996",
+      "source": "arbeitnow",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering & product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9a7f8bd3",
+      "title": "Senior Quality Manager",
+      "company": "Destinusgroup",
+      "location": "Zürich, Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/senior-quality-manager-zurich-126447",
+      "source": "arbeitnow",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "aviation & aerospace",
+        "r&d & engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "cd1199c2",
       "title": "Sr. Manager, Quality Assurance",
@@ -88,23 +205,6 @@
       "type": "Entry, fulltime permanent",
       "tags": [
         "vaud"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "40847221",
-      "title": "CAD/PLM Automation Software Engineer (Forward Deployed)",
-      "company": "Neuralconcept",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/neuralconcept/cad-plm-automation-software-engineer-forward-deployed-lausanne-300883",
-      "source": "arbeitnow",
-      "date": "2026-09-27",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
       ],
       "miss_count": 0
     },
@@ -345,6 +445,28 @@
       "miss_count": 0
     },
     {
+      "id": "57f45d7f",
+      "title": "Automation QA Engineer (Mobile)",
+      "company": "Finonex",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1126534-automation-qa-engineer-mobile",
+      "source": "hirify",
+      "date": "2026-09-21",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "182be3f1",
       "title": "Automation QA Engineer (Mobile)",
       "company": "On The Spot Development",
@@ -359,28 +481,6 @@
       "tags": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "57f45d7f",
-      "title": "Automation QA Engineer (Mobile)",
-      "company": "Finonex",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1126534-automation-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
