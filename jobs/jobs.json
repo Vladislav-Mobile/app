@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T22:54:36.895556+00:00",
-  "total": 71,
+  "updated_at": "2026-09-29T04:03:25.082181+00:00",
+  "total": 68,
   "jobs": [
     {
       "id": "225dbe8b",
@@ -125,6 +125,23 @@
       "miss_count": 0
     },
     {
+      "id": "98312322",
+      "title": "Senior Software Engineer, Quality",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-quality-4113",
+      "source": "arbeitnow",
+      "date": "2026-09-28",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "products"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "9a7f8bd3",
       "title": "Senior Quality Manager",
       "company": "Destinusgroup",
@@ -173,41 +190,6 @@
       "type": "",
       "tags": [
         "delivery"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c301cc4a",
-      "title": "Wellness Specialist",
-      "company": "Experience Senior Living",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/experience-senior-living/jobs/wellness-specialist",
-      "source": "himalayas",
-      "date": "2026-09-28",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "clinical-leadership",
-        "senior-living",
-        "assisted-living",
-        "healthcare-operations",
-        "registered-nurse",
-        "quality-assurance",
-        "health-and-wellness-specialist",
-        "memory-care",
-        "regional-clinical-support",
-        "wellness-specialist",
-        "wellness-practitioner",
-        "wellness-program-specialist",
-        "wellness-counselor",
-        "wellness-consultant",
-        "health-specialist",
-        "wellness-instructor",
-        "wellness-educator",
-        "holistic-health-specialist",
-        "wellness-coach"
       ],
       "miss_count": 0
     },
@@ -1722,69 +1704,6 @@
       "tags": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "380c0fbf",
-      "title": "Mobile QA Engineer",
-      "company": "WannaPlay",
-      "location": "WW",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/975916-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-08-31",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b2c93a4e",
-      "title": "Middle / Senior QA Engineer (Mobile Games)",
-      "company": "Grand Games",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/975211-middle-senior-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-08-31",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fa530d81",
-      "title": "Manual QA (Web and Mobile Testing)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/945911-manual-qa-web-mobile",
-      "source": "hirify",
-      "date": "2026-08-29",
-      "salary": "EUR 100–500 (~$7314)",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
