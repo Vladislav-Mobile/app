@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T17:33:27.899396+00:00",
-  "total": 76,
+  "updated_at": "2026-09-30T21:50:13.178032+00:00",
+  "total": 74,
   "jobs": [
     {
       "id": "cc24d8b3",
@@ -127,118 +127,36 @@
       "miss_count": 0
     },
     {
-      "id": "74d457f6",
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
+      "id": "b5c3f51a",
+      "title": "Senior/Lead QA Specialist",
+      "company": "TransPerfect",
+      "location": "Anywhere in UK, Greater London, United Kingdom",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-258594",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-lead-qa-specialist-anywhere-in-uk-393557",
       "source": "arbeitnow",
       "date": "2026-09-30",
       "salary": "",
-      "type": "Student, Permanent, Full time",
+      "type": "Mid, contract",
       "tags": [
-        "ai",
-        "gtm"
+        "it"
       ],
       "miss_count": 0
     },
     {
-      "id": "4e09ce48",
-      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
-      "company": "Wattfox",
-      "location": "Home Office Deutschland",
+      "id": "a9c882ed",
+      "title": "Manufacturing Test Automation Engineer",
+      "company": "Andurilindustries",
+      "location": "Sydney, Australia",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-178026",
+      "country": "AU",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/manufacturing-test-automation-engineer-sydney-australia-291923",
       "source": "arbeitnow",
       "date": "2026-09-30",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "",
       "tags": [
-        "engineer",
-        "python",
-        "javascript",
-        "typescript",
-        "prototyp",
-        "mvp",
-        "fastapi",
-        "docker",
-        "ci",
-        "cd",
-        "git",
-        "sql"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "97fd97d5",
-      "title": "Senior AI Quality Engineer",
-      "company": "Lendable",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-ai-quality-engineer-london-472258",
-      "source": "arbeitnow",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering & product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "63ffd5bd",
-      "title": "Senior Quality Engineer - AI",
-      "company": "Lendable",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-quality-engineer-ai-london-278450",
-      "source": "arbeitnow",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering & product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "92dc31df",
-      "title": ".NET Full-Stack Developer",
-      "company": "Bromcom Computers Plc",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-net-full-stack-developer-bromley-144137",
-      "source": "arbeitnow",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "software & qa",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0ecc413c",
-      "title": "Technical Quality Assurance Manager",
-      "company": "Bromcom Computers Plc",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-technical-quality-assurance-manager-bromley-324925",
-      "source": "arbeitnow",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "Manager, fulltime permanent",
-      "tags": [
-        "software & qa",
-        "remote"
+        "manufacturing : undersea dominance - production : manufacturing engineering"
       ],
       "miss_count": 0
     },
@@ -256,6 +174,47 @@
       "type": "Student college, internship",
       "tags": [
         "customer operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bfdc92c0",
+      "title": "Supplier Quality Engineer",
+      "company": "Anybotics",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/supplier-quality-engineer-zurich-241468",
+      "source": "arbeitnow",
+      "date": "2026-09-30",
+      "salary": "",
+      "type": "Employee, full time (100%)",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4e83e147",
+      "title": "Manual QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "WW",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1188068-manual-qa-engineer-mobile",
+      "source": "hirify",
+      "date": "2026-09-30",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
