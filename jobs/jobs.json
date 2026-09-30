@@ -1,54 +1,54 @@
 {
-  "updated_at": "2026-09-30T03:50:20.090091+00:00",
-  "total": 73,
+  "updated_at": "2026-09-30T11:52:22.835606+00:00",
+  "total": 66,
   "jobs": [
     {
-      "id": "dcf126c8",
-      "title": "Senior Software Engineer, Quality",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-quality-67277",
-      "source": "arbeitnow",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "products"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c392693b",
-      "title": "AI Automation Specialist",
-      "company": "BLP Digital AG",
-      "location": "Munich",
+      "id": "8ab48418",
+      "title": "Team Lead AI Process Automation (m/f/d)",
+      "company": "DocuWare",
+      "location": "Germering / Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/blp-digital-ag/ai-automation-specialist-munich-200066",
-      "source": "arbeitnow",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "project management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f41c0af9",
-      "title": "Senior Collection Specialist Quality (m/w/d)",
-      "company": "Pair",
-      "location": "Berlin (Hybrid)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/pair/senior-collection-specialist-quality-berlin-hybrid-47548",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-347045",
       "source": "arbeitnow",
       "date": "2026-09-30",
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "9247931a",
+      "title": "Security & QA Engineer (m/w/d)",
+      "company": "ATIX AG",
+      "location": "Garching",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/atix-ag/security-qa-engineer-garching-322167",
+      "source": "arbeitnow",
+      "date": "2026-09-30",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "it security"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5e1d04d4",
+      "title": "(Senior) Machine Learning Developer (Junie)",
+      "company": "jetbrains",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/senior-machine-learning-developer-junie-london-260094",
+      "source": "arbeitnow",
+      "date": "2026-09-30",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "junie base quality"
+      ],
       "miss_count": 0
     },
     {
@@ -69,157 +69,19 @@
       "miss_count": 0
     },
     {
-      "id": "1649a809",
-      "title": "Automation Engineer - Influencers",
-      "company": "Elevenlabs",
-      "location": "London",
+      "id": "020b72f3",
+      "title": "Senior Software Engineer, Quality",
+      "company": "Camunda",
+      "location": "Remote",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/automation-engineer-influencers-london-279098",
+      "url": "https://www.arbeitnow.fr/jobs/companies/camunda/remote-senior-software-engineer-quality-437427",
       "source": "arbeitnow",
       "date": "2026-09-30",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "growth"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e86acd9a",
-      "title": "Werkstudent*In Data & Automation (M/W/D)",
-      "company": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/werkstudentin-data-automation-hamburg-47679",
-      "source": "arbeitnow",
-      "date": "2026-09-29",
-      "salary": "",
-      "type": "Entry, Intern, Part time",
-      "tags": [
-        "ramp106",
-        "omr",
-        "tech",
-        "data",
-        "automation",
-        "sales",
-        "automation engineering",
-        "engineering",
-        "werkstudent",
-        "werkstudentin",
-        "hamburg",
-        "job",
-        "teilzeit"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bc4ae00f",
-      "title": "Praktikant*In (M/W/D) Business Automation & Analytics",
-      "company": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/praktikantin-business-automation-analytics-hamburg-420580",
-      "source": "arbeitnow",
-      "date": "2026-09-29",
-      "salary": "",
-      "type": "Entry, Intern, Full time",
-      "tags": [
-        "ramp106",
-        "omr",
-        "analytics",
-        "praktikum",
-        "automation",
-        "data",
-        "praktikant",
-        "hamburg",
-        "business automation & analytics",
-        "business automation & analytics praktikum",
-        "omr festival",
-        "omr crew"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b01e45c1",
-      "title": "DATA ENGINEER*IN (m/w/d)",
-      "company": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/data-engineerin-hamburg-457628",
-      "source": "arbeitnow",
-      "date": "2026-09-29",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "ramp106",
-        "data",
-        "engineer",
-        "data engineer",
-        "tech",
-        "automation",
-        "data atutomation",
-        "prozessoptimierung",
-        "job",
-        "omr",
-        "omr festival",
-        "vollzeit",
-        "hamburg"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7c4e7486",
-      "title": "Ai & Process Automation Lead (M/W/D)",
-      "company": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/ai-process-automation-lead-hamburg-206733",
-      "source": "arbeitnow",
-      "date": "2026-09-29",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "ramp106",
-        "omr",
-        "ai",
-        "ki",
-        "artificial intelligence",
-        "künstliche intelligenz",
-        "ai enablement",
-        "automation",
-        "automatisierung",
-        "ki enablement",
-        "ki transformation",
-        "ai first"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e608c581",
-      "title": "(Senior) Marketing Operations Manager*In (M/W/D) Crm, Growth, Hubspot",
-      "company": "Ramp106 Gmbh",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/senior-marketing-operations-managerin-crm-growth-hubspot-hamburg-189643",
-      "source": "arbeitnow",
-      "date": "2026-09-29",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "omr reviews",
-        "crm",
-        "growth",
-        "hubspot",
-        "marketing operations",
-        "reportings",
-        "marketing automation",
-        "crm administration"
+        "products"
       ],
       "miss_count": 0
     },
@@ -390,23 +252,6 @@
       "tags": [
         "aviation & aerospace",
         "r&d & engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cd1199c2",
-      "title": "Sr. Manager, Quality Assurance",
-      "company": "Acadia Job Listings",
-      "location": "Zug",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/acadia-job-listings/sr-manager-quality-assurance-zug-142731",
-      "source": "arbeitnow",
-      "date": "2026-09-28",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality assurance"
       ],
       "miss_count": 0
     },
@@ -1756,32 +1601,6 @@
         "data entry",
         "insurance",
         "g suite"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "37fdf489",
-      "title": "Experienced QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1014009-experienced-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-02",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
