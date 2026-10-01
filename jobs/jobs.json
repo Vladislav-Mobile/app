@@ -1,21 +1,51 @@
 {
-  "updated_at": "2026-10-01T12:22:40.988064+00:00",
+  "updated_at": "2026-10-01T22:18:25.570982+00:00",
   "total": 64,
   "jobs": [
     {
-      "id": "17ab3672",
-      "title": "SPS Siemens Engineer",
-      "company": "ekvip automation GmbH",
-      "location": "Leipzig",
+      "id": "3a0d97fc",
+      "title": "Senior Supplier Quality Development Specialist",
+      "company": "Audif1",
+      "location": "Hinwil Switzerland",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ekvip-automation-gmbh/sps-siemens-engineer-leipzig-198318",
+      "url": "https://www.arbeitnow.ch/jobs/companies/audif1/senior-supplier-quality-development-specialist-hinwil-switzerland-53270",
       "source": "arbeitnow",
       "date": "2026-10-01",
       "salary": "",
-      "type": "professional / experienced",
+      "type": "Experienced, Permanent, Full time",
       "tags": [
-        "automation engineering"
+        "supplier quality",
+        "supplier development",
+        "procurement",
+        "f1",
+        "supply chain",
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0059d134",
+      "title": "QA Analyst, Mobile (iOS)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1194753-mobile-qa-analyst-ios",
+      "source": "hirify",
+      "date": "2026-10-01",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -828,30 +858,6 @@
       "tags": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "889c70ad",
-      "title": "QA Engineer - Automation Testing & Risk Management (Mobile/API)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1115973-qa-automation-mobile-api",
-      "source": "hirify",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
