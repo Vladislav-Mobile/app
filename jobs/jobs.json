@@ -1,39 +1,69 @@
 {
-  "updated_at": "2026-10-02T17:23:34.181049+00:00",
-  "total": 73,
+  "updated_at": "2026-10-02T21:47:00.075306+00:00",
+  "total": 78,
   "jobs": [
     {
-      "id": "2cfe0b5e",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
+      "id": "ba406d2c",
+      "title": "Telecoms QA Director",
+      "company": "netcracker",
+      "location": "Belgium, UK, Netherlands, Italy, Switzerland",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-11050",
+      "country": "GB",
+      "url": "https://www.arbeitnow.com/jobs/companies/netcracker/telecoms-qa-director-belgium-uk-netherlands-italy-switzerland-324862",
       "source": "arbeitnow",
       "date": "2026-10-02",
       "salary": "",
       "type": "",
       "tags": [
-        "quality management"
+        "quality assurance"
       ],
       "miss_count": 0
     },
     {
-      "id": "5ca4e7e5",
-      "title": "VP, Quality Assurance",
-      "company": "Allucent",
-      "location": "Munich, Germany",
+      "id": "0200e49a",
+      "title": "Praktikant/Werkstudent „Automatisiertes Infotainment Testing“ (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "location": "Stuttgart",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/allucent/vp-quality-assurance-munich-306110",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-401320",
       "source": "arbeitnow",
       "date": "2026-10-02",
       "salary": "",
-      "type": "Executive",
+      "type": "Student, Intern, Full or part time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "18e9ae18",
+      "title": "Intern (m/f/d) Software Test Automation",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/intern-software-test-automation-munich-bavaria-68883",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "",
       "tags": [
-        "quality assurance (qa)"
+        "ai solutions"
       ],
+      "miss_count": 0
+    },
+    {
+      "id": "822b30f5",
+      "title": "Senior QA Engineer",
+      "company": "Waracle",
+      "location": "Dundee, Scotland, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/senior-qa-engineer-dundee-86737",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Experienced, contract",
+      "tags": [],
       "miss_count": 0
     },
     {
@@ -54,19 +84,19 @@
       "miss_count": 0
     },
     {
-      "id": "cb1b303b",
-      "title": "Staff Engineer for IT Automation & AI transformation (Remote)",
-      "company": "SoSafe",
-      "location": "London",
+      "id": "37afa88c",
+      "title": "VP, Quality Assurance",
+      "company": "Allucent",
+      "location": "Paris, France",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-for-it-automation-ai-transformation-remote-london-461734",
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/allucent/vp-quality-assurance-paris-315772",
       "source": "arbeitnow",
       "date": "2026-10-02",
       "salary": "",
-      "type": "Full Time",
+      "type": "Executive",
       "tags": [
-        "operations"
+        "quality assurance (qa)"
       ],
       "miss_count": 0
     },
@@ -125,6 +155,57 @@
       "miss_count": 0
     },
     {
+      "id": "31abfbc4",
+      "title": "Data selection and quality evaluation for biological foundation models",
+      "company": "Inceptive",
+      "location": "Berlin, Germany or Palo Alto, CA or Zurich",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.ch/jobs/companies/inceptive/data-selection-and-quality-evaluation-for-biological-foundation-models-berlin-germany-or-palo-alto-ca-or-zurich-494569",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "08191866",
+      "title": "Manufacturing Quality Engineer",
+      "company": "Gravis Robotics",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/manufacturing-quality-engineer-zurich-249758",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "manufacturing & supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4de37f68",
+      "title": "Telecoms QA Director",
+      "company": "netcracker",
+      "location": "Belgium, UK, Netherlands, Germany, Italy",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.ch/jobs/companies/netcracker/telecoms-qa-director-belgium-uk-netherlands-germany-italy-419950",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "4dc5df51",
       "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
       "company": "ten23 health AG",
@@ -137,6 +218,32 @@
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "b8a07db1",
+      "title": "Senior QA Mobile",
+      "company": null,
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1196695-senior-qa-mobile",
+      "source": "hirify",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "miss_count": 0
     },
     {
@@ -191,55 +298,27 @@
       "miss_count": 0
     },
     {
-      "id": "b8a07db1",
-      "title": "Senior QA Mobile",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1196695-senior-qa-mobile",
-      "source": "hirify",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8bcac72a",
-      "title": "IT Project Manager Quality Systems (eQMS) in Pharma",
-      "company": "Fusion Consulting",
+      "id": "2b2e4d7c",
+      "title": "Data Analyst Banking",
+      "company": "MARGO",
       "location": "Poland",
       "remote": true,
       "country": "PL",
-      "url": "https://himalayas.app/companies/fusion-consulting/jobs/it-project-manager-quality-systems-eqms-in-pharma",
+      "url": "https://himalayas.app/companies/margo/jobs/data-analyst-banking",
       "source": "himalayas",
       "date": "2026-10-02",
       "salary": "",
       "type": "",
       "tags": [
-        "it-project-manager",
-        "senior-it-project-manager",
-        "quality-assurance-project-manager",
-        "program-manager",
-        "life-sciences-consultant",
-        "pharmaceutical-project-manager",
-        "pharma-it-specialist",
-        "project-management-in-pharma",
-        "quality-systems-it-lead",
-        "pharma-project-management",
-        "project-manager"
+        "banking-operations",
+        "financial-services",
+        "data-quality",
+        "asset-management",
+        "banking-data-analyst",
+        "banking-analyst",
+        "finance-data-analyst",
+        "financial-data-analyst",
+        "data-analyst"
       ],
       "miss_count": 0
     },
