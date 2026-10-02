@@ -1,39 +1,72 @@
 {
-  "updated_at": "2026-10-02T11:49:45.937984+00:00",
-  "total": 70,
+  "updated_at": "2026-10-02T17:23:34.181049+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "4b877543",
-      "title": "AI Transformation & Automation Lead (m/w/d)",
-      "company": "CKM Group",
-      "location": "Berlin",
+      "id": "2cfe0b5e",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ckm-group/ai-transformation-automation-lead-berlin-366195",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-11050",
       "source": "arbeitnow",
       "date": "2026-10-02",
       "salary": "",
       "type": "",
       "tags": [
-        "it"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "29211673",
-      "title": "Intelligent Automation Engineering Lead",
-      "company": "Delta Capita",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-intelligent-automation-engineering-lead-london-128204",
+      "id": "5ca4e7e5",
+      "title": "VP, Quality Assurance",
+      "company": "Allucent",
+      "location": "Munich, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/allucent/vp-quality-assurance-munich-306110",
       "source": "arbeitnow",
       "date": "2026-10-02",
       "salary": "",
-      "type": "Mid, contract",
+      "type": "Executive",
       "tags": [
-        "consulting",
-        "remote"
+        "quality assurance (qa)"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "958edec0",
+      "title": "Telecoms QA Director",
+      "company": "netcracker",
+      "location": "Belgium, Netherlands, Germany, Italy, Switzerland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netcracker/telecoms-qa-director-belgium-netherlands-germany-italy-switzerland-380020",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cb1b303b",
+      "title": "Staff Engineer for IT Automation & AI transformation (Remote)",
+      "company": "SoSafe",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/staff-engineer-for-it-automation-ai-transformation-remote-london-461734",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
       ],
       "miss_count": 0
     },
@@ -104,6 +137,32 @@
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "e01c3b19",
+      "title": "Middle QA (Mobile Game)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1199271-middle-qa-mobile-gaming",
+      "source": "hirify",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "miss_count": 0
     },
     {
