@@ -1,7 +1,69 @@
 {
-  "updated_at": "2026-10-01T22:18:25.570982+00:00",
+  "updated_at": "2026-10-02T03:54:44.995820+00:00",
   "total": 64,
   "jobs": [
+    {
+      "id": "ecc9d1c8",
+      "title": "Systems Integration & QA Engineer (All genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/systems-integration-qa-engineer-all-genders-munich-442670",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "10abdb79",
+      "title": "HR AI and Automation Lead (all genders)",
+      "company": "Stark",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/hr-ai-and-automation-lead-all-genders-berlin-63739",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "hr",
+        "ai",
+        "automation",
+        "lead"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8bcac72a",
+      "title": "IT Project Manager Quality Systems (eQMS) in Pharma",
+      "company": "Fusion Consulting",
+      "location": "Poland",
+      "remote": true,
+      "country": "PL",
+      "url": "https://himalayas.app/companies/fusion-consulting/jobs/it-project-manager-quality-systems-eqms-in-pharma",
+      "source": "himalayas",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "it-project-manager",
+        "senior-it-project-manager",
+        "quality-assurance-project-manager",
+        "program-manager",
+        "life-sciences-consultant",
+        "pharmaceutical-project-manager",
+        "pharma-it-specialist",
+        "project-management-in-pharma",
+        "quality-systems-it-lead",
+        "pharma-project-management",
+        "project-manager"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "3a0d97fc",
       "title": "Senior Supplier Quality Development Specialist",
@@ -46,75 +108,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e3784056",
-      "title": "Talent Pool - Cloud Engineers",
-      "company": "Mission Box Solutions",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/mission-box-solutions/jobs/talent-pool-cloud-engineers",
-      "source": "himalayas",
-      "date": "2026-10-01",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "cybersecurity-engineer",
-        "security-engineer",
-        "information-security-analyst",
-        "penetration-tester",
-        "security-architect",
-        "cloud-engineering-jobs",
-        "cloud-engineer",
-        "cloud-platform-engineer",
-        "cloud-software-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "842e5384",
-      "title": "Application Support Development Specialist (RTIS)",
-      "company": "Mekdam Technical Services",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/mekdam-technical-services/jobs/application-support-development-specialist-rtis",
-      "source": "himalayas",
-      "date": "2026-10-01",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "application-support-engineer",
-        "pi-developer",
-        "systems-engineer",
-        "aveva-pi-specialist",
-        "process-automation-engineer",
-        "senior-application-support-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "dcebf814",
-      "title": "Sr.Coordinator, Quality Control",
-      "company": "Cardinal Health",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/cardinal-health/jobs/sr-coordinator-quality-control",
-      "source": "himalayas",
-      "date": "2026-10-01",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-control-coordinator",
-        "quality-assurance-coordinator",
-        "compliance-coordinator",
-        "healthcare-quality-specialist",
-        "patient-services-coordinator",
-        "qc-coordinator"
       ],
       "miss_count": 0
     },
