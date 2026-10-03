@@ -1,7 +1,174 @@
 {
-  "updated_at": "2026-10-02T21:47:00.075306+00:00",
-  "total": 78,
+  "updated_at": "2026-10-03T03:39:27.791789+00:00",
+  "total": 77,
   "jobs": [
+    {
+      "id": "a6c086ea",
+      "title": "Working Student – Release Support and Automation",
+      "company": "Snke",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-34302",
+      "source": "arbeitnow",
+      "date": "2026-10-03",
+      "salary": "",
+      "type": "Student, Intern, Part time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "d958cd64",
+      "title": "Quality inspector",
+      "company": "Andurilindustries",
+      "location": "Sydney, Australia",
+      "remote": false,
+      "country": "AU",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/quality-inspector-sydney-australia-136998",
+      "source": "arbeitnow",
+      "date": "2026-10-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "manufacturing : undersea dominance - production : quality engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "937d428a",
+      "title": "Director, Quality & Release Engineering",
+      "company": "Kaluza",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/director-quality-release-engineering-london-65228",
+      "source": "arbeitnow",
+      "date": "2026-10-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9c8d920f",
+      "title": "AVP, Automated Controls",
+      "company": "Fortitude Re",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/fortitude-re/jobs/avp-automated-controls",
+      "source": "himalayas",
+      "date": "2026-10-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "internal-controls-manager",
+        "risk-control-specialist",
+        "grc-analyst",
+        "it-controls-analyst",
+        "compliance-analyst",
+        "avp-operations",
+        "avp-operations-management",
+        "avp",
+        "ai-controls-specialist",
+        "director-of-automation-systems",
+        "director-of-automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e21fb867",
+      "title": "Senior FSQA Manager - PHF (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-328691",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "food safety and quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "62e6ab43",
+      "title": "Werkstudent (m/w/d) Brand & Employer Branding",
+      "company": "Es Group",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-brand-employer-branding-berlin-329746",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [
+        "employer branding",
+        "marketing",
+        "content creation",
+        "online marketing",
+        "brand marketing",
+        "marketing analytics",
+        "junior marketing assistant",
+        "kampagnenmanagement",
+        "a/b-testing",
+        "social media management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f39b1e71",
+      "title": "Werkstudent Business Operations – Automation & AI (m/w/d)",
+      "company": "Talentspring Academy",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-171707",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Experienced, Intern, Part time",
+      "tags": [
+        "business operations",
+        "ai",
+        "autmation",
+        "data analytics",
+        "reporting",
+        "dashboard",
+        "claude",
+        "python",
+        "sql",
+        "zapier",
+        "hubspot"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e5b4f466",
+      "title": "Praktikant Business Building & AI Automation (m/w/d) – Digital Education mit Impact",
+      "company": "Talentspring Academy",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-108582",
+      "source": "arbeitnow",
+      "date": "2026-10-02",
+      "salary": "",
+      "type": "Entry, Intern, Full time",
+      "tags": [
+        "business building",
+        "automation",
+        "intern",
+        "ai",
+        "ki"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ba406d2c",
       "title": "Telecoms QA Director",
@@ -10,70 +177,6 @@
       "remote": false,
       "country": "GB",
       "url": "https://www.arbeitnow.com/jobs/companies/netcracker/telecoms-qa-director-belgium-uk-netherlands-italy-switzerland-324862",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0200e49a",
-      "title": "Praktikant/Werkstudent „Automatisiertes Infotainment Testing“ (m/w/d)",
-      "company": "IPG Automotive - Personio",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-401320",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Student, Intern, Full or part time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "18e9ae18",
-      "title": "Intern (m/f/d) Software Test Automation",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/intern-software-test-automation-munich-bavaria-68883",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai solutions"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "822b30f5",
-      "title": "Senior QA Engineer",
-      "company": "Waracle",
-      "location": "Dundee, Scotland, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waracle/senior-qa-engineer-dundee-86737",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Experienced, contract",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "958edec0",
-      "title": "Telecoms QA Director",
-      "company": "netcracker",
-      "location": "Belgium, Netherlands, Germany, Italy, Switzerland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netcracker/telecoms-qa-director-belgium-netherlands-germany-italy-switzerland-380020",
       "source": "arbeitnow",
       "date": "2026-10-02",
       "salary": "",
@@ -131,26 +234,6 @@
       "type": "Full Time",
       "tags": [
         "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6fc1af94",
-      "title": "Senior Software Engineer AI & Automation (d/m/w)",
-      "company": "Listan Gmbh",
-      "location": "Hybrid",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-476748",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "automation",
-        "ki",
-        "ai",
-        "technical ai developer"
       ],
       "miss_count": 0
     },
@@ -298,31 +381,6 @@
       "miss_count": 0
     },
     {
-      "id": "2b2e4d7c",
-      "title": "Data Analyst Banking",
-      "company": "MARGO",
-      "location": "Poland",
-      "remote": true,
-      "country": "PL",
-      "url": "https://himalayas.app/companies/margo/jobs/data-analyst-banking",
-      "source": "himalayas",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "banking-operations",
-        "financial-services",
-        "data-quality",
-        "asset-management",
-        "banking-data-analyst",
-        "banking-analyst",
-        "finance-data-analyst",
-        "financial-data-analyst",
-        "data-analyst"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "3a0d97fc",
       "title": "Senior Supplier Quality Development Specialist",
       "company": "Audif1",
@@ -426,23 +484,6 @@
         "next.js",
         "infrastructure",
         "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bfdc92c0",
-      "title": "Supplier Quality Engineer",
-      "company": "Anybotics",
-      "location": "Zurich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/supplier-quality-engineer-zurich-241468",
-      "source": "arbeitnow",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "Employee, full time (100%)",
-      "tags": [
-        "operations"
       ],
       "miss_count": 0
     },
@@ -1894,58 +1935,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "853452c1",
-      "title": "Mobile QA Engineer (ручной тестировщик мобильных приложений)",
-      "company": null,
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1031551-mobile-qa-engineer-rucnoi-testirovshhik-mobilnyx-prilozenii",
-      "source": "hirify",
-      "date": "2026-09-04",
-      "salary": "",
-      "type": "parttime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2746ff9e",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "source": "remotive",
-      "date": "2026-09-02",
-      "salary": "$20k -$35k",
-      "type": "freelance",
-      "tags": [
-        "accounting",
-        "excel",
-        "research",
-        "data analysis",
-        "bookkeeping",
-        "google sheets",
-        "quickbooks",
-        "data entry",
-        "insurance",
-        "g suite"
       ],
       "miss_count": 0
     }
