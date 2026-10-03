@@ -1,20 +1,56 @@
 {
-  "updated_at": "2026-10-03T03:39:27.791789+00:00",
-  "total": 77,
+  "updated_at": "2026-10-03T11:03:06.408629+00:00",
+  "total": 70,
   "jobs": [
     {
-      "id": "a6c086ea",
-      "title": "Working Student – Release Support and Automation",
-      "company": "Snke",
-      "location": "München",
+      "id": "ec97a73b",
+      "title": "Data selection and quality evaluation for biological foundation models",
+      "company": "Inceptive",
+      "location": "Berlin, CA or Zurich, Switzerland",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-release-support-and-automation-munchen-34302",
+      "url": "https://www.arbeitnow.com/jobs/companies/inceptive/data-selection-and-quality-evaluation-for-biological-foundation-models-berlin-ca-or-zurich-switzerland-43537",
       "source": "arbeitnow",
       "date": "2026-10-03",
       "salary": "",
-      "type": "Student, Intern, Part time",
-      "tags": [],
+      "type": "",
+      "tags": [
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8b3c515f",
+      "title": "Product Manager - QA & Release Coordination (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "location": "Augsburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/reonic/product-manager-qa-release-coordination-ai-x-greentech-augsburg-23580",
+      "source": "arbeitnow",
+      "date": "2026-10-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9ba87621",
+      "title": "Quality Engineer",
+      "company": "Artificial Labs",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/artificial-labs/quality-engineer-london-223131",
+      "source": "arbeitnow",
+      "date": "2026-10-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
       "miss_count": 0
     },
     {
@@ -52,137 +88,27 @@
       "miss_count": 0
     },
     {
-      "id": "9c8d920f",
-      "title": "AVP, Automated Controls",
-      "company": "Fortitude Re",
-      "location": "United States",
+      "id": "5742373e",
+      "title": "QA Manual Tester (Mobile/Web)",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/fortitude-re/jobs/avp-automated-controls",
-      "source": "himalayas",
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1202545-manual-qa-tester-mobile-web",
+      "source": "hirify",
       "date": "2026-10-03",
-      "salary": "",
-      "type": "",
+      "salary": "USD 22",
+      "type": "parttime",
       "tags": [
-        "internal-controls-manager",
-        "risk-control-specialist",
-        "grc-analyst",
-        "it-controls-analyst",
-        "compliance-analyst",
-        "avp-operations",
-        "avp-operations-management",
-        "avp",
-        "ai-controls-specialist",
-        "director-of-automation-systems",
-        "director-of-automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e21fb867",
-      "title": "Senior FSQA Manager - PHF (all genders)",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-328691",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "food safety and quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "62e6ab43",
-      "title": "Werkstudent (m/w/d) Brand & Employer Branding",
-      "company": "Es Group",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-brand-employer-branding-berlin-329746",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Student, Working student, Part time",
-      "tags": [
-        "employer branding",
-        "marketing",
-        "content creation",
-        "online marketing",
-        "brand marketing",
-        "marketing analytics",
-        "junior marketing assistant",
-        "kampagnenmanagement",
-        "a/b-testing",
-        "social media management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f39b1e71",
-      "title": "Werkstudent Business Operations – Automation & AI (m/w/d)",
-      "company": "Talentspring Academy",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-171707",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Experienced, Intern, Part time",
-      "tags": [
-        "business operations",
-        "ai",
-        "autmation",
-        "data analytics",
-        "reporting",
-        "dashboard",
-        "claude",
-        "python",
-        "sql",
-        "zapier",
-        "hubspot"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e5b4f466",
-      "title": "Praktikant Business Building & AI Automation (m/w/d) – Digital Education mit Impact",
-      "company": "Talentspring Academy",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-108582",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Entry, Intern, Full time",
-      "tags": [
-        "business building",
-        "automation",
-        "intern",
-        "ai",
-        "ki"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ba406d2c",
-      "title": "Telecoms QA Director",
-      "company": "netcracker",
-      "location": "Belgium, UK, Netherlands, Italy, Switzerland",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.com/jobs/companies/netcracker/telecoms-qa-director-belgium-uk-netherlands-italy-switzerland-324862",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality assurance"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -200,40 +126,6 @@
       "type": "Executive",
       "tags": [
         "quality assurance (qa)"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d8d1b39c",
-      "title": "Growth Operations & Automation Specialist",
-      "company": "Pennylane SAS",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/growth-operations-automation-specialist-paris-307338",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "51b22ca4",
-      "title": "Industrial Vision & Automation Engineer",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Orly",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/industrial-vision-automation-engineer-orly-386329",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations"
       ],
       "miss_count": 0
     },
@@ -377,28 +269,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3a0d97fc",
-      "title": "Senior Supplier Quality Development Specialist",
-      "company": "Audif1",
-      "location": "Hinwil Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/audif1/senior-supplier-quality-development-specialist-hinwil-switzerland-53270",
-      "source": "arbeitnow",
-      "date": "2026-10-01",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "supplier quality",
-        "supplier development",
-        "procurement",
-        "f1",
-        "supply chain",
-        "quality"
       ],
       "miss_count": 0
     },
@@ -1458,32 +1328,6 @@
         "ai",
         "data annotation",
         "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8b691871",
-      "title": "Senior QA Automation Engineer (Mobile/Kotlin)",
-      "company": "Twinslash",
-      "location": ", ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1101098-senior-qa-automation-engineer-mobilekotlin",
-      "source": "hirify",
-      "date": "2026-09-16",
-      "salary": "USD 35–40",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
