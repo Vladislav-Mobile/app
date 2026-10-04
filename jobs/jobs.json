@@ -1,7 +1,134 @@
 {
-  "updated_at": "2026-10-04T16:23:26.956398+00:00",
-  "total": 74,
+  "updated_at": "2026-10-04T20:50:16.916225+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "d01c2c46",
+      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+      "company": "Wattfox",
+      "location": "Freiburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-76484",
+      "source": "arbeitnow",
+      "date": "2026-10-04",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "engineer",
+        "python",
+        "javascript",
+        "typescript",
+        "prototyp",
+        "mvp",
+        "fastapi",
+        "docker",
+        "ci",
+        "cd",
+        "git",
+        "sql"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7832a1a6",
+      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+      "company": "Wattfox",
+      "location": "Home Office Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-162870",
+      "source": "arbeitnow",
+      "date": "2026-10-04",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "engineer",
+        "python",
+        "javascript",
+        "typescript",
+        "prototyp",
+        "mvp",
+        "fastapi",
+        "docker",
+        "ci",
+        "cd",
+        "git",
+        "sql"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "897281bf",
+      "title": "Automation Engineer (gn) Industrial Robotics & Software Development",
+      "company": "Wandelbots GmbH",
+      "location": "Dresden",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/automation-engineer-gn-industrial-robotics-software-development-dresden-321788",
+      "source": "arbeitnow",
+      "date": "2026-10-04",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "automation",
+        "robotics",
+        "software",
+        "saas",
+        "platform",
+        "plc",
+        "python"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e36355d2",
+      "title": "Team Lead AI Process Automation (m/f/d)",
+      "company": "DocuWare",
+      "location": "Germering / Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-142587",
+      "source": "arbeitnow",
+      "date": "2026-10-04",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "d4c87ef8",
+      "title": "Werkstudent:in AI & Automation (m/w/d)",
+      "company": "Smartvillage",
+      "location": "München Headquarter",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartvillage/werkstudentin-ai-automation-munchen-headquarter-361844",
+      "source": "arbeitnow",
+      "date": "2026-10-04",
+      "salary": "",
+      "type": "Entry, Working student, Part time",
+      "tags": [
+        "digital processes",
+        "business automation",
+        "prozessoptimierung",
+        "automatisierung",
+        "it",
+        "digitalisierung",
+        "workflow-management",
+        "geschäftsprozesse",
+        "bachelor",
+        "process automation",
+        "finance",
+        "n8n",
+        "postgresql",
+        "llms",
+        "ai",
+        "ki",
+        "hubspot"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c24eaaae",
       "title": "Quality Assurance Rater - German (Germany)",
@@ -44,73 +171,6 @@
       "miss_count": 0
     },
     {
-      "id": "2c359898",
-      "title": "Working Student – Community & User Generated Content Operations",
-      "company": "Lovehoney Group",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/working-student-community-user-generated-content-operations-berlin-485653",
-      "source": "arbeitnow",
-      "date": "2026-10-04",
-      "salary": "",
-      "type": "Working Student",
-      "tags": [
-        "52.3. product - ux testing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c0235363",
-      "title": "QA Engineer Mobile",
-      "company": "ScholarshipOwl",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-qa-engineer-mobile-berlin-166747",
-      "source": "arbeitnow",
-      "date": "2026-10-04",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "development",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7993577b",
-      "title": "Senior Collection Specialist Quality (m/w/d)",
-      "company": "Pair",
-      "location": "Berlin (Hybrid)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/pair/senior-collection-specialist-quality-berlin-hybrid-463527",
-      "source": "arbeitnow",
-      "date": "2026-10-04",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "dabcbd54",
-      "title": "Quality Assurance Coordinator - Product Integrity - 12 Month FCT",
-      "company": "Gymshark",
-      "location": "Solihull",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/quality-assurance-coordinator-product-integrity-12-month-fct-solihull-133846",
-      "source": "arbeitnow",
-      "date": "2026-10-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "product & supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "6ce2cafb",
       "title": "Automation Lead",
       "company": "Orakl Oncology",
@@ -124,56 +184,6 @@
       "type": "Full Time",
       "tags": [
         "platform"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "37f3785d",
-      "title": "Specialist, Facility Site Review - Remote in CA",
-      "company": "Molina Healthcare",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/molina-healthcare/jobs/specialist-facility-site-review-remote-in-ca",
-      "source": "himalayas",
-      "date": "2026-10-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "administrative-specialist",
-        "healthcare-administrator",
-        "facility-coordinator",
-        "site-review-specialist",
-        "quality-assurance-coordinator",
-        "remote-assessment-specialist",
-        "global-site-assessment-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "192bc452",
-      "title": "Identity Governance Service Transformation & Automation Lead",
-      "company": "Ford",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/ford/jobs/identity-governance-service-transformation-automation-lead",
-      "source": "himalayas",
-      "date": "2026-10-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "identity-governance-administrator",
-        "identity-and-access-management-lead",
-        "security-engineer",
-        "technical-program-manager",
-        "it-security-specialist",
-        "identity-governance-architect",
-        "identity-management-automation-engineer",
-        "senior-identity-and-access-management-architect",
-        "senior-identity-and-access-management-engineer",
-        "principal-identity-and-access-management-engineer",
-        "identity-governance-consultant"
       ],
       "miss_count": 0
     },
@@ -341,21 +351,6 @@
       "tags": [
         "quality assurance"
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "4dc5df51",
-      "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
-      "company": "ten23 health AG",
-      "location": "Visp",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-395941",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
       "miss_count": 0
     },
     {
