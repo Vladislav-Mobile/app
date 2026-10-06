@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-10-05T23:41:19.130860+00:00",
+  "updated_at": "2026-10-06T04:42:14.150625+00:00",
   "total": 74,
   "jobs": [
+    {
+      "id": "4487bbc8",
+      "title": "Quality Assurance Associate AVP",
+      "company": "Delta Capita",
+      "location": "Glasgow, Glasgow City, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/quality-assurance-associate-avp-glasgow-230468",
+      "source": "arbeitnow",
+      "date": "2026-10-06",
+      "salary": "",
+      "type": "Experienced, fulltime fixed term",
+      "tags": [
+        "clm - people"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3638d0b3",
+      "title": "Quality Assurance Associate",
+      "company": "Delta Capita",
+      "location": "Glasgow, Glasgow City, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/quality-assurance-associate-glasgow-239678",
+      "source": "arbeitnow",
+      "date": "2026-10-06",
+      "salary": "",
+      "type": "Experienced, fulltime fixed term",
+      "tags": [
+        "clm - people"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4f001e30",
+      "title": "Implementation Analyst",
+      "company": "Atominvest",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/atominvest/jobs/implementation-analyst-2422201724",
+      "source": "himalayas",
+      "date": "2026-10-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "implementation-analyst",
+        "systems-implementation-analyst",
+        "technical-implementation-analyst",
+        "implementation-analyst-junior",
+        "client-implementation-analyst",
+        "healthcare-implementation-analyst",
+        "implementation-associate",
+        "implementation-specialist",
+        "implementation-quality-analyst",
+        "process-implementation-analyst"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "2801d83b",
       "title": "Senior Fullstack Developer – Business Automation (m/w/d)",
@@ -78,23 +138,6 @@
       "type": "Full Time",
       "tags": [
         "adjoe"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "892bb7c1",
-      "title": "Senior Data Consultant – Reference Data & Data Quality (Investment Banking)",
-      "company": "Delta Capita",
-      "location": "London, Greater London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/senior-data-consultant-reference-data-data-quality-investment-banking-london-283728",
-      "source": "arbeitnow",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "consulting"
       ],
       "miss_count": 0
     },
@@ -200,61 +243,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e9662841",
-      "title": "(Senior) Network Engineer / Consultant (m/w/d) - Remote | Projekte, die dich wir",
-      "company": "nscon network, security & consulting gmbh",
-      "location": "Germany",
-      "remote": true,
-      "country": "DE",
-      "url": "https://himalayas.app/companies/nscon-network-security-consulting-gmbh/jobs/senior-network-engineer-consultant-m-w-d-remote-projekte-die-dich-wir-5766605317",
-      "source": "himalayas",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "it-consulting",
-        "network-architecture",
-        "sd-wan",
-        "network-consultant",
-        "network-automation",
-        "infrastructure-engineering",
-        "senior-network-consultant",
-        "senior-ip-network-engineer",
-        "senior-network-engineer",
-        "senior-network-infrastructure-engineer",
-        "network-consulting-engineer",
-        "senior-network-engineering",
-        "network-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1257d7d2",
-      "title": "Team Lead Supply & Quality (m/w/d)",
-      "company": "omos media GmbH",
-      "location": "Germany",
-      "remote": true,
-      "country": "DE",
-      "url": "https://himalayas.app/companies/omos-media-gmbh/jobs/team-lead-supply-quality-m-w-d-415928048",
-      "source": "himalayas",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "supply-chain-management",
-        "quality-management",
-        "operations-team-lead",
-        "supply-chain-quality",
-        "team-lead-for-quality-team",
-        "supply-chain-lead",
-        "quality-assurance-team-lead",
-        "supply-chain-management-lead",
-        "qa-engineer",
-        "head-of-supplier-quality"
       ],
       "miss_count": 0
     },
