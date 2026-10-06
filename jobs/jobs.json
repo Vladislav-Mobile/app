@@ -1,111 +1,138 @@
 {
-  "updated_at": "2026-10-06T12:42:07.128565+00:00",
+  "updated_at": "2026-10-06T22:16:29.761612+00:00",
   "total": 75,
   "jobs": [
     {
-      "id": "62c2dc71",
-      "title": "Strategic Project Manager - QA&RA / R&D",
-      "company": "Kijimea",
-      "location": "Gräfelfing/Munich",
+      "id": "87a2d22c",
+      "title": "(Senior) HR Tech Business Analyst — Automation & AI (m/f/d)",
+      "company": "Flix",
+      "location": "Munich, Bavaria, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-munich-457331",
+      "source": "arbeitnow",
+      "date": "2026-10-06",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "671b8227",
+      "title": "(Senior) HR Tech Business Analyst — Automation & AI (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-berlin-133635",
+      "source": "arbeitnow",
+      "date": "2026-10-06",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "145bedae",
+      "title": "Senior Test & Data Quality Engineer (Azure Databricks)",
+      "company": "Callista Group AG",
+      "location": "Frankfurt, Hessen, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/callista-group-ag/senior-test-data-quality-engineer-azure-databricks-frankfurt-239611",
+      "source": "arbeitnow",
+      "date": "2026-10-06",
+      "salary": "",
+      "type": "Experienced, contract",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "23cb5fd8",
+      "title": "Engineering Manager - Software and System Testing (f/m/d)",
+      "company": "Munich Electrification",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/kijimea/strategic-project-manager-qara-rd-grafelfing-203510",
+      "url": "https://www.arbeitnow.com/jobs/companies/munich-electrification/engineering-manager-software-and-system-testing-munich-258660",
       "source": "arbeitnow",
       "date": "2026-10-06",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "project management"
+        "munich electrification"
       ],
       "miss_count": 0
     },
     {
-      "id": "7af0bf2e",
-      "title": "Leadership Trainee (Scientific Track)",
-      "company": "Kijimea",
-      "location": "Gräfelfing/Munich",
+      "id": "b22ea560",
+      "title": "Compliance Automation Analyst",
+      "company": "Superhuman",
+      "location": "Hub - Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/kijimea/leadership-trainee-scientific-track-grafelfing-51183",
+      "url": "https://www.arbeitnow.com/jobs/companies/superhuman/compliance-automation-analyst-berlin-239012",
       "source": "arbeitnow",
       "date": "2026-10-06",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "quality assurance & regulatory affairs"
+        "g&a"
       ],
       "miss_count": 0
     },
     {
-      "id": "a610d4e2",
-      "title": "Data Engineer, Data Quality & Provenance",
-      "company": "Wayve",
-      "location": "Leonberg, Germany",
+      "id": "11b7a3c5",
+      "title": "Outcome Testing and Controls Assurance Officer",
+      "company": "Allica Bank",
+      "location": "Milton Keynes Office",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-leonberg-germany-63504",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/outcome-testing-and-controls-assurance-officer-milton-keynes-463222",
       "source": "arbeitnow",
       "date": "2026-10-06",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "simulation",
-        "evaluation",
-        "validation"
+        "lending & operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "e6b31dab",
-      "title": "Data Scientist, Data Quality & Provenance Team",
-      "company": "Wayve",
-      "location": "Leonberg, Germany",
+      "id": "f1965eb3",
+      "title": "Senior Software Engineer AI & Automation (d/m/w)",
+      "company": "Listan Gmbh",
+      "location": "Hybrid",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-scientist-data-quality-provenance-team-leonberg-germany-342801",
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-367222",
       "source": "arbeitnow",
       "date": "2026-10-06",
       "salary": "",
-      "type": "Full Time",
+      "type": "Experienced, Permanent, Full time",
       "tags": [
-        "simulation",
-        "evaluation",
-        "validation"
+        "automation",
+        "ki",
+        "ai",
+        "technical ai developer"
       ],
       "miss_count": 0
     },
     {
-      "id": "635d84ce",
-      "title": "System Test Automation Engineer",
-      "company": "Wayve",
-      "location": "Leonberg, Germany",
+      "id": "72f35491",
+      "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
+      "company": "ten23 health AG",
+      "location": "Visp",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wayve/system-test-automation-engineer-leonberg-germany-102280",
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-10834",
       "source": "arbeitnow",
       "date": "2026-10-06",
       "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product & delivery"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "64c0b180",
-      "title": "Senior Embedded Software Test Engineer, Onboard Test Automation",
-      "company": "Wayve",
-      "location": "London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/senior-embedded-software-test-engineer-onboard-test-automation-london-united-kingdom-182672",
-      "source": "arbeitnow",
-      "date": "2026-10-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "vehicle sw engineering"
-      ],
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
       "miss_count": 0
     },
     {
@@ -135,28 +162,28 @@
       "miss_count": 0
     },
     {
-      "id": "808ba58b",
-      "title": "QA Test Analyst",
-      "company": "Covetrus",
-      "location": "United Kingdom",
+      "id": "c7fef4e8",
+      "title": "Product Tester for Books and Ebooks (m/f/d)",
+      "company": "Malik & Mähleke GmbH",
+      "location": "United States",
       "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/covetrus/jobs/qa-test-analyst",
+      "country": "US",
+      "url": "https://himalayas.app/companies/malik-mahleke-gmbh/jobs/product-tester-for-books-and-ebooks-m-f-d",
       "source": "himalayas",
       "date": "2026-10-06",
       "salary": "",
       "type": "",
       "tags": [
-        "qa-analyst",
-        "test-analyst",
-        "software-qa-analyst",
-        "software-tester",
-        "qa-test-analyst",
-        "quality-testing-analyst",
-        "testing-analyst",
-        "software-test-analyst",
-        "sqa-analyst",
-        "qa-tester"
+        "product-tester",
+        "book-reviewer",
+        "content-reviewer",
+        "qa-tester",
+        "publishing-assistant",
+        "product-qa-tester",
+        "part-time-product-tester",
+        "product-testing-specialist",
+        "entry-level-product-tester",
+        "remote-product-tester"
       ],
       "miss_count": 0
     },
@@ -230,23 +257,6 @@
       "type": "",
       "tags": [
         "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "332b8858",
-      "title": "[ VO2 FORCE ] - QA Engineer",
-      "company": "VO2 Group",
-      "location": "Paris, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-qa-engineer-paris-france-324167",
-      "source": "arbeitnow",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "Freelance",
-      "tags": [
-        "vo2 force"
       ],
       "miss_count": 0
     },
@@ -433,23 +443,6 @@
         "marketplace",
         "next.js",
         "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "31abfbc4",
-      "title": "Data selection and quality evaluation for biological foundation models",
-      "company": "Inceptive",
-      "location": "Berlin, Germany or Palo Alto, CA or Zurich",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.ch/jobs/companies/inceptive/data-selection-and-quality-evaluation-for-biological-foundation-models-berlin-germany-or-palo-alto-ca-or-zurich-494569",
-      "source": "arbeitnow",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "development"
       ],
       "miss_count": 0
     },
