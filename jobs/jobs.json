@@ -1,7 +1,114 @@
 {
-  "updated_at": "2026-10-06T22:16:29.761612+00:00",
-  "total": 75,
+  "updated_at": "2026-10-07T04:08:19.903783+00:00",
+  "total": 76,
   "jobs": [
+    {
+      "id": "b61d0986",
+      "title": "Senior Intelligent Automation Engineer  - UiPath",
+      "company": "roboyo",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-intelligent-automation-engineer-uipath-berlin-274186",
+      "source": "arbeitnow",
+      "date": "2026-10-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "delivery"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "513f02f5",
+      "title": "Intelligent Automation Engineer  - UiPath",
+      "company": "roboyo",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/roboyo/intelligent-automation-engineer-uipath-458490",
+      "source": "arbeitnow",
+      "date": "2026-10-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "delivery"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c819c6b1",
+      "title": "Teamleitung Food Safety and Quality Assurance (all genders)",
+      "company": "hellofresh",
+      "location": "Verden, Niedersachsen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/teamleitung-food-safety-and-quality-assurance-all-genders-verden-niedersachsen-168299",
+      "source": "arbeitnow",
+      "date": "2026-10-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "food safety and quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "aa4d9d91",
+      "title": "Senior Product Quality Analyst - AI Voice",
+      "company": "Spotify",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-quality-analyst-ai-voice-london-457694",
+      "source": "arbeitnow",
+      "date": "2026-10-07",
+      "salary": "",
+      "type": "Permanent",
+      "tags": [
+        "personalization"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6b2da0b4",
+      "title": "Quality Engineer",
+      "company": "Odaseva",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/quality-engineer-paris-491894",
+      "source": "arbeitnow",
+      "date": "2026-10-07",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e59a4e69",
+      "title": "Senior Software Engineer",
+      "company": "Caixa Mágica Software",
+      "location": "Portugal",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/caixa-magica-software/jobs/senior-software-engineer",
+      "source": "himalayas",
+      "date": "2026-10-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software-engineer",
+        "ai-engineer",
+        "automation-engineer",
+        "machine-learning-engineer",
+        "senior-software-developer",
+        "senior-software-engineer-jobs"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "87a2d22c",
       "title": "(Senior) HR Tech Business Analyst — Automation & AI (m/f/d)",
@@ -46,57 +153,6 @@
       "type": "Experienced, contract",
       "tags": [
         "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "23cb5fd8",
-      "title": "Engineering Manager - Software and System Testing (f/m/d)",
-      "company": "Munich Electrification",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/munich-electrification/engineering-manager-software-and-system-testing-munich-258660",
-      "source": "arbeitnow",
-      "date": "2026-10-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "munich electrification"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b22ea560",
-      "title": "Compliance Automation Analyst",
-      "company": "Superhuman",
-      "location": "Hub - Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/superhuman/compliance-automation-analyst-berlin-239012",
-      "source": "arbeitnow",
-      "date": "2026-10-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "g&a"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "11b7a3c5",
-      "title": "Outcome Testing and Controls Assurance Officer",
-      "company": "Allica Bank",
-      "location": "Milton Keynes Office",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/outcome-testing-and-controls-assurance-officer-milton-keynes-463222",
-      "source": "arbeitnow",
-      "date": "2026-10-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "lending & operations"
       ],
       "miss_count": 0
     },
@@ -162,32 +218,6 @@
       "miss_count": 0
     },
     {
-      "id": "c7fef4e8",
-      "title": "Product Tester for Books and Ebooks (m/f/d)",
-      "company": "Malik & Mähleke GmbH",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/malik-mahleke-gmbh/jobs/product-tester-for-books-and-ebooks-m-f-d",
-      "source": "himalayas",
-      "date": "2026-10-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "product-tester",
-        "book-reviewer",
-        "content-reviewer",
-        "qa-tester",
-        "publishing-assistant",
-        "product-qa-tester",
-        "part-time-product-tester",
-        "product-testing-specialist",
-        "entry-level-product-tester",
-        "remote-product-tester"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "ca040d5c",
       "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
       "company": "",
@@ -240,23 +270,6 @@
         "typescript ",
         "debugging",
         "scripting"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b20f7485",
-      "title": "Data Quality Operations Intern (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris, Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/data-quality-operations-intern-paris-paris-190018",
-      "source": "arbeitnow",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "product"
       ],
       "miss_count": 0
     },
