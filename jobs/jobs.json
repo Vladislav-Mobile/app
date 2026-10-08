@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-10-07T22:38:15.730604+00:00",
-  "total": 76,
+  "updated_at": "2026-10-08T04:20:34.794836+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "62365a43",
+      "title": "Product Manager – MarTech",
+      "company": "Justwatch",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/justwatch/product-manager-martech-berlin-202536",
+      "source": "arbeitnow",
+      "date": "2026-10-08",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "martech & automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "872a0dff",
+      "title": "Internship AI & Automation - Energy (m/f/d)",
+      "company": "1Komma5Grad",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-315606",
+      "source": "arbeitnow",
+      "date": "2026-10-08",
+      "salary": "",
+      "type": "Entry, Intern, Full time",
+      "tags": [
+        "join"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "895648dd",
+      "title": "Infrastructure Automation Engineer, AI Cluster Commissioning",
+      "company": "Firmus",
+      "location": "Sydney, Australia",
+      "remote": false,
+      "country": "AU",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/infrastructure-automation-engineer-ai-cluster-commissioning-sydney-australia-135943",
+      "source": "arbeitnow",
+      "date": "2026-10-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai cluster commissioning"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "251f390c",
       "title": "Operations & Automation Engineer – Renewable Energy",
@@ -16,98 +67,6 @@
       "type": "Full Time",
       "tags": [
         "business operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "97d03013",
-      "title": "AI Creative Strategist (m/w/d)",
-      "company": "Yoursquares",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-creative-strategist-berlin-143605",
-      "source": "arbeitnow",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "ai-native creative",
-        "content marketing",
-        "performance creative",
-        "social media ads",
-        "meta & google ads",
-        "content-automatisierung",
-        "proptech",
-        "a/b-testing",
-        "brand consistency",
-        "senior / berlin"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5c0e417c",
-      "title": "AI & Automation Engineer (m/w/d)",
-      "company": "Yoursquares",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-182579",
-      "source": "arbeitnow",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "708c6610",
-      "title": "Senior QA Engineer (Berlin, hybrid)",
-      "company": "Kittl",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/kittl/senior-qa-engineer-berlin-hybrid-138845",
-      "source": "arbeitnow",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "professional / experienced",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c608665a",
-      "title": "Software Quality Operations Specialist - Germany/Spain",
-      "company": "Waymo",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/software-quality-operations-specialist-germany-spain-london-310178",
-      "source": "arbeitnow",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "triage (sqw)"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "54bdcc14",
-      "title": "Software Quality Operations Specialist - Australia/Canada",
-      "company": "Waymo",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/software-quality-operations-specialist-australia-canada-london-189631",
-      "source": "arbeitnow",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "triage (sqw)"
       ],
       "miss_count": 0
     },
@@ -186,35 +145,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9dd58470",
-      "title": "AI Linguistic Evaluator - Tamil (India)",
-      "company": "RWS Group",
-      "location": "Canada",
-      "remote": true,
-      "country": "CA",
-      "url": "https://himalayas.app/companies/rws-group/jobs/ai-linguistic-evaluator-tamil-india",
-      "source": "himalayas",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-language-evaluator",
-        "linguistic-qa-tester",
-        "translation-quality-specialist",
-        "ai-evaluator",
-        "language-localization-specialist",
-        "tamil-language-ai-trainer",
-        "tamil-ai-data-annotator",
-        "ai-language-evaluation",
-        "tamil-linguist",
-        "linguistic-evaluator",
-        "language-evaluator",
-        "tamil-language-specialist",
-        "multilingual-ai-data-evaluator"
       ],
       "miss_count": 0
     },
@@ -330,28 +260,6 @@
         "typescript ",
         "debugging",
         "scripting"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3ce64b8d",
-      "title": "Senior Supplier Quality Development Specialist",
-      "company": "Audif1",
-      "location": "Hinwil Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/audif1/senior-supplier-quality-development-specialist-hinwil-switzerland-366041",
-      "source": "arbeitnow",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "supplier quality",
-        "supplier development",
-        "procurement",
-        "f1",
-        "supply chain",
-        "quality"
       ],
       "miss_count": 0
     },
