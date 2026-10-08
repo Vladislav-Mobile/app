@@ -1,72 +1,147 @@
 {
-  "updated_at": "2026-10-08T04:20:34.794836+00:00",
-  "total": 72,
+  "updated_at": "2026-10-08T12:45:28.460972+00:00",
+  "total": 76,
   "jobs": [
     {
-      "id": "62365a43",
-      "title": "Product Manager – MarTech",
-      "company": "Justwatch",
-      "location": "Berlin",
+      "id": "8234019b",
+      "title": "Electronics Repair & Testing Specialist",
+      "company": "Vinteden",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/justwatch/product-manager-martech-berlin-202536",
-      "source": "arbeitnow",
-      "date": "2026-10-08",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "martech & automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "872a0dff",
-      "title": "Internship AI & Automation - Energy (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-315606",
-      "source": "arbeitnow",
-      "date": "2026-10-08",
-      "salary": "",
-      "type": "Entry, Intern, Full time",
-      "tags": [
-        "join"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "895648dd",
-      "title": "Infrastructure Automation Engineer, AI Cluster Commissioning",
-      "company": "Firmus",
-      "location": "Sydney, Australia",
-      "remote": false,
-      "country": "AU",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/infrastructure-automation-engineer-ai-cluster-commissioning-sydney-australia-135943",
+      "url": "https://www.arbeitnow.com/jobs/companies/vinteden/electronics-repair-testing-specialist-hamburg-237605",
       "source": "arbeitnow",
       "date": "2026-10-08",
       "salary": "",
       "type": "",
       "tags": [
-        "ai cluster commissioning"
+        "vgo operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "251f390c",
-      "title": "Operations & Automation Engineer – Renewable Energy",
-      "company": "trawa",
-      "location": "Berlin HQ",
+      "id": "7507d7eb",
+      "title": "Finance Manager (Finance, Data & Automation) (gn) @ Atlantic, Berlin",
+      "company": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/finance-manager-finance-data-automation-gn-at-atlantic-berlin-62980",
+      "source": "arbeitnow",
+      "date": "2026-10-08",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "core team"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3caef02e",
+      "title": "Production Test Engineer (m/f/d)",
+      "company": "Swissbit",
+      "location": "DE-Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-automation-engineer-renewable-energy-berlin-24542",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/production-test-engineer-de-berlin-231244",
       "source": "arbeitnow",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "production test engineering",
+        "test automation",
+        "pcb design",
+        "c/c++ embedded software",
+        "yield analysis"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7f517c11",
+      "title": "Customer Operations AI & Automation Manager (f/m/d)",
+      "company": "Zeal Network",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zeal-network/customer-operations-ai-automation-manager-london-452799",
+      "source": "arbeitnow",
+      "date": "2026-10-08",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "business operations"
+        "customer operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bfc545db",
+      "title": "QA Engineer Intern (6 months)",
+      "company": "shifttechnology",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/qa-engineer-intern-6-months-113722",
+      "source": "arbeitnow",
+      "date": "2026-10-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "technology - software engineering",
+        "infrastructure",
+        "and security"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c93ef2ff",
+      "title": "QA Tester Mobile Apps (iOS/Android)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1225571-qa-mobile-apps-automation",
+      "source": "hirify",
+      "date": "2026-10-08",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "17f629b4",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "remotive",
+      "date": "2026-10-07",
+      "salary": "",
+      "type": "full_time",
+      "tags": [
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "msp",
+        "ticketing",
+        "microsoft 365",
+        "it systems"
       ],
       "miss_count": 0
     },
@@ -309,6 +384,23 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ab155e77",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "remotive",
+      "date": "2026-10-04",
+      "salary": "$50-$75 /hour",
+      "type": "freelance",
+      "tags": [
+        "rest"
       ],
       "miss_count": 0
     },
