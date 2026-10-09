@@ -1,112 +1,55 @@
 {
-  "updated_at": "2026-10-09T04:25:31.053367+00:00",
-  "total": 75,
+  "updated_at": "2026-10-09T12:31:34.553522+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "d3c30b66",
-      "title": "Werkstudent:in AI & Automation (m/w/d)",
-      "company": "Smartvillage",
-      "location": "München Headquarter",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/smartvillage/werkstudentin-ai-automation-munchen-headquarter-489232",
-      "source": "arbeitnow",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "Entry, Working student, Part time",
-      "tags": [
-        "digital processes",
-        "business automation",
-        "prozessoptimierung",
-        "automatisierung",
-        "it",
-        "digitalisierung",
-        "workflow-management",
-        "geschäftsprozesse",
-        "bachelor",
-        "process automation",
-        "finance",
-        "n8n",
-        "postgresql",
-        "llms",
-        "ai",
-        "ki",
-        "hubspot"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "63624471",
-      "title": "Senior Quality & Food Safety Manager (m/f/d)",
-      "company": "Westfalia Fruit",
-      "location": "Munich, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/westfalia-fruit/senior-quality-food-safety-manager-munich-345467",
-      "source": "arbeitnow",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "Contract",
-      "tags": [
-        "food & beverages",
-        "europe"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3c66ec13",
-      "title": "Werkstudent (m/w/d) Digital Experience – Growth, Brand & New Business",
-      "company": "Lemundo",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemundo/werkstudent-digital-experience-growth-brand-new-business-hamburg-450448",
-      "source": "arbeitnow",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "Entry, Working student, Part time",
-      "tags": [
-        "e-commerce strategy",
-        "b2b commerce",
-        "ai automation & ki-prozesse",
-        "artificial intelligence / ki",
-        "hamburg",
-        "agentur / digitalagentur",
-        "working student"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b9e4c8e2",
+      "id": "5038828e",
       "title": "QA Engineer",
-      "company": "Foundation Health",
-      "location": "Manchester",
+      "company": "Npv",
+      "location": "Paris",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/foundation-health/qa-engineer-manchester-162642",
+      "url": "https://www.arbeitnow.fr/jobs/companies/npv/qa-engineer-paris-107303",
       "source": "arbeitnow",
       "date": "2026-10-09",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "engineering"
+        "white circle"
       ],
       "miss_count": 0
     },
     {
-      "id": "60927651",
-      "title": "QA Lead",
-      "company": "Foundation Health",
-      "location": "Manchester",
+      "id": "4f1f083a",
+      "title": "Clinical Data & Quality Manager",
+      "company": "Resilience Care",
+      "location": "Paris",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/foundation-health/qa-lead-manchester-270027",
+      "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/clinical-data-quality-manager-paris-318769",
       "source": "arbeitnow",
       "date": "2026-10-09",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "engineering"
+        "qara"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "45a24148",
+      "title": "Senior Robotics Automation Engineer",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/senior-robotics-automation-engineer-orly-273423",
+      "source": "arbeitnow",
+      "date": "2026-10-09",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
       ],
       "miss_count": 0
     },
@@ -124,107 +67,6 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "aargau"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f456a3b6",
-      "title": "Account Partner Quality - Biotech",
-      "company": "Veeva Systems",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/veeva-systems/jobs/account-partner-quality-biotech",
-      "source": "himalayas",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "account-partner",
-        "quality-management-specialist",
-        "life-sciences-sales-representative",
-        "enterprise-account-executive",
-        "sales-consultant",
-        "biotech-account-management",
-        "bioprocess-account-manager",
-        "biopharma-account-manager",
-        "life-sciences-account-manager",
-        "life-sciences-account-management",
-        "biopharma-account-lead",
-        "account-management-health-and-life-sciences",
-        "account-partnerships"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "71e140a0",
-      "title": "Lead Consultant / Project Manager - Quality Cloud",
-      "company": "Veeva Systems",
-      "location": "Poland",
-      "remote": true,
-      "country": "PL",
-      "url": "https://himalayas.app/companies/veeva-systems/jobs/lead-consultant-project-manager-quality-cloud-6076996850",
-      "source": "himalayas",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "lead-consultant",
-        "project-manager",
-        "implementation-consultant",
-        "program-manager",
-        "it-consultant",
-        "quality-cloud-consultant",
-        "principal-sap-qm-consultant",
-        "quality-assurance-project-manager",
-        "quality-consultant",
-        "project-quality-manager",
-        "qa-consultant",
-        "quality-assurance-consultant",
-        "senior-cloud-consultant",
-        "senior-consulting-project-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0e826f94",
-      "title": "Principal Business Consultant - Life Sciences Quality",
-      "company": "Veeva Systems",
-      "location": "Spain",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/veeva-systems/jobs/principal-business-consultant-life-sciences-quality-2922113722",
-      "source": "himalayas",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "business-consultant",
-        "management-consultant",
-        "quality-consultant",
-        "life-sciences-consultant",
-        "senior-life-sciences-consultant",
-        "principal-sap-qm-consultant",
-        "life-science-consultant",
-        "pharma-business-consultant",
-        "life-sciences-consulting"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a2afe0af",
-      "title": "Propellant Quality Control Engineer",
-      "company": "Stealthrocketrystartup",
-      "location": "Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/propellant-quality-control-engineer-germany-28444",
-      "source": "arbeitnow",
-      "date": "2026-10-08",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "propulsion"
       ],
       "miss_count": 0
     },
@@ -615,13 +457,13 @@
       "miss_count": 0
     },
     {
-      "id": "b8a07db1",
-      "title": "Senior QA Mobile",
-      "company": null,
+      "id": "e01c3b19",
+      "title": "Middle QA (Mobile Game)",
+      "company": "%hirify_global%",
       "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/1196695-senior-qa-mobile",
+      "url": "https://hirify.me/vacancies/1199271-middle-qa-mobile-gaming",
       "source": "hirify",
       "date": "2026-10-02",
       "salary": "",
@@ -641,13 +483,13 @@
       "miss_count": 0
     },
     {
-      "id": "e01c3b19",
-      "title": "Middle QA (Mobile Game)",
-      "company": "%hirify_global%",
+      "id": "b8a07db1",
+      "title": "Senior QA Mobile",
+      "company": null,
       "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/1199271-middle-qa-mobile-gaming",
+      "url": "https://hirify.me/vacancies/1196695-senior-qa-mobile",
       "source": "hirify",
       "date": "2026-10-02",
       "salary": "",
@@ -926,24 +768,6 @@
       "remote": true,
       "country": "WW",
       "url": "https://t.me/qa_jobs/260166",
-      "source": "telegram",
-      "date": "2026-09-29",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9e58caa5",
-      "title": "Компания: DreamSoft",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260163",
       "source": "telegram",
       "date": "2026-09-29",
       "salary": "",
@@ -1347,21 +1171,6 @@
         "performance optimization",
         "mobile development"
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "8abc27c6",
-      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-      "company": "hey contact heroes GmbH",
-      "location": "Europe",
-      "remote": true,
-      "country": "EU",
-      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-      "source": "remotive",
-      "date": "2026-09-18",
-      "salary": "",
-      "type": "freelance",
-      "tags": [],
       "miss_count": 0
     },
     {
