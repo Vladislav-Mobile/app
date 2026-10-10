@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-10-10T11:51:21.479562+00:00",
-  "total": 67,
+  "updated_at": "2026-10-10T16:54:33.330842+00:00",
+  "total": 65,
   "jobs": [
-    {
-      "id": "8e18c391",
-      "title": "Senior Fullstack Developer – Business Automation (m/w/d)",
-      "company": "Metergrid",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/senior-fullstack-developer-business-automation-hamburg-150533",
-      "source": "arbeitnow",
-      "date": "2026-10-10",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "typescript",
-        "api integration",
-        "hubspot",
-        "automation",
-        "crm",
-        "saas",
-        "erneuerbare energien",
-        "tenant electricity",
-        "energiewende",
-        "mieterstrom",
-        "startup",
-        "scaleup"
-      ],
-      "miss_count": 0
-    },
     {
       "id": "016955cf",
       "title": "Senior Supplier Quality Development Specialist",
@@ -53,27 +25,27 @@
       "miss_count": 0
     },
     {
-      "id": "28da7213",
-      "title": "Salesforce Marketing Automation Consultant",
-      "company": "Bluprintx",
-      "location": "India",
+      "id": "aba77115",
+      "title": "Hospital Coding Quality Integrity Analyst - Inpatient",
+      "company": "Advocate Aurora Health",
+      "location": "United States",
       "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/bluprintx/jobs/salesforce-marketing-automation-consultant",
+      "country": "US",
+      "url": "https://himalayas.app/companies/advocate-aurora-health/jobs/hospital-coding-quality-integrity-analyst-inpatient",
       "source": "himalayas",
       "date": "2026-10-10",
       "salary": "",
       "type": "",
       "tags": [
-        "marketing-automation-consultant",
-        "salesforce-consultant",
-        "email-marketing-specialist",
-        "digital-marketing-consultant",
-        "salesforce-marketing-cloud-consultant",
-        "marketing-automation-consulting",
-        "marketing-cloud-consultant",
-        "salesforce-marketing-cloud-specialist",
-        "marketing-cloud-consulting"
+        "medical-coder",
+        "inpatient-coder",
+        "health-information-analyst",
+        "coding-analyst",
+        "facility-coder",
+        "inpatient-coding-quality-analyst",
+        "clinical-coding-quality-analyst",
+        "inpatient-coding-compliance-specialist",
+        "inpatient-coding-auditor"
       ],
       "miss_count": 0
     },
@@ -227,7 +199,7 @@
       "url": "https://hirify.me/vacancies/1218343-qa-mobile-senior",
       "source": "hirify",
       "date": "2026-10-07",
-      "salary": "RUB 1786 (~$3364)",
+      "salary": "RUB 1786–1786 (~$3364)",
       "type": "project",
       "tags": [
         "",
@@ -562,7 +534,7 @@
       "url": "https://hirify.me/vacancies/1196825-qa-automation-java-mobile",
       "source": "hirify",
       "date": "2026-10-02",
-      "salary": "RUB 200000 (~$2397)",
+      "salary": "RUB 200000–200000 (~$2397)",
       "type": "fulltime",
       "tags": [
         "",
@@ -708,24 +680,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fb10b7c8",
-      "title": "🎰 QA Engineer (Junior+) в iGaming startup",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260215",
-      "source": "telegram",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
@@ -1353,7 +1307,7 @@
       "url": "https://hirify.me/vacancies/1111780-qa-lead-java-appium-mobile",
       "source": "hirify",
       "date": "2026-09-17",
-      "salary": "USD 4000",
+      "salary": "USD 4000–4000",
       "type": "fulltime",
       "tags": [
         "",
@@ -1668,7 +1622,7 @@
       "url": "https://hirify.me/vacancies/1082425-qa-automation-engineer-java-appium-mobile",
       "source": "hirify",
       "date": "2026-09-14",
-      "salary": "USD 2300",
+      "salary": "USD 2300–2300",
       "type": "fulltime",
       "tags": [
         "",
