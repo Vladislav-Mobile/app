@@ -1,79 +1,86 @@
 {
-  "updated_at": "2026-10-09T22:11:59.662245+00:00",
-  "total": 68,
+  "updated_at": "2026-10-10T04:10:52.531638+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "08f2baee",
-      "title": "Engineer - Data & Platforms (m/f/d)",
-      "company": "Bitcap",
-      "location": "Berlin HQ",
+      "id": "2bba4d87",
+      "title": "Quality & Regulatory Affairs Manager (m/w/d) befristete Elternzeitvertretung",
+      "company": "Vitafy",
+      "location": "München",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-439123",
+      "url": "https://www.arbeitnow.com/jobs/companies/vitafy/quality-regulatory-affairs-manager-befristete-elternzeitvertretung-munchen-482441",
       "source": "arbeitnow",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "salary": "",
       "type": "Experienced, Permanent, Full time",
       "tags": [
-        "data engineering",
-        "aws",
-        "python",
-        "backend engineering",
-        "data quality",
-        "sql",
-        "snowflake",
-        "databricks"
+        "quality",
+        "qualität",
+        "nahrungsergänzungsmittel",
+        "sportlernahrung",
+        "regulatory",
+        "bio",
+        "join"
       ],
       "miss_count": 0
     },
     {
-      "id": "651b869f",
-      "title": "Financial Crime Quality Assurance Analyst",
-      "company": "Delta Capita",
-      "location": "Glasgow, Glasgow City, United Kingdom",
+      "id": "92fddcc2",
+      "title": "Quality Engineer",
+      "company": "Lupa Pets",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lupa-pets/quality-engineer-london-263577",
+      "source": "arbeitnow",
+      "date": "2026-10-10",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "328c2442",
+      "title": "Senior Associate, EMEA FCC Monitoring & Testing",
+      "company": "Airwallex",
+      "location": "UK - Birmingham",
       "remote": false,
       "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/financial-crime-quality-assurance-analyst-glasgow-316252",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/senior-associate-emea-fcc-monitoring-testing-birmingham-182822",
       "source": "arbeitnow",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "salary": "",
-      "type": "Experienced, fulltime fixed term",
+      "type": "Full Time",
       "tags": [
-        "clm - people"
+        "regulatory & compliance"
       ],
       "miss_count": 0
     },
     {
-      "id": "5038828e",
-      "title": "QA Engineer",
-      "company": "Npv",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/npv/qa-engineer-paris-107303",
-      "source": "arbeitnow",
-      "date": "2026-10-09",
+      "id": "aba77115",
+      "title": "Hospital Coding Quality Integrity Analyst - Inpatient",
+      "company": "Advocate Aurora Health",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/advocate-aurora-health/jobs/hospital-coding-quality-integrity-analyst-inpatient",
+      "source": "himalayas",
+      "date": "2026-10-10",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "white circle"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4f1f083a",
-      "title": "Clinical Data & Quality Manager",
-      "company": "Resilience Care",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/clinical-data-quality-manager-paris-318769",
-      "source": "arbeitnow",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "qara"
+        "medical-coder",
+        "inpatient-coder",
+        "health-information-analyst",
+        "coding-analyst",
+        "facility-coder",
+        "inpatient-coding-quality-analyst",
+        "clinical-coding-quality-analyst",
+        "inpatient-coding-compliance-specialist",
+        "inpatient-coding-auditor"
       ],
       "miss_count": 0
     },
@@ -91,29 +98,6 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "aargau"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0f1422db",
-      "title": "Data Validation Engineer",
-      "company": "ICF",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/icf/jobs/data-validation-engineer",
-      "source": "himalayas",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "data-validation-engineer",
-        "data-engineer",
-        "data-quality-engineer",
-        "data-governance-engineer",
-        "data-analyst",
-        "data-qa-engineer",
-        "validation-engineer"
       ],
       "miss_count": 0
     },
