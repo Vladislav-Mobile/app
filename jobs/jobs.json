@@ -1,64 +1,112 @@
 {
-  "updated_at": "2026-10-11T03:48:05.238352+00:00",
-  "total": 65,
+  "updated_at": "2026-10-11T12:03:02.898772+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "ec9ce2c6",
-      "title": "AI Deployment Strategist – MedTech Quality Management",
-      "company": "Rematiq Gmbh",
-      "location": "Berlin",
+      "id": "6f88e5d3",
+      "title": "Team Lead Operations Automation & AI (All genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/ai-deployment-strategist-medtech-quality-management-berlin-378950",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-183739",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "operations excellence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ff7b9f13",
+      "title": "Systems Integration & QA Engineer (All Genders)",
+      "company": "Skdse",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/systems-integration-qa-engineer-all-genders-197131",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mission simulation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8c870fae",
+      "title": "HR AI and Automation Lead (All Genders)",
+      "company": "Skdse",
+      "location": "Berlin; Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/hr-ai-and-automation-lead-all-genders-berlin-munich-bavaria-277475",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "human resources"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a4666a86",
+      "title": "Automation Engineer (All Genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-59281",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "operations excellence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7f41f5e5",
+      "title": "Senior QA Engineer (gn)",
+      "company": "Bikeleasing",
+      "location": "Remote Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-298617",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "kotlin",
+        "serenity",
+        "selenium",
+        "java",
+        "qa engineer",
+        "software testing",
+        "testing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "77aa5341",
+      "title": "QA Engineer",
+      "company": "Artificial Labs",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/artificial-labs/qa-engineer-london-196348",
       "source": "arbeitnow",
       "date": "2026-10-11",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "delivery"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "28da7213",
-      "title": "Salesforce Marketing Automation Consultant",
-      "company": "Bluprintx",
-      "location": "India",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/bluprintx/jobs/salesforce-marketing-automation-consultant",
-      "source": "himalayas",
-      "date": "2026-10-11",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing-automation-consultant",
-        "salesforce-consultant",
-        "email-marketing-specialist",
-        "digital-marketing-consultant",
-        "salesforce-marketing-cloud-consultant",
-        "marketing-automation-consulting",
-        "marketing-cloud-consultant",
-        "salesforce-marketing-cloud-specialist",
-        "marketing-cloud-consulting"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b2fb4b65",
-      "title": "Senior QA Engineer (All genders)",
-      "company": "Distribusion Technologies",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-qa-engineer-all-genders-berlin-68172",
-      "source": "arbeitnow",
-      "date": "2026-10-10",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "technology",
-        "remote"
+        "engineering"
       ],
       "miss_count": 0
     },
@@ -116,23 +164,6 @@
         "f1",
         "supply chain",
         "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b2f2fba8",
-      "title": "Senior OT / SCADA & Automation Engineer (80–100%)",
-      "company": "cross-ING AG",
-      "location": "Villigen, Aargau, Schweiz",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-scada-automation-engineer-80-100-villigen-186123",
-      "source": "arbeitnow",
-      "date": "2026-10-09",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "aargau"
       ],
       "miss_count": 0
     },
