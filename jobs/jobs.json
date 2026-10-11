@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-10-11T12:03:02.898772+00:00",
-  "total": 67,
+  "updated_at": "2026-10-11T21:26:16.228701+00:00",
+  "total": 75,
   "jobs": [
+    {
+      "id": "72b2978b",
+      "title": "Werkstudent (m/w/d) Brand & Employer Branding",
+      "company": "Es Group",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/es-group/werkstudent-brand-employer-branding-berlin-300684",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Student, Working student, Part time",
+      "tags": [
+        "employer branding",
+        "marketing",
+        "content creation",
+        "online marketing",
+        "brand marketing",
+        "marketing analytics",
+        "junior marketing assistant",
+        "kampagnenmanagement",
+        "a/b-testing",
+        "social media management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "df5ba2e1",
+      "title": "Werkstudent:in AI & Business Automation (m/w/ d)",
+      "company": "Talentspring Academy",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudentin-ai-business-automation-m-w-d-berlin-495259",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Experienced, Intern, Part time",
+      "tags": [
+        "ai",
+        "ki",
+        "werkstudent",
+        "business automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "988c3cd3",
+      "title": "Werkstudent Business Operations – Automation & AI (m/w/d)",
+      "company": "Talentspring Academy",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/werkstudent-business-operations-automation-ai-berlin-170975",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Experienced, Intern, Part time",
+      "tags": [
+        "business operations",
+        "ai",
+        "autmation",
+        "data analytics",
+        "reporting",
+        "dashboard",
+        "claude",
+        "python",
+        "sql",
+        "zapier",
+        "hubspot"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "323a166a",
+      "title": "Praktikant Business Building & AI Automation (m/w/d) – Digital Education mit Impact",
+      "company": "Talentspring Academy",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-259416",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Entry, Intern, Full time",
+      "tags": [
+        "business building",
+        "automation",
+        "intern",
+        "ai",
+        "ki"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "84b1a766",
+      "title": "Automation Engineer (m/w/d), n8n und Integrationen",
+      "company": "JH Automations",
+      "location": "Hannover",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/automation-engineer-n8n-und-integrationen-hannover-344526",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Freiberufler / selbstständiger, freelance, berufserfahren",
+      "tags": [
+        "remote",
+        "software development"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "6f88e5d3",
       "title": "Team Lead Operations Automation & AI (All genders)",
@@ -37,59 +149,70 @@
       "miss_count": 0
     },
     {
-      "id": "8c870fae",
-      "title": "HR AI and Automation Lead (All Genders)",
-      "company": "Skdse",
-      "location": "Berlin; Munich, Bavaria",
+      "id": "7415653e",
+      "title": "Automation Engineer",
+      "company": "Gymshark",
+      "location": "Solihull",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/hr-ai-and-automation-lead-all-genders-berlin-munich-bavaria-277475",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/automation-engineer-solihull-315390",
       "source": "arbeitnow",
       "date": "2026-10-11",
       "salary": "",
       "type": "",
       "tags": [
-        "human resources"
+        "tech: tech engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "a4666a86",
-      "title": "Automation Engineer (All Genders)",
-      "company": "Skdse",
-      "location": "Munich, Bavaria",
+      "id": "0763c970",
+      "title": "Senior Engineer – Applied Engineering & Testing",
+      "company": "Castrol",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-59281",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/castrol/senior-engineer-applied-engineering-testing-179407",
       "source": "arbeitnow",
       "date": "2026-10-11",
       "salary": "",
       "type": "",
       "tags": [
-        "operations excellence"
+        "research & technology"
       ],
       "miss_count": 0
     },
     {
-      "id": "7f41f5e5",
-      "title": "Senior QA Engineer (gn)",
-      "company": "Bikeleasing",
-      "location": "Remote Deutschland",
+      "id": "a1a49825",
+      "title": "Pricing Data Science & Automation Manager",
+      "company": "Castrol",
+      "location": "",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-qa-engineer-gn-298617",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/castrol/pricing-data-science-automation-manager-64228",
       "source": "arbeitnow",
       "date": "2026-10-11",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "",
       "tags": [
-        "kotlin",
-        "serenity",
-        "selenium",
-        "java",
-        "qa engineer",
-        "software testing",
-        "testing"
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "31fee882",
+      "title": "Test Manager – Quality Assurance | Europe | Fully Remote",
+      "company": "Escapevelocityentertainmentinc",
+      "location": "Spain, Czech Republic",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/escapevelocityentertainmentinc/test-manager-quality-assurance-europe-fully-remote-spain-czech-republic-295049",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality assurance"
       ],
       "miss_count": 0
     },
@@ -107,6 +230,43 @@
       "type": "Full Time",
       "tags": [
         "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "69271583",
+      "title": "Quality & Training Manager",
+      "company": "Studapart",
+      "location": "Cergy, Val-d'Oise",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/studapart/quality-training-manager-cergy-val-doise-96540",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketplace operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7e7f4514",
+      "title": "Senior Software Engineer AI & Automation (d/m/w)",
+      "company": "Listan Gmbh",
+      "location": "Hybrid",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/listan-gmbh/senior-software-engineer-ai-automation-hybrid-117253",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "automation",
+        "ki",
+        "ai",
+        "technical ai developer"
       ],
       "miss_count": 0
     },
