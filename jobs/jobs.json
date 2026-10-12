@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-10-11T21:26:16.228701+00:00",
-  "total": 75,
+  "updated_at": "2026-10-12T04:10:09.537335+00:00",
+  "total": 71,
   "jobs": [
+    {
+      "id": "8de3231c",
+      "title": "Product Manager",
+      "company": "Calmlife",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/calmlife/product-manager-london-378693",
+      "source": "arbeitnow",
+      "date": "2026-10-12",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "mobile app",
+        "product lifecycle management",
+        "product strategy",
+        "user journeys",
+        "agile",
+        "sprint planning",
+        "backlog grooming",
+        "user stories",
+        "a/b testing",
+        "rapid prototyping",
+        "kpis",
+        "data-driven decision making",
+        "stakeholder management",
+        "cross-functional collaboration",
+        "jira",
+        "figma",
+        "miro",
+        "b2c",
+        "ios and android"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5338f3bf",
+      "title": "SDET Engineer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/sdet-engineer-5804383772",
+      "source": "himalayas",
+      "date": "2026-10-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "sdet-engineer",
+        "qa-automation-engineer",
+        "automation-testing",
+        "software-engineer-in-test",
+        "automation-engineer",
+        "senior-sdet-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "42313d9a",
+      "title": "AI & Automation Engineer (m/w/d)",
+      "company": "Yoursquares",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-automation-engineer-berlin-474274",
+      "source": "arbeitnow",
+      "date": "2026-10-11",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [],
+      "miss_count": 0
+    },
     {
       "id": "72b2978b",
       "title": "Werkstudent (m/w/d) Brand & Employer Branding",
@@ -97,58 +169,6 @@
       "miss_count": 0
     },
     {
-      "id": "84b1a766",
-      "title": "Automation Engineer (m/w/d), n8n und Integrationen",
-      "company": "JH Automations",
-      "location": "Hannover",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/jh-automations/automation-engineer-n8n-und-integrationen-hannover-344526",
-      "source": "arbeitnow",
-      "date": "2026-10-11",
-      "salary": "",
-      "type": "Freiberufler / selbstständiger, freelance, berufserfahren",
-      "tags": [
-        "remote",
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6f88e5d3",
-      "title": "Team Lead Operations Automation & AI (All genders)",
-      "company": "Skdse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-183739",
-      "source": "arbeitnow",
-      "date": "2026-10-11",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "operations excellence"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ff7b9f13",
-      "title": "Systems Integration & QA Engineer (All Genders)",
-      "company": "Skdse",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/systems-integration-qa-engineer-all-genders-197131",
-      "source": "arbeitnow",
-      "date": "2026-10-11",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mission simulation"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "7415653e",
       "title": "Automation Engineer",
       "company": "Gymshark",
@@ -213,23 +233,6 @@
       "type": "",
       "tags": [
         "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "77aa5341",
-      "title": "QA Engineer",
-      "company": "Artificial Labs",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/artificial-labs/qa-engineer-london-196348",
-      "source": "arbeitnow",
-      "date": "2026-10-11",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
       ],
       "miss_count": 0
     },
@@ -1886,85 +1889,6 @@
       "salary": "USD 2300–2300",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b0497692",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "remotive",
-      "date": "2026-09-11",
-      "salary": "$35,3k- $52k",
-      "type": "full_time",
-      "tags": [
-        "css",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "mysql",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jquery",
-        "ajax"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "015897a8",
-      "title": "AI Response Evaluator",
-      "company": "iMerit Technology",
-      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
-      "remote": true,
-      "country": "FR",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
-      "source": "remotive",
-      "date": "2026-09-11",
-      "salary": "$10K-$20K",
-      "type": "freelance",
-      "tags": [
-        "ai/ml",
-        "research",
-        "solid"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5603351a",
-      "title": "QA Analyst (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1073798-qa-analyst-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-11",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
         "",
         "",
         "",
