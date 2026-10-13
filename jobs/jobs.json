@@ -1,7 +1,173 @@
 {
-  "updated_at": "2026-10-13T13:29:37.193327+00:00",
-  "total": 58,
+  "updated_at": "2026-10-13T22:15:40.134875+00:00",
+  "total": 67,
   "jobs": [
+    {
+      "id": "cdcab85e",
+      "title": "Director, Experience Intelligence and Quality",
+      "company": "Spring Health",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-director-experience-intelligence-and-quality-306402",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "25c92775",
+      "title": "Senior Network Engineer (all genders)",
+      "company": "Contabo",
+      "location": "Remote (Germany)",
+      "remote": true,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-71807",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "senior network engineer",
+        "network engineer",
+        "data center network",
+        "leaf-spine architecture",
+        "bgp evpn vxlan",
+        "cisco networking",
+        "network automation",
+        "network security engineer",
+        "network monitoring",
+        "infrastructure engineer",
+        "cloud network engineer",
+        "netops",
+        "kubernetes networking",
+        "network access control (nac)",
+        "ddos mitigation",
+        "it",
+        "cloud",
+        "hosting",
+        "cloud hosting",
+        "remote",
+        "germany",
+        "german",
+        "english",
+        "home office",
+        "homeoffice",
+        "dco",
+        "data center"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d8dc12bd",
+      "title": "Equipment Engineer - Automation",
+      "company": "Vinteden",
+      "location": "Vaires-sur-Marne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vinteden/equipment-engineer-automation-vaires-sur-marne-112724",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "vgo operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "90c9eecb",
+      "title": "Staff Quality Assurance Engineer",
+      "company": "ionq",
+      "location": "Geneva",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/ionq/staff-quality-assurance-engineer-geneva-19465",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quantum platform - network & security"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "881c5566",
+      "title": "Automation & Instrumentation Engineer | Switzerland",
+      "company": "Cynlr",
+      "location": "Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/automation-instrumentation-engineer-switzerland-27904",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "solutions engineering |  switzerland"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "10d5c9f3",
+      "title": "Solution Architect - Robotics & Automation | Switzerland",
+      "company": "Cynlr",
+      "location": "Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/solution-architect-robotics-automation-switzerland-409625",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "solutions engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fa1e7bd5",
+      "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
+      "company": "Swissbit",
+      "location": "CH-Bronschhofen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-ch-bronschhofen-241345",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "firmware-validierung",
+        "embedded systems",
+        "testautomatisierung",
+        "qualitätssicherung",
+        "c/c++ entwicklung"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bf25a9c6",
+      "title": "Quality Officer",
+      "company": "Crisp",
+      "location": "Amsterdam",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/crisp/quality-officer-amsterdam-392547",
+      "source": "arbeitnow",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "19692359",
       "title": "QA Intern (Mobile)",
@@ -15,6 +181,32 @@
       "salary": "",
       "type": "parttime",
       "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "046507a0",
+      "title": "QA Engineer Mobile Fullstack (Java)",
+      "company": "Альфа-Банк",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1250820-mobile-fullstack-qa-java",
+      "source": "hirify",
+      "date": "2026-10-13",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         "",
