@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-10-14T11:06:59.542846+00:00",
-  "total": 67,
+  "updated_at": "2026-10-14T16:27:52.506932+00:00",
+  "total": 68,
   "jobs": [
     {
-      "id": "73adb9e6",
-      "title": "Senior Product Integrity Engineer",
-      "company": "Sharkninjaoperatingllc",
-      "location": "Battersea Power Station",
+      "id": "505a29a1",
+      "title": "Technical Lead (m/f/d), Robotics & AI Software",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/senior-product-integrity-engineer-battersea-power-station-324577",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/technical-lead-robotics-ai-software-munich-bavaria-402648",
       "source": "arbeitnow",
       "date": "2026-10-14",
       "salary": "",
       "type": "",
       "tags": [
-        "15200 - quality testing"
+        "applied automation intelligence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "60f8170c",
+      "title": "CQ Lead (m/w/d) – Life Sciences",
+      "company": "NXT Hero GmbH",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/cq-lead-life-sciences-frankfurt-am-main-82599",
+      "source": "arbeitnow",
+      "date": "2026-10-14",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
@@ -105,6 +123,33 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2bd06f20",
+      "title": "Spanish Localization QA Tester / Proofreader",
+      "company": "Welo Global",
+      "location": "France",
+      "remote": true,
+      "country": "FR",
+      "url": "https://himalayas.app/companies/welo-global/jobs/spanish-localization-qa-tester-proofreader",
+      "source": "himalayas",
+      "date": "2026-10-14",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "linguistic-qa-tester",
+        "localization-qa-tester",
+        "proofreader",
+        "localization-specialist",
+        "qa-tester",
+        "localization-qa-specialist",
+        "localization-quality-assurance-tester",
+        "bilingual-qa-specialist",
+        "multilingual-qa-specialist",
+        "language-qa-specialist",
+        "localization-quality-analyst"
       ],
       "miss_count": 0
     },
@@ -533,44 +578,6 @@
       "tags": [
         "mobile",
         "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2a2638d5",
-      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
-      "company": "CodeForAI",
-      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-      "source": "remotive",
-      "date": "2026-10-05",
-      "salary": "$45-$120/Hour",
-      "type": "contract",
-      "tags": [
-        "api",
-        "backend",
-        "c",
-        "c#",
-        "c++",
-        "fullstack",
-        "go",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "security",
-        "sql",
-        "ai/ml",
-        "rust",
-        "nosql",
-        "typescript ",
-        "debugging",
-        "scripting"
       ],
       "miss_count": 0
     },
