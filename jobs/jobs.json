@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T16:27:52.506932+00:00",
-  "total": 68,
+  "updated_at": "2026-10-14T21:15:37.145941+00:00",
+  "total": 66,
   "jobs": [
     {
       "id": "505a29a1",
@@ -20,37 +20,101 @@
       "miss_count": 0
     },
     {
-      "id": "60f8170c",
-      "title": "CQ Lead (m/w/d) – Life Sciences",
-      "company": "NXT Hero GmbH",
-      "location": "Frankfurt am Main",
+      "id": "4f5a517e",
+      "title": "Customs AI Integration & Automation Engineer (UK)",
+      "company": "Customs Support Group",
+      "location": "Felixstowe, England, United Kingdom",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/cq-lead-life-sciences-frankfurt-am-main-82599",
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/customs-support-group/customs-ai-integration-automation-engineer-uk-felixstowe-400008",
       "source": "arbeitnow",
       "date": "2026-10-14",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "type": "Experienced, fulltime permanent",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "it & tech"
       ],
       "miss_count": 0
     },
     {
-      "id": "ef28d2d7",
-      "title": "Quality Platform Lead",
-      "company": "Vio",
-      "location": "Remote",
-      "remote": true,
+      "id": "55ad8357",
+      "title": "Senior Business Consultant - Marketing Automation",
+      "company": "Vmlenterprisesolutions",
+      "location": "Amsterdam",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vio/remote-quality-platform-lead-218706",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vmlenterprisesolutions/senior-business-consultant-marketing-automation-amsterdam-340082",
       "source": "arbeitnow",
       "date": "2026-10-14",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "engineering & technology"
+        "technology & innovation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4179c8f0",
+      "title": "Process Automation Engineer",
+      "company": "NX Filtration",
+      "location": "Hengelo, Overijssel, Nederland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/nx-filtration/process-automation-engineer-hengelo-111299",
+      "source": "arbeitnow",
+      "date": "2026-10-14",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "maintenance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7ad96153",
+      "title": "QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1261928-qa-engineer-mobile-games",
+      "source": "hirify",
+      "date": "2026-10-14",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c40b085d",
+      "title": "QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1260774-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-10-14",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -123,105 +187,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2bd06f20",
-      "title": "Spanish Localization QA Tester / Proofreader",
-      "company": "Welo Global",
-      "location": "France",
-      "remote": true,
-      "country": "FR",
-      "url": "https://himalayas.app/companies/welo-global/jobs/spanish-localization-qa-tester-proofreader",
-      "source": "himalayas",
-      "date": "2026-10-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "linguistic-qa-tester",
-        "localization-qa-tester",
-        "proofreader",
-        "localization-specialist",
-        "qa-tester",
-        "localization-qa-specialist",
-        "localization-quality-assurance-tester",
-        "bilingual-qa-specialist",
-        "multilingual-qa-specialist",
-        "language-qa-specialist",
-        "localization-quality-analyst"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "90c9eecb",
-      "title": "Staff Quality Assurance Engineer",
-      "company": "ionq",
-      "location": "Geneva",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ionq/staff-quality-assurance-engineer-geneva-19465",
-      "source": "arbeitnow",
-      "date": "2026-10-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quantum platform - network & security"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "881c5566",
-      "title": "Automation & Instrumentation Engineer | Switzerland",
-      "company": "Cynlr",
-      "location": "Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/automation-instrumentation-engineer-switzerland-27904",
-      "source": "arbeitnow",
-      "date": "2026-10-13",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "solutions engineering |  switzerland"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "10d5c9f3",
-      "title": "Solution Architect - Robotics & Automation | Switzerland",
-      "company": "Cynlr",
-      "location": "Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cynlr/solution-architect-robotics-automation-switzerland-409625",
-      "source": "arbeitnow",
-      "date": "2026-10-13",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "solutions engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fa1e7bd5",
-      "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
-      "company": "Swissbit",
-      "location": "CH-Bronschhofen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-ch-bronschhofen-241345",
-      "source": "arbeitnow",
-      "date": "2026-10-13",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "firmware-validierung",
-        "embedded systems",
-        "testautomatisierung",
-        "qualitätssicherung",
-        "c/c++ entwicklung"
       ],
       "miss_count": 0
     },
