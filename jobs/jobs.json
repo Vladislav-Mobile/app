@@ -1,90 +1,56 @@
 {
-  "updated_at": "2026-10-15T10:48:47.791044+00:00",
-  "total": 71,
+  "updated_at": "2026-10-15T16:14:54.676664+00:00",
+  "total": 77,
   "jobs": [
     {
-      "id": "ce136729",
-      "title": "Senior Quality Assurance Engineer (f/m/d)",
-      "company": "Zeal Network",
-      "location": "Hamburg",
+      "id": "c2f454dc",
+      "title": "Visiting Analyst - Investments & Automation",
+      "company": "YZR Capital",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-186511",
+      "url": "https://www.arbeitnow.com/jobs/companies/yzr-capital/visiting-analyst-investments-automation-munich-86638",
       "source": "arbeitnow",
       "date": "2026-10-15",
       "salary": "",
-      "type": "Full Time",
+      "type": "Internship (praktikum), internship, professional / experienced",
       "tags": [
-        "technology"
+        "business analyst"
       ],
       "miss_count": 0
     },
     {
-      "id": "ae3a6e87",
-      "title": "QA Engineering Intern (w/m/x/d)",
-      "company": "MILES Mobility",
-      "location": "Berlin",
+      "id": "de03fca3",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/miles-mobility/qa-engineering-intern-d-berlin-318733",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "Fixed-term contract, contract",
-      "tags": [
-        "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8e5f7921",
-      "title": "Senior QA / Test Engineer (w/m/x/d)",
-      "company": "MILES Mobility",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-qa-test-engineer-d-berlin-24647",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag)",
-      "tags": [
-        "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4838d9aa",
-      "title": "Softwaretester:in (m/w/d)",
-      "company": "sovero GmbH",
-      "location": "Frankfurt am Main",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sovero-gmbh/softwaretesterin-frankfurt-am-main-407457",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-330528",
       "source": "arbeitnow",
       "date": "2026-10-15",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "c5681c16",
-      "title": "Quality Assurance Officer",
-      "company": "Montu Uk",
-      "location": "Hybrid Winnersh",
-      "remote": false,
+      "id": "1ca6315f",
+      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
+      "company": "CPU Consulting & Software GmbH",
+      "location": "Berlin",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/quality-assurance-officer-hybrid-winnersh-266503",
+      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
       "source": "arbeitnow",
       "date": "2026-10-15",
       "salary": "",
-      "type": "Full Time",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "leafio"
+        "remote",
+        "software development"
       ],
       "miss_count": 0
     },
@@ -104,6 +70,133 @@
         "consulting",
         "pharmaceuticals",
         "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "14bd3236",
+      "title": "Lead Automation & Controls Engineer (Siemens TIA)",
+      "company": "Eh Group",
+      "location": "Nyon",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/lead-automation-controls-engineer-siemens-tia-nyon-459980",
+      "source": "arbeitnow",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d03caecc",
+      "title": "Quality Systems & Supplier Quality Manager",
+      "company": "Eh Group",
+      "location": "Nyon",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/quality-systems-supplier-quality-manager-nyon-326087",
+      "source": "arbeitnow",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "production"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5a3b10b6",
+      "title": "Senior Quality Manager - Fuel Cell Stack Production",
+      "company": "Eh Group",
+      "location": "Nyon",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/senior-quality-manager-fuel-cell-stack-production-nyon-422783",
+      "source": "arbeitnow",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "production"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "17022855",
+      "title": "Head of Quality - Multi-Site Manufacturing",
+      "company": "Eh Group",
+      "location": "Nyon",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/head-of-quality-multi-site-manufacturing-nyon-467374",
+      "source": "arbeitnow",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "production"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "97c5815e",
+      "title": "Global Quality Manager - Fuel Cell Manufacturing",
+      "company": "Eh Group",
+      "location": "Nyon",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/global-quality-manager-fuel-cell-manufacturing-nyon-409021",
+      "source": "arbeitnow",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "production"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6eb951b4",
+      "title": "Automation Engineer",
+      "company": "Schubergphilis",
+      "location": "Schiphol-Rijk",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/automation-engineer-schiphol-rijk-458941",
+      "source": "arbeitnow",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f7687af9",
+      "title": "Mobile QA Automation Engineer (AI)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1266931-mobile-qa-automation-ai",
+      "source": "hirify",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -132,52 +225,67 @@
       "miss_count": 0
     },
     {
-      "id": "4accf345",
-      "title": "Stroke Clinical Surveyor",
-      "company": "DNV",
+      "id": "3f335bf8",
+      "title": "Senior Sales Manager - Data Center Vertical",
+      "company": "Honeywell International Inc.",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/dnv/jobs/stroke-clinical-surveyor",
+      "url": "https://himalayas.app/companies/honeywell-international-inc/jobs/senior-sales-manager-data-center-vertical",
       "source": "himalayas",
       "date": "2026-10-15",
       "salary": "",
       "type": "",
       "tags": [
-        "clinical-surveyor",
-        "healthcare-surveyor",
-        "quality-surveyor",
-        "accreditation-surveyor",
-        "compliance-surveyor",
-        "stroke-clinical-documentation-specialist",
-        "stroke-registry-specialist",
-        "medical-surveyor"
+        "sales-manager",
+        "sales-account-manager",
+        "datacenter-solutions-sales-manager",
+        "building-automation-sales",
+        "senior-data-center-sales-executive",
+        "enterprise-sales-manager-data-center-solutions",
+        "data-center-sales-director",
+        "senior-enterprise-account-executive-data-centers",
+        "key-account-manager-data-centers",
+        "strategic-market-development-manager-data-center"
       ],
       "miss_count": 0
     },
     {
-      "id": "eab831c2",
-      "title": "Freelance Graphic Designer (Reviewer) - AI Training",
-      "company": "HumanSignal",
-      "location": "Vietnam",
+      "id": "357f1463",
+      "title": "Especialista de Certificaciones L3 y QA – POS & Web",
+      "company": "KinPOS",
+      "location": "Colombia",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/humansignal/jobs/freelance-graphic-designer-reviewer-ai-training-5011481890",
+      "url": "https://himalayas.app/companies/kinpos/jobs/especialista-de-certificaciones-l3-y-qa-pos-web",
       "source": "himalayas",
       "date": "2026-10-15",
       "salary": "",
       "type": "",
       "tags": [
-        "graphic-designer",
-        "design-reviewer",
-        "freelance-designer",
-        "ai-trainer",
-        "design-quality-assurance",
-        "ai-training-freelance",
-        "freelance-ai-training",
-        "freelance-ai-trainer",
-        "freelance-ai-artist",
-        "design"
+        "qa-specialist",
+        "software-tester",
+        "test-engineer",
+        "certification-specialist",
+        "analista-de-qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "43ab7063",
+      "title": "Вакансия: QA Engineer (Manual + Automation)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/260828",
+      "source": "telegram",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
