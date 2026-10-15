@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T16:14:54.676664+00:00",
+  "updated_at": "2026-10-15T20:53:56.160281+00:00",
   "total": 77,
   "jobs": [
     {
@@ -51,6 +51,23 @@
       "tags": [
         "remote",
         "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "33fe974b",
+      "title": "Director, Market Growth Strategy, Molecule to Market (Lab Automation)",
+      "company": "Dotmatics",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/director-market-growth-strategy-molecule-to-market-lab-automation-51549",
+      "source": "arbeitnow",
+      "date": "2026-10-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "sales"
       ],
       "miss_count": 0
     },
@@ -176,6 +193,32 @@
       "miss_count": 0
     },
     {
+      "id": "92f3503c",
+      "title": "Senior QA Functional Mobile (Mobile)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1270536-senior-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-10-15",
+      "salary": "EUR 28000–52000 (~$3726)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "f7687af9",
       "title": "Mobile QA Automation Engineer (AI)",
       "company": "%hirify_global%",
@@ -221,53 +264,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3f335bf8",
-      "title": "Senior Sales Manager - Data Center Vertical",
-      "company": "Honeywell International Inc.",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/honeywell-international-inc/jobs/senior-sales-manager-data-center-vertical",
-      "source": "himalayas",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "sales-manager",
-        "sales-account-manager",
-        "datacenter-solutions-sales-manager",
-        "building-automation-sales",
-        "senior-data-center-sales-executive",
-        "enterprise-sales-manager-data-center-solutions",
-        "data-center-sales-director",
-        "senior-enterprise-account-executive-data-centers",
-        "key-account-manager-data-centers",
-        "strategic-market-development-manager-data-center"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "357f1463",
-      "title": "Especialista de Certificaciones L3 y QA – POS & Web",
-      "company": "KinPOS",
-      "location": "Colombia",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/kinpos/jobs/especialista-de-certificaciones-l3-y-qa-pos-web",
-      "source": "himalayas",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-specialist",
-        "software-tester",
-        "test-engineer",
-        "certification-specialist",
-        "analista-de-qa"
       ],
       "miss_count": 0
     },
