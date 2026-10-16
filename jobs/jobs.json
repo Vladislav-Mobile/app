@@ -1,73 +1,55 @@
 {
-  "updated_at": "2026-10-16T16:01:06.897534+00:00",
-  "total": 79,
+  "updated_at": "2026-10-16T20:27:46.593000+00:00",
+  "total": 77,
   "jobs": [
     {
-      "id": "00f8c2af",
-      "title": "Werkstudent Tech und Automatisierung (m/w/d)",
-      "company": "BelForm GmbH & Co. KG",
+      "id": "53678e35",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "company": "MY Humancapital GmbH",
       "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/belform-gmbh-co-kg/werkstudent-tech-und-automatisierung-munich-34537",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-264656",
       "source": "arbeitnow",
       "date": "2026-10-16",
       "salary": "",
-      "type": "Werkstudent, working student, hilfstätigkeit / student",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "06b7d48f",
-      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
+      "id": "5c1252fc",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-458130",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-373716",
       "source": "arbeitnow",
       "date": "2026-10-16",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "business development"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "84ad533f",
-      "title": "AI Automation Specialist - Marketing & Web (all genders)",
-      "company": "Gotphoto",
-      "location": "Berlin, Hybrid",
+      "id": "5d5e1961",
+      "title": "Finance Data Annotation Quality Analyst",
+      "company": "Mistral.ai",
+      "location": "Paris",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/gotphoto/ai-automation-specialist-marketing-web-all-genders-berlin-184458",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/finance-data-annotation-quality-analyst-paris-357673",
       "source": "arbeitnow",
       "date": "2026-10-16",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4124fcd6",
-      "title": "QA tester",
-      "company": "Kryptos Technologies limited",
-      "location": "Leeds",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/qa-tester-leeds-72724",
-      "source": "arbeitnow",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "Permanent employment contract (open-ended contract), professional / experienced",
-      "tags": [
-        "quality assurance",
-        "inspection"
+        "science"
       ],
       "miss_count": 0
     },
@@ -469,23 +451,6 @@
         "micro services",
         "github",
         "system architecture"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "55ad8357",
-      "title": "Senior Business Consultant - Marketing Automation",
-      "company": "Vmlenterprisesolutions",
-      "location": "Amsterdam",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vmlenterprisesolutions/senior-business-consultant-marketing-automation-amsterdam-340082",
-      "source": "arbeitnow",
-      "date": "2026-10-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "technology & innovation"
       ],
       "miss_count": 0
     },
