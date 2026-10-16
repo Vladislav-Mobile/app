@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-10-16T10:37:53.299823+00:00",
-  "total": 75,
+  "updated_at": "2026-10-16T16:01:06.897534+00:00",
+  "total": 79,
   "jobs": [
     {
-      "id": "55209b13",
-      "title": "E-Commerce Developer – AI & Automation",
-      "company": "Kijimea",
-      "location": "Gräfelfing/Munich",
+      "id": "00f8c2af",
+      "title": "Werkstudent Tech und Automatisierung (m/w/d)",
+      "company": "BelForm GmbH & Co. KG",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/kijimea/e-commerce-developer-ai-automation-grafelfing-76405",
+      "url": "https://www.arbeitnow.com/jobs/companies/belform-gmbh-co-kg/werkstudent-tech-und-automatisierung-munich-34537",
+      "source": "arbeitnow",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "Werkstudent, working student, hilfstätigkeit / student",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "06b7d48f",
+      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-458130",
+      "source": "arbeitnow",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "business development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "84ad533f",
+      "title": "AI Automation Specialist - Marketing & Web (all genders)",
+      "company": "Gotphoto",
+      "location": "Berlin, Hybrid",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/gotphoto/ai-automation-specialist-marketing-web-all-genders-berlin-184458",
       "source": "arbeitnow",
       "date": "2026-10-16",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "e-commerce"
+        "marketing"
       ],
       "miss_count": 0
     },
     {
-      "id": "8e6501c8",
-      "title": "Teaching Assistant Operations & AI Automation - Werkstudent (m/w/d)",
-      "company": "Digitale Leute School",
-      "location": "Cologne",
+      "id": "4124fcd6",
+      "title": "QA tester",
+      "company": "Kryptos Technologies limited",
+      "location": "Leeds",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/teaching-assistant-operations-ai-automation-werkstudent-cologne-291213",
-      "source": "arbeitnow",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "Trainee-programm, traineeship, hilfstätigkeit / student",
-      "tags": [
-        "business operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "afd963ab",
-      "title": "Senior Quality Assurance Engineer",
-      "company": "Trading212",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/trading212/senior-quality-assurance-engineer-berlin-143571",
-      "source": "arbeitnow",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "912df2be",
-      "title": "Test Lead with Murex",
-      "company": "Market Cloud",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/market-cloud/test-lead-with-murex-london-416814",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/qa-tester-leeds-72724",
       "source": "arbeitnow",
       "date": "2026-10-16",
       "salary": "",
@@ -72,19 +72,124 @@
       "miss_count": 0
     },
     {
-      "id": "80dcdb5d",
-      "title": "Junior Data & Automation Engineer",
-      "company": "Pigment",
-      "location": "Paris",
+      "id": "fb35e869",
+      "title": "C004912 Penetration Tester (NS) - TUE 27 Oct RELAUNCH",
+      "company": "Emw",
+      "location": "The Hague, Netherlands",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/emw/c004912-penetration-tester-ns-tue-27-oct-relaunch-the-hague-148917",
       "source": "arbeitnow",
       "date": "2026-10-16",
       "salary": "",
-      "type": "Full Time",
+      "type": "Contract",
       "tags": [
-        "business automation"
+        "computer & network security",
+        "aas"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ce3e2103",
+      "title": "Mobile QA Engineer",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1274425-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6fcde2df",
+      "title": "Mobile QA Android",
+      "company": "2GIS",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1273552-mobile-qa-android-python",
+      "source": "hirify",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "86f56673",
+      "title": "[C3I] Data Architect - Governance & Quality",
+      "company": "Software Mind",
+      "location": "Poland",
+      "remote": true,
+      "country": "PL",
+      "url": "https://himalayas.app/companies/software-mind/jobs/c3i-data-architect-governance-quality",
+      "source": "himalayas",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "data-architect",
+        "data-governance-architect",
+        "data-quality-architect",
+        "data-governance-lead",
+        "lead-data-architect",
+        "senior-data-architect",
+        "data-architecture-lead"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3cbd5782",
+      "title": "Medical Director: MD or DO Required",
+      "company": "Blue Cross and Blue Shield of Nebraska",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/blue-cross-and-blue-shield-of-nebraska/jobs/medical-director-md-or-do-required",
+      "source": "himalayas",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "medical-director",
+        "clinical-leadership",
+        "utilization-review-director",
+        "quality-assurance-director",
+        "medical-directorship",
+        "part-time-medical-director",
+        "vp-medical-director",
+        "executive-medical-director",
+        "us-medical-director",
+        "healthcare-medical-director",
+        "assistant-medical-director",
+        "associate-medical-director",
+        "senior-medical-director"
       ],
       "miss_count": 0
     },
@@ -328,6 +433,46 @@
       "miss_count": 0
     },
     {
+      "id": "e8f2893b",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "remotive",
+      "date": "2026-10-14",
+      "salary": "$170k - $200k",
+      "type": "full_time",
+      "tags": [
+        "api",
+        "css",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "ai/ml",
+        "cad",
+        "advertising",
+        "redis",
+        "es6",
+        "web applications",
+        "mysql",
+        "nlp",
+        "fintech",
+        "micro services",
+        "github",
+        "system architecture"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "55ad8357",
       "title": "Senior Business Consultant - Marketing Automation",
       "company": "Vmlenterprisesolutions",
@@ -341,23 +486,6 @@
       "type": "",
       "tags": [
         "technology & innovation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4179c8f0",
-      "title": "Process Automation Engineer",
-      "company": "NX Filtration",
-      "location": "Hengelo, Overijssel, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/nx-filtration/process-automation-engineer-hengelo-111299",
-      "source": "arbeitnow",
-      "date": "2026-10-14",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "maintenance"
       ],
       "miss_count": 0
     },
