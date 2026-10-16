@@ -1,21 +1,73 @@
 {
-  "updated_at": "2026-10-16T02:59:42.858403+00:00",
-  "total": 74,
+  "updated_at": "2026-10-16T10:37:53.299823+00:00",
+  "total": 75,
   "jobs": [
     {
-      "id": "f77702f8",
-      "title": "Senior QA Engineer 1",
-      "company": "Moneybox",
-      "location": "London Office",
+      "id": "55209b13",
+      "title": "E-Commerce Developer – AI & Automation",
+      "company": "Kijimea",
+      "location": "Gräfelfing/Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/moneybox/senior-qa-engineer-1-london-office-271743",
+      "url": "https://www.arbeitnow.com/jobs/companies/kijimea/e-commerce-developer-ai-automation-grafelfing-76405",
       "source": "arbeitnow",
       "date": "2026-10-16",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "qa - core"
+        "e-commerce"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8e6501c8",
+      "title": "Teaching Assistant Operations & AI Automation - Werkstudent (m/w/d)",
+      "company": "Digitale Leute School",
+      "location": "Cologne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/teaching-assistant-operations-ai-automation-werkstudent-cologne-291213",
+      "source": "arbeitnow",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "Trainee-programm, traineeship, hilfstätigkeit / student",
+      "tags": [
+        "business operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "afd963ab",
+      "title": "Senior Quality Assurance Engineer",
+      "company": "Trading212",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/trading212/senior-quality-assurance-engineer-berlin-143571",
+      "source": "arbeitnow",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "912df2be",
+      "title": "Test Lead with Murex",
+      "company": "Market Cloud",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/market-cloud/test-lead-with-murex-london-416814",
+      "source": "arbeitnow",
+      "date": "2026-10-16",
+      "salary": "",
+      "type": "Permanent employment contract (open-ended contract), professional / experienced",
+      "tags": [
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
@@ -37,38 +89,28 @@
       "miss_count": 0
     },
     {
-      "id": "368f4a48",
-      "title": "Quality Engineer - Schwerpunkt Testautomatisierung (all genders)",
-      "company": "Starface GmbH",
-      "location": "Karlsruhe",
-      "remote": false,
+      "id": "5e9dfd9d",
+      "title": "Project and Quality Administrator Work From Home Dayshift",
+      "company": "Twoconnect",
+      "location": "",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/starface-gmbh/quality-engineer-schwerpunkt-testautomatisierung-all-genders-karlsruhe-435393",
-      "source": "arbeitnow",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
+      "source": "remoteok",
       "date": "2026-10-15",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "full-time",
       "tags": [
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c8549ef0",
-      "title": "Quality Assurance Pharmacist",
-      "company": "Excelya",
-      "location": "Boulogne-Billancourt, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/quality-assurance-pharmacist-boulogne-billancourt-83480",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "Full time, associate",
-      "tags": [
-        "consulting",
-        "pharmaceuticals",
-        "operations"
+        "work from home",
+        "jira",
+        "sys admin",
+        "education",
+        "customer support",
+        "marketing",
+        "admin",
+        "microsoft",
+        "exec",
+        "excel"
       ],
       "miss_count": 0
     },
@@ -774,24 +816,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ca040d5c",
-      "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260388",
-      "source": "telegram",
-      "date": "2026-10-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
