@@ -1,73 +1,55 @@
 {
-  "updated_at": "2026-10-15T20:53:56.160281+00:00",
-  "total": 77,
+  "updated_at": "2026-10-16T02:59:42.858403+00:00",
+  "total": 74,
   "jobs": [
     {
-      "id": "c2f454dc",
-      "title": "Visiting Analyst - Investments & Automation",
-      "company": "YZR Capital",
-      "location": "Munich",
+      "id": "f77702f8",
+      "title": "Senior QA Engineer 1",
+      "company": "Moneybox",
+      "location": "London Office",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/yzr-capital/visiting-analyst-investments-automation-munich-86638",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moneybox/senior-qa-engineer-1-london-office-271743",
       "source": "arbeitnow",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "salary": "",
-      "type": "Internship (praktikum), internship, professional / experienced",
+      "type": "Full Time",
       "tags": [
-        "business analyst"
+        "qa - core"
       ],
       "miss_count": 0
     },
     {
-      "id": "de03fca3",
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
+      "id": "80dcdb5d",
+      "title": "Junior Data & Automation Engineer",
+      "company": "Pigment",
+      "location": "Paris",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-330528",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/junior-data-automation-engineer-paris-238273",
       "source": "arbeitnow",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
+      "type": "Full Time",
       "tags": [
-        "automation engineering"
+        "business automation"
       ],
       "miss_count": 0
     },
     {
-      "id": "1ca6315f",
-      "title": "Platform Engineer - GitLab & Automation (m/w/d)",
-      "company": "CPU Consulting & Software GmbH",
-      "location": "Berlin",
-      "remote": true,
+      "id": "368f4a48",
+      "title": "Quality Engineer - Schwerpunkt Testautomatisierung (all genders)",
+      "company": "Starface GmbH",
+      "location": "Karlsruhe",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/platform-engineer-gitlab-automation-berlin-178094",
+      "url": "https://www.arbeitnow.com/jobs/companies/starface-gmbh/quality-engineer-schwerpunkt-testautomatisierung-all-genders-karlsruhe-435393",
       "source": "arbeitnow",
       "date": "2026-10-15",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "remote",
         "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "33fe974b",
-      "title": "Director, Market Growth Strategy, Molecule to Market (Lab Automation)",
-      "company": "Dotmatics",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/director-market-growth-strategy-molecule-to-market-lab-automation-51549",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "sales"
       ],
       "miss_count": 0
     },
@@ -1787,32 +1769,6 @@
       "miss_count": 0
     },
     {
-      "id": "694fe41d",
-      "title": "QA Java Mobile",
-      "company": "KA Selecty",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1108762-qa-java-mobile",
-      "source": "hirify",
-      "date": "2026-09-17",
-      "salary": "RUB 300000–350000 (~$3853)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "6cd4055a",
       "title": "Senior Data Scientist",
       "company": "Lemon.io",
@@ -1932,31 +1888,6 @@
         "ai",
         "data annotation",
         "quality assurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a0f11d98",
-      "title": "Junior QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1094519-junior-qa-mobile-game-tester",
-      "source": "hirify",
-      "date": "2026-09-15",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
