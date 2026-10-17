@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-10-17T02:51:54.119348+00:00",
-  "total": 71,
+  "updated_at": "2026-10-17T10:06:16.580860+00:00",
+  "total": 76,
   "jobs": [
+    {
+      "id": "c20d40c6",
+      "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
+      "company": "Auralis Group",
+      "location": "Markt Indersdorf",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+      "source": "arbeitnow",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6189f749",
+      "title": "Senior Test Automation Engineer",
+      "company": "Keyfactorinc",
+      "location": "Aachen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/keyfactorinc/senior-test-automation-engineer-aachen-266252",
+      "source": "arbeitnow",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "006f11fc",
       "title": "Senior QA Engineer - Berlin",
@@ -22,6 +58,138 @@
       "miss_count": 0
     },
     {
+      "id": "77d96a2e",
+      "title": "Quality Manager- Manufacturing Operations",
+      "company": "Fractile",
+      "location": "Bristol - The Crescent",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/quality-manager-manufacturing-operations-bristol-the-crescent-112966",
+      "source": "arbeitnow",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "hardware"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "da35d934",
+      "title": "Quality Manager- Manufacturing Operations",
+      "company": "Fractile",
+      "location": "Bristol - The Crescent",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/quality-manager-manufacturing-operations-bristol-the-crescent-115992",
+      "source": "arbeitnow",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "hardware"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "03cad02d",
+      "title": "Software & Hardware Integration QA Engineer",
+      "company": "Quandela",
+      "location": "Massy, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/software-hardware-integration-qa-engineer-massy-396697",
+      "source": "arbeitnow",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "Full time, associate",
+      "tags": [
+        "engineering",
+        "computer hardware",
+        "it & software"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "70c23a91",
+      "title": "Senior QA Analyst - Mobile Application",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1278572-senior-mobile-qa-analyst",
+      "source": "hirify",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "eac20092",
+      "title": "Senior Test Engineer (Mobile App Testing & T24)",
+      "company": "Unison Group",
+      "location": "India",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/unison-group/jobs/senior-test-engineer-mobile-app-testing-t24",
+      "source": "himalayas",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "test-engineer",
+        "qa-engineer",
+        "senior-test-engineer",
+        "mobile-test-engineer",
+        "senior-software-test-engineer",
+        "senior-mobile-qa-engineer",
+        "senior-qa-automation-tester",
+        "senior-automation-test-engineer",
+        "senior-mobile-quality-engineer",
+        "senior-quality-assurance-tester",
+        "senior-software-development-engineer-in-test-(sdet)",
+        "senior-qa-tester",
+        "mobile-test-automation-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cfc97a7d",
+      "title": "Senior Manager, Clinical Conduct",
+      "company": "Care Access",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/care-access/jobs/senior-manager-clinical-conduct",
+      "source": "himalayas",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "clinical-operations-manager",
+        "program-manager",
+        "clinical-research-manager",
+        "healthcare-quality-manager",
+        "clinical-program-manager",
+        "clinical-compliance-manager",
+        "clinical-compliance-director",
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "46db38d2",
       "title": "QC Inspector | Germany",
       "company": "Kirbygroupengineering",
@@ -35,23 +203,6 @@
       "type": "",
       "tags": [
         "quality control k220"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "53678e35",
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-264656",
-      "source": "arbeitnow",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -250,23 +401,6 @@
       "type": "Full Time",
       "tags": [
         "production"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6eb951b4",
-      "title": "Automation Engineer",
-      "company": "Schubergphilis",
-      "location": "Schiphol-Rijk",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/schubergphilis/automation-engineer-schiphol-rijk-458941",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "technology"
       ],
       "miss_count": 0
     },
@@ -832,24 +966,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "892638e0",
-      "title": "🎆SDET (мобилка)-тестирование приложений iOS/Android и веб-сайтов.",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260423",
-      "source": "telegram",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
