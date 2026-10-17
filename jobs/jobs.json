@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T10:06:16.580860+00:00",
-  "total": 76,
+  "updated_at": "2026-10-17T14:53:53.717650+00:00",
+  "total": 73,
   "jobs": [
     {
       "id": "c20d40c6",
@@ -58,40 +58,6 @@
       "miss_count": 0
     },
     {
-      "id": "77d96a2e",
-      "title": "Quality Manager- Manufacturing Operations",
-      "company": "Fractile",
-      "location": "Bristol - The Crescent",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/quality-manager-manufacturing-operations-bristol-the-crescent-112966",
-      "source": "arbeitnow",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "hardware"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "da35d934",
-      "title": "Quality Manager- Manufacturing Operations",
-      "company": "Fractile",
-      "location": "Bristol - The Crescent",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fractile/quality-manager-manufacturing-operations-bristol-the-crescent-115992",
-      "source": "arbeitnow",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "hardware"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "03cad02d",
       "title": "Software & Hardware Integration QA Engineer",
       "company": "Quandela",
@@ -137,55 +103,26 @@
       "miss_count": 0
     },
     {
-      "id": "eac20092",
-      "title": "Senior Test Engineer (Mobile App Testing & T24)",
-      "company": "Unison Group",
-      "location": "India",
+      "id": "555e145c",
+      "title": "QA Engineer (Manual QA experience required)",
+      "company": "Freedom24",
+      "location": "Estonia",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/unison-group/jobs/senior-test-engineer-mobile-app-testing-t24",
+      "url": "https://himalayas.app/companies/freedom24/jobs/qa-engineer-manual-qa-experience-required",
       "source": "himalayas",
       "date": "2026-10-17",
       "salary": "",
       "type": "",
       "tags": [
-        "test-engineer",
         "qa-engineer",
-        "senior-test-engineer",
-        "mobile-test-engineer",
-        "senior-software-test-engineer",
-        "senior-mobile-qa-engineer",
-        "senior-qa-automation-tester",
-        "senior-automation-test-engineer",
-        "senior-mobile-quality-engineer",
-        "senior-quality-assurance-tester",
-        "senior-software-development-engineer-in-test-(sdet)",
-        "senior-qa-tester",
-        "mobile-test-automation-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cfc97a7d",
-      "title": "Senior Manager, Clinical Conduct",
-      "company": "Care Access",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/care-access/jobs/senior-manager-clinical-conduct",
-      "source": "himalayas",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "clinical-operations-manager",
-        "program-manager",
-        "clinical-research-manager",
-        "healthcare-quality-manager",
-        "clinical-program-manager",
-        "clinical-compliance-manager",
-        "clinical-compliance-director",
-        "operations"
+        "manual-qa-engineer",
+        "software-qa-engineer",
+        "test-engineer",
+        "quality-assurance-engineer",
+        "qa-test-engineer",
+        "software-qa-and-testing-engineer",
+        "qa-manual-engineer"
       ],
       "miss_count": 0
     },
