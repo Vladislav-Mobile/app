@@ -1,151 +1,91 @@
 {
-  "updated_at": "2026-10-18T10:19:48.618824+00:00",
-  "total": 67,
+  "updated_at": "2026-10-18T15:20:02.910329+00:00",
+  "total": 63,
   "jobs": [
     {
-      "id": "25e6d13e",
-      "title": "Senior QA / Test Engineer (w/m/x/d)",
-      "company": "MILES Mobility GmbH",
-      "location": "Berlin",
+      "id": "4dabefca",
+      "title": "(Junior) Product Manager Quality & Fitting (m/w/d)",
+      "company": "Wortmann KG Internationale Schuhproduktionen",
+      "location": "Detmold, Nordrhein-Westfalen, Deutschland",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/senior-qa-test-engineer-d-berlin-370347",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/junior-product-manager-quality-fitting-detmold-48289",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "Experienced, fulltime fixed term",
       "tags": [
-        "senior qa",
-        "qa engineer",
-        "test engineer",
-        "jobs qa engineer",
-        "tech jobs",
-        "tech jobs berlin",
-        "join"
+        "produktionsmanagement & qualitätsmanagement"
       ],
       "miss_count": 0
     },
     {
-      "id": "6163cbb1",
-      "title": "QA Engineering Intern (w/m/x/d)",
-      "company": "MILES Mobility GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/qa-engineering-intern-d-berlin-458294",
-      "source": "arbeitnow",
-      "date": "2026-10-18",
-      "salary": "",
-      "type": "Entry, Temporary, Full time",
-      "tags": [
-        "qa intern",
-        "internship",
-        "tech intern",
-        "internship berlin",
-        "tech internship",
-        "miles internship",
-        "qa internship",
-        "join"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cea73fa6",
-      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
-      "company": "Wattfox",
-      "location": "Freiburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-147596",
-      "source": "arbeitnow",
-      "date": "2026-10-18",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "engineer",
-        "python",
-        "javascript",
-        "typescript",
-        "prototyp",
-        "mvp",
-        "fastapi",
-        "docker",
-        "ci",
-        "cd",
-        "git",
-        "sql"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c9cc7a08",
-      "title": "Member Experience Training & Quality Specialist - UK",
-      "company": "Neko Health",
+      "id": "b0b752f7",
+      "title": "QA Engineer",
+      "company": "Disguisetechnologiesltd",
       "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/member-experience-training-quality-specialist-uk-london-185293",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/disguisetechnologiesltd/qa-engineer-london-410012",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "operations & markets"
+        "qa"
       ],
       "miss_count": 0
     },
     {
-      "id": "6d5d5ef1",
-      "title": "Director of Quality",
-      "company": "Lilt Corporate",
-      "location": "London, UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/director-of-quality-london-108201",
+      "id": "2934a290",
+      "title": "Product Tester for Books and Ebooks (m/f/d)",
+      "company": "Onix Media GmbH",
+      "location": "Paris",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/onix-media-gmbh/product-tester-for-books-and-ebooks-paris-161845",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
-      "type": "Full Time",
+      "type": "Freelancer / indepedent contractor, freelance, entry",
       "tags": [
-        "production"
+        "remote",
+        "data processing",
+        "data engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "4cbb4a04",
-      "title": "Senior QA Associate",
-      "company": "Meiragtx",
-      "location": "London",
+      "id": "eed7904b",
+      "title": "Technicien Automaticien H/F",
+      "company": "VIP PLUS",
+      "location": "Castelnau-le-Lez",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/meiragtx/senior-qa-associate-london-85769",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vip-plus/technicien-automaticien-h-f-castelnau-le-lez-45074",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
-      "type": "Experienced, Permanent, Full time",
+      "type": "Cdi - contrat à durée indéterminée",
       "tags": [
-        "senior qa associate",
-        "meiragtx",
-        "biotechnology",
-        "qa",
-        "quality assurance"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "5f4dd6f7",
-      "title": "Quality & Process - Stage 6 mois",
-      "company": "Joivy",
-      "location": "Paris, Île-de-France, France",
+      "id": "b3a9e593",
+      "title": "Ingenieur/Techniker Automation(m/w/d)",
+      "company": "BERFA AG",
+      "location": "Wilchingen",
       "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/joivy/quality-process-stage-6-mois-paris-355353",
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/berfa-ag/ingenieur-techniker-automation-wilchingen-50336",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
-      "type": "Student college, internship",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "customer operations"
+        "engineering"
       ],
       "miss_count": 0
     },
@@ -164,43 +104,6 @@
       "tags": [
         "1. r&d",
         "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "03cad02d",
-      "title": "Software & Hardware Integration QA Engineer",
-      "company": "Quandela",
-      "location": "Massy, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/software-hardware-integration-qa-engineer-massy-396697",
-      "source": "arbeitnow",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "Full time, associate",
-      "tags": [
-        "engineering",
-        "computer hardware",
-        "it & software"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "74976fc1",
-      "title": "Quality Assurance Specialist",
-      "company": "Norit",
-      "location": "Klazienaveen, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/norit/quality-assurance-specialist-klazienaveen-129201",
-      "source": "arbeitnow",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "Full time, associate",
-      "tags": [
-        "manufacturing",
-        "chemicals"
       ],
       "miss_count": 0
     },
