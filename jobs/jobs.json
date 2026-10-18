@@ -1,59 +1,91 @@
 {
-  "updated_at": "2026-10-17T20:03:01.285666+00:00",
-  "total": 73,
+  "updated_at": "2026-10-18T02:53:34.621945+00:00",
+  "total": 65,
   "jobs": [
     {
-      "id": "c20d40c6",
-      "title": "Software Testautomatisierer (m/w/d) mit Karriereambitionen",
-      "company": "Auralis Group",
-      "location": "Markt Indersdorf",
+      "id": "f486dc00",
+      "title": "Senior QA Automation Engineer (AI-Focused)",
+      "company": "Workmotion",
+      "location": "Germany",
       "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/software-testautomatisierer-mit-karriereambitionen-markt-indersdorf-86749",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/workmotion/remote-senior-qa-automation-engineer-ai-focused-germany-395255",
       "source": "arbeitnow",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Full time",
       "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
+        "workmotion",
+        "remote"
       ],
       "miss_count": 0
     },
     {
-      "id": "6189f749",
-      "title": "Senior Test Automation Engineer",
-      "company": "Keyfactorinc",
-      "location": "Aachen",
+      "id": "5f4dd6f7",
+      "title": "Quality & Process - Stage 6 mois",
+      "company": "Joivy",
+      "location": "Paris, Île-de-France, France",
       "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/joivy/quality-process-stage-6-mois-paris-355353",
+      "source": "arbeitnow",
+      "date": "2026-10-18",
+      "salary": "",
+      "type": "Student college, internship",
+      "tags": [
+        "customer operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a96af80a",
+      "title": "Senior Quality Engineer - Tellent Intelligence (AI)",
+      "company": "Tellent",
+      "location": "Remote job",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/keyfactorinc/senior-test-automation-engineer-aachen-266252",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-quality-engineer-tellent-intelligence-ai-amsterdam-295070",
+      "source": "arbeitnow",
+      "date": "2026-10-18",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "1. r&d",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f133e62c",
+      "title": "Working Student - Privacy Engineering & Compliance Automation (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "location": "Munich, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-privacy-engineering-compliance-automation-munich-296867",
       "source": "arbeitnow",
       "date": "2026-10-17",
       "salary": "",
-      "type": "",
+      "type": "Student college, parttime fixed term",
       "tags": [
         "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "006f11fc",
-      "title": "Senior QA Engineer - Berlin",
-      "company": "Resident Advisor",
-      "location": "Berlin, Germany",
+      "id": "61c21601",
+      "title": "Unsolicited Application: Working Student - Flight Testing (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "location": "Munich, Bayern, Germany",
       "remote": false,
       "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/resident-advisor/senior-qa-engineer-berlin-153034",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/unsolicited-application-working-student-flight-testing-munich-464361",
       "source": "arbeitnow",
       "date": "2026-10-17",
       "salary": "",
-      "type": "Full time",
+      "type": "Student college, parttime fixed term",
       "tags": [
-        "quality assurance",
-        "music",
-        "epd"
+        "others"
       ],
       "miss_count": 0
     },
@@ -73,6 +105,24 @@
         "engineering",
         "computer hardware",
         "it & software"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "74976fc1",
+      "title": "Quality Assurance Specialist",
+      "company": "Norit",
+      "location": "Klazienaveen, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/norit/quality-assurance-specialist-klazienaveen-129201",
+      "source": "arbeitnow",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "Full time, associate",
+      "tags": [
+        "manufacturing",
+        "chemicals"
       ],
       "miss_count": 0
     },
@@ -99,82 +149,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "555e145c",
-      "title": "QA Engineer (Manual QA experience required)",
-      "company": "Freedom24",
-      "location": "Estonia",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/freedom24/jobs/qa-engineer-manual-qa-experience-required",
-      "source": "himalayas",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineer",
-        "manual-qa-engineer",
-        "software-qa-engineer",
-        "test-engineer",
-        "quality-assurance-engineer",
-        "qa-test-engineer",
-        "software-qa-and-testing-engineer",
-        "qa-manual-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "46db38d2",
-      "title": "QC Inspector | Germany",
-      "company": "Kirbygroupengineering",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/kirbygroupengineering/qc-inspector-germany-326632",
-      "source": "arbeitnow",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality control k220"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5d5e1961",
-      "title": "Finance Data Annotation Quality Analyst",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/finance-data-annotation-quality-analyst-paris-357673",
-      "source": "arbeitnow",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "science"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fb35e869",
-      "title": "C004912 Penetration Tester (NS) - TUE 27 Oct RELAUNCH",
-      "company": "Emw",
-      "location": "The Hague, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/emw/c004912-penetration-tester-ns-tue-27-oct-relaunch-the-hague-148917",
-      "source": "arbeitnow",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "Contract",
-      "tags": [
-        "computer & network security",
-        "aas"
       ],
       "miss_count": 0
     },
@@ -270,74 +244,6 @@
       "type": "Full Time",
       "tags": [
         "development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d03caecc",
-      "title": "Quality Systems & Supplier Quality Manager",
-      "company": "Eh Group",
-      "location": "Nyon",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/quality-systems-supplier-quality-manager-nyon-326087",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "production"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5a3b10b6",
-      "title": "Senior Quality Manager - Fuel Cell Stack Production",
-      "company": "Eh Group",
-      "location": "Nyon",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/senior-quality-manager-fuel-cell-stack-production-nyon-422783",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "production"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "17022855",
-      "title": "Head of Quality - Multi-Site Manufacturing",
-      "company": "Eh Group",
-      "location": "Nyon",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/head-of-quality-multi-site-manufacturing-nyon-467374",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "production"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "97c5815e",
-      "title": "Global Quality Manager - Fuel Cell Manufacturing",
-      "company": "Eh Group",
-      "location": "Nyon",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/eh-group/global-quality-manager-fuel-cell-manufacturing-nyon-409021",
-      "source": "arbeitnow",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "production"
       ],
       "miss_count": 0
     },
@@ -1768,114 +1674,6 @@
         "marketplace",
         "next.js",
         "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "af08ef72",
-      "title": "Senior .NET Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "remote": true,
-      "country": "EU",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-      "source": "remotive",
-      "date": "2026-09-17",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "fullstack",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript ",
-        "angular ",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "startup",
-        "marketplace",
-        "next.js",
-        "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f565ea8e",
-      "title": "QA Lead (Java Appium Mobile)",
-      "company": "Tihonova IT Search",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1111780-qa-lead-java-appium-mobile",
-      "source": "hirify",
-      "date": "2026-09-17",
-      "salary": "USD 4000–4000",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "44035b86",
-      "title": "Mobile QA (Manual)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1109406-mobile-qa-manual",
-      "source": "hirify",
-      "date": "2026-09-17",
-      "salary": "USD 1000–2000",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
