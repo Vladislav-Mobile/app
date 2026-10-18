@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T15:20:02.910329+00:00",
-  "total": 63,
+  "updated_at": "2026-10-18T20:02:40.677862+00:00",
+  "total": 67,
   "jobs": [
     {
       "id": "4dabefca",
@@ -37,49 +37,116 @@
       "miss_count": 0
     },
     {
-      "id": "2934a290",
-      "title": "Product Tester for Books and Ebooks (m/f/d)",
-      "company": "Onix Media GmbH",
-      "location": "Paris",
-      "remote": true,
+      "id": "415cf777",
+      "title": "Responsable QHSE H/F",
+      "company": "GROUPE CYBERTEK",
+      "location": "Bordeaux",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/onix-media-gmbh/product-tester-for-books-and-ebooks-paris-161845",
+      "url": "https://www.arbeitnow.fr/jobs/companies/groupe-cybertek/responsable-qhse-h-f-bordeaux-316240",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
-      "type": "Freelancer / indepedent contractor, freelance, entry",
+      "type": "Cdi - contrat à durée indéterminée, manager / superviseur",
       "tags": [
-        "remote",
-        "data processing",
-        "data engineer"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "eed7904b",
-      "title": "Technicien Automaticien H/F",
-      "company": "VIP PLUS",
-      "location": "Castelnau-le-Lez",
+      "id": "b697c67b",
+      "title": "contrôleur technique VL - CL",
+      "company": "Avenir Auto Contrôle Technique Obringer",
+      "location": "Dozulé",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vip-plus/technicien-automaticien-h-f-castelnau-le-lez-45074",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avenir-auto-controle-technique-obringer/controleur-technique-vl-cl-dozule-124893",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
-      "type": "Cdi - contrat à durée indéterminée",
+      "type": "Cdi - contrat à durée indéterminée, professionnel / expérimenté",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f03e5678",
+      "title": "Softwarearchitekt – HMI / Automatisierungstechnik (w/m/d)",
+      "company": "Right Search",
+      "location": "Bern",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/right-search/softwarearchitekt-hmi-automatisierungstechnik-bern-353062",
+      "source": "arbeitnow",
+      "date": "2026-10-18",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "b3a9e593",
-      "title": "Ingenieur/Techniker Automation(m/w/d)",
-      "company": "BERFA AG",
-      "location": "Wilchingen",
+      "id": "2f1e9172",
+      "title": "Automation Engineer / Elektrotechniker Anlagenbau (100%) Nr. MW",
+      "company": "Excellent Go4",
+      "location": "Altdorf",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/berfa-ag/ingenieur-techniker-automation-wilchingen-50336",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automation-engineer-elektrotechniker-anlagenbau-100-nr-mw-altdorf-230943",
+      "source": "arbeitnow",
+      "date": "2026-10-18",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4c423b71",
+      "title": "Automationsingenieur Codesys (m/w/d) Nr. MW",
+      "company": "Excellent Go4",
+      "location": "Emmen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automationsingenieur-codesys-nr-mw-emmen-189123",
+      "source": "arbeitnow",
+      "date": "2026-10-18",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d0927af4",
+      "title": "SPS-Programmierer Automation & Anlagenbau (m/w/d) Nr. MW",
+      "company": "Excellent Go4",
+      "location": "Oberbüren",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/sps-programmierer-automation-anlagenbau-nr-mw-oberburen-377128",
+      "source": "arbeitnow",
+      "date": "2026-10-18",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d48de476",
+      "title": "Projektleiter Automation / SPS & HMI (m/w/d), 100% (MW)",
+      "company": "Excellent Go4",
+      "location": "St. Gallen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/projektleiter-automation-sps-hmi-100-mw-st-gallen-164940",
       "source": "arbeitnow",
       "date": "2026-10-18",
       "salary": "",
