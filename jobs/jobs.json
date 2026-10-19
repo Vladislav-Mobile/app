@@ -1,62 +1,55 @@
 {
-  "updated_at": "2026-10-19T03:06:38.636984+00:00",
+  "updated_at": "2026-10-19T12:01:24.684099+00:00",
   "total": 65,
   "jobs": [
     {
-      "id": "959e4656",
-      "title": "Sr. Software Engineer, MarTech",
-      "company": "Crowdstrike",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-software-engineer-martech?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-19",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software-engineer",
-        "martech-engineer",
-        "marketing-technology-engineer",
-        "ai-engineer",
-        "senior-martech-software-engineer",
-        "senior-marketing-software-engineer",
-        "martech-developer",
-        "senior-marketing-automation-developer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d568b5c6",
-      "title": "Founders Associate (IT & Automation)",
-      "company": "Lio",
-      "location": "Munich Office",
+      "id": "6c4b1fa1",
+      "title": "Werkstoffprüfer (m/w/d)",
+      "company": "SHB Stahl- und Hartgusswerk Bösdorf GmbH",
+      "location": "Leipzig",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lio/founders-associate-it-automation-munich-356060",
+      "url": "https://www.arbeitnow.com/jobs/companies/shb-stahl-und-hartgusswerk-bosdorf-gmbh/werkstoffprufer-leipzig-474678",
       "source": "arbeitnow",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "salary": "",
-      "type": "Intern",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "engineering"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "4dabefca",
-      "title": "(Junior) Product Manager Quality & Fitting (m/w/d)",
-      "company": "Wortmann KG Internationale Schuhproduktionen",
-      "location": "Detmold, Nordrhein-Westfalen, Deutschland",
+      "id": "f1c43dab",
+      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/junior-product-manager-quality-fitting-detmold-48289",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-113356",
       "source": "arbeitnow",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "salary": "",
-      "type": "Experienced, fulltime fixed term",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "produktionsmanagement & qualitätsmanagement"
+        "business development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "08d57344",
+      "title": "IT Deployment & Automation Engineer (m/w/d) – Refurbishment / Windows / Treiber",
+      "company": "Hanitel GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hanitel-gmbh/it-deployment-automation-engineer-refurbishment-windows-treiber-berlin-306239",
+      "source": "arbeitnow",
+      "date": "2026-10-19",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "system and network administration"
       ],
       "miss_count": 0
     },
@@ -164,19 +157,33 @@
       "miss_count": 0
     },
     {
-      "id": "d48de476",
-      "title": "Projektleiter Automation / SPS & HMI (m/w/d), 100% (MW)",
-      "company": "Excellent Go4",
-      "location": "St. Gallen",
-      "remote": false,
+      "id": "0aa4a402",
+      "title": "Software Engineer, AI Coding Tasks",
+      "company": "Askable",
+      "location": "Worldwide",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/projektleiter-automation-sps-hmi-100-mw-st-gallen-164940",
-      "source": "arbeitnow",
-      "date": "2026-10-18",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "source": "remotive",
+      "date": "2026-10-17",
+      "salary": "$1000 per task",
+      "type": "contract",
       "tags": [
-        "engineering"
+        "c++",
+        "docker",
+        "git",
+        "go",
+        "java",
+        "python",
+        "security",
+        "ai/ml",
+        "rust",
+        "typescript ",
+        "distributed systems",
+        "solid",
+        "linux/unix",
+        "testing",
+        "infrastructure"
       ],
       "miss_count": 0
     },
