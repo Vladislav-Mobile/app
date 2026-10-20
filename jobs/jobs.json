@@ -1,55 +1,191 @@
 {
-  "updated_at": "2026-10-20T10:53:37.911150+00:00",
-  "total": 60,
+  "updated_at": "2026-10-20T16:18:35.863723+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "5d4d8946",
-      "title": "Werkstudent (m/w/d) Robotik-Projektmanagement & Implementierung",
-      "company": "Dr. Sasse Gruppe",
-      "location": "Munich",
+      "id": "c12909b4",
+      "title": "Qualitätsmanagementbeauftragte im ZQM (m/w/d ) | Überregional | Vollzeit |",
+      "company": "Römergarten Residenzen",
+      "location": "Kindsbach",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-sasse-gruppe/werkstudent-robotik-projektmanagement-implementierung-munich-10580",
+      "url": "https://www.arbeitnow.com/jobs/companies/romergarten-residenzen/qualitatsmanagementbeauftragte-im-zqm-uberregional-vollzeit-kindsbach-419496",
       "source": "arbeitnow",
       "date": "2026-10-20",
       "salary": "",
-      "type": "Werkstudent, working student, hilfstätigkeit / student",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "automation engineering"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "2f098454",
-      "title": "Data Engineer",
-      "company": "ocadogroup",
-      "location": "Hatfield",
+      "id": "4462be19",
+      "title": "Director Production Engineering (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/data-engineer-hatfield-359118",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-production-engineering-parsdorf-bavaria-495974",
       "source": "arbeitnow",
       "date": "2026-10-20",
       "salary": "",
       "type": "",
       "tags": [
-        "data - fulfilment & automation"
+        "production",
+        "operations & quality"
       ],
       "miss_count": 0
     },
     {
-      "id": "d7818eaa",
-      "title": "Leiter/in Technik und Unterhalt (Schwerpunkt Elektro-/Steuerungstechnik/Automatisierung)",
-      "company": "ProPers Vermittlungen AG",
-      "location": "Saanen",
+      "id": "98850986",
+      "title": "Quality and Assurance Manager as Freelancer (all genders)",
+      "company": "Vexcash AG",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/quality-and-assurance-manager-as-freelancer-all-genders-berlin-432924",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "Freelancer / indepedent contractor, freelance, professional / experienced",
+      "tags": [
+        "remote",
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "20850ed7",
+      "title": "Graduate Software Engineer, System Software QA 2027",
+      "company": "Graphcore Early Careers",
+      "location": "Bristol; Cambridge",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/propers-vermittlungen-ag/leiter-in-technik-und-unterhalt-schwerpunkt-elektro-steuerungstechnik-automatisierung-saanen-434401",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/graduate-software-engineer-system-software-qa-2027-bristol-cambridge-251308",
       "source": "arbeitnow",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "type": "",
       "tags": [
-        "automation engineering"
+        "sw device"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "034a860d",
+      "title": "Software Engineer, Lab Automation",
+      "company": "Adaptyv",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/software-engineer-lab-automation-lausanne-308317",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9b9d08a3",
+      "title": "Lab Automation Internship",
+      "company": "Adaptyv",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-internship-lausanne-360538",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6d941ddb",
+      "title": "Lab Automation Engineer",
+      "company": "Adaptyv",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-engineer-lausanne-372707",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c0b1b05d",
+      "title": "Mechanical / Mechatronics Engineer (Early Career), Hardware",
+      "company": "Adaptyv",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/mechanical-mechatronics-engineer-early-career-hardware-lausanne-18679",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "13aebe3b",
+      "title": "Middle Manual QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "WW",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1288912-middle-manual-qa-mobile",
+      "source": "hirify",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1a951499",
+      "title": "QA Tester - Agentic Web Application (Senior)",
+      "company": "MicroSourcing",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/microsourcing/jobs/qa-tester-agentic-web-application-senior?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-tester",
+        "software-quality-assurance-engineer",
+        "automation-testing",
+        "web-application-testing",
+        "test-engineer",
+        "senior-qa-tester",
+        "senior-quality-assurance-tester",
+        "senior-qa-analyst"
       ],
       "miss_count": 0
     },
