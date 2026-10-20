@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-20T16:18:35.863723+00:00",
-  "total": 67,
+  "updated_at": "2026-10-20T21:12:37.332954+00:00",
+  "total": 65,
   "jobs": [
+    {
+      "id": "41e9137c",
+      "title": "(Senior) Penetration Tester / Red Teamer (m/w/d)",
+      "company": "HvS-Consulting GmbH",
+      "location": "Garching",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hvs-consulting-gmbh/senior-penetration-tester-red-teamer-garching-77295",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "it security"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c12909b4",
       "title": "Qualitätsmanagementbeauftragte im ZQM (m/w/d ) | Überregional | Vollzeit |",
@@ -34,41 +51,6 @@
       "tags": [
         "production",
         "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "98850986",
-      "title": "Quality and Assurance Manager as Freelancer (all genders)",
-      "company": "Vexcash AG",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/quality-and-assurance-manager-as-freelancer-all-genders-berlin-432924",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "Freelancer / indepedent contractor, freelance, professional / experienced",
-      "tags": [
-        "remote",
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "20850ed7",
-      "title": "Graduate Software Engineer, System Software QA 2027",
-      "company": "Graphcore Early Careers",
-      "location": "Bristol; Cambridge",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore-early-careers/graduate-software-engineer-system-software-qa-2027-bristol-cambridge-251308",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "sw device"
       ],
       "miss_count": 0
     },
@@ -166,26 +148,26 @@
       "miss_count": 0
     },
     {
-      "id": "1a951499",
-      "title": "QA Tester - Agentic Web Application (Senior)",
-      "company": "MicroSourcing",
+      "id": "f7a9b24d",
+      "title": "Asst. Production Manager - Stage",
+      "company": "Jobs on a Ship",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/microsourcing/jobs/qa-tester-agentic-web-application-senior?utm_source=api",
+      "url": "https://himalayas.app/companies/jobs-on-a-ship/jobs/asst-production-manager-stage?utm_source=api",
       "source": "himalayas",
       "date": "2026-10-20",
       "salary": "",
       "type": "",
       "tags": [
-        "qa-tester",
-        "software-quality-assurance-engineer",
-        "automation-testing",
-        "web-application-testing",
-        "test-engineer",
-        "senior-qa-tester",
-        "senior-quality-assurance-tester",
-        "senior-qa-analyst"
+        "assistant-production-manager",
+        "stage-management",
+        "live-event-production",
+        "stage-automation",
+        "production-management",
+        "production-coordination",
+        "stage-operations",
+        "production-manager"
       ],
       "miss_count": 0
     },
@@ -304,32 +286,6 @@
         "linux/unix",
         "testing",
         "infrastructure"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "70c23a91",
-      "title": "Senior QA Analyst - Mobile Application",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1278572-senior-mobile-qa-analyst",
-      "source": "hirify",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
@@ -1400,7 +1356,7 @@
       "id": "8b67f067",
       "title": "QA Engineer Junior (Mobile)",
       "company": null,
-      "location": "",
+      "location": "Remote",
       "remote": true,
       "country": "WW",
       "url": "https://hirify.me/vacancies/1173024-qa-engineer-junior-mobile",
