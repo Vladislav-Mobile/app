@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-10-19T21:58:07.527401+00:00",
-  "total": 66,
+  "updated_at": "2026-10-20T03:15:46.584354+00:00",
+  "total": 65,
   "jobs": [
+    {
+      "id": "e5b9e348",
+      "title": "Responsable CRM & Autonomisation Zoho  (H/F)",
+      "company": "Business Evasion",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/business-evasion/jobs/responsable-crm-autonomisation-zoho-h-f?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "crm-manager",
+        "crm-administrator",
+        "zoho-administrator",
+        "crm-consultant",
+        "business-process-analyst",
+        "senior-crm-and-automation-manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "418c831b",
+      "title": "QA Engineer - Backend (Golang) Middle [Identity]",
+      "company": "Banco Plata, S.A., Institución de Banca Múltiple",
+      "location": "Cyprus",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/qa-engineer-backend-golang-middle-identity?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-engineer",
+        "backend-qa-engineer",
+        "automation-testing",
+        "software-qa-engineer",
+        "golang-qa-engineer",
+        "middle-qa-engineer",
+        "backend-qa-engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1e32c170",
+      "title": "SAP PM + QM",
+      "company": "Elfonze Technologies",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/elfonze-technologies/jobs/sap-pm-qm?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "sap-consultant",
+        "sap-pm-consultant",
+        "sap-qm-consultant",
+        "sap-functional-consultant",
+        "plant-maintenance-consultant",
+        "sap-pp-qm-pm",
+        "sap-pm",
+        "sap-quality-management",
+        "sap-pp-pm-qm-consultant"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "efde59e0",
       "title": "Mobile App Penetration Tester",
@@ -171,35 +241,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bb0d697c",
-      "title": "Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate",
-      "company": "M365Connect",
-      "location": "Philippines",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/m365connect/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-1014652615?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-19",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "microsoft-ai-engineer",
-        "ai-engineer",
-        "power-automate-developer",
-        "microsoft-365-engineer",
-        "automation-engineer",
-        "microsoft-copilot-engineer",
-        "senior-microsoft-ai-developer",
-        "power-automate-and-ai-engineer",
-        "microsoft-copilot-specialist",
-        "azure-ai-engineer",
-        "microsoft-copilot-developer",
-        "microsoft-ai-engineering",
-        "microsoft-365-copilot-specialist"
       ],
       "miss_count": 0
     },
@@ -770,30 +811,6 @@
         "google sheets",
         "financial services",
         "inside sales"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c93ef2ff",
-      "title": "QA Tester Mobile Apps (iOS/Android)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1225571-qa-mobile-apps-automation",
-      "source": "hirify",
-      "date": "2026-10-08",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
@@ -1599,53 +1616,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "79872534",
-      "title": "QA Engineer (Mobile Testing)",
-      "company": null,
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1126603-qa-engineer-mobile-testing",
-      "source": "hirify",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3b570768",
-      "title": "QA Manual (Mobile Games)",
-      "company": "Doghowl Games",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1126097-qa-manual-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-21",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
