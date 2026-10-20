@@ -1,121 +1,17 @@
 {
-  "updated_at": "2026-10-20T03:15:46.584354+00:00",
-  "total": 65,
+  "updated_at": "2026-10-20T10:53:37.911150+00:00",
+  "total": 60,
   "jobs": [
     {
-      "id": "e5b9e348",
-      "title": "Responsable CRM & Autonomisation Zoho  (H/F)",
-      "company": "Business Evasion",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/business-evasion/jobs/responsable-crm-autonomisation-zoho-h-f?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "crm-manager",
-        "crm-administrator",
-        "zoho-administrator",
-        "crm-consultant",
-        "business-process-analyst",
-        "senior-crm-and-automation-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "418c831b",
-      "title": "QA Engineer - Backend (Golang) Middle [Identity]",
-      "company": "Banco Plata, S.A., Institución de Banca Múltiple",
-      "location": "Cyprus",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/qa-engineer-backend-golang-middle-identity?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineer",
-        "backend-qa-engineer",
-        "automation-testing",
-        "software-qa-engineer",
-        "golang-qa-engineer",
-        "middle-qa-engineer",
-        "backend-qa-engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1e32c170",
-      "title": "SAP PM + QM",
-      "company": "Elfonze Technologies",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/elfonze-technologies/jobs/sap-pm-qm?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "sap-consultant",
-        "sap-pm-consultant",
-        "sap-qm-consultant",
-        "sap-functional-consultant",
-        "plant-maintenance-consultant",
-        "sap-pp-qm-pm",
-        "sap-pm",
-        "sap-quality-management",
-        "sap-pp-pm-qm-consultant"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "efde59e0",
-      "title": "Mobile App Penetration Tester",
-      "company": "Sodu Secure GmbH",
-      "location": "Berlin",
+      "id": "5d4d8946",
+      "title": "Werkstudent (m/w/d) Robotik-Projektmanagement & Implementierung",
+      "company": "Dr. Sasse Gruppe",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sodu-secure-gmbh/mobile-app-penetration-tester-berlin-432824",
+      "url": "https://www.arbeitnow.com/jobs/companies/dr-sasse-gruppe/werkstudent-robotik-projektmanagement-implementierung-munich-10580",
       "source": "arbeitnow",
-      "date": "2026-10-19",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "it security"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ab558c9e",
-      "title": "Software-Tester (m/w/x)",
-      "company": "K-tronik GmbH",
-      "location": "Erlangen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/software-tester-erlangen-310339",
-      "source": "arbeitnow",
-      "date": "2026-10-19",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "31aac228",
-      "title": "Werkstudent Gebäudeautomation (m/w/d)",
-      "company": "BuildlinX",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/buildlinx/werkstudent-gebaudeautomation-hamburg-88966",
-      "source": "arbeitnow",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "salary": "",
       "type": "Werkstudent, working student, hilfstätigkeit / student",
       "tags": [
@@ -124,19 +20,19 @@
       "miss_count": 0
     },
     {
-      "id": "809dabf3",
-      "title": "Quality Systems Lead",
-      "company": "Encord",
-      "location": "London",
+      "id": "2f098454",
+      "title": "Data Engineer",
+      "company": "ocadogroup",
+      "location": "Hatfield",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/quality-systems-lead-london-16823",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/data-engineer-hatfield-359118",
       "source": "arbeitnow",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "gtm"
+        "data - fulfilment & automation"
       ],
       "miss_count": 0
     },
