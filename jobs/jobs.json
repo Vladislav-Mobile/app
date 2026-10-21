@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-10-20T21:12:37.332954+00:00",
-  "total": 65,
+  "updated_at": "2026-10-21T03:10:55.591488+00:00",
+  "total": 70,
   "jobs": [
+    {
+      "id": "dfdd99b2",
+      "title": "Graphene Photonics Device Reliability Testing Engineer (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "location": "Aachen, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/graphene-photonics-device-reliability-testing-engineer-aachen-499713",
+      "source": "arbeitnow",
+      "date": "2026-10-21",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "design enablement"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6a137ba8",
+      "title": "Engineering Manager, Red Team",
+      "company": "Doordash",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/doordash/jobs/engineering-manager-red-team-1621111753?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-21",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "security-engineering",
+        "red-team-leadership",
+        "offensive-security",
+        "penetration-testing",
+        "security-management",
+        "security-engineering-manager",
+        "red-team-lead",
+        "engineering-manager",
+        "red-team-management",
+        "senior-security-engineering-manager",
+        "senior-manager-cybersecurity-engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "41e9137c",
       "title": "(Senior) Penetration Tester / Red Teamer (m/w/d)",
@@ -51,6 +95,125 @@
       "tags": [
         "production",
         "operations & quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "446d0694",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Cambridge",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-cambridge-26304",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "77114af9",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-london-162637",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8be6e3be",
+      "title": "Staff Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-bristol-2224",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "999edbb8",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-london-13966",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "578a6a78",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-bristol-222946",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4c4149ce",
+      "title": "Senior Software Engineer (ML QA)",
+      "company": "Graphcore",
+      "location": "Cambridge",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-cambridge-298682",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "49c08bbb",
+      "title": "Graduate Software Engineer, System Software QA 2027",
+      "company": "Graphcore",
+      "location": "Bristol; Cambridge",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-system-software-qa-2027-bristol-cambridge-37181",
+      "source": "arbeitnow",
+      "date": "2026-10-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "sw device"
       ],
       "miss_count": 0
     },
@@ -144,67 +307,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f7a9b24d",
-      "title": "Asst. Production Manager - Stage",
-      "company": "Jobs on a Ship",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/jobs-on-a-ship/jobs/asst-production-manager-stage?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "assistant-production-manager",
-        "stage-management",
-        "live-event-production",
-        "stage-automation",
-        "production-management",
-        "production-coordination",
-        "stage-operations",
-        "production-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5f49057b",
-      "title": "Stage AI & Automation",
-      "company": "P1 Travel",
-      "location": "Leiden, Zuid-Holland, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/p1-travel/stage-ai-automation-leiden-141316",
-      "source": "arbeitnow",
-      "date": "2026-10-19",
-      "salary": "",
-      "type": "Student college, internship",
-      "tags": [
-        "stage"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0c299b98",
-      "title": "Data Privacy Compliance Specialist",
-      "company": "DeepHealth",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/deephealth/remote-data-privacy-compliance-specialist-amsterdam-rotterdam-445275",
-      "source": "arbeitnow",
-      "date": "2026-10-19",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "quality",
-        "regulatory",
-        "and compliance",
-        "remote"
       ],
       "miss_count": 0
     },
@@ -364,32 +466,6 @@
         "microsoft",
         "exec",
         "excel"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "92f3503c",
-      "title": "Senior QA Functional Mobile (Mobile)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1270536-senior-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-10-15",
-      "salary": "EUR 28000–52000 (~$3726)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
