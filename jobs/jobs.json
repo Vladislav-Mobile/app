@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-21T16:33:18.207863+00:00",
-  "total": 61,
+  "updated_at": "2026-10-21T21:12:39.286855+00:00",
+  "total": 59,
   "jobs": [
+    {
+      "id": "847ee945",
+      "title": "Ingenieur (m/w/d) Mechatronik für Inbetriebnahme und Automatisierung",
+      "company": "Personalized Nutrition Systems GmbH",
+      "location": "Bornheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/ingenieur-mechatronik-fur-inbetriebnahme-und-automatisierung-bornheim-134680",
+      "source": "arbeitnow",
+      "date": "2026-10-21",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "7fbb3d98",
       "title": "Food safety coordinator (f/m/d)",
@@ -34,56 +51,6 @@
       "tags": [
         "quality management"
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "c0ebcdf8",
-      "title": "Entwicklungsingenieur Prüftechnik – LabVIEW (m/w/d)",
-      "company": "Personalica GmbH",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/personalica-gmbh/entwicklungsingenieur-pruftechnik-labview-hamburg-113337",
-      "source": "arbeitnow",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4949c7de",
-      "title": "Werkstoffprüfer / Qualitätsprüfer (m/w/d) Metalltechnik",
-      "company": "BC Deutschland GmbH",
-      "location": "Hamm",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/bc-deutschland-gmbh/werkstoffprufer-qualitatsprufer-metalltechnik-hamm-252736",
-      "source": "arbeitnow",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "33280d88",
-      "title": "(Senior) HR Tech Business Analyst — Automation & AI (m/f/d)",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-hr-tech-business-analyst-automation-ai-berlin-23802",
-      "source": "arbeitnow",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "",
-      "tags": [],
       "miss_count": 0
     },
     {
