@@ -1,7 +1,60 @@
 {
-  "updated_at": "2026-10-21T03:10:55.591488+00:00",
-  "total": 70,
+  "updated_at": "2026-10-21T11:06:13.226997+00:00",
+  "total": 59,
   "jobs": [
+    {
+      "id": "54c95d9d",
+      "title": "A/B-Tester E-Commerce (m/w/d) – Product Listings & Conversion, hybrid oder remote",
+      "company": "NIPSILD Hamburg GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nipsild-hamburg-gmbh/a-b-tester-e-commerce-product-listings-conversion-hybrid-oder-remote-hamburg-442753",
+      "source": "arbeitnow",
+      "date": "2026-10-21",
+      "salary": "",
+      "type": "Werkstudent, working student, berufserfahren",
+      "tags": [
+        "crm",
+        "direct marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "02026621",
+      "title": "IT & Automation Specialist (m/w/d)",
+      "company": "EVEREST GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/everest-gmbh/it-automation-specialist-hamburg-363418",
+      "source": "arbeitnow",
+      "date": "2026-10-21",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0cc03eda",
+      "title": "Automation Engineer (m/w/d) 100% Remote – n8n & KI",
+      "company": "Martic Solutions",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/martic-solutions/automation-engineer-100-remote-n8n-ki-berlin-291379",
+      "source": "arbeitnow",
+      "date": "2026-10-21",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "remote",
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "dfdd99b2",
       "title": "Graphene Photonics Device Reliability Testing Engineer (f/m/d)",
@@ -16,204 +69,6 @@
       "type": "Full Time",
       "tags": [
         "design enablement"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6a137ba8",
-      "title": "Engineering Manager, Red Team",
-      "company": "Doordash",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/doordash/jobs/engineering-manager-red-team-1621111753?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "security-engineering",
-        "red-team-leadership",
-        "offensive-security",
-        "penetration-testing",
-        "security-management",
-        "security-engineering-manager",
-        "red-team-lead",
-        "engineering-manager",
-        "red-team-management",
-        "senior-security-engineering-manager",
-        "senior-manager-cybersecurity-engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "41e9137c",
-      "title": "(Senior) Penetration Tester / Red Teamer (m/w/d)",
-      "company": "HvS-Consulting GmbH",
-      "location": "Garching",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hvs-consulting-gmbh/senior-penetration-tester-red-teamer-garching-77295",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "it security"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c12909b4",
-      "title": "Qualitätsmanagementbeauftragte im ZQM (m/w/d ) | Überregional | Vollzeit |",
-      "company": "Römergarten Residenzen",
-      "location": "Kindsbach",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/romergarten-residenzen/qualitatsmanagementbeauftragte-im-zqm-uberregional-vollzeit-kindsbach-419496",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4462be19",
-      "title": "Director Production Engineering (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-production-engineering-parsdorf-bavaria-495974",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "446d0694",
-      "title": "Staff Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Cambridge",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-cambridge-26304",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "77114af9",
-      "title": "Staff Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-london-162637",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8be6e3be",
-      "title": "Staff Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/staff-software-engineer-ml-qa-bristol-2224",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "999edbb8",
-      "title": "Senior Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-london-13966",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "578a6a78",
-      "title": "Senior Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-bristol-222946",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4c4149ce",
-      "title": "Senior Software Engineer (ML QA)",
-      "company": "Graphcore",
-      "location": "Cambridge",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-ml-qa-cambridge-298682",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software ops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "49c08bbb",
-      "title": "Graduate Software Engineer, System Software QA 2027",
-      "company": "Graphcore",
-      "location": "Bristol; Cambridge",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/graduate-software-engineer-system-software-qa-2027-bristol-cambridge-37181",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "sw device"
       ],
       "miss_count": 0
     },
@@ -242,40 +97,6 @@
       "remote": false,
       "country": "US",
       "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-internship-lausanne-360538",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6d941ddb",
-      "title": "Lab Automation Engineer",
-      "company": "Adaptyv",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/lab-automation-engineer-lausanne-372707",
-      "source": "arbeitnow",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c0b1b05d",
-      "title": "Mechanical / Mechatronics Engineer (Early Career), Hardware",
-      "company": "Adaptyv",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/adaptyv/mechanical-mechatronics-engineer-early-career-hardware-lausanne-18679",
       "source": "arbeitnow",
       "date": "2026-10-20",
       "salary": "",
@@ -318,31 +139,6 @@
       "remote": true,
       "country": "WW",
       "url": "https://hirify.me/vacancies/1283167-qa-engineer-mobileweb-testing",
-      "source": "hirify",
-      "date": "2026-10-19",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d3615c6a",
-      "title": "QA Engineer (Jun+/Middle, Mobile Games)",
-      "company": "Starplay Games",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1282133-qa-engineer-junmiddle-mobile-games",
       "source": "hirify",
       "date": "2026-10-19",
       "salary": "",
