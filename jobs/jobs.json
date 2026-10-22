@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T16:34:43.883531+00:00",
-  "total": 64,
+  "updated_at": "2026-10-22T21:09:37.910251+00:00",
+  "total": 61,
   "jobs": [
     {
       "id": "5a678c01",
@@ -20,37 +20,19 @@
       "miss_count": 0
     },
     {
-      "id": "fe4bf2ff",
-      "title": "QC Inspector (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
+      "id": "73f161b2",
+      "title": "Engineering Manager, QE",
+      "company": "Alphasense",
+      "location": "London, Greater London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/qc-inspector-parsdorf-bavaria-61974",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/engineering-manager-qe-london-greater-london-121526",
       "source": "arbeitnow",
       "date": "2026-10-22",
       "salary": "",
       "type": "",
       "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "71ab7d71",
-      "title": "Software Engineer - Marketing Automation (all genders)",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/software-engineer-marketing-automation-all-genders-berlin-berlin-267144",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
+        "engineering"
       ],
       "miss_count": 0
     },
@@ -137,23 +119,6 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6f1db8a5",
-      "title": "Senior Quality Systems Officer",
-      "company": "Vitestro",
-      "location": "Utrecht, Utrecht, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vitestro/senior-quality-systems-officer-utrecht-167763",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "Mid, fulltime fixed term",
-      "tags": [
-        "qa / ra"
       ],
       "miss_count": 0
     },
@@ -1318,31 +1283,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0d747f75",
-      "title": "QA Specialist (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1185420-qa-specialist-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
