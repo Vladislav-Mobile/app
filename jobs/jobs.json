@@ -1,7 +1,110 @@
 {
-  "updated_at": "2026-10-22T03:09:15.571516+00:00",
-  "total": 58,
+  "updated_at": "2026-10-22T11:06:16.484692+00:00",
+  "total": 62,
   "jobs": [
+    {
+      "id": "9cc5c7b0",
+      "title": "Principal Engineer - Quality Assurance",
+      "company": "Zattoo",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zattoo/principal-engineer-quality-assurance-berlin-59898",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag)",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4728c8ce",
+      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-250721",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "04d1fc5f",
+      "title": "Senior Forward Deployed Engineer (all genders)",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "applied automation intelligence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6822fbfa",
+      "title": "Senior C++ Performance Engineer (all genders)",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-all-genders-munich-bavaria-418975",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "applied automation intelligence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c57894b3",
+      "title": "ML Intern: Optimization Quality & Monitoring",
+      "company": "Nexoya",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/nexoya/ml-intern-optimization-quality-monitoring-zurich-167634",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Internship (praktikumsvertrag), internship, entry",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "115843f8",
+      "title": "Robot Pilot",
+      "company": "nu glass",
+      "location": "Spiez",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/nu-glass/robot-pilot-spiez-149435",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Fixed-term contract (befristeter arbeitsvertrag), professional / experienced",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "19a873b3",
       "title": "Windows Server Automation Engineer with VMware",
@@ -55,36 +158,20 @@
       "miss_count": 0
     },
     {
-      "id": "b9fab216",
-      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
-      "company": "Zeal Network",
-      "location": "Hamburg",
-      "remote": false,
+      "id": "71c9e4ca",
+      "title": "Инженер по тестированию продуктов Yandex Cloud Security**",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-378874",
-      "source": "arbeitnow",
-      "date": "2026-10-21",
+      "url": "https://www.vseti.app/vakansii/43734438349349348343434343)**",
+      "source": "telegram",
+      "date": "2026-10-22",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "technology"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "847ee945",
-      "title": "Ingenieur (m/w/d) Mechatronik für Inbetriebnahme und Automatisierung",
-      "company": "Personalized Nutrition Systems GmbH",
-      "location": "Bornheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/ingenieur-mechatronik-fur-inbetriebnahme-und-automatisierung-bornheim-134680",
-      "source": "arbeitnow",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -683,24 +770,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ac2b70bc",
-      "title": "🧾 Вакансия: QA Lead (от 3 лет опыта Java Appium Mobile + управления командой)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260625",
-      "source": "telegram",
-      "date": "2026-10-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
