@@ -1,72 +1,56 @@
 {
-  "updated_at": "2026-10-22T11:06:16.484692+00:00",
-  "total": 62,
+  "updated_at": "2026-10-22T16:34:43.883531+00:00",
+  "total": 64,
   "jobs": [
     {
-      "id": "9cc5c7b0",
-      "title": "Principal Engineer - Quality Assurance",
-      "company": "Zattoo",
-      "location": "Berlin",
+      "id": "5a678c01",
+      "title": "Head of Engineering (m/w/d) - Packaging Automation",
+      "company": "OPITZ Packaging Systems GmbH",
+      "location": "Northeim",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zattoo/principal-engineer-quality-assurance-berlin-59898",
+      "url": "https://www.arbeitnow.com/jobs/companies/opitz-packaging-systems-gmbh/head-of-engineering-packaging-automation-northeim-201820",
       "source": "arbeitnow",
       "date": "2026-10-22",
       "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag)",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
       "tags": [
-        "engineering"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "4728c8ce",
-      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
+      "id": "fe4bf2ff",
+      "title": "QC Inspector (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-250721",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "04d1fc5f",
-      "title": "Senior Forward Deployed Engineer (all genders)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-forward-deployed-engineer-all-genders-munich-bavaria-44708",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/qc-inspector-parsdorf-bavaria-61974",
       "source": "arbeitnow",
       "date": "2026-10-22",
       "salary": "",
       "type": "",
       "tags": [
-        "applied automation intelligence"
+        "production",
+        "operations & quality"
       ],
       "miss_count": 0
     },
     {
-      "id": "6822fbfa",
-      "title": "Senior C++ Performance Engineer (all genders)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "id": "71ab7d71",
+      "title": "Software Engineer - Marketing Automation (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-c-performance-engineer-all-genders-munich-bavaria-418975",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/software-engineer-marketing-automation-all-genders-berlin-berlin-267144",
       "source": "arbeitnow",
       "date": "2026-10-22",
       "salary": "",
       "type": "",
       "tags": [
-        "applied automation intelligence"
+        "marketing"
       ],
       "miss_count": 0
     },
@@ -106,54 +90,97 @@
       "miss_count": 0
     },
     {
-      "id": "19a873b3",
-      "title": "Windows Server Automation Engineer with VMware",
-      "company": "Delan Associates",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/delan-associates/jobs/windows-server-automation-engineer-with-vmware?utm_source=api",
-      "source": "himalayas",
+      "id": "b0e310c5",
+      "title": "QA Engineer",
+      "company": "Creative Clicks B.V.",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/qa-engineer-amsterdam-349908",
+      "source": "arbeitnow",
       "date": "2026-10-22",
       "salary": "",
-      "type": "",
+      "type": "Mid, fulltime fixed term",
       "tags": [
-        "windows-server-automation-engineer",
-        "infrastructure-automation-engineer",
-        "systems-automation-engineer",
-        "windows-systems-engineer",
-        "vmware-engineer",
-        "vmware-automation-engineer",
-        "vmware-system-engineer",
-        "vmware-infrastructure-engineer",
-        "it-automation-engineer",
-        "windows-infrastructure-engineer",
-        "vmware-platform-engineer",
-        "automation-engineer"
+        "development"
       ],
       "miss_count": 0
     },
     {
-      "id": "e87820c5",
-      "title": "Manager, Care Management - Stars",
-      "company": "Humana",
+      "id": "67e6d31e",
+      "title": "Automation Engineer",
+      "company": "GradeMatch",
+      "location": "Weert, Limburg, Nederland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/automation-engineer-weert-293161",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Mid, fulltime fixed term",
+      "tags": [
+        "industrial engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d3e65e2d",
+      "title": "Senior Quality Engineer",
+      "company": "Benchmark",
+      "location": "Almelo, Overijssel, Nederland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-quality-engineer-almelo-97779",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6f1db8a5",
+      "title": "Senior Quality Systems Officer",
+      "company": "Vitestro",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vitestro/senior-quality-systems-officer-utrecht-167763",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Mid, fulltime fixed term",
+      "tags": [
+        "qa / ra"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6e9495af",
+      "title": "Principal IFQP Inspector",
+      "company": "Alaska Airlines",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/humana/jobs/manager-care-management-stars?utm_source=api",
+      "url": "https://himalayas.app/companies/alaska-airlines/jobs/principal-ifqp-inspector?utm_source=api",
       "source": "himalayas",
       "date": "2026-10-22",
       "salary": "",
       "type": "",
       "tags": [
-        "director-of-care-management",
-        "care-management-supervisor",
-        "clinical-care-manager",
-        "nurse-manager",
-        "quality-improvement-manager",
-        "care-services-manager",
-        "care-management-leadership",
-        "healthcare-manager"
+        "ifqp-inspector",
+        "fuel-quality-inspector",
+        "safety-inspector",
+        "fuel-operations-specialist",
+        "senior-quality-assurance-inspector",
+        "qc-inspector",
+        "qa-qc-inspector",
+        "quality-assurance-inspector",
+        "quality-inspector",
+        "principal-quality-engineer",
+        "quality-control-inspector"
       ],
       "miss_count": 0
     },
