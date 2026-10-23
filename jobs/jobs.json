@@ -1,39 +1,72 @@
 {
-  "updated_at": "2026-10-23T16:24:20.510612+00:00",
-  "total": 60,
+  "updated_at": "2026-10-23T20:56:29.222264+00:00",
+  "total": 62,
   "jobs": [
     {
-      "id": "ed263a90",
-      "title": "Quality Control Expert (Wärmepumpe) (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "remote": true,
+      "id": "2f1e2dec",
+      "title": "Robotics Engineer - Integration & Control (m/f/d)",
+      "company": "Prefiro GmbH",
+      "location": "Karlsruhe",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/quality-control-expert-warmepumpe-berlin-420083",
+      "url": "https://www.arbeitnow.com/jobs/companies/prefiro-gmbh/robotics-engineer-integration-control-karlsruhe-186076",
+      "source": "arbeitnow",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5d339e8c",
+      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-420873",
       "source": "arbeitnow",
       "date": "2026-10-23",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "remote",
-        "business operations"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "ccd75f63",
-      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
+      "id": "8bdb1e96",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-49654",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-242896",
       "source": "arbeitnow",
       "date": "2026-10-23",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "business development"
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3565506b",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-237",
+      "source": "arbeitnow",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "quality management"
       ],
       "miss_count": 0
     },
@@ -50,23 +83,6 @@
       "salary": "",
       "type": "",
       "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "8fb3ad32",
-      "title": "Senior Specialist, QA",
-      "company": "Summittherapeutics",
-      "location": "Ireland, Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/summittherapeutics/senior-specialist-qa-ireland-switzerland-168458",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality & ra cmc"
-      ],
       "miss_count": 0
     },
     {
@@ -106,6 +122,31 @@
       "miss_count": 0
     },
     {
+      "id": "972dba34",
+      "title": "Senior Mobile QA Analyst (Cybersecurity)",
+      "company": "CrowdStrike",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1309692-senior-mobile-qa-automation",
+      "source": "hirify",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "a6d5a85f",
       "title": "QA Engineer (Web and Mobile)",
       "company": "Applab",
@@ -130,42 +171,30 @@
       "miss_count": 0
     },
     {
-      "id": "4bfc95a4",
-      "title": "US Industrial Sales Engineer",
-      "company": "Halifax Fan Group",
-      "location": "United States",
+      "id": "25e2847a",
+      "title": "LATAM Senior QA Automation Engineer",
+      "company": "Praxent",
+      "location": "Anguilla",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/halifax-fan-group/jobs/us-industrial-sales-engineer?utm_source=api",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/praxent/jobs/latam-senior-qa-automation-engineer?utm_source=api",
       "source": "himalayas",
       "date": "2026-10-23",
       "salary": "",
       "type": "",
       "tags": [
-        "sales-engineer",
-        "technical-sales-engineer",
-        "account-executive",
-        "industrial-sales-engineering",
-        "industrial-sales-representative",
-        "senior-sales-engineer-industrial-automation",
-        "industrial-sales-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "53f5c884",
-      "title": "Senior Software Engineer - Alerting Platform Automation",
-      "company": "Datadog",
-      "location": "Nantes; Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-alerting-platform-automation-nantes-paris-99101",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "dev eng"
+        "qa-automation-engineer",
+        "software-engineer-in-test",
+        "automation-testing",
+        "quality-assurance-engineer",
+        "mobile-qa-automation-engineer",
+        "senior-qa-automation-engineer",
+        "senior-automation-qa-engineer",
+        "senior-qa-automation-tester",
+        "senior-automation-qa",
+        "senior-quality-assurance-automation-specialist",
+        "senior-qa-automation",
+        "senior-automation-test-engineer"
       ],
       "miss_count": 0
     },
@@ -385,6 +414,32 @@
         "linux/unix",
         "testing",
         "infrastructure"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "70c23a91",
+      "title": "Senior QA Analyst (Mobile Application)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1278572-senior-mobile-qa-analyst",
+      "source": "hirify",
+      "date": "2026-10-17",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
