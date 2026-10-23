@@ -1,38 +1,93 @@
 {
-  "updated_at": "2026-10-23T03:14:50.841104+00:00",
-  "total": 58,
+  "updated_at": "2026-10-23T10:57:57.094967+00:00",
+  "total": 59,
   "jobs": [
     {
-      "id": "5a678c01",
-      "title": "Head of Engineering (m/w/d) - Packaging Automation",
-      "company": "OPITZ Packaging Systems GmbH",
-      "location": "Northeim",
+      "id": "7356bebb",
+      "title": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/opitz-packaging-systems-gmbh/head-of-engineering-packaging-automation-northeim-201820",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-crm-hubspot-marketing-automation-expert-gilching-324128",
       "source": "arbeitnow",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "type": "Full-time permanent, mid",
       "tags": [
-        "automation engineering"
+        "marketing and pr",
+        "bachelor's degree"
       ],
       "miss_count": 0
     },
     {
-      "id": "ac637567",
-      "title": "Principal Engineer, Data Quality Platform",
-      "company": "Talos Trading",
+      "id": "c61a24bd",
+      "title": "AI Automation Engineer (d/m/f)",
+      "company": "Scout24",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/scout24/ai-automation-engineer-berlin-239926",
+      "source": "arbeitnow",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3205aba0",
+      "title": "Software Entwickler Test (m/w/d)",
+      "company": "citema systems GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/software-entwickler-test-stuttgart-399559",
+      "source": "arbeitnow",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "618628fa",
+      "title": "AI Quality Assurance Program Manager",
+      "company": "tripadvisor",
       "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/principal-engineer-data-quality-platform-london-365915",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-quality-assurance-program-manager-london-26852",
       "source": "arbeitnow",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "engineering"
+        "customer service"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a00a7eec",
+      "title": "Test Automation Engineer",
+      "company": "European Dynamics",
+      "location": "Strasbourg, France",
+      "remote": true,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
+      "source": "arbeitnow",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "computer software",
+        "prd",
+        "remote"
       ],
       "miss_count": 0
     },
@@ -68,23 +123,6 @@
       "tags": [
         "quality assurance",
         "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "115843f8",
-      "title": "Robot Pilot",
-      "company": "nu glass",
-      "location": "Spiez",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/nu-glass/robot-pilot-spiez-149435",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "Fixed-term contract (befristeter arbeitsvertrag), professional / experienced",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -675,24 +713,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "eb3be51c",
-      "title": "Ищу Middle/Senior QA Automation (Java) / Fullstack QA",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260675",
-      "source": "telegram",
-      "date": "2026-10-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
