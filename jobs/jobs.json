@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T21:09:37.910251+00:00",
-  "total": 61,
+  "updated_at": "2026-10-23T03:14:50.841104+00:00",
+  "total": 58,
   "jobs": [
     {
       "id": "5a678c01",
@@ -20,19 +20,36 @@
       "miss_count": 0
     },
     {
-      "id": "73f161b2",
-      "title": "Engineering Manager, QE",
-      "company": "Alphasense",
-      "location": "London, Greater London",
+      "id": "ac637567",
+      "title": "Principal Engineer, Data Quality Platform",
+      "company": "Talos Trading",
+      "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/engineering-manager-qe-london-greater-london-121526",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/principal-engineer-data-quality-platform-london-365915",
+      "source": "arbeitnow",
+      "date": "2026-10-22",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "53f5c884",
+      "title": "Senior Software Engineer - Alerting Platform Automation",
+      "company": "Datadog",
+      "location": "Nantes; Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-alerting-platform-automation-nantes-paris-99101",
       "source": "arbeitnow",
       "date": "2026-10-22",
       "salary": "",
       "type": "",
       "tags": [
-        "engineering"
+        "dev eng"
       ],
       "miss_count": 0
     },
@@ -85,67 +102,6 @@
       "type": "Mid, fulltime fixed term",
       "tags": [
         "development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "67e6d31e",
-      "title": "Automation Engineer",
-      "company": "GradeMatch",
-      "location": "Weert, Limburg, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/gradematch/automation-engineer-weert-293161",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "Mid, fulltime fixed term",
-      "tags": [
-        "industrial engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d3e65e2d",
-      "title": "Senior Quality Engineer",
-      "company": "Benchmark",
-      "location": "Almelo, Overijssel, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/benchmark/senior-quality-engineer-almelo-97779",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6e9495af",
-      "title": "Principal IFQP Inspector",
-      "company": "Alaska Airlines",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/alaska-airlines/jobs/principal-ifqp-inspector?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ifqp-inspector",
-        "fuel-quality-inspector",
-        "safety-inspector",
-        "fuel-operations-specialist",
-        "senior-quality-assurance-inspector",
-        "qc-inspector",
-        "qa-qc-inspector",
-        "quality-assurance-inspector",
-        "quality-inspector",
-        "principal-quality-engineer",
-        "quality-control-inspector"
       ],
       "miss_count": 0
     },
@@ -1503,30 +1459,6 @@
       "url": "https://hirify.me/vacancies/1143736-senior-mobile-qa-tester",
       "source": "hirify",
       "date": "2026-09-23",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "32b71b27",
-      "title": "QA Engineer (Mobile Applications and Web Services)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1132287-qa-engineer-mobile-web",
-      "source": "hirify",
-      "date": "2026-09-22",
       "salary": "",
       "type": "fulltime",
       "tags": [
