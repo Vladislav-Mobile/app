@@ -1,74 +1,71 @@
 {
-  "updated_at": "2026-10-23T10:57:57.094967+00:00",
-  "total": 59,
+  "updated_at": "2026-10-23T16:24:20.510612+00:00",
+  "total": 60,
   "jobs": [
     {
-      "id": "7356bebb",
-      "title": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-crm-hubspot-marketing-automation-expert-gilching-324128",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "Full-time permanent, mid",
-      "tags": [
-        "marketing and pr",
-        "bachelor's degree"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c61a24bd",
-      "title": "AI Automation Engineer (d/m/f)",
-      "company": "Scout24",
+      "id": "ed263a90",
+      "title": "Quality Control Expert (Wärmepumpe) (m/w/d)",
+      "company": "1KOMMA5˚",
       "location": "Berlin",
-      "remote": false,
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/scout24/ai-automation-engineer-berlin-239926",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/quality-control-expert-warmepumpe-berlin-420083",
       "source": "arbeitnow",
       "date": "2026-10-23",
       "salary": "",
-      "type": "",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "engineering"
+        "remote",
+        "business operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "3205aba0",
-      "title": "Software Entwickler Test (m/w/d)",
-      "company": "citema systems GmbH",
+      "id": "ccd75f63",
+      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
       "location": "Stuttgart",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/software-entwickler-test-stuttgart-399559",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-49654",
       "source": "arbeitnow",
       "date": "2026-10-23",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "business development"
       ],
       "miss_count": 0
     },
     {
-      "id": "618628fa",
-      "title": "AI Quality Assurance Program Manager",
-      "company": "tripadvisor",
-      "location": "London",
+      "id": "c538745b",
+      "title": "Quality Assurance Manager",
+      "company": "PHMG Careers",
+      "location": "Manchester, England, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/quality-assurance-manager-manchester-302187",
+      "source": "arbeitnow",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "8fb3ad32",
+      "title": "Senior Specialist, QA",
+      "company": "Summittherapeutics",
+      "location": "Ireland, Switzerland",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-quality-assurance-program-manager-london-26852",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/summittherapeutics/senior-specialist-qa-ireland-switzerland-168458",
       "source": "arbeitnow",
       "date": "2026-10-23",
       "salary": "",
       "type": "",
       "tags": [
-        "customer service"
+        "quality & ra cmc"
       ],
       "miss_count": 0
     },
@@ -92,6 +89,70 @@
       "miss_count": 0
     },
     {
+      "id": "3e0cdeb5",
+      "title": "Senior Specialist, QA",
+      "company": "Summittherapeutics",
+      "location": "Ireland, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.ch/jobs/companies/summittherapeutics/senior-specialist-qa-ireland-united-kingdom-409994",
+      "source": "arbeitnow",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality & ra cmc"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a6d5a85f",
+      "title": "QA Engineer (Web and Mobile)",
+      "company": "Applab",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1308225-qa-engineer-web-and-mobile",
+      "source": "hirify",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4bfc95a4",
+      "title": "US Industrial Sales Engineer",
+      "company": "Halifax Fan Group",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/halifax-fan-group/jobs/us-industrial-sales-engineer?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-23",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "sales-engineer",
+        "technical-sales-engineer",
+        "account-executive",
+        "industrial-sales-engineering",
+        "industrial-sales-representative",
+        "senior-sales-engineer-industrial-automation",
+        "industrial-sales-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "53f5c884",
       "title": "Senior Software Engineer - Alerting Platform Automation",
       "company": "Datadog",
@@ -105,24 +166,6 @@
       "type": "",
       "tags": [
         "dev eng"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c57894b3",
-      "title": "ML Intern: Optimization Quality & Monitoring",
-      "company": "Nexoya",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/nexoya/ml-intern-optimization-quality-monitoring-zurich-167634",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "Internship (praktikumsvertrag), internship, entry",
-      "tags": [
-        "quality assurance",
-        "inspection"
       ],
       "miss_count": 0
     },
@@ -353,32 +396,6 @@
       "remote": true,
       "country": "WW",
       "url": "https://hirify.me/vacancies/1274425-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6fcde2df",
-      "title": "Mobile QA Android",
-      "company": "2GIS",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1273552-mobile-qa-android-python",
       "source": "hirify",
       "date": "2026-10-16",
       "salary": "",
