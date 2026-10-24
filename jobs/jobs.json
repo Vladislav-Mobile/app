@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T15:20:14.335204+00:00",
-  "total": 57,
+  "updated_at": "2026-10-24T20:09:28.035694+00:00",
+  "total": 58,
   "jobs": [
     {
       "id": "27418f94",
@@ -84,6 +84,57 @@
       "type": "Full Time",
       "tags": [
         "go-to-market"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c5a61f31",
+      "title": "QA Engineer, Automation",
+      "company": "Nikola Digital Lab",
+      "location": "Costa Rica",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/nikola-digital-lab/jobs/qa-engineer-automation?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-engineer",
+        "automation-testing",
+        "quality-assurance-engineer",
+        "qa-automation-engineer",
+        "automation-qa-analyst",
+        "qa-automation-analyst",
+        "automation-quality-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e1728960",
+      "title": "Senior Analyst - Database Integration & Data Automation",
+      "company": "Universal Technical Resource Services, Inc. (UTRS)",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/universal-technical-resource-services-inc-utrs/jobs/senior-analyst-database-integration-data-automation-9481732656?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "data-integration-analyst",
+        "data-and-automation-analyst",
+        "data-migration-analyst",
+        "business-intelligence-analyst",
+        "data-management-analyst",
+        "senior-data-integration-specialist",
+        "senior-data-integration-developer",
+        "senior-data-integration-engineer",
+        "senior-integration-analyst",
+        "senior-data-integration",
+        "senior-database-analyst",
+        "senior-oracle-epm-data-integration-specialist"
       ],
       "miss_count": 0
     },
@@ -371,32 +422,6 @@
         "linux/unix",
         "testing",
         "infrastructure"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "70c23a91",
-      "title": "Senior QA Analyst (Mobile Application)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1278572-senior-mobile-qa-analyst",
-      "source": "hirify",
-      "date": "2026-10-17",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
