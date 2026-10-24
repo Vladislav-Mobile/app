@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-10-24T03:08:33.932887+00:00",
-  "total": 55,
+  "updated_at": "2026-10-24T10:14:12.124808+00:00",
+  "total": 57,
   "jobs": [
+    {
+      "id": "a6fdfa2b",
+      "title": "Incoming Quality Inspector (All Genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/incoming-quality-inspector-all-genders-munich-bavaria-103726",
+      "source": "arbeitnow",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8ad19ee3",
+      "title": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-crm-hubspot-marketing-automation-expert-gilching-88884",
+      "source": "arbeitnow",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "marketing & communication"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5de1f483",
+      "title": "Operations & Automation Associate",
+      "company": "Nous",
+      "location": "Nous HQ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nous/operations-automation-associate-london-185747",
+      "source": "arbeitnow",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations (mso)"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "da9b71e6",
       "title": "Amazon Performance (PPC) & Automation Manager",
@@ -16,40 +67,6 @@
       "type": "Full Time",
       "tags": [
         "go-to-market"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2f1e2dec",
-      "title": "Robotics Engineer - Integration & Control (m/f/d)",
-      "company": "Prefiro GmbH",
-      "location": "Karlsruhe",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/prefiro-gmbh/robotics-engineer-integration-control-karlsruhe-186076",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5d339e8c",
-      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-420873",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "quality management"
       ],
       "miss_count": 0
     },
@@ -135,6 +152,25 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2b69f884",
+      "title": "AI Trainer - Video Annotation",
+      "company": "iMerit Technology",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "source": "remotive",
+      "date": "2026-10-22",
+      "salary": "70K-80K",
+      "type": "freelance",
+      "tags": [
+        "video",
+        "ai/ml",
+        "robotics"
       ],
       "miss_count": 0
     },
