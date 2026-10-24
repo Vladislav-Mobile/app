@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-10-24T10:14:12.124808+00:00",
+  "updated_at": "2026-10-24T15:20:14.335204+00:00",
   "total": 57,
   "jobs": [
+    {
+      "id": "27418f94",
+      "title": "Founding Lead Engineer — AI & Workflow Automation",
+      "company": "Founders Factory",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/founding-lead-engineer-ai-workflow-automation-berlin-289939",
+      "source": "arbeitnow",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "berlin studio"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2406c9cb",
+      "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-ai-automation-energy-berlin-339347",
+      "source": "arbeitnow",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "Praktikum, internship",
+      "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "a6fdfa2b",
       "title": "Incoming Quality Inspector (All Genders)",
@@ -37,23 +71,6 @@
       "miss_count": 0
     },
     {
-      "id": "5de1f483",
-      "title": "Operations & Automation Associate",
-      "company": "Nous",
-      "location": "Nous HQ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nous/operations-automation-associate-london-185747",
-      "source": "arbeitnow",
-      "date": "2026-10-24",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations (mso)"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "da9b71e6",
       "title": "Amazon Performance (PPC) & Automation Manager",
       "company": "Ledger",
@@ -67,25 +84,6 @@
       "type": "Full Time",
       "tags": [
         "go-to-market"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a00a7eec",
-      "title": "Test Automation Engineer",
-      "company": "European Dynamics",
-      "location": "Strasbourg, France",
-      "remote": true,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/european-dynamics/remote-test-automation-engineer-strasbourg-449366",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "Full time",
-      "tags": [
-        "computer software",
-        "prd",
-        "remote"
       ],
       "miss_count": 0
     },
