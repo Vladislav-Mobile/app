@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-23T20:56:29.222264+00:00",
-  "total": 62,
+  "updated_at": "2026-10-24T03:08:33.932887+00:00",
+  "total": 55,
   "jobs": [
+    {
+      "id": "da9b71e6",
+      "title": "Amazon Performance (PPC) & Automation Manager",
+      "company": "Ledger",
+      "location": "Paris, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ledger/amazon-performance-ppc-automation-manager-paris-48766",
+      "source": "arbeitnow",
+      "date": "2026-10-24",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "go-to-market"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "2f1e2dec",
       "title": "Robotics Engineer - Integration & Control (m/f/d)",
@@ -34,55 +51,6 @@
       "tags": [
         "quality management"
       ],
-      "miss_count": 0
-    },
-    {
-      "id": "8bdb1e96",
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-242896",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3565506b",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-237",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c538745b",
-      "title": "Quality Assurance Manager",
-      "company": "PHMG Careers",
-      "location": "Manchester, England, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/quality-assurance-manager-manchester-302187",
-      "source": "arbeitnow",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "",
-      "tags": [],
       "miss_count": 0
     },
     {
@@ -167,51 +135,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "25e2847a",
-      "title": "LATAM Senior QA Automation Engineer",
-      "company": "Praxent",
-      "location": "Anguilla",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/praxent/jobs/latam-senior-qa-automation-engineer?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-automation-engineer",
-        "software-engineer-in-test",
-        "automation-testing",
-        "quality-assurance-engineer",
-        "mobile-qa-automation-engineer",
-        "senior-qa-automation-engineer",
-        "senior-automation-qa-engineer",
-        "senior-qa-automation-tester",
-        "senior-automation-qa",
-        "senior-quality-assurance-automation-specialist",
-        "senior-qa-automation",
-        "senior-automation-test-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b0e310c5",
-      "title": "QA Engineer",
-      "company": "Creative Clicks B.V.",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/creative-clicks-bv/qa-engineer-amsterdam-349908",
-      "source": "arbeitnow",
-      "date": "2026-10-22",
-      "salary": "",
-      "type": "Mid, fulltime fixed term",
-      "tags": [
-        "development"
       ],
       "miss_count": 0
     },
@@ -1418,30 +1341,6 @@
       "miss_count": 0
     },
     {
-      "id": "b376446f",
-      "title": "Engineering Manager - Mobile Applications QA (Mobile QA)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1158388-engineering-manager-mobile-qa",
-      "source": "hirify",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "d5454697",
       "title": "Manual Mobile QA, Mobile",
       "company": "%hirify_global%",
@@ -1502,55 +1401,6 @@
       "url": "https://hirify.me/vacancies/1149519-intern-mobile-qa-engineer",
       "source": "hirify",
       "date": "2026-09-24",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3435d51c",
-      "title": "Middle QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1141435-middle-qa-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-23",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "dbd27a1e",
-      "title": "QA Manual Middle-Senior (Native Team) (Mobile)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1143736-senior-mobile-qa-tester",
-      "source": "hirify",
-      "date": "2026-09-23",
       "salary": "",
       "type": "fulltime",
       "tags": [
