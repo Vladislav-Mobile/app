@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T10:38:54.816138+00:00",
-  "total": 51,
+  "updated_at": "2026-10-25T15:29:46.713570+00:00",
+  "total": 52,
   "jobs": [
     {
       "id": "2d8b7a33",
@@ -37,6 +37,23 @@
       "miss_count": 0
     },
     {
+      "id": "f05f345a",
+      "title": "Lead Automation Engineer",
+      "company": "Odaseva",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/lead-automation-engineer-paris-188197",
+      "source": "arbeitnow",
+      "date": "2026-10-25",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "d1f1693e",
       "title": "Mechanisch monteur",
       "company": "Technison",
@@ -50,6 +67,29 @@
       "type": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
       "tags": [
         "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d24f2986",
+      "title": "Senior Financial Transformation Consultant - Intelligent Automation (UiPath RPA)",
+      "company": "Guidehouse",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/guidehouse/jobs/senior-financial-transformation-consultant-intelligent-automation-uipath-rpa?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "financial-transformation-consultant",
+        "rpa-consultant",
+        "business-process-automation-consultant",
+        "financial-management-consultant",
+        "senior-financial-technology-implementation-consultant",
+        "senior-rpa-developer",
+        "finance-transformation-analyst"
       ],
       "miss_count": 0
     },
@@ -421,24 +461,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "43ab7063",
-      "title": "Вакансия: QA Engineer (Manual + Automation)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260828",
-      "source": "telegram",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
