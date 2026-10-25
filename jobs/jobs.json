@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-10-24T20:09:28.035694+00:00",
-  "total": 58,
+  "updated_at": "2026-10-25T03:03:27.605570+00:00",
+  "total": 57,
   "jobs": [
+    {
+      "id": "c5a61f31",
+      "title": "QA Engineer, Automation",
+      "company": "Nikola Digital Lab",
+      "location": "Costa Rica",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/nikola-digital-lab/jobs/qa-engineer-automation?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-engineer",
+        "automation-testing",
+        "quality-assurance-engineer",
+        "qa-automation-engineer",
+        "automation-qa-analyst",
+        "qa-automation-analyst",
+        "automation-quality-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e1728960",
+      "title": "Senior Analyst - Database Integration & Data Automation",
+      "company": "Universal Technical Resource Services, Inc. (UTRS)",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/universal-technical-resource-services-inc-utrs/jobs/senior-analyst-database-integration-data-automation-9481732656?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "data-integration-analyst",
+        "data-and-automation-analyst",
+        "data-migration-analyst",
+        "business-intelligence-analyst",
+        "data-management-analyst",
+        "senior-data-integration-specialist",
+        "senior-data-integration-developer",
+        "senior-data-integration-engineer",
+        "senior-integration-analyst",
+        "senior-data-integration",
+        "senior-database-analyst",
+        "senior-oracle-epm-data-integration-specialist"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "27418f94",
       "title": "Founding Lead Engineer — AI & Workflow Automation",
@@ -54,19 +105,19 @@
       "miss_count": 0
     },
     {
-      "id": "8ad19ee3",
-      "title": "Senior CRM (HubSpot) & Marketing Automation Expert (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "id": "5b91812a",
+      "title": "Testeur QA Junior (H/F) - Débutants & reconversions",
+      "company": "N2JSoft",
+      "location": "Montagnat, Auvergne-Rhône-Alpes, France",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-crm-hubspot-marketing-automation-expert-gilching-88884",
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/testeur-qa-junior-h-f-debutants-reconversions-montagnat-428978",
       "source": "arbeitnow",
       "date": "2026-10-24",
       "salary": "",
       "type": "Mid, fulltime permanent",
       "tags": [
-        "marketing & communication"
+        "qa"
       ],
       "miss_count": 0
     },
@@ -84,57 +135,6 @@
       "type": "Full Time",
       "tags": [
         "go-to-market"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c5a61f31",
-      "title": "QA Engineer, Automation",
-      "company": "Nikola Digital Lab",
-      "location": "Costa Rica",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/nikola-digital-lab/jobs/qa-engineer-automation?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineer",
-        "automation-testing",
-        "quality-assurance-engineer",
-        "qa-automation-engineer",
-        "automation-qa-analyst",
-        "qa-automation-analyst",
-        "automation-quality-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e1728960",
-      "title": "Senior Analyst - Database Integration & Data Automation",
-      "company": "Universal Technical Resource Services, Inc. (UTRS)",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/universal-technical-resource-services-inc-utrs/jobs/senior-analyst-database-integration-data-automation-9481732656?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "data-integration-analyst",
-        "data-and-automation-analyst",
-        "data-migration-analyst",
-        "business-intelligence-analyst",
-        "data-management-analyst",
-        "senior-data-integration-specialist",
-        "senior-data-integration-developer",
-        "senior-data-integration-engineer",
-        "senior-integration-analyst",
-        "senior-data-integration",
-        "senior-database-analyst",
-        "senior-oracle-epm-data-integration-specialist"
       ],
       "miss_count": 0
     },
@@ -1439,30 +1439,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1aff584f",
-      "title": "Intern QA Engineer (Mobile)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1149519-intern-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-09-24",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
