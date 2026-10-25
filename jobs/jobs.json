@@ -1,157 +1,55 @@
 {
-  "updated_at": "2026-10-25T03:03:27.605570+00:00",
-  "total": 57,
+  "updated_at": "2026-10-25T10:38:54.816138+00:00",
+  "total": 51,
   "jobs": [
     {
-      "id": "c5a61f31",
-      "title": "QA Engineer, Automation",
-      "company": "Nikola Digital Lab",
-      "location": "Costa Rica",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/nikola-digital-lab/jobs/qa-engineer-automation?utm_source=api",
-      "source": "himalayas",
+      "id": "2d8b7a33",
+      "title": "Test Automation Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/test-automation-engineer-gilching-9716",
+      "source": "arbeitnow",
       "date": "2026-10-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineer",
-        "automation-testing",
-        "quality-assurance-engineer",
-        "qa-automation-engineer",
-        "automation-qa-analyst",
-        "qa-automation-analyst",
-        "automation-quality-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e1728960",
-      "title": "Senior Analyst - Database Integration & Data Automation",
-      "company": "Universal Technical Resource Services, Inc. (UTRS)",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/universal-technical-resource-services-inc-utrs/jobs/senior-analyst-database-integration-data-automation-9481732656?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "data-integration-analyst",
-        "data-and-automation-analyst",
-        "data-migration-analyst",
-        "business-intelligence-analyst",
-        "data-management-analyst",
-        "senior-data-integration-specialist",
-        "senior-data-integration-developer",
-        "senior-data-integration-engineer",
-        "senior-integration-analyst",
-        "senior-data-integration",
-        "senior-database-analyst",
-        "senior-oracle-epm-data-integration-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "27418f94",
-      "title": "Founding Lead Engineer — AI & Workflow Automation",
-      "company": "Founders Factory",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/founders-factory/founding-lead-engineer-ai-workflow-automation-berlin-289939",
-      "source": "arbeitnow",
-      "date": "2026-10-24",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "berlin studio"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2406c9cb",
-      "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
-      "company": "1KOMMA5˚",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/werkstudentin-ai-automation-energy-berlin-339347",
-      "source": "arbeitnow",
-      "date": "2026-10-24",
-      "salary": "",
-      "type": "Praktikum, internship",
-      "tags": [
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a6fdfa2b",
-      "title": "Incoming Quality Inspector (All Genders)",
-      "company": "Skdse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/incoming-quality-inspector-all-genders-munich-bavaria-103726",
-      "source": "arbeitnow",
-      "date": "2026-10-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5b91812a",
-      "title": "Testeur QA Junior (H/F) - Débutants & reconversions",
-      "company": "N2JSoft",
-      "location": "Montagnat, Auvergne-Rhône-Alpes, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/testeur-qa-junior-h-f-debutants-reconversions-montagnat-428978",
-      "source": "arbeitnow",
-      "date": "2026-10-24",
       "salary": "",
       "type": "Mid, fulltime permanent",
       "tags": [
-        "qa"
+        "software"
       ],
       "miss_count": 0
     },
     {
-      "id": "da9b71e6",
-      "title": "Amazon Performance (PPC) & Automation Manager",
-      "company": "Ledger",
-      "location": "Paris, France",
+      "id": "36b71e9a",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "location": "München, Bayern, Deutschland",
       "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ledger/amazon-performance-ppc-automation-manager-paris-48766",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-310180",
       "source": "arbeitnow",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "salary": "",
-      "type": "Full Time",
+      "type": "Entry, fulltime permanent",
       "tags": [
-        "go-to-market"
+        "marketing"
       ],
       "miss_count": 0
     },
     {
-      "id": "3e0cdeb5",
-      "title": "Senior Specialist, QA",
-      "company": "Summittherapeutics",
-      "location": "Ireland, United Kingdom",
+      "id": "d1f1693e",
+      "title": "Mechanisch monteur",
+      "company": "Technison",
+      "location": "Berkel en Rodenrijs",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.ch/jobs/companies/summittherapeutics/senior-specialist-qa-ireland-united-kingdom-409994",
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-32220",
       "source": "arbeitnow",
-      "date": "2026-10-23",
+      "date": "2026-10-25",
       "salary": "",
-      "type": "",
+      "type": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
       "tags": [
-        "quality & ra cmc"
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -534,24 +432,6 @@
       "remote": true,
       "country": "WW",
       "url": "https://t.me/qa_jobs/260828",
-      "source": "telegram",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cd16b6e4",
-      "title": "🧾 Вакансия: QA Lead (от 3 лет опыта Java Appium Mobile + управления командой)",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/260814",
       "source": "telegram",
       "date": "2026-10-15",
       "salary": "",
@@ -983,29 +863,6 @@
       "miss_count": 0
     },
     {
-      "id": "274a7620",
-      "title": "QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1204173-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "e85f26c4",
       "title": "QA Java Mobile",
       "company": "Альфа-Банк",
@@ -1021,6 +878,29 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "274a7620",
+      "title": "QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1204173-qa-engineer-mobile-games",
+      "source": "hirify",
+      "date": "2026-10-05",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
         "",
         "",
         "",
