@@ -1,39 +1,72 @@
 {
-  "updated_at": "2026-10-26T12:11:59.389665+00:00",
-  "total": 53,
+  "updated_at": "2026-10-26T22:15:19.528711+00:00",
+  "total": 56,
   "jobs": [
     {
-      "id": "9e258893",
-      "title": "Teaching Assistant Operations & AI Automation - Traineeship (m/w/d)",
-      "company": "Digitale Leute School",
-      "location": "Cologne",
-      "remote": false,
+      "id": "57b908ad",
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/teaching-assistant-operations-ai-automation-traineeship-cologne-458605",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
       "source": "arbeitnow",
       "date": "2026-10-26",
       "salary": "",
-      "type": "Trainee-programm, traineeship, berufseinstieg",
+      "type": "Full Time",
       "tags": [
-        "training",
-        "development"
+        "revenue operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "a2dd98a8",
-      "title": "Automation & Safety Software Engineer (f/m/d)",
-      "company": "Magazino GmbH",
-      "location": "Munich",
+      "id": "b67ccd79",
+      "title": "Qualitätsingenieur / Quality Engineer (m/w/d)",
+      "company": "Xylem",
+      "location": "Mainz",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/magazino-gmbh/automation-safety-software-engineer-munich-478804",
+      "url": "https://www.arbeitnow.com/jobs/companies/xylem/qualitatsingenieur-quality-engineer-mainz-213465",
       "source": "arbeitnow",
       "date": "2026-10-26",
       "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag)",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "software development"
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c8478603",
+      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-59266",
+      "source": "arbeitnow",
+      "date": "2026-10-26",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "business development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8a984c7d",
+      "title": "OT Engineer",
+      "company": "Bell Food Group",
+      "location": "Basel",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bell-food-group/ot-engineer-basel-393706",
+      "source": "arbeitnow",
+      "date": "2026-10-26",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -51,6 +84,32 @@
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b348f0e4",
+      "title": "Mobile QA Engineer (iOS)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1318976-mobile-qa-engineer-ios",
+      "source": "hirify",
+      "date": "2026-10-26",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
