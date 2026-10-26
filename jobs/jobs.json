@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-10-25T20:20:42.754527+00:00",
-  "total": 55,
+  "updated_at": "2026-10-26T03:02:51.412252+00:00",
+  "total": 51,
   "jobs": [
+    {
+      "id": "b0703634",
+      "title": "Senior QA Engineer (f/m/d)",
+      "company": "idnow",
+      "location": "Rennes, Ille-et-Vilaine",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/idnow/senior-qa-engineer-rennes-ille-et-vilaine-449682",
+      "source": "arbeitnow",
+      "date": "2026-10-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "engineering & development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b8566b86",
+      "title": "Senior SDET Manager",
+      "company": "HighLevel",
+      "location": "India",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/highlevel/jobs/senior-sdet-manager?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software-development-manager",
+        "qa-engineering-manager",
+        "test-automation-manager",
+        "software-engineer-in-test",
+        "engineering-manager",
+        "software-engineering-manager",
+        "senior-software-development-engineer-in-test-(sdet)",
+        "senior-technical-manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8f31e6cd",
+      "title": "Sr. QA Specialist, Supplier Quality",
+      "company": "SAB Biotherapeutics",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/sab-biotherapeutics/jobs/sr-qa-specialist-supplier-quality?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-specialist",
+        "supplier-quality-specialist",
+        "gmp-specialist",
+        "sr.-qa-specialist",
+        "senior-supplier-quality-engineer-mechanical",
+        "principal-supplier-quality-engineer"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "2d8b7a33",
       "title": "Test Automation Engineer (m/f/d)",
@@ -16,23 +79,6 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "software"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "36b71e9a",
-      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
-      "company": "Foodji GmbH",
-      "location": "München, Bayern, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-310180",
-      "source": "arbeitnow",
-      "date": "2026-10-25",
-      "salary": "",
-      "type": "Entry, fulltime permanent",
-      "tags": [
-        "marketing"
       ],
       "miss_count": 0
     },
@@ -67,114 +113,6 @@
       "type": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
       "tags": [
         "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3ff80d48",
-      "title": "AI Product Analyst - Automation team",
-      "company": "MEDvidi",
-      "location": "Spain",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/medvidi/jobs/ai-product-analyst-automation-team-6420109969?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-product-analyst",
-        "product-analyst",
-        "data-analyst",
-        "ai-evaluation-specialist",
-        "ai-automation-product-management",
-        "ai-product-business-analyst",
-        "ai-product-data-analyst",
-        "automation-and-ai-analyst",
-        "ai-product-analytics",
-        "product-management-(ai)",
-        "ai-product-management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f528b2b1",
-      "title": "Marketing Operations Specialist",
-      "company": "Fyre Staffing Solutions",
-      "location": "Brazil",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/fyre-staffing-solutions/jobs/marketing-operations-specialist?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing-operations-specialist",
-        "content-operations-specialist",
-        "marketing-content-specialist",
-        "content-producer",
-        "marketing-automation-specialist",
-        "marketing-operations-analyst",
-        "marketing-operations-coordinator",
-        "marketing-operations-associate",
-        "product-marketing-operations-specialist",
-        "marketing-operations-administrator",
-        "marketing-operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8a35a61e",
-      "title": "AI Engineer (Part-time) Agentes de IA & Automatización",
-      "company": "AIT",
-      "location": "Spain",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/aitt/jobs/ai-engineer-part-time-agentes-de-ia-automatizacion?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-engineer",
-        "machine-learning-engineer",
-        "automation-engineer",
-        "software-engineer",
-        "ai-agents-engineer",
-        "ai-agent-engineer",
-        "ai-automation-engineer",
-        "ai-automations-engineer",
-        "ai-ml-automation-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6b10557c",
-      "title": "GTM Engineer",
-      "company": "Legalist",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/legalist/jobs/gtm-engineer?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-25",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "gtm-engineer",
-        "revenue-operations-engineer",
-        "sales-operations-engineer",
-        "growth-engineer",
-        "sales-engineer",
-        "gtm-systems-engineer",
-        "gtm-ai-engineer",
-        "gtm-automation-engineer",
-        "ai-gtm-engineer",
-        "gtm-technical-specialist",
-        "gtm-architect",
-        "gtm-engineering",
-        "gtm-systems-engineering"
       ],
       "miss_count": 0
     },
@@ -1375,57 +1313,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d5454697",
-      "title": "Manual Mobile QA, Mobile",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1156825-manual-mobile-qa",
-      "source": "hirify",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "859cd002",
-      "title": "QA Mobile Engineer",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1156329-qa-mobile-automation-engineer",
-      "source": "hirify",
-      "date": "2026-09-25",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
