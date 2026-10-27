@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-27T03:34:38.044901+00:00",
-  "total": 57,
+  "updated_at": "2026-10-27T11:33:19.604449+00:00",
+  "total": 56,
   "jobs": [
+    {
+      "id": "4130892c",
+      "title": "Working student Quality Department (f/m/d)",
+      "company": "PlantaCorp GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/working-student-quality-department-hamburg-427900",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Working student (werkstudent), working student, no experience required / student",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c5a972b1",
       "title": "Customs AI Integration & Automation Engineer (France)",
@@ -21,99 +38,83 @@
       "miss_count": 0
     },
     {
-      "id": "d2e01eb8",
-      "title": "IT Operations Transformation Lead",
-      "company": "Acciona IT",
+      "id": "af15579d",
+      "title": "Leittechnik-/OT-Systemingenieur ABB 800xA (m/w/d)",
+      "company": "TopTeam Engineering GmbH",
+      "location": "Baden",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/topteam-engineering-gmbh/leittechnik-ot-systemingenieur-abb-800xa-baden-19664",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "06f1f3b6",
+      "title": "Mechanisch monteur",
+      "company": "Technison",
+      "location": "Berkel en Rodenrijs",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-66320",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "deee8a8b",
+      "title": "QA Mobile Fullstack (Android)",
+      "company": "MAGNIT TECH",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1322642-qa-mobile-fullstack-android",
+      "source": "hirify",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bdc6dd92",
+      "title": "QA Automation Engineer (QB - QA - 20260617)",
+      "company": "Celara",
       "location": "Argentina",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/acciona-it/jobs/it-operations-transformation-lead?utm_source=api",
+      "url": "https://himalayas.app/companies/celara/jobs/qa-automation-engineer-qb-qa-20260617-5520482177?utm_source=api",
       "source": "himalayas",
       "date": "2026-10-27",
       "salary": "",
       "type": "",
       "tags": [
-        "it-operations-lead",
-        "automation-lead",
-        "aiops-lead",
-        "digital-transformation-lead",
-        "transformation-lead",
-        "lead-it-operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cc5e54b9",
-      "title": "GoHighLevel (GHL) Specialist — Automation & Customer Support (Gym Business) — Br",
-      "company": "Seamless Assist",
-      "location": "Brazil",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/seamless-assist/jobs/gohighlevel-ghl-specialist-automation-customer-support-gym-business-br?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "crm-automation-specialist",
-        "gohighlevel-specialist",
-        "marketing-automation-specialist",
-        "customer-support-specialist",
-        "sales-operations-specialist",
-        "ghl-automation-specialist",
-        "gohighlevel-crm-expert",
-        "customer-support"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "57b908ad",
-      "title": "Senior GTM Systems AI and Automation Engineer",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-436740",
-      "source": "arbeitnow",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "revenue operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b67ccd79",
-      "title": "Qualitätsingenieur / Quality Engineer (m/w/d)",
-      "company": "Xylem",
-      "location": "Mainz",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/xylem/qualitatsingenieur-quality-engineer-mainz-213465",
-      "source": "arbeitnow",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c8478603",
-      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-59266",
-      "source": "arbeitnow",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "business development"
+        "qa-automation-engineer",
+        "sdet",
+        "automation-testing",
+        "quality-engineer",
+        "software-engineer-in-test"
       ],
       "miss_count": 0
     },
@@ -222,23 +223,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d1f1693e",
-      "title": "Mechanisch monteur",
-      "company": "Technison",
-      "location": "Berkel en Rodenrijs",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-32220",
-      "source": "arbeitnow",
-      "date": "2026-10-25",
-      "salary": "",
-      "type": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
