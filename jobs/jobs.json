@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T17:24:49.693257+00:00",
+  "updated_at": "2026-10-27T21:47:15.436307+00:00",
   "total": 60,
   "jobs": [
     {
@@ -54,19 +54,19 @@
       "miss_count": 0
     },
     {
-      "id": "1c34a19d",
-      "title": "Senior Director, Controls & Automation",
-      "company": "Stack Infrastructure Emea",
-      "location": "London Office",
+      "id": "859ad72e",
+      "title": "Quality Assurance Engineer - Research Participants - United Kingdom",
+      "company": "Prolificacademicltd",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-director-controls-automation-london-456215",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolificacademicltd/quality-assurance-engineer-research-participants-united-kingdom-243736",
       "source": "arbeitnow",
       "date": "2026-10-27",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "delivery"
+        "human data recruitment"
       ],
       "miss_count": 0
     },
@@ -118,6 +118,23 @@
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "08b5860c",
+      "title": "Interim QA Specialist",
+      "company": "Rentman",
+      "location": "Utrecht",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/interim-qa-specialist-utrecht-458492",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "r&d"
       ],
       "miss_count": 0
     },
@@ -278,31 +295,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "972dba34",
-      "title": "Senior Mobile QA Analyst (Cybersecurity)",
-      "company": "CrowdStrike",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1309692-senior-mobile-qa-automation",
-      "source": "hirify",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
