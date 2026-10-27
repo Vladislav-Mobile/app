@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-10-26T22:15:19.528711+00:00",
-  "total": 56,
+  "updated_at": "2026-10-27T03:34:38.044901+00:00",
+  "total": 57,
   "jobs": [
+    {
+      "id": "c5a972b1",
+      "title": "Customs AI Integration & Automation Engineer (France)",
+      "company": "Customs Support Group",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "it & tech",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d2e01eb8",
+      "title": "IT Operations Transformation Lead",
+      "company": "Acciona IT",
+      "location": "Argentina",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/acciona-it/jobs/it-operations-transformation-lead?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "it-operations-lead",
+        "automation-lead",
+        "aiops-lead",
+        "digital-transformation-lead",
+        "transformation-lead",
+        "lead-it-operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cc5e54b9",
+      "title": "GoHighLevel (GHL) Specialist — Automation & Customer Support (Gym Business) — Br",
+      "company": "Seamless Assist",
+      "location": "Brazil",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/seamless-assist/jobs/gohighlevel-ghl-specialist-automation-customer-support-gym-business-br?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "crm-automation-specialist",
+        "gohighlevel-specialist",
+        "marketing-automation-specialist",
+        "customer-support-specialist",
+        "sales-operations-specialist",
+        "ghl-automation-specialist",
+        "gohighlevel-crm-expert",
+        "customer-support"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "57b908ad",
       "title": "Senior GTM Systems AI and Automation Engineer",
@@ -158,56 +222,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "afeec5b7",
-      "title": "Senior Design Engineer",
-      "company": "Divcon Controls",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/divcon-controls/jobs/senior-design-engineer?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "design-engineer",
-        "senior-design-engineer",
-        "controls-engineer",
-        "building-automation-engineer",
-        "mep-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a5cf7d2e",
-      "title": "Data Director",
-      "company": "RAB2B",
-      "location": "Brazil",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/rab2b/jobs/data-director?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "data-director",
-        "data-strategy-director",
-        "head-of-data",
-        "analytics-director",
-        "director-of-data",
-        "data-management-director",
-        "data-operations-director",
-        "data-quality-director",
-        "data-warehouse-director",
-        "data-solutions-director",
-        "healthcare-data-director",
-        "data-platform-director",
-        "management"
       ],
       "miss_count": 0
     },
