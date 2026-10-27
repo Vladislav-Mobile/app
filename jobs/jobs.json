@@ -1,39 +1,106 @@
 {
-  "updated_at": "2026-10-27T11:33:19.604449+00:00",
-  "total": 56,
+  "updated_at": "2026-10-27T17:24:49.693257+00:00",
+  "total": 60,
   "jobs": [
     {
-      "id": "4130892c",
-      "title": "Working student Quality Department (f/m/d)",
-      "company": "PlantaCorp GmbH",
-      "location": "Hamburg",
+      "id": "e5e815ac",
+      "title": "Elektroniker / Automatisierungstechniker (m/w/d) für Inbetriebnahme",
+      "company": "Personalized Nutrition Systems GmbH",
+      "location": "Bornheim",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/plantacorp-gmbh/working-student-quality-department-hamburg-427900",
+      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/elektroniker-automatisierungstechniker-fur-inbetriebnahme-bornheim-431689",
       "source": "arbeitnow",
       "date": "2026-10-27",
       "salary": "",
-      "type": "Working student (werkstudent), working student, no experience required / student",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "026e1d02",
+      "title": "Mitarbeiter (m/w/d) Qualität / Qualitätsmanager (m/w/d)",
+      "company": "tecnotron elektronik gmbh",
+      "location": "Weißensberg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecnotron-elektronik-gmbh/mitarbeiter-qualitat-qualitatsmanager-weissensberg-339943",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "c5a972b1",
-      "title": "Customs AI Integration & Automation Engineer (France)",
-      "company": "Customs Support Group",
-      "location": "Remote job",
-      "remote": true,
+      "id": "04d3b93c",
+      "title": "Senior AI Software Engineer",
+      "company": "nice",
+      "location": "",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-368837",
       "source": "arbeitnow",
       "date": "2026-10-27",
       "salary": "",
-      "type": "Experienced, fulltime permanent",
+      "type": "",
       "tags": [
-        "it & tech",
-        "remote"
+        "cx - agentic experience automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1c34a19d",
+      "title": "Senior Director, Controls & Automation",
+      "company": "Stack Infrastructure Emea",
+      "location": "London Office",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-director-controls-automation-london-456215",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "delivery"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "dd120a0d",
+      "title": "QA Manager",
+      "company": "Sonio",
+      "location": "Paris office",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sonio/qa-manager-paris-261424",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "r&d"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7f1fa86a",
+      "title": "Quality & Process - Stage 6 mois",
+      "company": "Joivy",
+      "location": "Paris, Île-de-France, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/joivy/quality-process-stage-6-mois-paris-201459",
+      "source": "arbeitnow",
+      "date": "2026-10-27",
+      "salary": "",
+      "type": "Student college, internship",
+      "tags": [
+        "customer operations"
       ],
       "miss_count": 0
     },
@@ -98,23 +165,20 @@
       "miss_count": 0
     },
     {
-      "id": "bdc6dd92",
-      "title": "QA Automation Engineer (QB - QA - 20260617)",
-      "company": "Celara",
-      "location": "Argentina",
+      "id": "0f5e9ee6",
+      "title": "Ищу Middle/Senior QA Automation (Java) / Fullstack QA",
+      "company": "",
+      "location": "Remote",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/celara/jobs/qa-automation-engineer-qb-qa-20260617-5520482177?utm_source=api",
-      "source": "himalayas",
+      "url": "https://t.me/qa_jobs/261363",
+      "source": "telegram",
       "date": "2026-10-27",
       "salary": "",
       "type": "",
       "tags": [
-        "qa-automation-engineer",
-        "sdet",
-        "automation-testing",
-        "quality-engineer",
-        "software-engineer-in-test"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
