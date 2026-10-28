@@ -1,106 +1,102 @@
 {
-  "updated_at": "2026-10-27T21:47:15.436307+00:00",
-  "total": 60,
+  "updated_at": "2026-10-28T03:51:17.260630+00:00",
+  "total": 57,
   "jobs": [
     {
-      "id": "e5e815ac",
-      "title": "Elektroniker / Automatisierungstechniker (m/w/d) für Inbetriebnahme",
-      "company": "Personalized Nutrition Systems GmbH",
-      "location": "Bornheim",
+      "id": "ea9826d0",
+      "title": "Senior Business Transformation Analyst – Quality Management",
+      "company": "Intersnack Group GmbH & Co. KG",
+      "location": "Düsseldorf, Nordrhein-Westfalen, Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/personalized-nutrition-systems-gmbh/elektroniker-automatisierungstechniker-fur-inbetriebnahme-bornheim-431689",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/intersnack-group-gmbh-co-kg/senior-business-transformation-analyst-quality-management-dusseldorf-145628",
       "source": "arbeitnow",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Experienced, fulltime permanent",
       "tags": [
-        "automation engineering"
+        "business transformation"
       ],
       "miss_count": 0
     },
     {
-      "id": "026e1d02",
-      "title": "Mitarbeiter (m/w/d) Qualität / Qualitätsmanager (m/w/d)",
-      "company": "tecnotron elektronik gmbh",
-      "location": "Weißensberg",
+      "id": "803b98c2",
+      "title": "Electromechanical Quality Inspector Level II – Welding / HVAC Systems",
+      "company": "SQA Services",
+      "location": "Worchester",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecnotron-elektronik-gmbh/mitarbeiter-qualitat-qualitatsmanager-weissensberg-339943",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sqa-services/electromechanical-quality-inspector-level-ii-welding-hvac-systems-worchester-271994",
       "source": "arbeitnow",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Contract: Part-Time",
       "tags": [
-        "quality management"
+        "industrial"
       ],
       "miss_count": 0
     },
     {
-      "id": "04d3b93c",
-      "title": "Senior AI Software Engineer",
-      "company": "nice",
-      "location": "",
+      "id": "5bab6570",
+      "title": "Senior Technical Architect & Developer – Marketing Automation",
+      "company": "Sonarsource",
+      "location": "Geneva",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-ai-software-engineer-368837",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/senior-technical-architect-developer-marketing-automation-geneva-350884",
       "source": "arbeitnow",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
+      "salary": "",
+      "type": "Employee / Full-Time",
+      "tags": [
+        "business technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f97fd7a3",
+      "title": "French Content Specialist (US)",
+      "company": "Welo Global",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/welo-global/jobs/french-content-specialist-us?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-28",
       "salary": "",
       "type": "",
       "tags": [
-        "cx - agentic experience automation"
+        "content-specialist",
+        "content-curation-specialist",
+        "language-specialist",
+        "qa-specialist",
+        "french-language-content-specialist",
+        "french-content-editor",
+        "french-content-writer"
       ],
       "miss_count": 0
     },
     {
-      "id": "859ad72e",
-      "title": "Quality Assurance Engineer - Research Participants - United Kingdom",
-      "company": "Prolificacademicltd",
-      "location": "",
-      "remote": false,
+      "id": "fd1f62ed",
+      "title": "Web QA Engineer (Part-time)",
+      "company": "Expedock",
+      "location": "Philippines",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolificacademicltd/quality-assurance-engineer-research-participants-united-kingdom-243736",
-      "source": "arbeitnow",
-      "date": "2026-10-27",
+      "url": "https://himalayas.app/companies/expedock/jobs/web-qa-engineer-part-time?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-10-28",
       "salary": "",
       "type": "",
       "tags": [
-        "human data recruitment"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "dd120a0d",
-      "title": "QA Manager",
-      "company": "Sonio",
-      "location": "Paris office",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sonio/qa-manager-paris-261424",
-      "source": "arbeitnow",
-      "date": "2026-10-27",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "r&d"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7f1fa86a",
-      "title": "Quality & Process - Stage 6 mois",
-      "company": "Joivy",
-      "location": "Paris, Île-de-France, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/joivy/quality-process-stage-6-mois-paris-201459",
-      "source": "arbeitnow",
-      "date": "2026-10-27",
-      "salary": "",
-      "type": "Student college, internship",
-      "tags": [
-        "customer operations"
+        "web-qa-engineer",
+        "qa-engineer",
+        "software-test-engineer",
+        "manual-qa-engineer",
+        "web-application-testing",
+        "web-qa-specialist",
+        "web-qa-engineering",
+        "software-qa-and-testing-engineer"
       ],
       "miss_count": 0
     },
@@ -135,23 +131,6 @@
       "type": "Full Time",
       "tags": [
         "r&d"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "06f1f3b6",
-      "title": "Mechanisch monteur",
-      "company": "Technison",
-      "location": "Berkel en Rodenrijs",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/technison/mechanisch-monteur-berkel-en-rodenrijs-66320",
-      "source": "arbeitnow",
-      "date": "2026-10-27",
-      "salary": "",
-      "type": "Vast dienstverband (onbepaalde tijd), professional / ervaren",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -1455,30 +1434,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8b67f067",
-      "title": "QA Engineer Junior (Mobile)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1173024-qa-engineer-junior-mobile",
-      "source": "hirify",
-      "date": "2026-09-29",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
