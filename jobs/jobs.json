@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T03:51:17.260630+00:00",
+  "updated_at": "2026-10-28T12:03:17.457573+00:00",
   "total": 57,
   "jobs": [
     {
@@ -16,23 +16,6 @@
       "type": "Experienced, fulltime permanent",
       "tags": [
         "business transformation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "803b98c2",
-      "title": "Electromechanical Quality Inspector Level II – Welding / HVAC Systems",
-      "company": "SQA Services",
-      "location": "Worchester",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sqa-services/electromechanical-quality-inspector-level-ii-welding-hvac-systems-worchester-271994",
-      "source": "arbeitnow",
-      "date": "2026-10-28",
-      "salary": "",
-      "type": "Contract: Part-Time",
-      "tags": [
-        "industrial"
       ],
       "miss_count": 0
     },
@@ -54,49 +37,59 @@
       "miss_count": 0
     },
     {
-      "id": "f97fd7a3",
-      "title": "French Content Specialist (US)",
-      "company": "Welo Global",
-      "location": "United States",
+      "id": "43692b96",
+      "title": "Medical Device Software Quality Engineer",
+      "company": "Deciphex",
+      "location": "Ireland",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/welo-global/jobs/french-content-specialist-us?utm_source=api",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/deciphex/jobs/medical-device-software-quality-engineer?utm_source=api",
       "source": "himalayas",
       "date": "2026-10-28",
       "salary": "",
       "type": "",
       "tags": [
-        "content-specialist",
-        "content-curation-specialist",
-        "language-specialist",
-        "qa-specialist",
-        "french-language-content-specialist",
-        "french-content-editor",
-        "french-content-writer"
+        "medical-device-software-engineer",
+        "software-quality-engineer",
+        "quality-assurance-engineer",
+        "medical-device-quality-engineering",
+        "regulatory-affairs-specialist",
+        "medical-device-quality-specialist",
+        "software-design-quality-engineer",
+        "healthcare-qa-engineer",
+        "software-qa-engineer",
+        "software-quality-assurance-engineer",
+        "quality-engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "fd1f62ed",
-      "title": "Web QA Engineer (Part-time)",
-      "company": "Expedock",
-      "location": "Philippines",
+      "id": "9ed8a8e2",
+      "title": "Associate Software Quality & Test Analyst",
+      "company": "Parexel",
+      "location": "India",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/expedock/jobs/web-qa-engineer-part-time?utm_source=api",
+      "url": "https://himalayas.app/companies/parexel/jobs/associate-software-quality-test-analyst?utm_source=api",
       "source": "himalayas",
       "date": "2026-10-28",
       "salary": "",
       "type": "",
       "tags": [
-        "web-qa-engineer",
-        "qa-engineer",
-        "software-test-engineer",
-        "manual-qa-engineer",
-        "web-application-testing",
-        "web-qa-specialist",
-        "web-qa-engineering",
-        "software-qa-and-testing-engineer"
+        "quality-assurance-associate",
+        "software-test-analyst",
+        "computer-system-validation-analyst",
+        "qa-analyst",
+        "qa-testing-associate",
+        "associate-qa-engineer",
+        "software-quality-assurance-analyst",
+        "software-qa-analyst",
+        "software-qa-and-testing-engineer",
+        "software-quality-assurance-engineer",
+        "qa-test-analyst",
+        "associate-qa-automation-engineer",
+        "software-quality-analyst",
+        "quality-testing-analyst"
       ],
       "miss_count": 0
     },
@@ -175,6 +168,26 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c229253d",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "source": "remotive",
+      "date": "2026-10-26",
+      "salary": "",
+      "type": "full_time",
+      "tags": [
+        "ai/ml",
+        "startup",
+        "marketplace",
+        "fundraising"
       ],
       "miss_count": 0
     },
