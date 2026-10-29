@@ -1,132 +1,89 @@
 {
-  "updated_at": "2026-10-29T12:13:53.544168+00:00",
-  "total": 67,
+  "updated_at": "2026-10-29T22:23:49.223870+00:00",
+  "total": 63,
   "jobs": [
     {
-      "id": "9002bf1d",
-      "title": "Elektroniker Automatisierungstechnik (m/w/d)",
-      "company": "Riverstate Premium Recruiting",
-      "location": "Lingen",
+      "id": "e169a663",
+      "title": "Robotics Test Automation Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/elektroniker-automatisierungstechnik-lingen-77063",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "80d8673f",
-      "title": "Senior QA Engineer (m/f/d)",
-      "company": "Boardwise GmbH",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-qa-engineer-berlin-462833",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Permanent employment, professional / experienced",
-      "tags": [
-        "remote",
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "da82064a",
-      "title": "Specialist Vigilanz & Post-Market Surveillance (m/w/d)",
-      "company": "ADVITOS GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/advitos-gmbh/specialist-vigilanz-post-market-surveillance-munich-357539",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9de96ada",
-      "title": "Elektroniker / Automatisierungstechniker (m/w/d)",
-      "company": "TD-BW Automatisierungstechnik GmbH",
-      "location": "Bitterfeld-Wolfen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/td-bw-automatisierungstechnik-gmbh/elektroniker-automatisierungstechniker-bitterfeld-wolfen-224115",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b13e75f8",
-      "title": "QA Automation Engineer - AI",
-      "company": "Anaplan",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/qa-automation-engineer-ai-london-276846",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/robotics-test-automation-engineer-munich-bavaria-152983",
       "source": "arbeitnow",
       "date": "2026-10-29",
       "salary": "",
       "type": "",
       "tags": [
-        "engineering"
+        "intelligent solutions applications"
       ],
       "miss_count": 0
     },
     {
-      "id": "3296ab76",
-      "title": "Senior Software QA Engineer",
-      "company": "Comind",
-      "location": "London, UK",
+      "id": "928ad24b",
+      "title": "Automation Engineer (PLC/SCADA)",
+      "company": "Stealthrocketrystartup",
+      "location": "Germany",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/senior-software-qa-engineer-london-102034",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/automation-engineer-plc-scada-germany-138004",
       "source": "arbeitnow",
       "date": "2026-10-29",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "product development"
+        "operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "4b385ed2",
-      "title": "AMR Pre-Sales Solution Engineer – French & Mandarin Speaking",
-      "company": "Hikrobot Europe",
-      "location": "Hikrobot Europe B.V. (France)",
+      "id": "93176f7c",
+      "title": "Softwarearchitekt – HMI / Automatisierungstechnik (w/m/d)",
+      "company": "Right Search",
+      "location": "Bern",
       "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hikrobot-europe/amr-pre-sales-solution-engineer-french-mandarin-speaking-hikrobot-europe-bv-france-425198",
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/right-search/softwarearchitekt-hmi-automatisierungstechnik-bern-279865",
       "source": "arbeitnow",
       "date": "2026-10-29",
       "salary": "",
-      "type": "Entry, Permanent, Full time",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "amr",
-        "agv",
-        "warehouse automation",
-        "intralogistics",
-        "solution engineering",
-        "pre-sales",
-        "autocad",
-        "french",
-        "chinese"
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a39add2c",
+      "title": "Ingénieur MES (h/f)",
+      "company": "Enova Consulting",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/ingenieur-mes-h-f-lausanne-340137",
+      "source": "arbeitnow",
+      "date": "2026-10-29",
+      "salary": "",
+      "type": "Contrat à durée indéterminée (unbefristeter arbeitsvertrag), professionnel / expérimenté",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f1597157",
+      "title": "Projektmanager (m/w/d) Agentic Quality Engineering (Ref.Nr.: 48109)",
+      "company": "Wavestone Germany AG",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/projektmanager-agentic-quality-engineering-refnr-48109-zurich-418009",
+      "source": "arbeitnow",
+      "date": "2026-10-29",
+      "salary": "",
+      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
+      "tags": [
+        "it"
       ],
       "miss_count": 0
     },
@@ -227,60 +184,30 @@
       "miss_count": 0
     },
     {
-      "id": "2c1b84ad",
-      "title": "QMS Implementation Specialist / Project Manager",
-      "company": "Genovice",
-      "location": "United States",
+      "id": "77342a7b",
+      "title": "Content Specialist",
+      "company": "Talent Shore",
+      "location": "South Africa",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/genovice/jobs/qms-implementation-specialist-project-manager?utm_source=api",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/talent-shore/jobs/content-specialist?utm_source=api",
       "source": "himalayas",
       "date": "2026-10-29",
       "salary": "",
       "type": "",
       "tags": [
-        "qms-specialist",
-        "project-manager",
-        "quality-systems-auditor",
-        "validation-consultant",
-        "life-sciences-consultant",
-        "eqms-project-manager",
-        "qms-implementation",
-        "implementation-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "344c0fb2",
-      "title": "Production Tester",
-      "company": "Priva",
-      "location": "De Lier, Zuid-Holland, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/priva/production-tester-de-lier-108643",
-      "source": "arbeitnow",
-      "date": "2026-10-28",
-      "salary": "",
-      "type": "Mid, fulltime fixed term",
-      "tags": [
-        "production & logistics"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "355399cc",
-      "title": "Engineering Director - Building Automation",
-      "company": "Priva",
-      "location": "De Lier, Zuid-Holland, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/priva/engineering-director-building-automation-de-lier-312369",
-      "source": "arbeitnow",
-      "date": "2026-10-28",
-      "salary": "",
-      "type": "Manager, fulltime permanent",
-      "tags": [
-        "tech & data"
+        "content-specialist",
+        "content-marketing-specialist",
+        "digital-content-strategist",
+        "b2b-content-writer",
+        "marketing-automation-specialist",
+        "content-development-specialist",
+        "marketing-content-specialist",
+        "content-creation-specialist",
+        "web-content-specialist",
+        "content-management-specialist",
+        "seo-content-specialist",
+        "content-creator"
       ],
       "miss_count": 0
     },
