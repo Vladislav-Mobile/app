@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-10-29T22:23:49.223870+00:00",
-  "total": 63,
+  "updated_at": "2026-10-30T04:14:16.019443+00:00",
+  "total": 58,
   "jobs": [
+    {
+      "id": "60d4870d",
+      "title": "Senior AI Automation & Service Engineer",
+      "company": "Bumble Inc.",
+      "location": "UK London",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bumble-inc/senior-ai-automation-service-engineer-london-74972",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "information technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6f759b83",
+      "title": "SQL Developer – AI Prompting & Context Engineering",
+      "company": "Bromcom Computers Plc",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "software & qa",
+        "remote"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "e169a663",
       "title": "Robotics Test Automation Engineer (m/f/d)",
@@ -88,76 +123,6 @@
       "miss_count": 0
     },
     {
-      "id": "77665773",
-      "title": "Junior Quality Associate (m/w/d) for CSL Behring",
-      "company": "We make it GmbH",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/junior-quality-associate-for-csl-behring-bern-292863",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Fixed-term contract (befristeter arbeitsvertrag), entry",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d7671786",
-      "title": "Quality Associate (m/w/d) for CSL Behring",
-      "company": "We make it GmbH",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/quality-associate-for-csl-behring-bern-260702",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Fixed-term contract (befristeter arbeitsvertrag), professional / experienced",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a05c16dc",
-      "title": "AI Automation Intern (Sustainability)",
-      "company": "Prosus",
-      "location": "Amsterdam",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-sustainability-amsterdam-334804",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "people"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "11188e29",
-      "title": "Test Analyst | Data Driven Applications | SQL & Python | Almere, Netherlands",
-      "company": "Ilias Solutions",
-      "location": "Almere",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/ilias-solutions/test-analyst-data-driven-applications-sql-python-almere-netherlands-272968",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "test",
-        "testing",
-        "software"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "d4db7b5f",
       "title": "Manual QA (Backend / Web / Mobile)",
       "company": "Centicore",
@@ -180,34 +145,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "77342a7b",
-      "title": "Content Specialist",
-      "company": "Talent Shore",
-      "location": "South Africa",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/talent-shore/jobs/content-specialist?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "content-specialist",
-        "content-marketing-specialist",
-        "digital-content-strategist",
-        "b2b-content-writer",
-        "marketing-automation-specialist",
-        "content-development-specialist",
-        "marketing-content-specialist",
-        "content-creation-specialist",
-        "web-content-specialist",
-        "content-management-specialist",
-        "seo-content-specialist",
-        "content-creator"
       ],
       "miss_count": 0
     },
@@ -1557,57 +1494,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e70e2143",
-      "title": "QA Engineer, Games Platform & Analytics - Mattel Games Studio (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1179379-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-09-29",
-      "salary": "USD 120000–150000",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fedbb861",
-      "title": "QA Engineer, Games Platform & Analytics (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1175992-qa-engineer-mobile-games-analytics",
-      "source": "hirify",
-      "date": "2026-09-29",
-      "salary": "USD 120000–150000",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
