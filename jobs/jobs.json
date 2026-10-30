@@ -1,73 +1,145 @@
 {
-  "updated_at": "2026-10-30T04:14:16.019443+00:00",
-  "total": 58,
+  "updated_at": "2026-10-30T12:04:16.349767+00:00",
+  "total": 60,
   "jobs": [
     {
-      "id": "60d4870d",
-      "title": "Senior AI Automation & Service Engineer",
-      "company": "Bumble Inc.",
-      "location": "UK London",
+      "id": "b4134247",
+      "title": "Sachbearbeiter/ Mitarbeiter:in Qualitätssicherung",
+      "company": "ABC Kunststoff- und Extrusionstechnik GmbH",
+      "location": "Siegburg",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bumble-inc/senior-ai-automation-service-engineer-london-74972",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/abc-kunststoff-und-extrusionstechnik-gmbh/sachbearbeiter-mitarbeiterin-qualitatssicherung-siegburg-142084",
       "source": "arbeitnow",
       "date": "2026-10-30",
       "salary": "",
-      "type": "Full Time",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "information technology"
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
     {
-      "id": "6f759b83",
-      "title": "SQL Developer – AI Prompting & Context Engineering",
-      "company": "Bromcom Computers Plc",
-      "location": "Remote job",
+      "id": "1be91b4b",
+      "title": "Softwaretester / QA Engineer – App & Gerätesoftware (m/w/d)",
+      "company": "Augletics GmbH",
+      "location": "Königs Wusterhausen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/augletics-gmbh/softwaretester-qa-engineer-app-geratesoftware-konigs-wusterhausen-111844",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5a4f9d1d",
+      "title": "Operations Manager & AI Automation - Traineeship (m/w/d)",
+      "company": "Digitale Leute School",
+      "location": "Cologne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/operations-manager-ai-automation-traineeship-cologne-164599",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Trainee-programm, traineeship, berufseinstieg",
+      "tags": [
+        "business operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3b5be1e7",
+      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-424058",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "business development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "635fe887",
+      "title": "Elektroniker (w/m/d) - Automatisierungstechnik",
+      "company": "DPI Automatisierungssysteme GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dpi-automatisierungssysteme-gmbh/elektroniker-automatisierungstechnik-berlin-349899",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b99bf441",
+      "title": "Senior CRM Manager (m/w/d) - E-Mail-Marketing & Automation",
+      "company": "eRecht24 GmbH & Co. KG",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/erecht24-gmbh-co-kg/senior-crm-manager-e-mail-marketing-automation-berlin-267465",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "crm",
+        "direct marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c40133c6",
+      "title": "Test Automation Engineer UiPath",
+      "company": "Infometis AG",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/infometis-ag/test-automation-engineer-uipath-zurich-440417",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "208d4c63",
+      "title": "Компания: RedLab",
+      "company": "",
+      "location": "Remote",
       "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-sql-developer-ai-prompting-context-engineering-bromley-268635",
-      "source": "arbeitnow",
+      "url": "https://t.me/qa_jobs/261465",
+      "source": "telegram",
       "date": "2026-10-30",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "software & qa",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e169a663",
-      "title": "Robotics Test Automation Engineer (m/f/d)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/robotics-test-automation-engineer-munich-bavaria-152983",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
       "salary": "",
       "type": "",
       "tags": [
-        "intelligent solutions applications"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "928ad24b",
-      "title": "Automation Engineer (PLC/SCADA)",
-      "company": "Stealthrocketrystartup",
-      "location": "Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/automation-engineer-plc-scada-germany-138004",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -85,40 +157,6 @@
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a39add2c",
-      "title": "Ingénieur MES (h/f)",
-      "company": "Enova Consulting",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/enova-consulting/ingenieur-mes-h-f-lausanne-340137",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Contrat à durée indéterminée (unbefristeter arbeitsvertrag), professionnel / expérimenté",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f1597157",
-      "title": "Projektmanager (m/w/d) Agentic Quality Engineering (Ref.Nr.: 48109)",
-      "company": "Wavestone Germany AG",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/projektmanager-agentic-quality-engineering-refnr-48109-zurich-418009",
-      "source": "arbeitnow",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
-      "tags": [
-        "it"
       ],
       "miss_count": 0
     },
