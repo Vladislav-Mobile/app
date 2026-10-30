@@ -1,109 +1,142 @@
 {
-  "updated_at": "2026-10-30T12:04:16.349767+00:00",
-  "total": 60,
+  "updated_at": "2026-10-30T21:54:47.162499+00:00",
+  "total": 62,
   "jobs": [
     {
-      "id": "b4134247",
-      "title": "Sachbearbeiter/ Mitarbeiter:in Qualitätssicherung",
-      "company": "ABC Kunststoff- und Extrusionstechnik GmbH",
-      "location": "Siegburg",
+      "id": "b803fd79",
+      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/abc-kunststoff-und-extrusionstechnik-gmbh/sachbearbeiter-mitarbeiterin-qualitatssicherung-siegburg-142084",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-477705",
       "source": "arbeitnow",
       "date": "2026-10-30",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "1be91b4b",
-      "title": "Softwaretester / QA Engineer – App & Gerätesoftware (m/w/d)",
-      "company": "Augletics GmbH",
-      "location": "Königs Wusterhausen",
+      "id": "6800643b",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/augletics-gmbh/softwaretester-qa-engineer-app-geratesoftware-konigs-wusterhausen-111844",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-329086",
       "source": "arbeitnow",
       "date": "2026-10-30",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5a4f9d1d",
-      "title": "Operations Manager & AI Automation - Traineeship (m/w/d)",
-      "company": "Digitale Leute School",
-      "location": "Cologne",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/digitale-leute-school/operations-manager-ai-automation-traineeship-cologne-164599",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Trainee-programm, traineeship, berufseinstieg",
-      "tags": [
-        "business operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3b5be1e7",
-      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-424058",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "business development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "635fe887",
-      "title": "Elektroniker (w/m/d) - Automatisierungstechnik",
-      "company": "DPI Automatisierungssysteme GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dpi-automatisierungssysteme-gmbh/elektroniker-automatisierungstechnik-berlin-349899",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "b99bf441",
-      "title": "Senior CRM Manager (m/w/d) - E-Mail-Marketing & Automation",
-      "company": "eRecht24 GmbH & Co. KG",
-      "location": "Berlin",
+      "id": "7a09217f",
+      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/erecht24-gmbh-co-kg/senior-crm-manager-e-mail-marketing-automation-berlin-267465",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-4453",
       "source": "arbeitnow",
       "date": "2026-10-30",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "crm",
-        "direct marketing"
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bf78d5d4",
+      "title": "Software QA Engineer II",
+      "company": "Axon",
+      "location": "Kassel, Hesse",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/axon/software-qa-engineer-ii-kassel-hesse-363426",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "2024 dedrone r&d"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7b66627f",
+      "title": "Senior Mobile Quality Engineer",
+      "company": "Lendable",
+      "location": "UK Remote",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-senior-mobile-quality-engineer-206450",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering & product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "96f451a0",
+      "title": "Scientific Data Manager - Données biologiques & Data Quality",
+      "company": "Excelya",
+      "location": "Saclay, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/scientific-data-manager-donnees-biologiques-data-quality-saclay-127724",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Full time, associate",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "027bedce",
+      "title": "Quality Assurance Engineer",
+      "company": "Crypto Finance",
+      "location": "Zürich, Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/crypto-finance/quality-assurance-engineer-zurich-31665",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Full time, associate",
+      "tags": [
+        "quality assurance",
+        "financial services",
+        "crypto finance ag"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "55c5ed57",
+      "title": "Projektleiter/in Automation 80 - 100 %",
+      "company": "two.jobs",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleiter-in-automation-80-100-zurich-178987",
+      "source": "arbeitnow",
+      "date": "2026-10-30",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -144,19 +177,38 @@
       "miss_count": 0
     },
     {
-      "id": "93176f7c",
-      "title": "Softwarearchitekt – HMI / Automatisierungstechnik (w/m/d)",
-      "company": "Right Search",
-      "location": "Bern",
-      "remote": false,
+      "id": "e4dc1f4c",
+      "title": "Cloud Engineer Automation",
+      "company": "Smile Digital Health",
+      "location": "Toronto, Ontario",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/right-search/softwarearchitekt-hmi-automatisierungstechnik-bern-279865",
-      "source": "arbeitnow",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "source": "remoteok",
       "date": "2026-10-29",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "full-time",
       "tags": [
-        "automation engineering"
+        "design",
+        "grafana",
+        "infosec",
+        "python",
+        "customer support",
+        "marketing",
+        "dev",
+        "quality assurance",
+        "devops",
+        "education",
+        "cloud",
+        "git",
+        "postgres",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter",
+        "digital nomad"
       ],
       "miss_count": 0
     },
