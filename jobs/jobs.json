@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T03:55:34.515352+00:00",
-  "total": 59,
+  "updated_at": "2026-10-31T11:38:49.401244+00:00",
+  "total": 57,
   "jobs": [
     {
       "id": "5ecb69e1",
@@ -37,70 +37,21 @@
       "miss_count": 0
     },
     {
-      "id": "1fac4ac8",
-      "title": "Junior Data Quality Analyst",
-      "company": "Kpler",
-      "location": "London",
+      "id": "0aeca04a",
+      "title": "Responsable qualité CDD 6 mois- renouvelable (H/F)",
+      "company": "Sogeclair",
+      "location": "Boulogne-Billancourt, France",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/junior-data-quality-analyst-london-42888",
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/responsable-qualite-cdd-6-mois-renouvelable-h-f-boulogne-billancourt-461030",
       "source": "arbeitnow",
       "date": "2026-10-31",
       "salary": "",
-      "type": "Full-time",
+      "type": "Temporary, mid-senior",
       "tags": [
-        "oil & chemicals"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "48d3a726",
-      "title": "Senior QA Engineer",
-      "company": "Keyloop",
-      "location": "UK (Petersfield)",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/keyloop/senior-qa-engineer-uk-petersfield-490636",
-      "source": "arbeitnow",
-      "date": "2026-10-31",
-      "salary": "",
-      "type": "Employee",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b803fd79",
-      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-477705",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6800643b",
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-329086",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "automation engineering"
+        "quality assurance",
+        "automotive",
+        "sogeclair simulation"
       ],
       "miss_count": 0
     },
@@ -173,6 +124,49 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "58095814",
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "source": "remotive",
+      "date": "2026-10-29",
+      "salary": "$3.5k–$5k/month",
+      "type": "contract",
+      "tags": [
+        "admin",
+        "api",
+        "aws",
+        "backend",
+        "cloud",
+        "docker",
+        "frontend",
+        "fullstack",
+        "javascript",
+        "react",
+        "security",
+        "ui/ux",
+        "ai/ml",
+        "automation",
+        "documentation",
+        "healthcare",
+        "typescript ",
+        "web applications",
+        "solid",
+        "json",
+        "serverless",
+        "next.js",
+        "github",
+        "rest",
+        "mental health",
+        "baas",
+        "datadog"
       ],
       "miss_count": 0
     },
