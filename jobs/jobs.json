@@ -1,7 +1,75 @@
 {
-  "updated_at": "2026-10-30T21:54:47.162499+00:00",
-  "total": 62,
+  "updated_at": "2026-10-31T03:55:34.515352+00:00",
+  "total": 59,
   "jobs": [
+    {
+      "id": "5ecb69e1",
+      "title": "Senior Product Manager - Ad Traffic Quality (all genders)",
+      "company": "JustPlay GmbH",
+      "location": "Berlin (Hybrid)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-product-manager-ad-traffic-quality-all-genders-berlin-59636",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a4bcf681",
+      "title": "Testingenieur (m/w/d) Vibration Testing",
+      "company": "encontec GmbH",
+      "location": "Backnang, Baden-Württemberg, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/testingenieur-vibration-testing-backnang-64455",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "Experienced, fulltime fixed term",
+      "tags": [
+        "aü-tesat"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1fac4ac8",
+      "title": "Junior Data Quality Analyst",
+      "company": "Kpler",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/junior-data-quality-analyst-london-42888",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "oil & chemicals"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "48d3a726",
+      "title": "Senior QA Engineer",
+      "company": "Keyloop",
+      "location": "UK (Petersfield)",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/keyloop/senior-qa-engineer-uk-petersfield-490636",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "Employee",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "b803fd79",
       "title": "Messtechniker / Kalibriertechniker (m/w/d)",
@@ -33,74 +101,6 @@
       "type": "Unbefristeter arbeitsvertrag",
       "tags": [
         "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7a09217f",
-      "title": "Qualitätsprüfer Wareneingang (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/qualitatsprufer-wareneingang-munich-4453",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bf78d5d4",
-      "title": "Software QA Engineer II",
-      "company": "Axon",
-      "location": "Kassel, Hesse",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/axon/software-qa-engineer-ii-kassel-hesse-363426",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "2024 dedrone r&d"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7b66627f",
-      "title": "Senior Mobile Quality Engineer",
-      "company": "Lendable",
-      "location": "UK Remote",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-senior-mobile-quality-engineer-206450",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering & product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "96f451a0",
-      "title": "Scientific Data Manager - Données biologiques & Data Quality",
-      "company": "Excelya",
-      "location": "Saclay, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/scientific-data-manager-donnees-biologiques-data-quality-saclay-127724",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Full time, associate",
-      "tags": [
-        "operations"
       ],
       "miss_count": 0
     },
@@ -1436,32 +1436,6 @@
       "miss_count": 0
     },
     {
-      "id": "b8a07db1",
-      "title": "Senior QA Mobile",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1196695-senior-qa-mobile",
-      "source": "hirify",
-      "date": "2026-10-02",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "4ad8ee8e",
       "title": "QA Automation Engineer (Java) — Mobile",
       "company": "HR Prime",
@@ -1500,90 +1474,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1c63e76b",
-      "title": "Senior back-end Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "source": "remotive",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "research",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript ",
-        "hardware",
-        "angular ",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "next.js",
-        "infrastructure",
-        "flutter"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4e83e147",
-      "title": "Manual QA Engineer (Mobile)",
-      "company": "%hirify_global%",
-      "location": "WW",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1188068-manual-qa-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-09-30",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
