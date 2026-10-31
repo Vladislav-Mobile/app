@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-10-31T11:38:49.401244+00:00",
-  "total": 57,
+  "updated_at": "2026-10-31T16:46:08.735302+00:00",
+  "total": 59,
   "jobs": [
+    {
+      "id": "6db54094",
+      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/internship-radiation-testing-of-electronic-components-and-test-automation-munich-351117",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "Intern",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ac3d89b1",
+      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
+      "company": "Lamm HR GmbH",
+      "location": "Landkreis Bergstraße, Hessen, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-64336",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "5ecb69e1",
       "title": "Senior Product Manager - Ad Traffic Quality (all genders)",
@@ -20,19 +54,19 @@
       "miss_count": 0
     },
     {
-      "id": "a4bcf681",
-      "title": "Testingenieur (m/w/d) Vibration Testing",
-      "company": "encontec GmbH",
-      "location": "Backnang, Baden-Württemberg, Deutschland",
+      "id": "d5ed0f68",
+      "title": "Senior Automation Engineer",
+      "company": "roboyo",
+      "location": "",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/testingenieur-vibration-testing-backnang-64455",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/senior-automation-engineer-151543",
       "source": "arbeitnow",
       "date": "2026-10-31",
       "salary": "",
-      "type": "Experienced, fulltime fixed term",
+      "type": "",
       "tags": [
-        "aü-tesat"
+        "delivery"
       ],
       "miss_count": 0
     },
