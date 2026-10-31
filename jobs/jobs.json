@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-10-31T16:46:08.735302+00:00",
-  "total": 59,
+  "updated_at": "2026-10-31T20:56:47.704316+00:00",
+  "total": 60,
   "jobs": [
+    {
+      "id": "3286652c",
+      "title": "(Senior) QA Engineer - Mobile (x/f/m)",
+      "company": "dkbcodefactory",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/senior-qa-engineer-mobile-berlin-8108",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "technology & infrastructure"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "34d863b8",
+      "title": "(Senior) QA Engineer - Backend (x/f/m)",
+      "company": "dkbcodefactory",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/senior-qa-engineer-backend-berlin-50464",
+      "source": "arbeitnow",
+      "date": "2026-10-31",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "technology & infrastructure"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "6db54094",
       "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
@@ -33,23 +67,6 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5ecb69e1",
-      "title": "Senior Product Manager - Ad Traffic Quality (all genders)",
-      "company": "JustPlay GmbH",
-      "location": "Berlin (Hybrid)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/senior-product-manager-ad-traffic-quality-all-genders-berlin-59636",
-      "source": "arbeitnow",
-      "date": "2026-10-31",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
       ],
       "miss_count": 0
     },
