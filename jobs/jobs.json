@@ -1,7 +1,114 @@
 {
-  "updated_at": "2026-10-31T20:56:47.704316+00:00",
-  "total": 60,
+  "updated_at": "2026-11-01T04:10:25.236058+00:00",
+  "total": 63,
   "jobs": [
+    {
+      "id": "897d074f",
+      "title": "Revenue Operations Engineer | AI & Automation (m/f/d)",
+      "company": "Superchat",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/superchat/revenue-operations-engineer-ai-automation-berlin-berlin-413012",
+      "source": "arbeitnow",
+      "date": "2026-11-01",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "other"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fb9e8025",
+      "title": "Director Spectrum Production (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-spectrum-production-parsdorf-bavaria-215686",
+      "source": "arbeitnow",
+      "date": "2026-11-01",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "production",
+        "operations & quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d1e0dd7d",
+      "title": "Senior Quality Engineer - MONOPOLY GO!",
+      "company": "Scopely",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-quality-engineer-monopoly-go-495119",
+      "source": "arbeitnow",
+      "date": "2026-11-01",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "monopolygo"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f0aba18d",
+      "title": "Sr Manager Quality Assurance",
+      "company": "Hasbro",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hasbro/sr-manager-quality-assurance-london-118965",
+      "source": "arbeitnow",
+      "date": "2026-11-01",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality assurance & regulatory affairs"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "537e7505",
+      "title": "Systems Engineer  (Excavator Automation)",
+      "company": "Gravis Robotics",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/systems-engineer-excavator-automation-zurich-5810",
+      "source": "arbeitnow",
+      "date": "2026-11-01",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "autonomy"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f8d548b4",
+      "title": "Regulatory Compliance Auditor Subject Matter Expert -AI Model Evaluation",
+      "company": "Volga Partners",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/volga-partners/jobs/regulatory-compliance-auditor-subject-matter-expert-ai-model-evaluation?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-01",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "regulatory-compliance-auditor",
+        "pharmaceutical-compliance-auditor",
+        "gmp-auditor",
+        "quality-assurance-auditor",
+        "regulatory-affairs-specialist"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "3286652c",
       "title": "(Senior) QA Engineer - Mobile (x/f/m)",
@@ -67,42 +174,6 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d5ed0f68",
-      "title": "Senior Automation Engineer",
-      "company": "roboyo",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/roboyo/senior-automation-engineer-151543",
-      "source": "arbeitnow",
-      "date": "2026-10-31",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "delivery"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0aeca04a",
-      "title": "Responsable qualité CDD 6 mois- renouvelable (H/F)",
-      "company": "Sogeclair",
-      "location": "Boulogne-Billancourt, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sogeclair/responsable-qualite-cdd-6-mois-renouvelable-h-f-boulogne-billancourt-461030",
-      "source": "arbeitnow",
-      "date": "2026-10-31",
-      "salary": "",
-      "type": "Temporary, mid-senior",
-      "tags": [
-        "quality assurance",
-        "automotive",
-        "sogeclair simulation"
       ],
       "miss_count": 0
     },
@@ -1491,31 +1562,6 @@
       "source": "hirify",
       "date": "2026-10-02",
       "salary": "RUB 200000–200000 (~$2397)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0059d134",
-      "title": "QA Analyst, Mobile (iOS)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1194753-mobile-qa-analyst-ios",
-      "source": "hirify",
-      "date": "2026-10-01",
-      "salary": "",
       "type": "fulltime",
       "tags": [
         "",
