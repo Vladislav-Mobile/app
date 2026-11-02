@@ -1,72 +1,165 @@
 {
-  "updated_at": "2026-11-02T04:13:59.929178+00:00",
-  "total": 52,
+  "updated_at": "2026-11-02T14:41:22.012863+00:00",
+  "total": 56,
   "jobs": [
     {
-      "id": "38e29cd8",
-      "title": "Working Student QA in Mobile App Development (m|f|d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin, Berlin, Deutschland",
+      "id": "ad97a47c",
+      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-qa-in-mobile-app-development-mfd-berlin-110910",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-395507",
       "source": "arbeitnow",
       "date": "2026-11-02",
       "salary": "",
-      "type": "Student college, parttime fixed term",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "career starters"
+        "business development"
       ],
       "miss_count": 0
     },
     {
-      "id": "897d074f",
-      "title": "Revenue Operations Engineer | AI & Automation (m/f/d)",
-      "company": "Superchat",
-      "location": "Berlin, Berlin",
+      "id": "85dc0846",
+      "title": "Qualitätsmanager (m/w/d)",
+      "company": "MKT Moderne Kunststofftechnik GmbH",
+      "location": "Ohrdruf",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/superchat/revenue-operations-engineer-ai-automation-berlin-berlin-413012",
+      "url": "https://www.arbeitnow.com/jobs/companies/mkt-moderne-kunststofftechnik-gmbh/qualitatsmanager-ohrdruf-133769",
       "source": "arbeitnow",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "salary": "",
-      "type": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "other"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "0f807167",
-      "title": "Marketing Automation Engineer",
-      "company": "Privateequityinsights",
-      "location": "London",
+      "id": "f740c7de",
+      "title": "Head of Finance Automation/ AI Agentification",
+      "company": "Rohlik",
+      "location": "München, Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-automation-engineer-london-419068",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-244359",
       "source": "arbeitnow",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "marketing"
+        "finance"
       ],
       "miss_count": 0
     },
     {
-      "id": "42485546",
-      "title": "AI Automation Engineer",
-      "company": "Privateequityinsights",
-      "location": "London",
+      "id": "13fa185e",
+      "title": "Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier",
+      "company": "AdKochMarketing GmbH",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-automation-engineer-london-435673",
+      "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/werkstudent-ai-automation-n8n-make-zapier-hamburg-232004",
       "source": "arbeitnow",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "salary": "",
-      "type": "",
+      "type": "Werkstudent, working student",
       "tags": [
-        "marketing"
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c5617f5c",
+      "title": "Qualitätsingenieur (m/w/x) für Komponenten der nuklearen Instrumentierung",
+      "company": "K-tronik GmbH",
+      "location": "Erlangen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/qualitatsingenieur-fur-komponenten-der-nuklearen-instrumentierung-erlangen-366405",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4e5d95f5",
+      "title": "Leiter Instandhaltung & Automatisierungstechnik (m/w/d)",
+      "company": "NXT Hero GmbH",
+      "location": "Leipzig",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/leiter-instandhaltung-automatisierungstechnik-leipzig-292030",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6e1ba72e",
+      "title": "Staff QA Automation Engineer",
+      "company": "tem",
+      "location": "United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/staff-qa-automation-engineer-united-kingdom-170297",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "449e156a",
+      "title": "Automation Engineer - GMP Pharma & Biotech",
+      "company": "agap2 - HIQ Consulting",
+      "location": "Basel",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/automation-engineer-gmp-pharma-biotech-basel-65474",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8b58b387",
+      "title": "Working Student QA in Mobile App Development (m|f|d)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1348137-working-student-mobile-qa",
+      "source": "hirify",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "parttime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -103,23 +196,6 @@
         "quality assurance",
         "financial services",
         "crypto finance ag"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "55c5ed57",
-      "title": "Projektleiter/in Automation 80 - 100 %",
-      "company": "two.jobs",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/twojobs/projektleiter-in-automation-80-100-zurich-178987",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
