@@ -1,89 +1,115 @@
 {
-  "updated_at": "2026-11-03T13:34:12.649105+00:00",
-  "total": 58,
+  "updated_at": "2026-11-03T22:51:27.939356+00:00",
+  "total": 56,
   "jobs": [
     {
-      "id": "c02bed91",
-      "title": "Junior Automatisierungsingenieur (m/w/d)",
-      "company": "Modulist GmbH",
-      "location": "Berlin",
+      "id": "ec0d7555",
+      "title": "Non-Destructive Testing Technician – Level 2",
+      "company": "The Exploration Company",
+      "location": "Munich, Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/modulist-gmbh/junior-automatisierungsingenieur-berlin-179795",
-      "source": "arbeitnow",
-      "date": "2026-11-03",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "39e21d99",
-      "title": "CMM Programmer",
-      "company": "Isembard",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/cmm-programmer-london-461609",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/non-destructive-testing-technician-level-2-munich-293920",
       "source": "arbeitnow",
       "date": "2026-11-03",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "quality and supply chain"
+        "mait"
       ],
       "miss_count": 0
     },
     {
-      "id": "cdd7ea1b",
-      "title": "Supply Chain Lead - London",
-      "company": "Isembard",
-      "location": "London",
-      "remote": false,
+      "id": "024890bc",
+      "title": "Senior Architect, Enterprise Agentic Automation",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/supply-chain-lead-london-103597",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
       "source": "arbeitnow",
       "date": "2026-11-03",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "quality and supply chain"
+        "finance"
       ],
       "miss_count": 0
     },
     {
-      "id": "c2f46645",
-      "title": "Supplier Quality Engineer - London",
-      "company": "Isembard",
-      "location": "London",
+      "id": "0abb802f",
+      "title": "Working Student QA in Mobile App Development (m|w|d)",
+      "company": "idealo internet GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-qa-in-mobile-app-development-mwd-berlin-79055",
+      "source": "arbeitnow",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "Student college, parttime fixed term",
+      "tags": [
+        "career starters"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "01a98f63",
+      "title": "Senior Quality Engineer, Chassis and Powertrain",
+      "company": "Czinger",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/supplier-quality-engineer-london-304963",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/czinger/senior-quality-engineer-chassis-and-powertrain-218196",
+      "source": "arbeitnow",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "50-quality assurance engineering & management - czv"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "65bfa849",
+      "title": "Senior QA Specialist",
+      "company": "Rentman",
+      "location": "Utrecht",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/senior-qa-specialist-utrecht-65997",
       "source": "arbeitnow",
       "date": "2026-11-03",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "quality and supply chain"
+        "r&d"
       ],
       "miss_count": 0
     },
     {
-      "id": "400826a3",
-      "title": "Quality Engineer",
-      "company": "Isembard",
-      "location": "London",
-      "remote": false,
+      "id": "666ea572",
+      "title": "Appium Automation Engineer (Mobile QA)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/quality-engineer-london-153337",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/1356322-appium-mobile-qa-engineer",
+      "source": "hirify",
       "date": "2026-11-03",
-      "salary": "",
-      "type": "Full Time",
+      "salary": "USD 115000–165000",
+      "type": "fulltime",
       "tags": [
-        "quality and supply chain"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -113,111 +139,62 @@
       "miss_count": 0
     },
     {
-      "id": "e90a0556",
-      "title": "Ad Operations Coach",
-      "company": "MicroSourcing",
-      "location": "Philippines",
+      "id": "df632f05",
+      "title": "Red Team Tester (Mid)",
+      "company": "Valiant Solutions",
+      "location": "United States",
       "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/microsourcing/jobs/ad-operations-coach?utm_source=api",
+      "country": "US",
+      "url": "https://himalayas.app/companies/valiant-solutions/jobs/red-team-tester-mid?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-03",
       "salary": "",
       "type": "",
       "tags": [
-        "ads-coach",
-        "ad-operations-training-specialist",
-        "advertising-operations-specialist",
-        "operations-trainer",
-        "digital-advertising-quality-specialist"
+        "red-team-tester",
+        "penetration-tester",
+        "offensive-security-engineer",
+        "security-tester",
+        "security-testing-engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "530fcbb9",
-      "title": "Director - Computer Systems Validation",
+      "id": "0bb0d5d8",
+      "title": "Senior Director, Quality & Regulatory Notified Body Audits",
       "company": "Lifelancer",
-      "location": "Canada",
+      "location": "United States",
       "remote": true,
-      "country": "CA",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/director-computer-systems-validation-4445660963?utm_source=api",
+      "country": "US",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/senior-director-quality-regulatory-notified-body-audits-9311506596?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-03",
       "salary": "",
       "type": "",
       "tags": [
-        "it-validation-director",
-        "validation-director",
-        "quality-systems-director",
-        "software-validation-director"
+        "quality-director",
+        "regulatory-affairs-director",
+        "regulatory-quality-director",
+        "notified-body-specialist",
+        "quality-assurance-director"
       ],
       "miss_count": 0
     },
     {
-      "id": "ff064a8e",
-      "title": "Automatiker / Projektbetreuer (w/m)",
-      "company": "Härdi Personal",
-      "location": "Rotkreuz",
-      "remote": false,
+      "id": "60fffb8f",
+      "title": "QA Fullstack Python Engineer (Senior)",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/hardi-personal/automatiker-projektbetreuer-w-m-rotkreuz-470074",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
+      "url": "https://hiringevents.getmatch.ru/mayflower?utm_source=gms_free_1",
+      "source": "telegram",
+      "date": "2026-11-03",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e943763d",
-      "title": "Professional ICT Test Manager (m/w/d) - SIP / VISO / Test Automation (60-80%) (Ref.Nr.: 47713)",
-      "company": "Wavestone Germany AG",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-ict-test-manager-sip-viso-test-automation-60-80-refnr-47713-bern-391249",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
-      "tags": [
-        "it"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "449e156a",
-      "title": "Automation Engineer - GMP Pharma & Biotech",
-      "company": "agap2 - HIQ Consulting",
-      "location": "Basel",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/automation-engineer-gmp-pharma-biotech-basel-65474",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f5058aa7",
-      "title": "Network Security & Automation Engineer (Relocation Provided)",
-      "company": "Wypoon",
-      "location": "Amsterdam",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-179414",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "Permanent",
-      "tags": [
-        "network & security engineer"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
