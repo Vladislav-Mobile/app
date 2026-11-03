@@ -1,49 +1,69 @@
 {
-  "updated_at": "2026-11-02T14:41:22.012863+00:00",
-  "total": 56,
+  "updated_at": "2026-11-03T00:27:57.737935+00:00",
+  "total": 59,
   "jobs": [
     {
-      "id": "ad97a47c",
-      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "remote": false,
+      "id": "e9a70c2e",
+      "title": "Customer Success Manager - Quality",
+      "company": "Lifelancer",
+      "location": "Anguilla",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-395507",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/customer-success-manager-quality-3931858795?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-03",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "business development"
+        "customer-success-manager",
+        "customer-success-consultant",
+        "life-sciences-customer-success",
+        "account-manager"
       ],
       "miss_count": 0
     },
     {
-      "id": "85dc0846",
-      "title": "Qualitätsmanager (m/w/d)",
-      "company": "MKT Moderne Kunststofftechnik GmbH",
-      "location": "Ohrdruf",
+      "id": "80c05aa8",
+      "title": "Team Lead Operations Automation & AI (All genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/mkt-moderne-kunststofftechnik-gmbh/qualitatsmanager-ohrdruf-133769",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-127964",
       "source": "arbeitnow",
       "date": "2026-11-02",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "quality management"
+        "operations excellence"
       ],
       "miss_count": 0
     },
     {
-      "id": "f740c7de",
-      "title": "Head of Finance Automation/ AI Agentification",
-      "company": "Rohlik",
-      "location": "München, Germany",
+      "id": "7709dd04",
+      "title": "Automation Engineer (All genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-244359",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-116743",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "operations excellence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "851d2d38",
+      "title": "Automation, IT Systems & Security Specialist (m/f/d)",
+      "company": "RobCo",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/automation-it-systems-security-specialist-munich-215510",
       "source": "arbeitnow",
       "date": "2026-11-02",
       "salary": "",
@@ -54,30 +74,48 @@
       "miss_count": 0
     },
     {
-      "id": "13fa185e",
-      "title": "Werkstudent AI & Automation (m/w/d) n8n, Make, Zapier",
-      "company": "AdKochMarketing GmbH",
-      "location": "Hamburg",
+      "id": "cb6bdf22",
+      "title": "Robotics Engineering Intern",
+      "company": "Vetaion GmbH",
+      "location": "Garching",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/adkochmarketing-gmbh/werkstudent-ai-automation-n8n-make-zapier-hamburg-232004",
+      "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/robotics-engineering-intern-garching-442817",
       "source": "arbeitnow",
       "date": "2026-11-02",
       "salary": "",
-      "type": "Werkstudent, working student",
+      "type": "Internship (praktikum), internship, no experience required / student",
       "tags": [
-        "it"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "c5617f5c",
-      "title": "Qualitätsingenieur (m/w/x) für Komponenten der nuklearen Instrumentierung",
-      "company": "K-tronik GmbH",
-      "location": "Erlangen",
+      "id": "0f77a3ea",
+      "title": "Werkstudent:in Marketing Automation & AI (m/w/d)",
+      "company": "relokate HR GmbH",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-marketing-automation-ai-berlin-246461",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "Werkstudent, working student, hilfstätigkeit / student",
+      "tags": [
+        "remote",
+        "online marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2bb87afe",
+      "title": "Qualitätsbeauftragter im Gesundheitswesen (m/w/d)",
+      "company": "Pflege- und Therapiezentrum Gut Wienebüttel GmbH",
+      "location": "Lüneburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/qualitatsingenieur-fur-komponenten-der-nuklearen-instrumentierung-erlangen-366405",
+      "url": "https://www.arbeitnow.com/jobs/companies/pflege-und-therapiezentrum-gut-wienebuttel-gmbh/qualitatsbeauftragter-im-gesundheitswesen-luneburg-115997",
       "source": "arbeitnow",
       "date": "2026-11-02",
       "salary": "",
@@ -88,36 +126,53 @@
       "miss_count": 0
     },
     {
-      "id": "4e5d95f5",
-      "title": "Leiter Instandhaltung & Automatisierungstechnik (m/w/d)",
-      "company": "NXT Hero GmbH",
-      "location": "Leipzig",
+      "id": "7899a2b2",
+      "title": "Automation & Industrialization Director",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/leiter-instandhaltung-automatisierungstechnik-leipzig-292030",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/automation-industrialization-director-orly-421160",
       "source": "arbeitnow",
       "date": "2026-11-02",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ff064a8e",
+      "title": "Automatiker / Projektbetreuer (w/m)",
+      "company": "Härdi Personal",
+      "location": "Rotkreuz",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hardi-personal/automatiker-projektbetreuer-w-m-rotkreuz-470074",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "6e1ba72e",
-      "title": "Staff QA Automation Engineer",
-      "company": "tem",
-      "location": "United Kingdom",
+      "id": "e943763d",
+      "title": "Professional ICT Test Manager (m/w/d) - SIP / VISO / Test Automation (60-80%) (Ref.Nr.: 47713)",
+      "company": "Wavestone Germany AG",
+      "location": "Bern",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/staff-qa-automation-engineer-united-kingdom-170297",
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-ict-test-manager-sip-viso-test-automation-60-80-refnr-47713-bern-391249",
       "source": "arbeitnow",
       "date": "2026-11-02",
       "salary": "",
-      "type": "Full Time",
+      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
       "tags": [
-        "engineering"
+        "it"
       ],
       "miss_count": 0
     },
@@ -135,6 +190,49 @@
       "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
       "tags": [
         "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f5058aa7",
+      "title": "Network Security & Automation Engineer (Relocation Provided)",
+      "company": "Wypoon",
+      "location": "Amsterdam",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-179414",
+      "source": "arbeitnow",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "Permanent",
+      "tags": [
+        "network & security engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e4af87fe",
+      "title": "QA Engineer (Mobile/Web)",
+      "company": null,
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1350404-qa-engineer-mobileweb",
+      "source": "hirify",
+      "date": "2026-11-02",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -177,25 +275,6 @@
       "type": "Full time",
       "tags": [
         "autonomy"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "027bedce",
-      "title": "Quality Assurance Engineer",
-      "company": "Crypto Finance",
-      "location": "Zürich, Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/crypto-finance/quality-assurance-engineer-zurich-31665",
-      "source": "arbeitnow",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "Full time, associate",
-      "tags": [
-        "quality assurance",
-        "financial services",
-        "crypto finance ag"
       ],
       "miss_count": 0
     },
@@ -1050,28 +1129,6 @@
       "tags": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "19692359",
-      "title": "QA Intern (Mobile)",
-      "company": "Callisto Technology",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1248791-qa-intern-mobile",
-      "source": "hirify",
-      "date": "2026-10-13",
-      "salary": "",
-      "type": "parttime",
-      "tags": [
         "",
         "",
         "",
