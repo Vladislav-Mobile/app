@@ -1,144 +1,155 @@
 {
-  "updated_at": "2026-11-03T00:27:57.737935+00:00",
-  "total": 59,
+  "updated_at": "2026-11-03T13:34:12.649105+00:00",
+  "total": 58,
   "jobs": [
     {
-      "id": "e9a70c2e",
-      "title": "Customer Success Manager - Quality",
-      "company": "Lifelancer",
-      "location": "Anguilla",
-      "remote": true,
+      "id": "c02bed91",
+      "title": "Junior Automatisierungsingenieur (m/w/d)",
+      "company": "Modulist GmbH",
+      "location": "Berlin",
+      "remote": false,
       "country": "WW",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/customer-success-manager-quality-3931858795?utm_source=api",
-      "source": "himalayas",
+      "url": "https://www.arbeitnow.com/jobs/companies/modulist-gmbh/junior-automatisierungsingenieur-berlin-179795",
+      "source": "arbeitnow",
       "date": "2026-11-03",
       "salary": "",
-      "type": "",
-      "tags": [
-        "customer-success-manager",
-        "customer-success-consultant",
-        "life-sciences-customer-success",
-        "account-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "80c05aa8",
-      "title": "Team Lead Operations Automation & AI (All genders)",
-      "company": "Skdse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/team-lead-operations-automation-ai-all-genders-munich-bavaria-127964",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "operations excellence"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7709dd04",
-      "title": "Automation Engineer (All genders)",
-      "company": "Skdse",
-      "location": "Munich, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/automation-engineer-all-genders-munich-bavaria-116743",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "operations excellence"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "851d2d38",
-      "title": "Automation, IT Systems & Security Specialist (m/f/d)",
-      "company": "RobCo",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/automation-it-systems-security-specialist-munich-215510",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "finance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cb6bdf22",
-      "title": "Robotics Engineering Intern",
-      "company": "Vetaion GmbH",
-      "location": "Garching",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/robotics-engineering-intern-garching-442817",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "Internship (praktikum), internship, no experience required / student",
+      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "0f77a3ea",
-      "title": "Werkstudent:in Marketing Automation & AI (m/w/d)",
-      "company": "relokate HR GmbH",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/relokate-hr-gmbh/werkstudentin-marketing-automation-ai-berlin-246461",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "Werkstudent, working student, hilfstätigkeit / student",
-      "tags": [
-        "remote",
-        "online marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2bb87afe",
-      "title": "Qualitätsbeauftragter im Gesundheitswesen (m/w/d)",
-      "company": "Pflege- und Therapiezentrum Gut Wienebüttel GmbH",
-      "location": "Lüneburg",
+      "id": "39e21d99",
+      "title": "CMM Programmer",
+      "company": "Isembard",
+      "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/pflege-und-therapiezentrum-gut-wienebuttel-gmbh/qualitatsbeauftragter-im-gesundheitswesen-luneburg-115997",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/cmm-programmer-london-461609",
       "source": "arbeitnow",
-      "date": "2026-11-02",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "7899a2b2",
-      "title": "Automation & Industrialization Director",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Orly",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/automation-industrialization-director-orly-421160",
-      "source": "arbeitnow",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "operations"
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cdd7ea1b",
+      "title": "Supply Chain Lead - London",
+      "company": "Isembard",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/supply-chain-lead-london-103597",
+      "source": "arbeitnow",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c2f46645",
+      "title": "Supplier Quality Engineer - London",
+      "company": "Isembard",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/supplier-quality-engineer-london-304963",
+      "source": "arbeitnow",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "400826a3",
+      "title": "Quality Engineer",
+      "company": "Isembard",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/quality-engineer-london-153337",
+      "source": "arbeitnow",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e3bf0a16",
+      "title": "Working Student QA in Mobile App Development (m|w|d)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1354813-working-student-mobile-qa",
+      "source": "hirify",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "parttime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e90a0556",
+      "title": "Ad Operations Coach",
+      "company": "MicroSourcing",
+      "location": "Philippines",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/microsourcing/jobs/ad-operations-coach?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ads-coach",
+        "ad-operations-training-specialist",
+        "advertising-operations-specialist",
+        "operations-trainer",
+        "digital-advertising-quality-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "530fcbb9",
+      "title": "Director - Computer Systems Validation",
+      "company": "Lifelancer",
+      "location": "Canada",
+      "remote": true,
+      "country": "CA",
+      "url": "https://himalayas.app/companies/lifelancer/jobs/director-computer-systems-validation-4445660963?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "it-validation-director",
+        "validation-director",
+        "quality-systems-director",
+        "software-validation-director"
       ],
       "miss_count": 0
     },
@@ -258,23 +269,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "537e7505",
-      "title": "Systems Engineer  (Excavator Automation)",
-      "company": "Gravis Robotics",
-      "location": "Zurich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/systems-engineer-excavator-automation-zurich-5810",
-      "source": "arbeitnow",
-      "date": "2026-11-01",
-      "salary": "",
-      "type": "Full time",
-      "tags": [
-        "autonomy"
       ],
       "miss_count": 0
     },
