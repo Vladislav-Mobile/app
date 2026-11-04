@@ -1,7 +1,41 @@
 {
-  "updated_at": "2026-11-03T22:51:27.939356+00:00",
-  "total": 56,
+  "updated_at": "2026-11-04T04:42:41.500556+00:00",
+  "total": 54,
   "jobs": [
+    {
+      "id": "0c778dcf",
+      "title": "Senior QA Manager - Fully Remote",
+      "company": "SOFTGAMES",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-156016",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "Entry, fulltime permanent",
+      "tags": [
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7b61196b",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "location": "München, Bayern, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-181092",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "Entry, fulltime permanent",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "ec0d7555",
       "title": "Non-Destructive Testing Technician – Level 2",
@@ -54,23 +88,6 @@
       "miss_count": 0
     },
     {
-      "id": "01a98f63",
-      "title": "Senior Quality Engineer, Chassis and Powertrain",
-      "company": "Czinger",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/czinger/senior-quality-engineer-chassis-and-powertrain-218196",
-      "source": "arbeitnow",
-      "date": "2026-11-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "50-quality assurance engineering & management - czv"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "65bfa849",
       "title": "Senior QA Specialist",
       "company": "Rentman",
@@ -84,6 +101,32 @@
       "type": "Full Time",
       "tags": [
         "r&d"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6882ed75",
+      "title": "Mobile QA Engineer (iOS & Android)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1359694-mobile-qa-engineer-ios-android",
+      "source": "hirify",
+      "date": "2026-11-03",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -135,48 +178,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "df632f05",
-      "title": "Red Team Tester (Mid)",
-      "company": "Valiant Solutions",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/valiant-solutions/jobs/red-team-tester-mid?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "red-team-tester",
-        "penetration-tester",
-        "offensive-security-engineer",
-        "security-tester",
-        "security-testing-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0bb0d5d8",
-      "title": "Senior Director, Quality & Regulatory Notified Body Audits",
-      "company": "Lifelancer",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/lifelancer/jobs/senior-director-quality-regulatory-notified-body-audits-9311506596?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-03",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-director",
-        "regulatory-affairs-director",
-        "regulatory-quality-director",
-        "notified-body-specialist",
-        "quality-assurance-director"
       ],
       "miss_count": 0
     },
@@ -1322,32 +1323,6 @@
       "miss_count": 0
     },
     {
-      "id": "332f113b",
-      "title": "Mobile QA Engineer",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1212327-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-10-06",
-      "salary": "RUB 180000–200000 (~$2247)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "e85f26c4",
       "title": "QA Java Mobile",
       "company": "Альфа-Банк",
@@ -1393,23 +1368,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ab155e77",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "remotive",
-      "date": "2026-10-04",
-      "salary": "$50-$75 /hour",
-      "type": "freelance",
-      "tags": [
-        "rest"
       ],
       "miss_count": 0
     }
