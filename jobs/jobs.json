@@ -1,106 +1,149 @@
 {
-  "updated_at": "2026-11-04T04:42:41.500556+00:00",
-  "total": 54,
+  "updated_at": "2026-11-04T13:43:52.713632+00:00",
+  "total": 57,
   "jobs": [
     {
-      "id": "0c778dcf",
-      "title": "Senior QA Manager - Fully Remote",
-      "company": "SOFTGAMES",
-      "location": "Remote job",
-      "remote": true,
+      "id": "e760bd3e",
+      "title": "Teamleiter (m/w/d) - Automation & Instandhaltung",
+      "company": "Teampicnic",
+      "location": "Falkensee, Brandenburg",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-fully-remote-berlin-156016",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-automation-instandhaltung-falkensee-brandenburg-441395",
       "source": "arbeitnow",
       "date": "2026-11-04",
       "salary": "",
-      "type": "Entry, fulltime permanent",
+      "type": "",
       "tags": [
-        "remote"
+        "operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "7b61196b",
-      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
-      "company": "Foodji GmbH",
-      "location": "München, Bayern, Deutschland",
+      "id": "13aee4b5",
+      "title": "Teamleiter (m/w/d) - Automation & Instandhaltung",
+      "company": "Teampicnic",
+      "location": "Berlin, Berlin",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-181092",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-automation-instandhaltung-berlin-berlin-194197",
       "source": "arbeitnow",
       "date": "2026-11-04",
       "salary": "",
-      "type": "Entry, fulltime permanent",
+      "type": "",
       "tags": [
-        "marketing"
+        "operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "ec0d7555",
-      "title": "Non-Destructive Testing Technician – Level 2",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/non-destructive-testing-technician-level-2-munich-293920",
-      "source": "arbeitnow",
-      "date": "2026-11-03",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "mait"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "024890bc",
-      "title": "Senior Architect, Enterprise Agentic Automation",
-      "company": "Camunda",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-architect-enterprise-agentic-automation-165952",
-      "source": "arbeitnow",
-      "date": "2026-11-03",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "finance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0abb802f",
-      "title": "Working Student QA in Mobile App Development (m|w|d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-qa-in-mobile-app-development-mwd-berlin-79055",
-      "source": "arbeitnow",
-      "date": "2026-11-03",
-      "salary": "",
-      "type": "Student college, parttime fixed term",
-      "tags": [
-        "career starters"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "65bfa849",
-      "title": "Senior QA Specialist",
-      "company": "Rentman",
-      "location": "Utrecht",
+      "id": "83a26811",
+      "title": "Werkstudent Commercial Enablement - AI & Automation (German-Speaking) (f/m/d)",
+      "company": "Zenjob",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/rentman/senior-qa-specialist-utrecht-65997",
+      "url": "https://www.arbeitnow.com/jobs/companies/zenjob/werkstudent-commercial-enablement-ai-automation-german-speaking-berlin-228232",
       "source": "arbeitnow",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "r&d"
+        "sales"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "196a6c71",
+      "title": "AI & GROWTH MARKETING MANAGER (M/F/D) - AI Automation · SEO & GEO · B2B Digital Growth",
+      "company": "sera Gruppe",
+      "location": "Immenhausen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/sera-gruppe/ai-growth-marketing-manager-ai-automation-seo-geo-b2b-digital-growth-immenhausen-15257",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), manager",
+      "tags": [
+        "marketing manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b12ef38a",
+      "title": "Senior Product Quality Leader (m/w/d) - Pharma",
+      "company": "Triga Consulting GmbH & Co KG",
+      "location": "Frankfurt am Main",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/triga-consulting-gmbh-co-kg/senior-product-quality-leader-pharma-frankfurt-am-main-493041",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9e763ffe",
+      "title": "SPS Programmierer / Software Engineer (w/m)",
+      "company": "Härdi Personal",
+      "location": "Lucerne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hardi-personal/sps-programmierer-software-engineer-w-m-lucerne-27386",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9e0ff933",
+      "title": "Freelance Tester in Netherlands",
+      "company": "Testlio",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/testlio/freelance-tester-in-netherlands-130440",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "freelancers"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "909496f8",
+      "title": "QA Automation Team Lead (Mobile Gaming)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1361713-qa-automation-team-lead",
+      "source": "hirify",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -196,6 +239,32 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2746ff9e",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "source": "remotive",
+      "date": "2026-11-02",
+      "salary": "$20k -$35k",
+      "type": "freelance",
+      "tags": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis",
+        "bookkeeping",
+        "google sheets",
+        "quickbooks",
+        "data entry",
+        "insurance",
+        "g suite"
       ],
       "miss_count": 0
     },
