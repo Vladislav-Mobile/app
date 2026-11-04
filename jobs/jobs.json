@@ -1,89 +1,108 @@
 {
-  "updated_at": "2026-11-04T13:43:52.713632+00:00",
-  "total": 57,
+  "updated_at": "2026-11-04T23:09:51.311832+00:00",
+  "total": 61,
   "jobs": [
     {
-      "id": "e760bd3e",
-      "title": "Teamleiter (m/w/d) - Automation & Instandhaltung",
-      "company": "Teampicnic",
-      "location": "Falkensee, Brandenburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-automation-instandhaltung-falkensee-brandenburg-441395",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "13aee4b5",
-      "title": "Teamleiter (m/w/d) - Automation & Instandhaltung",
-      "company": "Teampicnic",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-automation-instandhaltung-berlin-berlin-194197",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "83a26811",
-      "title": "Werkstudent Commercial Enablement - AI & Automation (German-Speaking) (f/m/d)",
-      "company": "Zenjob",
+      "id": "4b754e25",
+      "title": "Senior AI & Automation Operations Manager (m/w/d)",
+      "company": "Rosental Organics GmbH",
       "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zenjob/werkstudent-commercial-enablement-ai-automation-german-speaking-berlin-228232",
+      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-ai-automation-operations-manager-berlin-103357",
       "source": "arbeitnow",
       "date": "2026-11-04",
       "salary": "",
-      "type": "Full Time",
+      "type": "Full-time permanent, mid",
       "tags": [
-        "sales"
+        "technical",
+        "associate's degree"
       ],
       "miss_count": 0
     },
     {
-      "id": "196a6c71",
-      "title": "AI & GROWTH MARKETING MANAGER (M/F/D) - AI Automation · SEO & GEO · B2B Digital Growth",
-      "company": "sera Gruppe",
-      "location": "Immenhausen",
+      "id": "33f087c1",
+      "title": "Senior CRM Manager - Klaviyo & Automation/ E-Mail Marketing Manager (m/w/d)",
+      "company": "Rosental Organics GmbH",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sera-gruppe/ai-growth-marketing-manager-ai-automation-seo-geo-b2b-digital-growth-immenhausen-15257",
+      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-crm-manager-klaviyo-automation-e-mail-marketing-manager-berlin-140137",
       "source": "arbeitnow",
       "date": "2026-11-04",
       "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag), manager",
+      "type": "Full-time permanent, mid",
       "tags": [
-        "marketing manager"
+        "advertising",
+        "associate's degree"
       ],
       "miss_count": 0
     },
     {
-      "id": "b12ef38a",
-      "title": "Senior Product Quality Leader (m/w/d) - Pharma",
-      "company": "Triga Consulting GmbH & Co KG",
-      "location": "Frankfurt am Main",
+      "id": "d004b166",
+      "title": "SPS-Programmierer / Automatisierungstechniker (m/w/d)",
+      "company": "HiOffice",
+      "location": "Dohna",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/triga-consulting-gmbh-co-kg/senior-product-quality-leader-pharma-frankfurt-am-main-493041",
+      "url": "https://www.arbeitnow.com/jobs/companies/hioffice/sps-programmierer-automatisierungstechniker-dohna-318581",
       "source": "arbeitnow",
       "date": "2026-11-04",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a2fd9902",
+      "title": "Software Engineer, Quality Engineering",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/software-engineer-quality-engineering-bristol-102422",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "admin (fsee)"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e9c5fdc8",
+      "title": "Auditeur préleveur (H/F) en restauration collective",
+      "company": "IFBM et Qualtech Groupe",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ifbm-et-qualtech-groupe/auditeur-preleveur-h-f-en-restauration-collective-paris-65757",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "Cdd - contrat à durée déterminée, débutant",
       "tags": [
         "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0f1033fb",
+      "title": "Steuerungstechniker:inn Kundendienst",
+      "company": "AKSA Würenlos AG",
+      "location": "Würenlos",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/aksa-wurenlos-ag/steuerungstechnikerinn-kundendienst-wurenlos-48898",
+      "source": "arbeitnow",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -122,6 +141,57 @@
       "miss_count": 0
     },
     {
+      "id": "8a057aa9",
+      "title": "QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1363077-qa-engineer-mobile-testing",
+      "source": "hirify",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "121eeee3",
+      "title": "QA Engineer (Middle/Senior, Mobile Games)",
+      "company": "Stark Games",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1362866-qa-engineer-middlesenior-mobile-games",
+      "source": "hirify",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "909496f8",
       "title": "QA Automation Team Lead (Mobile Gaming)",
       "company": "%hirify_global%",
@@ -144,6 +214,67 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0ed546fb",
+      "title": "Senior Data Governance Analyst",
+      "company": "Milliman",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/milliman-com/jobs/senior-data-governance-analyst?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "data-governance-analyst",
+        "data-analyst",
+        "data-management-analyst",
+        "data-quality-analyst"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "05826fb5",
+      "title": "Copilot Cowork Certified",
+      "company": "Data Edge",
+      "location": "United Kingdom",
+      "remote": true,
+      "country": "GB",
+      "url": "https://himalayas.app/companies/data-edge/jobs/copilot-cowork-certified?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "microsoft-copilot-consultant",
+        "microsoft-365-consultant",
+        "ai-solutions-consultant",
+        "business-process-automation-consultant",
+        "microsoft-copilot-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c0d09f44",
+      "title": "Music Producer - AI Trainer",
+      "company": "mercor",
+      "location": "Indonesia",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/mercor/jobs/music-producer-ai-trainer?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-04",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "music-producer",
+        "audio-engineer",
+        "sound-mixer",
+        "music-quality-assurance-specialist"
       ],
       "miss_count": 0
     },
@@ -761,34 +892,6 @@
       "miss_count": 0
     },
     {
-      "id": "18fd80a8",
-      "title": "QA Engineer (Mobile & Web)",
-      "company": "ArtWorkout",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1294620-qa-engineer-mobile-web",
-      "source": "hirify",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "0b10f80e",
       "title": "QA Manual Engineer (Mobile Games)",
       "company": "%hirify_global%",
@@ -915,32 +1018,6 @@
         "linux/unix",
         "testing",
         "infrastructure"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ce3e2103",
-      "title": "Mobile QA Engineer",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1274425-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-10-16",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
