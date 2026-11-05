@@ -1,7 +1,120 @@
 {
-  "updated_at": "2026-11-04T23:09:51.311832+00:00",
-  "total": 61,
+  "updated_at": "2026-11-05T04:57:41.843749+00:00",
+  "total": 58,
   "jobs": [
+    {
+      "id": "d97ef1a1",
+      "title": "(Senior) QA Engineer",
+      "company": "Tilla Technologies",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/senior-qa-engineer-berlin-41727",
+      "source": "arbeitnow",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "technology & engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d6f4a56c",
+      "title": "Activation and Production Testing Specialist",
+      "company": "Hopae",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hopae/remote-activation-and-production-testing-specialist-171647",
+      "source": "arbeitnow",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9d4def3b",
+      "title": "Senior QA Engineer - POS Hardware (m/f/d)",
+      "company": "Unzer",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/unzer/senior-qa-engineer-pos-hardware-berlin-67153",
+      "source": "arbeitnow",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2bdca6ba",
+      "title": "Senior Quality Assurance Engineer",
+      "company": "Hudl",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-quality-assurance-engineer-london-282179",
+      "source": "arbeitnow",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "core video & data"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "47bd671c",
+      "title": "QA Tester (Mobile Gaming)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1366237-qa-tester-mobile-gaming",
+      "source": "hirify",
+      "date": "2026-11-05",
+      "salary": "CAD 66500–70000 (~$4072)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4e0d17f6",
+      "title": "QA Engineer",
+      "company": "EdgeQ Technologies Private Limited",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-engineer",
+        "software-test-engineer",
+        "automation-testing",
+        "test-engineer"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "4b754e25",
       "title": "Senior AI & Automation Operations Manager (m/w/d)",
@@ -39,53 +152,21 @@
       "miss_count": 0
     },
     {
-      "id": "d004b166",
-      "title": "SPS-Programmierer / Automatisierungstechniker (m/w/d)",
-      "company": "HiOffice",
-      "location": "Dohna",
+      "id": "ffdfc0c4",
+      "title": "Senior Quality & Knowledge Specialist",
+      "company": "Quandela",
+      "location": "Massy, France",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hioffice/sps-programmierer-automatisierungstechniker-dohna-318581",
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/senior-quality-knowledge-specialist-massy-348102",
       "source": "arbeitnow",
       "date": "2026-11-04",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Full time, associate",
       "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a2fd9902",
-      "title": "Software Engineer, Quality Engineering",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/software-engineer-quality-engineering-bristol-102422",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "admin (fsee)"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e9c5fdc8",
-      "title": "Auditeur préleveur (H/F) en restauration collective",
-      "company": "IFBM et Qualtech Groupe",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ifbm-et-qualtech-groupe/auditeur-preleveur-h-f-en-restauration-collective-paris-65757",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "Cdd - contrat à durée déterminée, débutant",
-      "tags": [
-        "quality management"
+        "information technology",
+        "computer hardware",
+        "general & administration"
       ],
       "miss_count": 0
     },
@@ -214,67 +295,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0ed546fb",
-      "title": "Senior Data Governance Analyst",
-      "company": "Milliman",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/milliman-com/jobs/senior-data-governance-analyst?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "data-governance-analyst",
-        "data-analyst",
-        "data-management-analyst",
-        "data-quality-analyst"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "05826fb5",
-      "title": "Copilot Cowork Certified",
-      "company": "Data Edge",
-      "location": "United Kingdom",
-      "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/data-edge/jobs/copilot-cowork-certified?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "microsoft-copilot-consultant",
-        "microsoft-365-consultant",
-        "ai-solutions-consultant",
-        "business-process-automation-consultant",
-        "microsoft-copilot-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c0d09f44",
-      "title": "Music Producer - AI Trainer",
-      "company": "mercor",
-      "location": "Indonesia",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/mercor/jobs/music-producer-ai-trainer?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "music-producer",
-        "audio-engineer",
-        "sound-mixer",
-        "music-quality-assurance-specialist"
       ],
       "miss_count": 0
     },
@@ -1022,32 +1042,6 @@
       "miss_count": 0
     },
     {
-      "id": "5e9dfd9d",
-      "title": "Project and Quality Administrator Work From Home Dayshift",
-      "company": "Twoconnect",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
-      "source": "remoteok",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "work from home",
-        "jira",
-        "sys admin",
-        "education",
-        "customer support",
-        "marketing",
-        "admin",
-        "microsoft",
-        "exec",
-        "excel"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "f7687af9",
       "title": "Mobile QA Automation Engineer (AI)",
       "company": "%hirify_global%",
@@ -1431,82 +1425,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "68b63b74",
-      "title": "QA Mobile (Senior)",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1218343-qa-mobile-senior",
-      "source": "hirify",
-      "date": "2026-10-07",
-      "salary": "RUB 1786–1786 (~$3364)",
-      "type": "project",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e85f26c4",
-      "title": "QA Java Mobile",
-      "company": "Альфа-Банк",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1206131-qa-java-mobile",
-      "source": "hirify",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "274a7620",
-      "title": "QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1204173-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-10-05",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
