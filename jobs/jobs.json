@@ -1,72 +1,157 @@
 {
-  "updated_at": "2026-11-05T04:57:41.843749+00:00",
-  "total": 58,
+  "updated_at": "2026-11-05T13:56:39.397974+00:00",
+  "total": 60,
   "jobs": [
     {
-      "id": "d97ef1a1",
-      "title": "(Senior) QA Engineer",
-      "company": "Tilla Technologies",
-      "location": "Berlin",
+      "id": "4af7b230",
+      "title": "GTM Engineer - Sales Automation and Analytics Management",
+      "company": "Pergolux",
+      "location": "Berlin | Global Team",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/tilla-technologies/senior-qa-engineer-berlin-41727",
+      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/gtm-engineer-sales-automation-and-analytics-management-berlin-224004",
       "source": "arbeitnow",
       "date": "2026-11-05",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "technology & engineering"
+        "sales"
       ],
       "miss_count": 0
     },
     {
-      "id": "d6f4a56c",
-      "title": "Activation and Production Testing Specialist",
-      "company": "Hopae",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopae/remote-activation-and-production-testing-specialist-171647",
-      "source": "arbeitnow",
-      "date": "2026-11-05",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9d4def3b",
-      "title": "Senior QA Engineer - POS Hardware (m/f/d)",
-      "company": "Unzer",
+      "id": "ab78e4d4",
+      "title": "Senior Penetration Tester API, Web & Cloud – 6 Months Contract (all genders)",
+      "company": "Distribusion Technologies",
       "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/unzer/senior-qa-engineer-pos-hardware-berlin-67153",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-penetration-tester-api-web-cloud-6-months-contract-all-genders-berlin-394866",
       "source": "arbeitnow",
       "date": "2026-11-05",
       "salary": "",
-      "type": "Full-time",
+      "type": "Temporary, experienced",
       "tags": [
-        "product"
+        "information technology",
+        "bachelor's degree"
       ],
       "miss_count": 0
     },
     {
-      "id": "2bdca6ba",
-      "title": "Senior Quality Assurance Engineer",
-      "company": "Hudl",
+      "id": "26f8d0a6",
+      "title": "Senior Robotics Autonomy Engineer - Planning, Decision & Intercept",
+      "company": "Promethion Industries",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/promethion-industries/senior-robotics-autonomy-engineer-planning-decision-intercept-berlin-421432",
+      "source": "arbeitnow",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "64e58b5b",
+      "title": "Senior Underwriting Analyst, Quality Control",
+      "company": "Checkout.com",
       "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hudl/senior-quality-assurance-engineer-london-282179",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-underwriting-analyst-quality-control-london-441104",
+      "source": "arbeitnow",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "all departments"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e147062c",
+      "title": "QA Tester",
+      "company": "Plentific",
+      "location": "remote",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plentific/remote-qa-tester-299386",
+      "source": "arbeitnow",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering - active housing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ddb046df",
+      "title": "Senior Engineer, QA",
+      "company": "Asm",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-qa-55627",
       "source": "arbeitnow",
       "date": "2026-11-05",
       "salary": "",
       "type": "",
       "tags": [
-        "core video & data"
+        "su3.global software- legacy"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ab05335f",
+      "title": "QA Game Tester (Mobile)",
+      "company": "Junkineering",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1368618-qa-game-tester-mobile",
+      "source": "hirify",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d59ac08e",
+      "title": "QA Engineer (Mobile, Manual)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1367256-mobile-manual-qa-engineer",
+      "source": "hirify",
+      "date": "2026-11-05",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -96,77 +181,43 @@
       "miss_count": 0
     },
     {
-      "id": "4e0d17f6",
-      "title": "QA Engineer",
-      "company": "EdgeQ Technologies Private Limited",
-      "location": "United States",
+      "id": "b1dc724a",
+      "title": "Account Partner - Quality",
+      "company": "Veeva Systems",
+      "location": "United Kingdom",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api",
+      "country": "GB",
+      "url": "https://himalayas.app/companies/veeva-systems/jobs/account-partner-quality-9095050313?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-05",
       "salary": "",
       "type": "",
       "tags": [
-        "qa-engineer",
-        "software-test-engineer",
-        "automation-testing",
-        "test-engineer"
+        "account-executive",
+        "account-partner",
+        "enterprise-account-executive",
+        "life-sciences-business-development-executive",
+        "sales-consultant"
       ],
       "miss_count": 0
     },
     {
-      "id": "4b754e25",
-      "title": "Senior AI & Automation Operations Manager (m/w/d)",
-      "company": "Rosental Organics GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-ai-automation-operations-manager-berlin-103357",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
+      "id": "a6728476",
+      "title": "🌎 Bengali Bilingual Expert, Remote- Contract",
+      "company": "Xperteez Technology",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/bengali-bilingual-expert-remote-contract?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-05",
       "salary": "",
-      "type": "Full-time permanent, mid",
+      "type": "",
       "tags": [
-        "technical",
-        "associate's degree"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "33f087c1",
-      "title": "Senior CRM Manager - Klaviyo & Automation/ E-Mail Marketing Manager (m/w/d)",
-      "company": "Rosental Organics GmbH",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-crm-manager-klaviyo-automation-e-mail-marketing-manager-berlin-140137",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "Full-time permanent, mid",
-      "tags": [
-        "advertising",
-        "associate's degree"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ffdfc0c4",
-      "title": "Senior Quality & Knowledge Specialist",
-      "company": "Quandela",
-      "location": "Massy, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/quandela/senior-quality-knowledge-specialist-massy-348102",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "Full time, associate",
-      "tags": [
-        "information technology",
-        "computer hardware",
-        "general & administration"
+        "bengali-language-specialist",
+        "language-quality-analyst",
+        "linguistic-evaluation-specialist",
+        "ai-training-data-specialist"
       ],
       "miss_count": 0
     },
