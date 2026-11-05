@@ -1,90 +1,38 @@
 {
-  "updated_at": "2026-11-05T13:56:39.397974+00:00",
-  "total": 60,
+  "updated_at": "2026-11-05T23:14:35.841857+00:00",
+  "total": 51,
   "jobs": [
     {
-      "id": "4af7b230",
-      "title": "GTM Engineer - Sales Automation and Analytics Management",
-      "company": "Pergolux",
-      "location": "Berlin | Global Team",
+      "id": "0f5ebfcd",
+      "title": "Elektroniker für Automatisierungstechnik (m/w/d)",
+      "company": "HRW Gebäudetechnik",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/pergolux/gtm-engineer-sales-automation-and-analytics-management-berlin-224004",
+      "url": "https://www.arbeitnow.com/jobs/companies/hrw-gebaudetechnik/elektroniker-fur-automatisierungstechnik-hamburg-498721",
       "source": "arbeitnow",
       "date": "2026-11-05",
       "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "sales"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ab78e4d4",
-      "title": "Senior Penetration Tester API, Web & Cloud – 6 Months Contract (all genders)",
-      "company": "Distribusion Technologies",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-penetration-tester-api-web-cloud-6-months-contract-all-genders-berlin-394866",
-      "source": "arbeitnow",
-      "date": "2026-11-05",
-      "salary": "",
-      "type": "Temporary, experienced",
-      "tags": [
-        "information technology",
-        "bachelor's degree"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "26f8d0a6",
-      "title": "Senior Robotics Autonomy Engineer - Planning, Decision & Intercept",
-      "company": "Promethion Industries",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/promethion-industries/senior-robotics-autonomy-engineer-planning-decision-intercept-berlin-421432",
-      "source": "arbeitnow",
-      "date": "2026-11-05",
-      "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "64e58b5b",
-      "title": "Senior Underwriting Analyst, Quality Control",
-      "company": "Checkout.com",
-      "location": "London",
+      "id": "0f1033fb",
+      "title": "Steuerungstechniker:in Kundendienst",
+      "company": "AKSA Würenlos AG",
+      "location": "Würenlos",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-underwriting-analyst-quality-control-london-441104",
+      "url": "https://www.arbeitnow.ch/jobs/companies/aksa-wurenlos-ag/steuerungstechnikerinn-kundendienst-wurenlos-48898",
       "source": "arbeitnow",
       "date": "2026-11-05",
       "salary": "",
-      "type": "Full Time",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "all departments"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e147062c",
-      "title": "QA Tester",
-      "company": "Plentific",
-      "location": "remote",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plentific/remote-qa-tester-299386",
-      "source": "arbeitnow",
-      "date": "2026-11-05",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering - active housing"
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -177,98 +125,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b1dc724a",
-      "title": "Account Partner - Quality",
-      "company": "Veeva Systems",
-      "location": "United Kingdom",
-      "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/veeva-systems/jobs/account-partner-quality-9095050313?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "account-executive",
-        "account-partner",
-        "enterprise-account-executive",
-        "life-sciences-business-development-executive",
-        "sales-consultant"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a6728476",
-      "title": "🌎 Bengali Bilingual Expert, Remote- Contract",
-      "company": "Xperteez Technology",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/bengali-bilingual-expert-remote-contract?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-05",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "bengali-language-specialist",
-        "language-quality-analyst",
-        "linguistic-evaluation-specialist",
-        "ai-training-data-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0f1033fb",
-      "title": "Steuerungstechniker:inn Kundendienst",
-      "company": "AKSA Würenlos AG",
-      "location": "Würenlos",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/aksa-wurenlos-ag/steuerungstechnikerinn-kundendienst-wurenlos-48898",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9e763ffe",
-      "title": "SPS Programmierer / Software Engineer (w/m)",
-      "company": "Härdi Personal",
-      "location": "Lucerne",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/hardi-personal/sps-programmierer-software-engineer-w-m-lucerne-27386",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9e0ff933",
-      "title": "Freelance Tester in Netherlands",
-      "company": "Testlio",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/testlio/freelance-tester-in-netherlands-130440",
-      "source": "arbeitnow",
-      "date": "2026-11-04",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "freelancers"
       ],
       "miss_count": 0
     },
@@ -837,28 +693,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "706b2b95",
-      "title": "QA Manual (Mobile Games)",
-      "company": "Doghowl Games",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1313589-qa-manual-mobile-games",
-      "source": "hirify",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
