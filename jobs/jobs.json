@@ -1,38 +1,195 @@
 {
-  "updated_at": "2026-11-06T04:57:10.219707+00:00",
-  "total": 55,
+  "updated_at": "2026-11-06T13:41:40.634882+00:00",
+  "total": 66,
   "jobs": [
     {
-      "id": "1653e5c9",
-      "title": "AI & Automation Lead (f/m/x)",
-      "company": "Lemon Markets",
-      "location": "Berlin (Hybrid)",
+      "id": "8ff1826c",
+      "title": "Praktikum / Abschlussarbeit (m/w/d) – Software Testing Medizinprodukte",
+      "company": "Preventicus GmbH",
+      "location": "Jena",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/ai-automation-lead-berlin-326639",
+      "url": "https://www.arbeitnow.com/jobs/companies/preventicus-gmbh/praktikum-abschlussarbeit-software-testing-medizinprodukte-jena-370693",
       "source": "arbeitnow",
       "date": "2026-11-06",
       "salary": "",
-      "type": "Full Time",
+      "type": "Praktikum, internship, hilfstätigkeit / student",
       "tags": [
-        "engineering"
+        "software development"
       ],
       "miss_count": 0
     },
     {
-      "id": "ef333ad9",
-      "title": "Senior Software Engineer (Quality Engineering)",
-      "company": "Thought Machine",
-      "location": "United Kingdom, London",
+      "id": "b8020eda",
+      "title": "QA Engineer - Quantum Computing (m/w/d)",
+      "company": "eleQtron GmbH",
+      "location": "Siegen, Nordrhein-Westfalen, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/qa-engineer-quantum-computing-siegen-172005",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "quantum firmware"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "be84402b",
+      "title": "Fachbauleiter Leittechnik / Automatisierungstechnik (m/w/d)",
+      "company": "INP Deutschland GmbH",
+      "location": "Eschweiler",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/fachbauleiter-leittechnik-automatisierungstechnik-eschweiler-105210",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "455b9d20",
+      "title": "Senior Testmanagement Consultant (m/w/d)",
+      "company": "red6 enterprise software GmbH",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/red6-enterprise-software-gmbh/senior-testmanagement-consultant-hamburg-269425",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b83bb809",
+      "title": "Data Protection & Quality Management Officer",
+      "company": "orcristtechnologies",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/data-protection-quality-management-officer-434849",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "internal it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9e44c8b7",
+      "title": "Mobile Quality Engineer",
+      "company": "Lendable",
+      "location": "UK Remote",
       "remote": false,
       "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/senior-software-engineer-quality-engineering-london-70715",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-mobile-quality-engineer-139365",
       "source": "arbeitnow",
       "date": "2026-11-06",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "engineering"
+        "engineering & product"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "42d55783",
+      "title": "Mechanical Engineer, Automation Projects",
+      "company": "Destinusgroup",
+      "location": "Payerne, Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-payerne-267521",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "aviation & aerospace",
+        "r&d & engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "59abb7ed",
+      "title": "Mechanical Engineer, Automation Projects",
+      "company": "Destinusgroup",
+      "location": "Zürich, Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-zurich-308242",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "aviation & aerospace",
+        "r&d & engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8cfec6f0",
+      "title": "Internationaler Servicetechniker (DJ130)",
+      "company": "Excellent Go4",
+      "location": "Winterthur",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/internationaler-servicetechniker-dj130-winterthur-99159",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "248c5735",
+      "title": "Quality Assurance Associate (m/w/d) for CSL Behring (50%)",
+      "company": "We make it GmbH",
+      "location": "Bern",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/quality-assurance-associate-for-csl-behring-50-bern-425640",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "7138da16",
+      "title": "Automation Software Engineer, 80-100%",
+      "company": "Veratron AG",
+      "location": "Rüthi, Sankt Gallen, Schweiz",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/veratron-ag/automation-software-engineer-80-100-ruthi-381544",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "betriebsmittelbau - production engineering"
       ],
       "miss_count": 0
     },
@@ -50,6 +207,32 @@
       "type": "Entry, fulltime permanent",
       "tags": [
         "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "262ab4ac",
+      "title": "QA Specialist (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1374677-mobile-games-qa-specialist",
+      "source": "hirify",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -80,36 +263,23 @@
       "miss_count": 0
     },
     {
-      "id": "0f5ebfcd",
-      "title": "Elektroniker für Automatisierungstechnik (m/w/d)",
-      "company": "HRW Gebäudetechnik",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hrw-gebaudetechnik/elektroniker-fur-automatisierungstechnik-hamburg-498721",
-      "source": "arbeitnow",
-      "date": "2026-11-05",
+      "id": "2ba06e13",
+      "title": "Sr. Test Engineer (Demo)",
+      "company": "Inabia Software & Consulting Inc.",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/inabia-software-consulting-inc/jobs/sr-test-engineer-demo?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-06",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0f1033fb",
-      "title": "Steuerungstechniker:in Kundendienst",
-      "company": "AKSA Würenlos AG",
-      "location": "Würenlos",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/aksa-wurenlos-ag/steuerungstechnikerinn-kundendienst-wurenlos-48898",
-      "source": "arbeitnow",
-      "date": "2026-11-05",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
+        "senior-test-engineer",
+        "qa-engineer",
+        "automation-testing",
+        "software-test-engineer",
+        "quality-assurance-engineer"
       ],
       "miss_count": 0
     },
@@ -209,6 +379,43 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ab155e77",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "remotive",
+      "date": "2026-11-04",
+      "salary": "$50-$75 /hour",
+      "type": "freelance",
+      "tags": [
+        "rest"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d06a21f0",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+      "source": "remotive",
+      "date": "2026-11-04",
+      "salary": "$14/hour",
+      "type": "part_time",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "ai/ml"
       ],
       "miss_count": 0
     },
