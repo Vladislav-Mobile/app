@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-11-05T23:14:35.841857+00:00",
-  "total": 51,
+  "updated_at": "2026-11-06T04:57:10.219707+00:00",
+  "total": 55,
   "jobs": [
+    {
+      "id": "1653e5c9",
+      "title": "AI & Automation Lead (f/m/x)",
+      "company": "Lemon Markets",
+      "location": "Berlin (Hybrid)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/ai-automation-lead-berlin-326639",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ef333ad9",
+      "title": "Senior Software Engineer (Quality Engineering)",
+      "company": "Thought Machine",
+      "location": "United Kingdom, London",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/senior-software-engineer-quality-engineering-london-70715",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "20edc5d8",
+      "title": "QA Engineer",
+      "company": "YoungOnes",
+      "location": "Breda, Noord-Brabant, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-breda-496087",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Entry, fulltime permanent",
+      "tags": [
+        "development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6a61a7fd",
+      "title": "Lead Mobile QA Automation Engineer (React Native)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1372694-lead-mobile-qa-automation",
+      "source": "hirify",
+      "date": "2026-11-06",
+      "salary": "USD 130300–140036",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
     {
       "id": "0f5ebfcd",
       "title": "Elektroniker für Automatisierungstechnik (m/w/d)",
@@ -37,19 +114,26 @@
       "miss_count": 0
     },
     {
-      "id": "ddb046df",
-      "title": "Senior Engineer, QA",
-      "company": "Asm",
-      "location": "",
-      "remote": false,
+      "id": "682b3243",
+      "title": "QA Lead (Mobile Games)",
+      "company": "Azra Games",
+      "location": ", ",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-qa-55627",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/1372510-qa-lead-mobile-games",
+      "source": "hirify",
       "date": "2026-11-05",
-      "salary": "",
-      "type": "",
+      "salary": "USD 90000–110000",
+      "type": "fulltime",
       "tags": [
-        "su3.global software- legacy"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
