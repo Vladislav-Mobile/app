@@ -1,49 +1,32 @@
 {
-  "updated_at": "2026-11-06T13:41:40.634882+00:00",
-  "total": 66,
+  "updated_at": "2026-11-06T22:40:44.112152+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "8ff1826c",
-      "title": "Praktikum / Abschlussarbeit (m/w/d) – Software Testing Medizinprodukte",
-      "company": "Preventicus GmbH",
-      "location": "Jena",
+      "id": "7c239674",
+      "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
+      "company": "CONCAPE",
+      "location": "Lindau",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/preventicus-gmbh/praktikum-abschlussarbeit-software-testing-medizinprodukte-jena-370693",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-lindau-325634",
       "source": "arbeitnow",
       "date": "2026-11-06",
       "salary": "",
-      "type": "Praktikum, internship, hilfstätigkeit / student",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "software development"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "b8020eda",
-      "title": "QA Engineer - Quantum Computing (m/w/d)",
-      "company": "eleQtron GmbH",
-      "location": "Siegen, Nordrhein-Westfalen, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/qa-engineer-quantum-computing-siegen-172005",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "quantum firmware"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "be84402b",
-      "title": "Fachbauleiter Leittechnik / Automatisierungstechnik (m/w/d)",
-      "company": "INP Deutschland GmbH",
-      "location": "Eschweiler",
+      "id": "151415f9",
+      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
+      "company": "CONCAPE",
+      "location": "Konstanz",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/fachbauleiter-leittechnik-automatisierungstechnik-eschweiler-105210",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-konstanz-494906",
       "source": "arbeitnow",
       "date": "2026-11-06",
       "salary": "",
@@ -54,17 +37,17 @@
       "miss_count": 0
     },
     {
-      "id": "455b9d20",
-      "title": "Senior Testmanagement Consultant (m/w/d)",
-      "company": "red6 enterprise software GmbH",
-      "location": "Hamburg",
+      "id": "90b480b2",
+      "title": "Tester",
+      "company": "pkconsult",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/red6-enterprise-software-gmbh/senior-testmanagement-consultant-hamburg-269425",
+      "url": "https://www.arbeitnow.com/jobs/companies/pkconsult/tester-berlin-278992",
       "source": "arbeitnow",
       "date": "2026-11-06",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
       "tags": [
         "quality assurance",
         "inspection"
@@ -72,36 +55,172 @@
       "miss_count": 0
     },
     {
-      "id": "b83bb809",
-      "title": "Data Protection & Quality Management Officer",
-      "company": "orcristtechnologies",
-      "location": "",
+      "id": "7cd2c73f",
+      "title": "Senior RF Engineer (All Gender)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/orcristtechnologies/data-protection-quality-management-officer-434849",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-rf-engineer-all-gender-munich-bavaria-17568",
       "source": "arbeitnow",
       "date": "2026-11-06",
       "salary": "",
       "type": "",
       "tags": [
-        "internal it"
+        "prototyping / testing"
       ],
       "miss_count": 0
     },
     {
-      "id": "9e44c8b7",
-      "title": "Mobile Quality Engineer",
-      "company": "Lendable",
-      "location": "UK Remote",
+      "id": "5b54f069",
+      "title": "Quality Assurance Inspector (All Genders)",
+      "company": "Skdse",
+      "location": "Munich, Bavaria",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/remote-mobile-quality-engineer-139365",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/quality-assurance-inspector-all-genders-munich-bavaria-295933",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6e30cd6f",
+      "title": "Supply Chain Analyst (m/w/d)",
+      "company": "Isembard",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isembard/supply-chain-analyst-hamburg-236765",
       "source": "arbeitnow",
       "date": "2026-11-06",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "engineering & product"
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "30e9f904",
+      "title": "Supply Chain Analyst (m/w/d)",
+      "company": "Isembard",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isembard/supply-chain-analyst-hamburg-201407",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d5363bc4",
+      "title": "CMM-Programmierer (m/w/d)",
+      "company": "Isembard",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isembard/cmm-programmierer-hamburg-11701",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3e07bc20",
+      "title": "CMM Programmer (m/w/d)",
+      "company": "Isembard",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isembard/cmm-programmer-hamburg-11718",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "quality and supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a829bb77",
+      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
+      "company": "Lamm HR GmbH",
+      "location": "Landkreis Bergstraße, Hessen, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-228736",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ae07d0fe",
+      "title": "Werkstudent:in Business Operations & Automation",
+      "company": "Code17 GmbH",
+      "location": "Leipzig",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/code17-gmbh/werkstudentin-business-operations-automation-leipzig-333404",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Werkstudent, working student, hilfstätigkeit / student",
+      "tags": [
+        "business operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "44e67c5b",
+      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-220032",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "493cdbe3",
+      "title": "Senior Localisation Quality Engineer",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-localisation-quality-engineer-london-416361",
+      "source": "arbeitnow",
+      "date": "2026-11-06",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "global design center"
       ],
       "miss_count": 0
     },
@@ -211,6 +330,30 @@
       "miss_count": 0
     },
     {
+      "id": "5bd4910d",
+      "title": "Mobile QA Engineer (Appium)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1376606-mobile-qa-engineer-appium",
+      "source": "hirify",
+      "date": "2026-11-06",
+      "salary": "USD 115000–165000",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "262ab4ac",
       "title": "QA Specialist (Mobile Games)",
       "company": "%hirify_global%",
@@ -263,23 +406,22 @@
       "miss_count": 0
     },
     {
-      "id": "2ba06e13",
-      "title": "Sr. Test Engineer (Demo)",
-      "company": "Inabia Software & Consulting Inc.",
+      "id": "d192c39f",
+      "title": "Senior Service Application Engineer-Remote",
+      "company": "CBRE",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/inabia-software-consulting-inc/jobs/sr-test-engineer-demo?utm_source=api",
+      "url": "https://himalayas.app/companies/cbre/jobs/senior-service-application-engineer-remote?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-06",
       "salary": "",
       "type": "",
       "tags": [
-        "senior-test-engineer",
-        "qa-engineer",
-        "automation-testing",
-        "software-test-engineer",
-        "quality-assurance-engineer"
+        "application-engineer",
+        "controls-engineer",
+        "building-automation-engineer",
+        "commissioning-engineer"
       ],
       "miss_count": 0
     },
@@ -926,24 +1068,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0f5e9ee6",
-      "title": "Ищу Middle/Senior QA Automation (Java) / Fullstack QA",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/261363",
-      "source": "telegram",
-      "date": "2026-10-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
