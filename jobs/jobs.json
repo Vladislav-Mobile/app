@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-11-06T22:40:44.112152+00:00",
-  "total": 73,
+  "updated_at": "2026-11-07T04:29:44.308736+00:00",
+  "total": 64,
   "jobs": [
+    {
+      "id": "f1b4b947",
+      "title": "Internship - Programming & Automation",
+      "company": "Fiducial",
+      "location": "Delft",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
+      "source": "arbeitnow",
+      "date": "2026-11-07",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "internships"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6f7cb92a",
+      "title": "Audio Engineer - Remote",
+      "company": "YO AI Labs",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/audio-engineer-remote?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "audio-engineer",
+        "audio-quality-assurance-specialist",
+        "audio-data-annotator",
+        "content-review-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f2537e97",
+      "title": "Telco Network Quality & AI Automation Manager",
+      "company": "Holafly",
+      "location": "Albania",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/holafly/jobs/telco-network-quality-ai-automation-manager?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "network-performance-manager",
+        "telecommunications-manager",
+        "network-automation-manager",
+        "mobile-network-engineer",
+        "telecom-ai-manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "838cc05e",
+      "title": "Quality Intern (Year-Round)",
+      "company": "Schreiber Foods",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/schreiber-foods/jobs/quality-intern-year-round?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-07",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-assurance-intern",
+        "food-safety-intern"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "7c239674",
       "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
@@ -85,142 +161,6 @@
       "type": "",
       "tags": [
         "supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6e30cd6f",
-      "title": "Supply Chain Analyst (m/w/d)",
-      "company": "Isembard",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isembard/supply-chain-analyst-hamburg-236765",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "quality and supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "30e9f904",
-      "title": "Supply Chain Analyst (m/w/d)",
-      "company": "Isembard",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isembard/supply-chain-analyst-hamburg-201407",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "quality and supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d5363bc4",
-      "title": "CMM-Programmierer (m/w/d)",
-      "company": "Isembard",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isembard/cmm-programmierer-hamburg-11701",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "quality and supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3e07bc20",
-      "title": "CMM Programmer (m/w/d)",
-      "company": "Isembard",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isembard/cmm-programmer-hamburg-11718",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "quality and supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a829bb77",
-      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
-      "company": "Lamm HR GmbH",
-      "location": "Landkreis Bergstraße, Hessen, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-228736",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ae07d0fe",
-      "title": "Werkstudent:in Business Operations & Automation",
-      "company": "Code17 GmbH",
-      "location": "Leipzig",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/code17-gmbh/werkstudentin-business-operations-automation-leipzig-333404",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Werkstudent, working student, hilfstätigkeit / student",
-      "tags": [
-        "business operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "44e67c5b",
-      "title": "Messtechniker / Kalibriertechniker (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/messtechniker-kalibriertechniker-munich-220032",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "493cdbe3",
-      "title": "Senior Localisation Quality Engineer",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-localisation-quality-engineer-london-416361",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "global design center"
       ],
       "miss_count": 0
     },
@@ -313,23 +253,6 @@
       "miss_count": 0
     },
     {
-      "id": "20edc5d8",
-      "title": "QA Engineer",
-      "company": "YoungOnes",
-      "location": "Breda, Noord-Brabant, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/youngones/qa-engineer-breda-496087",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Entry, fulltime permanent",
-      "tags": [
-        "development"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "5bd4910d",
       "title": "Mobile QA Engineer (Appium)",
       "company": "%hirify_global%",
@@ -402,26 +325,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d192c39f",
-      "title": "Senior Service Application Engineer-Remote",
-      "company": "CBRE",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/cbre/jobs/senior-service-application-engineer-remote?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "application-engineer",
-        "controls-engineer",
-        "building-automation-engineer",
-        "commissioning-engineer"
       ],
       "miss_count": 0
     },
@@ -1653,85 +1556,6 @@
         "google sheets",
         "financial services",
         "inside sales"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "17f629b4",
-      "title": "Tier III Service Desk Engineer",
-      "company": "Unio Digital",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "remotive",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "azure",
-        "cisco",
-        "security",
-        "video",
-        "documentation",
-        "hardware",
-        "helpdesk",
-        "onboarding",
-        "msp",
-        "ticketing",
-        "microsoft 365",
-        "it systems"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "739e357d",
-      "title": "QA Lead (Mobile)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1219973-qa-lead-mobile-ai",
-      "source": "hirify",
-      "date": "2026-10-07",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a84abbda",
-      "title": "QA Fullstack Mobile Java",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1218718-qa-fullstack-mobile-java",
-      "source": "hirify",
-      "date": "2026-10-07",
-      "salary": "RUB 250000–280000 (~$3120)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
