@@ -1,55 +1,38 @@
 {
-  "updated_at": "2026-11-07T12:23:13.815614+00:00",
-  "total": 62,
+  "updated_at": "2026-11-07T21:24:27.984937+00:00",
+  "total": 59,
   "jobs": [
     {
-      "id": "c6955c8c",
-      "title": "FMEA Moderator/ Consutant (m/w/d) - VDA & mehr",
-      "company": "QMH Consulting GmbH",
-      "location": "Norderstedt",
+      "id": "6e30662e",
+      "title": "Team Lead Engineering - Finance Automation (f/m/d)",
+      "company": "Zeal Network",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/qmh-consulting-gmbh/fmea-moderator-consutant-vda-mehr-norderstedt-259004",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-64058",
       "source": "arbeitnow",
       "date": "2026-11-07",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
+      "type": "Full Time",
       "tags": [
-        "quality management"
+        "technology"
       ],
       "miss_count": 0
     },
     {
-      "id": "c349e347",
-      "title": "Senior Quality Engineer",
-      "company": "Hypersonica",
-      "location": "London",
+      "id": "91ddecba",
+      "title": "Principal Penetration Tester",
+      "company": "Dragos",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/senior-quality-engineer-london-86128",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dragos/principal-penetration-tester-290553",
       "source": "arbeitnow",
       "date": "2026-11-07",
       "salary": "",
-      "type": "Full-time",
+      "type": "",
       "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a4e735a5",
-      "title": "Senior Network Automation Engineer (EU)",
-      "company": "Megaport",
-      "location": "United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/megaport/senior-network-automation-engineer-eu-united-kingdom-163599",
-      "source": "arbeitnow",
-      "date": "2026-11-07",
-      "salary": "",
-      "type": "Full-time - Permanent",
-      "tags": [
-        "engineering"
+        "professional services"
       ],
       "miss_count": 0
     },
@@ -71,61 +54,22 @@
       "miss_count": 0
     },
     {
-      "id": "6f7cb92a",
-      "title": "Audio Engineer - Remote",
-      "company": "YO AI Labs",
+      "id": "d192c39f",
+      "title": "Senior Service Application Engineer-Remote",
+      "company": "CBRE",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/audio-engineer-remote?utm_source=api",
+      "url": "https://himalayas.app/companies/cbre/jobs/senior-service-application-engineer-remote?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-07",
       "salary": "",
       "type": "",
       "tags": [
-        "audio-engineer",
-        "audio-quality-assurance-specialist",
-        "audio-data-annotator",
-        "content-review-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f2537e97",
-      "title": "Telco Network Quality & AI Automation Manager",
-      "company": "Holafly",
-      "location": "Albania",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/holafly/jobs/telco-network-quality-ai-automation-manager?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "network-performance-manager",
-        "telecommunications-manager",
-        "network-automation-manager",
-        "mobile-network-engineer",
-        "telecom-ai-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "838cc05e",
-      "title": "Quality Intern (Year-Round)",
-      "company": "Schreiber Foods",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/schreiber-foods/jobs/quality-intern-year-round?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-assurance-intern",
-        "food-safety-intern"
+        "application-engineer",
+        "controls-engineer",
+        "building-automation-engineer",
+        "commissioning-engineer"
       ],
       "miss_count": 0
     },
