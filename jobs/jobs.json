@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-08T04:15:33.750098+00:00",
+  "updated_at": "2026-11-08T12:41:57.249141+00:00",
   "total": 56,
   "jobs": [
+    {
+      "id": "c0ee5958",
+      "title": "Senior Automation Engineer  - UiPath",
+      "company": "roboyo",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-automation-engineer-uipath-munich-27512",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "delivery"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "eaaf30fe",
       "title": "Junior AI-Automation Specialist (m/w/d) – vor Ort in Dortmund",
@@ -20,36 +37,82 @@
       "miss_count": 0
     },
     {
-      "id": "91b4270b",
-      "title": "Senior Quality Systems Engineer, United Kingdom",
-      "company": "Andurilindustries",
-      "location": "London",
+      "id": "6d7e1896",
+      "title": "Manual QA Engineer for Mobile App (Mobile QA)",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-quality-systems-engineer-united-kingdom-london-300777",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/1380753-manual-mobile-qa-engineer",
+      "source": "hirify",
       "date": "2026-11-08",
       "salary": "",
-      "type": "",
+      "type": "fulltime",
       "tags": [
-        "quality reliability & system safety : quality engineering : quality systems engineering"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
     {
-      "id": "2bb4feec",
-      "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
-      "company": "CONCAPE",
-      "location": "Lindau",
+      "id": "e674c4d0",
+      "title": "Manual QA Engineer for Mobile App",
+      "company": "%hirify_global%",
+      "location": "WW",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-lindau-172273",
-      "source": "arbeitnow",
+      "url": "https://hirify.me/vacancies/1380750-manual-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "17f629b4",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "source": "remotive",
       "date": "2026-11-07",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "full_time",
       "tags": [
-        "quality management"
+        "azure",
+        "cisco",
+        "security",
+        "video",
+        "documentation",
+        "hardware",
+        "helpdesk",
+        "onboarding",
+        "msp",
+        "ticketing",
+        "microsoft 365",
+        "it systems"
       ],
       "miss_count": 0
     },
@@ -85,42 +148,6 @@
       "tags": [
         "healthcare",
         "insurance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "42d55783",
-      "title": "Mechanical Engineer, Automation Projects",
-      "company": "Destinusgroup",
-      "location": "Payerne, Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-payerne-267521",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "aviation & aerospace",
-        "r&d & engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "59abb7ed",
-      "title": "Mechanical Engineer, Automation Projects",
-      "company": "Destinusgroup",
-      "location": "Zürich, Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-zurich-308242",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "aviation & aerospace",
-        "r&d & engineering"
       ],
       "miss_count": 0
     },
