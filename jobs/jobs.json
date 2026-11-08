@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-11-08T12:41:57.249141+00:00",
-  "total": 56,
+  "updated_at": "2026-11-08T21:38:48.640585+00:00",
+  "total": 60,
   "jobs": [
+    {
+      "id": "e61178cc",
+      "title": "Senior Business Automation Developer (all genders)",
+      "company": "Flaconi",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/flaconi/senior-business-automation-developer-all-genders-berlin-berlin-374169",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "enterprise apps"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cf0e6ec9",
+      "title": "NDT Inspector (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/ndt-inspector-ottobrunn-bavaria-parsdorf-bavaria-484750",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "production",
+        "operations & quality"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "c0ee5958",
       "title": "Senior Automation Engineer  - UiPath",
@@ -20,19 +55,70 @@
       "miss_count": 0
     },
     {
-      "id": "eaaf30fe",
-      "title": "Junior AI-Automation Specialist (m/w/d) – vor Ort in Dortmund",
-      "company": "ATZ AG",
-      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+      "id": "4290c6d9",
+      "title": "QA Director",
+      "company": "Scopely",
+      "location": "GB - Dundee",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-160104",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/qa-director-gb-dundee-424508",
       "source": "arbeitnow",
       "date": "2026-11-08",
       "salary": "",
-      "type": "Student school, fulltime permanent",
+      "type": "",
       "tags": [
-        "it & programming"
+        "live games portfolio"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9a4d1dd9",
+      "title": "System Test Automation Engineer",
+      "company": "Wayve",
+      "location": "London, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/system-test-automation-engineer-london-united-kingdom-401378",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product & delivery"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "02e47946",
+      "title": "Operations Data & Automation Apprentice",
+      "company": "Backmarket",
+      "location": "Bordeaux",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/operations-data-automation-apprentice-bordeaux-84574",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "Intern",
+      "tags": [
+        "internships"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bafa57da",
+      "title": "Stage - Project Manager & Automation (F/H) - Paris",
+      "company": "Horizontradingsolutions",
+      "location": "Paris, Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/stage-project-manager-automation-f-h-paris-paris-paris-198404",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "customer delivery management"
       ],
       "miss_count": 0
     },
@@ -89,6 +175,26 @@
       "miss_count": 0
     },
     {
+      "id": "a08cd477",
+      "title": "Product Specialist - Informatics and Automation",
+      "company": "Agilent Technologies",
+      "location": "South Korea",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/agilent-technologies/jobs/product-specialist-informatics-and-automation?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "product-specialist",
+        "technical-sales-specialist",
+        "solutions-consultant",
+        "sales-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "17f629b4",
       "title": "Tier III Service Desk Engineer",
       "company": "Unio Digital",
@@ -113,23 +219,6 @@
         "ticketing",
         "microsoft 365",
         "it systems"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1747500e",
-      "title": "Mechatronic Engineer - Automation Test Equipment",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechatronic-engineer-automation-test-equipment-paris-125813",
-      "source": "arbeitnow",
-      "date": "2026-11-07",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "r&d"
       ],
       "miss_count": 0
     },
@@ -1272,27 +1361,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f0d3c2ad",
-      "title": "QA Automation Engineer (Mobile)",
-      "company": null,
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1256874-qa-automation-engineer-mobile",
-      "source": "hirify",
-      "date": "2026-10-14",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
