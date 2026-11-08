@@ -1,75 +1,72 @@
 {
-  "updated_at": "2026-11-07T21:24:27.984937+00:00",
-  "total": 59,
+  "updated_at": "2026-11-08T04:15:33.750098+00:00",
+  "total": 56,
   "jobs": [
     {
-      "id": "6e30662e",
-      "title": "Team Lead Engineering - Finance Automation (f/m/d)",
-      "company": "Zeal Network",
-      "location": "Hamburg",
+      "id": "eaaf30fe",
+      "title": "Junior AI-Automation Specialist (m/w/d) – vor Ort in Dortmund",
+      "company": "ATZ AG",
+      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-160104",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "Student school, fulltime permanent",
+      "tags": [
+        "it & programming"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "91b4270b",
+      "title": "Senior Quality Systems Engineer, United Kingdom",
+      "company": "Andurilindustries",
+      "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/team-lead-engineering-finance-automation-hamburg-64058",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-quality-systems-engineer-united-kingdom-london-300777",
+      "source": "arbeitnow",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality reliability & system safety : quality engineering : quality systems engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2bb4feec",
+      "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
+      "company": "CONCAPE",
+      "location": "Lindau",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-lindau-172273",
+      "source": "arbeitnow",
+      "date": "2026-11-07",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1747500e",
+      "title": "Mechatronic Engineer - Automation Test Equipment",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechatronic-engineer-automation-test-equipment-paris-125813",
       "source": "arbeitnow",
       "date": "2026-11-07",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "technology"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "91ddecba",
-      "title": "Principal Penetration Tester",
-      "company": "Dragos",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dragos/principal-penetration-tester-290553",
-      "source": "arbeitnow",
-      "date": "2026-11-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "professional services"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f1b4b947",
-      "title": "Internship - Programming & Automation",
-      "company": "Fiducial",
-      "location": "Delft",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-programming-automation-delft-385463",
-      "source": "arbeitnow",
-      "date": "2026-11-07",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "internships"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d192c39f",
-      "title": "Senior Service Application Engineer-Remote",
-      "company": "CBRE",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/cbre/jobs/senior-service-application-engineer-remote?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-07",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "application-engineer",
-        "controls-engineer",
-        "building-automation-engineer",
-        "commissioning-engineer"
+        "r&d"
       ],
       "miss_count": 0
     },
@@ -124,41 +121,6 @@
       "tags": [
         "aviation & aerospace",
         "r&d & engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8cfec6f0",
-      "title": "Internationaler Servicetechniker (DJ130)",
-      "company": "Excellent Go4",
-      "location": "Winterthur",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/internationaler-servicetechniker-dj130-winterthur-99159",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "248c5735",
-      "title": "Quality Assurance Associate (m/w/d) for CSL Behring (50%)",
-      "company": "We make it GmbH",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/quality-assurance-associate-for-csl-behring-50-bern-425640",
-      "source": "arbeitnow",
-      "date": "2026-11-06",
-      "salary": "",
-      "type": "Befristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality assurance",
-        "inspection"
       ],
       "miss_count": 0
     },
@@ -1446,26 +1408,6 @@
         "insurance",
         "jquery",
         "ajax"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2422fc6e",
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "remotive",
-      "date": "2026-10-08",
-      "salary": "OTE $25k - $35k",
-      "type": "full_time",
-      "tags": [
-        "crm",
-        "google sheets",
-        "financial services",
-        "inside sales"
       ],
       "miss_count": 0
     }
