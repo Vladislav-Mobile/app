@@ -1,38 +1,190 @@
 {
-  "updated_at": "2026-11-09T04:30:12.795842+00:00",
-  "total": 62,
+  "updated_at": "2026-11-09T15:04:06.590311+00:00",
+  "total": 65,
   "jobs": [
     {
-      "id": "466f9954",
-      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
-      "company": "Foodji GmbH",
-      "location": "München, Bayern, Deutschland",
+      "id": "2260e9e7",
+      "title": "Safety Engineer Luft- und Raumfahrt (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Bonn",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-454955",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/safety-engineer-luft-und-raumfahrt-bonn-130944",
       "source": "arbeitnow",
       "date": "2026-11-09",
       "salary": "",
-      "type": "Entry, fulltime permanent",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "marketing"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "6cc2d443",
-      "title": "Senior Group Quality Expert (m/f/d)",
-      "company": "SGB-SMIT Group",
-      "location": "Regensburg, Bayern, Germany",
+      "id": "1128d434",
+      "title": "Senior Quality Audit & Inspections Manager (m/w/d) – Pharma",
+      "company": "Triga Consulting GmbH & Co KG",
+      "location": "Frankfurt am Main",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/senior-group-quality-expert-regensburg-88681",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/triga-consulting-gmbh-co-kg/senior-quality-audit-inspections-manager-pharma-frankfurt-am-main-358410",
       "source": "arbeitnow",
       "date": "2026-11-09",
       "salary": "",
-      "type": "Experienced, fulltime permanent",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
       "tags": [
-        "quality"
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "99a8c5e0",
+      "title": "Senior Qualitätsingenieur 4NE1 (m/w/d)",
+      "company": "Consult & Find",
+      "location": "Metzingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/consult-find/senior-qualitatsingenieur-4ne1-metzingen-445324",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "38c32a66",
+      "title": "Test Engineer (m/w/d)",
+      "company": "citema group GmbH",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-group-gmbh/test-engineer-berlin-378661",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "34319155",
+      "title": "MD-Expert:in (m/w/d) – Prüfmanagement",
+      "company": "Valova",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/valova/md-expertin-prufmanagement-berlin-310178",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ef2efcc1",
+      "title": "Director Software Foundations - Warehouse Robotics & Automation",
+      "company": "Exotec",
+      "location": "Lille, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/director-software-foundations-warehouse-robotics-automation-lille-67270",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Full time, director",
+      "tags": [
+        "r&d"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "886e2032",
+      "title": "Controleur technique automobile",
+      "company": "Avenir Auto Contrôle Technique Obringer",
+      "location": "Caen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/avenir-auto-controle-technique-obringer/controleur-technique-automobile-caen-6643",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Cdi - contrat à durée indéterminée, débutant",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b8b544c1",
+      "title": "Automatiker EFZ – 1580378",
+      "company": "Anker Swiss AG",
+      "location": "Langenthal",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/anker-swiss-ag/automatiker-efz-1580378-langenthal-191875",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e209227d",
+      "title": "QA Java Mobile",
+      "company": "KA Selecty",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1383601-qa-java-mobile",
+      "source": "hirify",
+      "date": "2026-11-09",
+      "salary": "RUB 250000–350000 (~$3661)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "aa8fa584",
+      "title": "QA Engineer (Mobile/Web3)",
+      "company": "The Open Platform (TOP)",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1383478-qa-engineer-mobileweb3",
+      "source": "hirify",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -58,37 +210,20 @@
       "miss_count": 0
     },
     {
-      "id": "e61178cc",
-      "title": "Senior Business Automation Developer (all genders)",
-      "company": "Flaconi",
-      "location": "Berlin, Berlin",
-      "remote": false,
+      "id": "a9ea442f",
+      "title": "Компетенция: QA JAVA mobile",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/flaconi/senior-business-automation-developer-all-genders-berlin-berlin-374169",
-      "source": "arbeitnow",
-      "date": "2026-11-08",
+      "url": "https://t.me/qa_jobs/261805",
+      "source": "telegram",
+      "date": "2026-11-09",
       "salary": "",
       "type": "",
       "tags": [
-        "enterprise apps"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cf0e6ec9",
-      "title": "NDT Inspector (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria; Parsdorf, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/ndt-inspector-ottobrunn-bavaria-parsdorf-bavaria-484750",
-      "source": "arbeitnow",
-      "date": "2026-11-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -746,24 +881,6 @@
       "miss_count": 0
     },
     {
-      "id": "208d4c63",
-      "title": "Компания: RedLab",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/261465",
-      "source": "telegram",
-      "date": "2026-10-30",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "58095814",
       "title": "Full-Stack Developer",
       "company": "Fluence International, Inc.",
@@ -852,32 +969,6 @@
       "url": "https://hirify.me/vacancies/1335776-manual-qa-backend-web-mobile",
       "source": "hirify",
       "date": "2026-10-29",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "364d245e",
-      "title": "QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1331754-mobile-games-qa-engineer",
-      "source": "hirify",
-      "date": "2026-10-28",
       "salary": "",
       "type": "fulltime",
       "tags": [
@@ -1104,30 +1195,6 @@
       "miss_count": 0
     },
     {
-      "id": "a6d5a85f",
-      "title": "QA Engineer (Web and Mobile)",
-      "company": "Applab",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1308225-qa-engineer-web-and-mobile",
-      "source": "hirify",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "2b69f884",
       "title": "AI Trainer - Video Annotation",
       "company": "iMerit Technology",
@@ -1143,29 +1210,6 @@
         "video",
         "ai/ml",
         "robotics"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0b10f80e",
-      "title": "QA Manual Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1295622-manual-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
