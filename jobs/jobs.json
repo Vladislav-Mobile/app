@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-11-08T21:38:48.640585+00:00",
-  "total": 60,
+  "updated_at": "2026-11-09T04:30:12.795842+00:00",
+  "total": 62,
   "jobs": [
+    {
+      "id": "466f9954",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "location": "München, Bayern, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-454955",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Entry, fulltime permanent",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6cc2d443",
+      "title": "Senior Group Quality Expert (m/f/d)",
+      "company": "SGB-SMIT Group",
+      "location": "Regensburg, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/sgb-smit-group/senior-group-quality-expert-regensburg-88681",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "92224a7f",
+      "title": "Lifecycle Marketing Manager",
+      "company": "CompTIA",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/comptia/jobs/lifecycle-marketing-manager?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "lifecycle-marketing-manager",
+        "crm-marketing-manager",
+        "email-marketing-manager",
+        "customer-marketing-manager",
+        "marketing-automation-manager"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "e61178cc",
       "title": "Senior Business Automation Developer (all genders)",
@@ -34,23 +89,6 @@
       "tags": [
         "production",
         "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c0ee5958",
-      "title": "Senior Automation Engineer  - UiPath",
-      "company": "roboyo",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/roboyo/senior-automation-engineer-uipath-munich-27512",
-      "source": "arbeitnow",
-      "date": "2026-11-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "delivery"
       ],
       "miss_count": 0
     },
@@ -123,6 +161,32 @@
       "miss_count": 0
     },
     {
+      "id": "4645513b",
+      "title": "Manual Mobile QA Engineer (iOS & Android)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1381032-manual-mobile-qa-ios-android",
+      "source": "hirify",
+      "date": "2026-11-08",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "6d7e1896",
       "title": "Manual QA Engineer for Mobile App (Mobile QA)",
       "company": "%hirify_global%",
@@ -171,26 +235,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a08cd477",
-      "title": "Product Specialist - Informatics and Automation",
-      "company": "Agilent Technologies",
-      "location": "South Korea",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/agilent-technologies/jobs/product-specialist-informatics-and-automation?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "product-specialist",
-        "technical-sales-specialist",
-        "solutions-consultant",
-        "sales-engineer"
       ],
       "miss_count": 0
     },
