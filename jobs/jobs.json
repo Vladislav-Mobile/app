@@ -1,107 +1,92 @@
 {
-  "updated_at": "2026-11-10T14:16:12.962187+00:00",
-  "total": 63,
+  "updated_at": "2026-11-10T22:47:12.084500+00:00",
+  "total": 62,
   "jobs": [
     {
-      "id": "4f513412",
-      "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
-      "company": "CONCAPE",
-      "location": "Memmingen",
+      "id": "15f6450e",
+      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
+      "company": "Zeal Network",
+      "location": "Hamburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-memmingen-435928",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-20782",
       "source": "arbeitnow",
       "date": "2026-11-10",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Full Time",
       "tags": [
+        "technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "da09c23b",
+      "title": "Technical Quality Assurance Manager",
+      "company": "Bromcom Computers Plc",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-technical-quality-assurance-manager-bromley-326507",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Manager, fulltime permanent",
+      "tags": [
+        "software & qa",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "51fe8efb",
+      "title": "GxP Computerised Systems Validation Consultant",
+      "company": "Intelance",
+      "location": "London",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/gxp-computerised-systems-validation-consultant-london-485163",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Self-employed contractor (freelancer), freelance, professional / experienced",
+      "tags": [
+        "remote",
         "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "581cd41b",
-      "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
-      "company": "CONCAPE",
-      "location": "Kempten",
+      "id": "b139d875",
+      "title": "CFD Workflow Automation Intern",
+      "company": "Pangea Propulsion",
+      "location": "Toulouse",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-kempten-288049",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pangea-propulsion/cfd-workflow-automation-intern-toulouse-482340",
       "source": "arbeitnow",
       "date": "2026-11-10",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Internship, no experience required / student",
       "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ed434182",
+      "title": "Quality & Operational Excellence Spezialist:in",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/quality-operational-excellence-spezialistin-zurich-354624",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Interim, interim, berufserfahren",
+      "tags": [
+        "remote",
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3318326b",
-      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
-      "company": "CONCAPE",
-      "location": "Memmingen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-memmingen-437125",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4448161c",
-      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
-      "company": "CONCAPE",
-      "location": "Ulm",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-ulm-281376",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8409af72",
-      "title": "Senior Quality Engineer (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-quality-engineer-parsdorf-bavaria-411511",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ad699eaf",
-      "title": "OT Engineer",
-      "company": "Bell Food Group",
-      "location": "Basel",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/bell-food-group/ot-engineer-basel-164616",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -157,6 +142,58 @@
       "miss_count": 0
     },
     {
+      "id": "a6bfa821",
+      "title": "Senior QA Automation Engineer (Mobile | Appium | Python) | Retail Banking",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1394181-senior-qa-automation-appium-python",
+      "source": "hirify",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b5ad2f0d",
+      "title": "Senior Test Analyst – Manual & Mobile QA (iOS/Android)",
+      "company": null,
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1391440-senior-test-analyst-manual-mobile-qa-iosandroid",
+      "source": "hirify",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "19628941",
       "title": "Engineering Manager (Mobile QA)",
       "company": "%hirify_global%",
@@ -181,6 +218,24 @@
       "miss_count": 0
     },
     {
+      "id": "95817985",
+      "title": "BankingON’s mission is to augment the technology of credit unions and regional banks so that their c",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/261858",
+      "source": "telegram",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "c43a7fc0",
       "title": "🔹 Mobile QA Automation Engineer",
       "company": "",
@@ -195,41 +250,6 @@
       "tags": [
         "mobile",
         "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "19df0f36",
-      "title": "App Testers wanted in Switzerland!",
-      "company": "Tester Work",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-475008",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "Entry, parttime permanent",
-      "tags": [
-        "qa testing",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b8b544c1",
-      "title": "Automatiker EFZ – 1580378",
-      "company": "Anker Swiss AG",
-      "location": "Langenthal",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anker-swiss-ag/automatiker-efz-1580378-langenthal-191875",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -1423,30 +1443,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "171a3e54",
-      "title": "Mobile QA Tester (AI)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1256549-mobile-qa-tester-ai",
-      "source": "hirify",
-      "date": "2026-10-14",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
