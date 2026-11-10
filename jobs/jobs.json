@@ -1,7 +1,58 @@
 {
-  "updated_at": "2026-11-09T15:04:06.590311+00:00",
-  "total": 65,
+  "updated_at": "2026-11-10T01:08:20.389506+00:00",
+  "total": 62,
   "jobs": [
+    {
+      "id": "324dda8e",
+      "title": "Program Director",
+      "company": "Andurilindustries",
+      "location": "Sydney, Australia",
+      "remote": false,
+      "country": "AU",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/program-director-sydney-australia-448422",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "testing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9ca5cb2d",
+      "title": "Senior Sales Engineer - AI Agents (Western Europe, Italy)",
+      "company": "nice",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-western-europe-italy-431223",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "cx - agentic experience automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8b73a35f",
+      "title": "Quality Engineer (m/w/d)",
+      "company": "AutoGyro GmbH",
+      "location": "Hildesheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/autogyro-gmbh/quality-engineer-hildesheim-16538",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "2260e9e7",
       "title": "Safety Engineer Luft- und Raumfahrt (m/w/d)",
@@ -54,39 +105,19 @@
       "miss_count": 0
     },
     {
-      "id": "38c32a66",
-      "title": "Test Engineer (m/w/d)",
-      "company": "citema group GmbH",
-      "location": "Berlin",
+      "id": "2644c36f",
+      "title": "Technicien Qualité (Quality Technician)",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/citema-group-gmbh/test-engineer-berlin-378661",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-qualite-quality-technician-orly-458925",
       "source": "arbeitnow",
       "date": "2026-11-09",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Full Time",
       "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "34319155",
-      "title": "MD-Expert:in (m/w/d) – Prüfmanagement",
-      "company": "Valova",
-      "location": "Berlin",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/valova/md-expertin-prufmanagement-berlin-310178",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
+        "operations"
       ],
       "miss_count": 0
     },
@@ -121,6 +152,24 @@
       "type": "Cdi - contrat à durée indéterminée, débutant",
       "tags": [
         "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "19df0f36",
+      "title": "App Testers wanted in Switzerland!",
+      "company": "Tester Work",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-475008",
+      "source": "arbeitnow",
+      "date": "2026-11-09",
+      "salary": "",
+      "type": "Entry, parttime permanent",
+      "tags": [
+        "qa testing",
+        "remote"
       ],
       "miss_count": 0
     },
@@ -189,27 +238,6 @@
       "miss_count": 0
     },
     {
-      "id": "92224a7f",
-      "title": "Lifecycle Marketing Manager",
-      "company": "CompTIA",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/comptia/jobs/lifecycle-marketing-manager?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "lifecycle-marketing-manager",
-        "crm-marketing-manager",
-        "email-marketing-manager",
-        "customer-marketing-manager",
-        "marketing-automation-manager"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "a9ea442f",
       "title": "Компетенция: QA JAVA mobile",
       "company": "",
@@ -224,74 +252,6 @@
       "tags": [
         "mobile",
         "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4290c6d9",
-      "title": "QA Director",
-      "company": "Scopely",
-      "location": "GB - Dundee",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/scopely/qa-director-gb-dundee-424508",
-      "source": "arbeitnow",
-      "date": "2026-11-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "live games portfolio"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9a4d1dd9",
-      "title": "System Test Automation Engineer",
-      "company": "Wayve",
-      "location": "London, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wayve/system-test-automation-engineer-london-united-kingdom-401378",
-      "source": "arbeitnow",
-      "date": "2026-11-08",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product & delivery"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "02e47946",
-      "title": "Operations Data & Automation Apprentice",
-      "company": "Backmarket",
-      "location": "Bordeaux",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/operations-data-automation-apprentice-bordeaux-84574",
-      "source": "arbeitnow",
-      "date": "2026-11-08",
-      "salary": "",
-      "type": "Intern",
-      "tags": [
-        "internships"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bafa57da",
-      "title": "Stage - Project Manager & Automation (F/H) - Paris",
-      "company": "Horizontradingsolutions",
-      "location": "Paris, Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/horizontradingsolutions/stage-project-manager-automation-f-h-paris-paris-paris-198404",
-      "source": "arbeitnow",
-      "date": "2026-11-08",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "customer delivery management"
       ],
       "miss_count": 0
     },
@@ -555,31 +515,6 @@
       "source": "hirify",
       "date": "2026-11-05",
       "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "47bd671c",
-      "title": "QA Tester (Mobile Gaming)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1366237-qa-tester-mobile-gaming",
-      "source": "hirify",
-      "date": "2026-11-05",
-      "salary": "CAD 66500–70000 (~$4072)",
       "type": "fulltime",
       "tags": [
         "",
