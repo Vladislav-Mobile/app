@@ -1,102 +1,17 @@
 {
-  "updated_at": "2026-11-10T01:08:20.389506+00:00",
-  "total": 62,
+  "updated_at": "2026-11-10T14:16:12.962187+00:00",
+  "total": 63,
   "jobs": [
     {
-      "id": "324dda8e",
-      "title": "Program Director",
-      "company": "Andurilindustries",
-      "location": "Sydney, Australia",
+      "id": "4f513412",
+      "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
+      "company": "CONCAPE",
+      "location": "Memmingen",
       "remote": false,
-      "country": "AU",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/program-director-sydney-australia-448422",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-memmingen-435928",
       "source": "arbeitnow",
       "date": "2026-11-10",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "testing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9ca5cb2d",
-      "title": "Senior Sales Engineer - AI Agents (Western Europe, Italy)",
-      "company": "nice",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/senior-sales-engineer-ai-agents-western-europe-italy-431223",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "cx - agentic experience automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8b73a35f",
-      "title": "Quality Engineer (m/w/d)",
-      "company": "AutoGyro GmbH",
-      "location": "Hildesheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autogyro-gmbh/quality-engineer-hildesheim-16538",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "Befristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2260e9e7",
-      "title": "Safety Engineer Luft- und Raumfahrt (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Bonn",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/safety-engineer-luft-und-raumfahrt-bonn-130944",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1128d434",
-      "title": "Senior Quality Audit & Inspections Manager (m/w/d) – Pharma",
-      "company": "Triga Consulting GmbH & Co KG",
-      "location": "Frankfurt am Main",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/triga-consulting-gmbh-co-kg/senior-quality-audit-inspections-manager-pharma-frankfurt-am-main-358410",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "99a8c5e0",
-      "title": "Senior Qualitätsingenieur 4NE1 (m/w/d)",
-      "company": "Consult & Find",
-      "location": "Metzingen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/consult-find/senior-qualitatsingenieur-4ne1-metzingen-445324",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
@@ -105,53 +20,181 @@
       "miss_count": 0
     },
     {
-      "id": "2644c36f",
-      "title": "Technicien Qualité (Quality Technician)",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Orly",
+      "id": "581cd41b",
+      "title": "Qualitätsmanager:in Projekte Lebensmittel (m/w/d) | Region Rheintal, Österreich",
+      "company": "CONCAPE",
+      "location": "Kempten",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-qualite-quality-technician-orly-458925",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/qualitatsmanagerin-projekte-lebensmittel-region-rheintal-osterreich-kempten-288049",
       "source": "arbeitnow",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3318326b",
+      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
+      "company": "CONCAPE",
+      "location": "Memmingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-memmingen-437125",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4448161c",
+      "title": "AOI-Programmierer:in / SMT-Fachkraft (m/w/d) | 100% | Region Ostschweiz, Schweiz",
+      "company": "CONCAPE",
+      "location": "Ulm",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/aoi-programmiererin-smt-fachkraft-100-region-ostschweiz-schweiz-ulm-281376",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8409af72",
+      "title": "Senior Quality Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-quality-engineer-parsdorf-bavaria-411511",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "production",
+        "operations & quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ad699eaf",
+      "title": "OT Engineer",
+      "company": "Bell Food Group",
+      "location": "Basel",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/bell-food-group/ot-engineer-basel-164616",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d0bc36fb",
+      "title": "Senior Director, Head of Quality & Responsible Person, International",
+      "company": "Bridgebio",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bridgebio/senior-director-head-of-quality-responsible-person-international-265713",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "gmp qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f09a74b4",
+      "title": "AI Automation Intern, Communications",
+      "company": "Prosus",
+      "location": "Amsterdam",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-communications-amsterdam-283753",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "Intern",
+      "tags": [
+        "communications"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2ad7c9be",
+      "title": "Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration & Field Testing)",
+      "company": "Fiducial",
+      "location": "Delft",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
+      "source": "arbeitnow",
+      "date": "2026-11-10",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "operations"
+        "internships"
       ],
       "miss_count": 0
     },
     {
-      "id": "ef2efcc1",
-      "title": "Director Software Foundations - Warehouse Robotics & Automation",
-      "company": "Exotec",
-      "location": "Lille, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/director-software-foundations-warehouse-robotics-automation-lille-67270",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "Full time, director",
-      "tags": [
-        "r&d"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "886e2032",
-      "title": "Controleur technique automobile",
-      "company": "Avenir Auto Contrôle Technique Obringer",
-      "location": "Caen",
+      "id": "19628941",
+      "title": "Engineering Manager (Mobile QA)",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/avenir-auto-controle-technique-obringer/controleur-technique-automobile-caen-6643",
-      "source": "arbeitnow",
-      "date": "2026-11-09",
+      "url": "https://hirify.me/vacancies/1390257-engineering-manager-mobile-qa",
+      "source": "hirify",
+      "date": "2026-11-10",
       "salary": "",
-      "type": "Cdi - contrat à durée indéterminée, débutant",
+      "type": "fulltime",
       "tags": [
-        "quality management"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c43a7fc0",
+      "title": "🔹 Mobile QA Automation Engineer",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.comeet.com/jobs/rounds/59.005/mobile-qa-automation-engineer/A1.47A",
+      "source": "telegram",
+      "date": "2026-11-10",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -252,6 +295,26 @@
       "tags": [
         "mobile",
         "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2422fc6e",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "remotive",
+      "date": "2026-11-08",
+      "salary": "OTE $25k - $35k",
+      "type": "full_time",
+      "tags": [
+        "crm",
+        "google sheets",
+        "financial services",
+        "inside sales"
       ],
       "miss_count": 0
     },
@@ -380,30 +443,6 @@
       "miss_count": 0
     },
     {
-      "id": "5bd4910d",
-      "title": "Mobile QA Engineer (Appium)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1376606-mobile-qa-engineer-appium",
-      "source": "hirify",
-      "date": "2026-11-06",
-      "salary": "USD 115000–165000",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "262ab4ac",
       "title": "QA Specialist (Mobile Games)",
       "company": "%hirify_global%",
@@ -444,30 +483,6 @@
       "tags": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "682b3243",
-      "title": "QA Lead (Mobile Games)",
-      "company": "Azra Games",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1372510-qa-lead-mobile-games",
-      "source": "hirify",
-      "date": "2026-11-05",
-      "salary": "USD 90000–110000",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
