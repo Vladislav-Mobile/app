@@ -1,38 +1,241 @@
 {
-  "updated_at": "2026-11-11T04:33:42.480753+00:00",
-  "total": 58,
+  "updated_at": "2026-11-11T13:29:46.031988+00:00",
+  "total": 67,
   "jobs": [
     {
-      "id": "dc01ca05",
-      "title": "Principal SDET",
-      "company": "Radiant",
-      "location": "United Kingdom",
+      "id": "46acaeb7",
+      "title": "Elektroniker/Prüftechniker (m/w/d) | Firmenwagen inkl. Privatnutzung | PLZ 96",
+      "company": "DPT - Deutsche Prüftechnik GmbH",
+      "location": "Bamberg",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-sdet-united-kingdom-212191",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/elektroniker-pruftechniker-firmenwagen-inkl-privatnutzung-plz-96-bamberg-404219",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "36080f2b",
+      "title": "Elektroniker/Prüftechniker (m/w/d) | Firmenwagen inkl. Privatnutzung | PLZ 0",
+      "company": "DPT - Deutsche Prüftechnik GmbH",
+      "location": "Leipzig",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/elektroniker-pruftechniker-firmenwagen-inkl-privatnutzung-plz-0-leipzig-395149",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5844cc7e",
+      "title": "Elektroniker / Prüftechniker (m/w/d) | Fester Einsatzort",
+      "company": "DPT - Deutsche Prüftechnik GmbH",
+      "location": "Darmstadt",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/elektroniker-pruftechniker-fester-einsatzort-darmstadt-331768",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5bae3099",
+      "title": "Mitarbeiter Elektrobereich (m/w/d) | Festanstellung",
+      "company": "DPT - Deutsche Prüftechnik GmbH",
+      "location": "Esslingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/mitarbeiter-elektrobereich-festanstellung-esslingen-156544",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, hilfstätigkeit / student",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6128ba8e",
+      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
+      "company": "Lamm HR GmbH",
+      "location": "Landkreis Bergstraße, Hessen, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-444080",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "94c6b0fb",
+      "title": "Senior CRM Manager - Klaviyo & Automation/ E-Mail Marketing Manager (m/w/d)",
+      "company": "Rosental Organics GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-crm-manager-klaviyo-automation-e-mail-marketing-manager-berlin-462959",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "da7a3474",
+      "title": "Senior AI & Automation Operations Manager (m/w/d)",
+      "company": "Rosental Organics GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-ai-automation-operations-manager-berlin-285409",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0ea4f574",
+      "title": "Quality Engineer (m/w/d)",
+      "company": "ACE Advanced Composite Engineering GmbH",
+      "location": "Salem",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ace-advanced-composite-engineering-gmbh/quality-engineer-salem-123733",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "80ac9a80",
+      "title": "AI Automation Engineer",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/ai-automation-engineer-paris-496766",
       "source": "arbeitnow",
       "date": "2026-11-11",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "engineering"
+        "r&d"
       ],
       "miss_count": 0
     },
     {
-      "id": "15f6450e",
-      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
-      "company": "Zeal Network",
-      "location": "Hamburg",
+      "id": "a765f373",
+      "title": "Senior Quality Assurance Officer",
+      "company": "Vitestro",
+      "location": "Utrecht, Utrecht, Netherlands",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-20782",
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/vitestro/senior-quality-assurance-officer-utrecht-68650",
       "source": "arbeitnow",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "salary": "",
-      "type": "Full Time",
+      "type": "Mid, fulltime fixed term",
       "tags": [
-        "technology"
+        "qa / ra"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8e0b2574",
+      "title": "Middle QA Engineer (Mobile)",
+      "company": "Marksman",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1397842-middle-qa-engineer-mobile",
+      "source": "hirify",
+      "date": "2026-11-11",
+      "salary": "USD 2000–2000",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9b0934c2",
+      "title": "QA Automation Engineer (Mobile)",
+      "company": "Paybis",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1397633-qa-automation-engineer-mobile",
+      "source": "hirify",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "10cc58d9",
+      "title": "Linguistic AI Auditor - Tamil (Singapore)",
+      "company": "RWS Group",
+      "location": "Singapore",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/rws-group/jobs/linguistic-ai-auditor-tamil-singapore?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "linguistic-ai-auditor",
+        "ai-chatbot-evaluator",
+        "language-quality-assurance-evaluator",
+        "linguist"
       ],
       "miss_count": 0
     },
@@ -85,40 +288,6 @@
       "type": "",
       "tags": [
         "gmp qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f09a74b4",
-      "title": "AI Automation Intern, Communications",
-      "company": "Prosus",
-      "location": "Amsterdam",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/prosus/ai-automation-intern-communications-amsterdam-283753",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Intern",
-      "tags": [
-        "communications"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2ad7c9be",
-      "title": "Internship - UAV Robotics/Mechatronics (Drone Prototyping, Integration & Field Testing)",
-      "company": "Fiducial",
-      "location": "Delft",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/fiducial/internship-uav-robotics-mechatronics-drone-prototyping-integration-field-testing-delft-234540",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "internships"
       ],
       "miss_count": 0
     },
