@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-10T22:47:12.084500+00:00",
-  "total": 62,
+  "updated_at": "2026-11-11T04:33:42.480753+00:00",
+  "total": 58,
   "jobs": [
+    {
+      "id": "dc01ca05",
+      "title": "Principal SDET",
+      "company": "Radiant",
+      "location": "United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/principal-sdet-united-kingdom-212191",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "15f6450e",
       "title": "(Senior) Quality Assurance Engineer (f/m/d)",
@@ -16,42 +33,6 @@
       "type": "Full Time",
       "tags": [
         "technology"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "da09c23b",
-      "title": "Technical Quality Assurance Manager",
-      "company": "Bromcom Computers Plc",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bromcom-computers-plc/remote-technical-quality-assurance-manager-bromley-326507",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Manager, fulltime permanent",
-      "tags": [
-        "software & qa",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "51fe8efb",
-      "title": "GxP Computerised Systems Validation Consultant",
-      "company": "Intelance",
-      "location": "London",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/gxp-computerised-systems-validation-consultant-london-485163",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Self-employed contractor (freelancer), freelance, professional / experienced",
-      "tags": [
-        "remote",
-        "quality management"
       ],
       "miss_count": 0
     },
@@ -689,32 +670,6 @@
       "source": "hirify",
       "date": "2026-11-03",
       "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "666ea572",
-      "title": "Appium Automation Engineer (Mobile QA)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1356322-appium-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-11-03",
-      "salary": "USD 115000–165000",
       "type": "fulltime",
       "tags": [
         "",
@@ -1477,66 +1432,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bb3dff3a",
-      "title": "Manual QA Engineer (Web, Mobile, SmartTV)",
-      "company": "Виасат Тех",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1242364-manual-qa-engineer-web-mobile-smarttv",
-      "source": "hirify",
-      "date": "2026-10-12",
-      "salary": "RUB 120000–120000 (~$1411)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b0497692",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "remotive",
-      "date": "2026-10-11",
-      "salary": "$35,3k- $52k",
-      "type": "full_time",
-      "tags": [
-        "css",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "mysql",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jquery",
-        "ajax"
       ],
       "miss_count": 0
     }
