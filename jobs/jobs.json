@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-11-11T13:29:46.031988+00:00",
-  "total": 67,
+  "updated_at": "2026-11-11T23:59:44.370483+00:00",
+  "total": 59,
   "jobs": [
     {
-      "id": "46acaeb7",
-      "title": "Elektroniker/Prüftechniker (m/w/d) | Firmenwagen inkl. Privatnutzung | PLZ 96",
-      "company": "DPT - Deutsche Prüftechnik GmbH",
-      "location": "Bamberg",
+      "id": "78dbdd32",
+      "title": "Kfz-Prüfingenieur mit Betrauung (m/w/d) – mit Perspektive zum Abteilungsleiter",
+      "company": "von Hebel Fahrzeugtechnik GmbH",
+      "location": "Lüneburg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/elektroniker-pruftechniker-firmenwagen-inkl-privatnutzung-plz-96-bamberg-404219",
-      "source": "arbeitnow",
-      "date": "2026-11-11",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "36080f2b",
-      "title": "Elektroniker/Prüftechniker (m/w/d) | Firmenwagen inkl. Privatnutzung | PLZ 0",
-      "company": "DPT - Deutsche Prüftechnik GmbH",
-      "location": "Leipzig",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/elektroniker-pruftechniker-firmenwagen-inkl-privatnutzung-plz-0-leipzig-395149",
+      "url": "https://www.arbeitnow.com/jobs/companies/von-hebel-fahrzeugtechnik-gmbh/kfz-prufingenieur-mit-betrauung-mit-perspektive-zum-abteilungsleiter-luneburg-106945",
       "source": "arbeitnow",
       "date": "2026-11-11",
       "salary": "",
@@ -37,121 +20,54 @@
       "miss_count": 0
     },
     {
-      "id": "5844cc7e",
-      "title": "Elektroniker / Prüftechniker (m/w/d) | Fester Einsatzort",
-      "company": "DPT - Deutsche Prüftechnik GmbH",
-      "location": "Darmstadt",
+      "id": "188b58ca",
+      "title": "Quality Engineer firmware IoT",
+      "company": "Decathlontechnology",
+      "location": "Lille - Btwin Village, Nord",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/elektroniker-pruftechniker-fester-einsatzort-darmstadt-331768",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/quality-engineer-firmware-iot-lille-btwin-village-nord-425179",
       "source": "arbeitnow",
       "date": "2026-11-11",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "type": "",
       "tags": [
-        "quality management"
+        "engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "5bae3099",
-      "title": "Mitarbeiter Elektrobereich (m/w/d) | Festanstellung",
-      "company": "DPT - Deutsche Prüftechnik GmbH",
-      "location": "Esslingen",
+      "id": "f150dd81",
+      "title": "App Testers wanted in Switzerland!",
+      "company": "Tester Work",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
+      "source": "arbeitnow",
+      "date": "2026-11-11",
+      "salary": "",
+      "type": "Entry, parttime permanent",
+      "tags": [
+        "qa testing",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "154cdad0",
+      "title": "Junior Gis/GEO Tester",
+      "company": "The Trainee Company",
+      "location": "Assen, Drenthe, Nederland",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/dpt-deutsche-pruftechnik-gmbh/mitarbeiter-elektrobereich-festanstellung-esslingen-156544",
+      "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-gis-geo-tester-assen-189416",
       "source": "arbeitnow",
       "date": "2026-11-11",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, hilfstätigkeit / student",
+      "type": "Entry, fulltime permanent",
       "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6128ba8e",
-      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
-      "company": "Lamm HR GmbH",
-      "location": "Landkreis Bergstraße, Hessen, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-444080",
-      "source": "arbeitnow",
-      "date": "2026-11-11",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "94c6b0fb",
-      "title": "Senior CRM Manager - Klaviyo & Automation/ E-Mail Marketing Manager (m/w/d)",
-      "company": "Rosental Organics GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-crm-manager-klaviyo-automation-e-mail-marketing-manager-berlin-462959",
-      "source": "arbeitnow",
-      "date": "2026-11-11",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "da7a3474",
-      "title": "Senior AI & Automation Operations Manager (m/w/d)",
-      "company": "Rosental Organics GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/senior-ai-automation-operations-manager-berlin-285409",
-      "source": "arbeitnow",
-      "date": "2026-11-11",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0ea4f574",
-      "title": "Quality Engineer (m/w/d)",
-      "company": "ACE Advanced Composite Engineering GmbH",
-      "location": "Salem",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ace-advanced-composite-engineering-gmbh/quality-engineer-salem-123733",
-      "source": "arbeitnow",
-      "date": "2026-11-11",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "80ac9a80",
-      "title": "AI Automation Engineer",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/ai-automation-engineer-paris-496766",
-      "source": "arbeitnow",
-      "date": "2026-11-11",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "r&d"
+        "business & ict"
       ],
       "miss_count": 0
     },
@@ -220,74 +136,23 @@
       "miss_count": 0
     },
     {
-      "id": "10cc58d9",
-      "title": "Linguistic AI Auditor - Tamil (Singapore)",
-      "company": "RWS Group",
-      "location": "Singapore",
+      "id": "8729f96e",
+      "title": "Bridgewise Senior AQA Engineer – UI Automation",
+      "company": "CommIT",
+      "location": "Poland",
       "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/rws-group/jobs/linguistic-ai-auditor-tamil-singapore?utm_source=api",
+      "country": "PL",
+      "url": "https://himalayas.app/companies/commit/jobs/bridgewise-senior-aqa-engineer-ui-automation?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-11",
       "salary": "",
       "type": "",
       "tags": [
-        "linguistic-ai-auditor",
-        "ai-chatbot-evaluator",
-        "language-quality-assurance-evaluator",
-        "linguist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b139d875",
-      "title": "CFD Workflow Automation Intern",
-      "company": "Pangea Propulsion",
-      "location": "Toulouse",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pangea-propulsion/cfd-workflow-automation-intern-toulouse-482340",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Internship, no experience required / student",
-      "tags": [
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ed434182",
-      "title": "Quality & Operational Excellence Spezialist:in",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/quality-operational-excellence-spezialistin-zurich-354624",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "Interim, interim, berufserfahren",
-      "tags": [
-        "remote",
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d0bc36fb",
-      "title": "Senior Director, Head of Quality & Responsible Person, International",
-      "company": "Bridgebio",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/bridgebio/senior-director-head-of-quality-responsible-person-international-265713",
-      "source": "arbeitnow",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "gmp qa"
+        "senior-qe-engineer",
+        "qa-engineer",
+        "automation-testing",
+        "software-test-engineer",
+        "sdet"
       ],
       "miss_count": 0
     },
