@@ -1,52 +1,298 @@
 {
-  "updated_at": "2026-11-12T06:58:16.288739+00:00",
-  "total": 59,
+  "updated_at": "2026-11-12T19:29:51.591761+00:00",
+  "total": 71,
   "jobs": [
     {
-      "id": "51df1643",
-      "title": "Working Student Battery Testing (all genders)",
-      "company": "væridion",
-      "location": "EDMO Manufacturing & Testing Facility",
+      "id": "ad85a17b",
+      "title": "Sachbearbeiter Dokumenten- & Prozessmanagement (m/w/d)",
+      "company": "AutoGyro GmbH",
+      "location": "Hildesheim",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/working-student-battery-testing-all-genders-munich-407705",
+      "url": "https://www.arbeitnow.com/jobs/companies/autogyro-gmbh/sachbearbeiter-dokumenten-prozessmanagement-hildesheim-28845",
       "source": "arbeitnow",
       "date": "2026-11-12",
       "salary": "",
-      "type": "Intern",
+      "type": "Befristeter arbeitsvertrag, berufseinstieg",
       "tags": [
-        "engineering"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "8d9cf7f3",
-      "title": "QA Engineer",
-      "company": "TECDATA ENGINEERING",
-      "location": "Spain",
+      "id": "287adc9b",
+      "title": "Mitarbeiter:in Qualitätsmanagement und Qualitätssicherung (m/w/d)",
+      "company": "Upländer Feinkost GmbH",
+      "location": "Willingen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/uplander-feinkost-gmbh/mitarbeiterin-qualitatsmanagement-und-qualitatssicherung-willingen-327937",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "61d2ea92",
+      "title": "Manager*in GMP Manufacturing Compliance – Oligonukleotide (m/w/d)",
+      "company": "LGC Group",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/lgc-group/managerin-gmp-manufacturing-compliance-oligonukleotide-berlin-84196",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ed8d53e0",
+      "title": "Head of Finance Automation/ AI Agentification",
+      "company": "Rohlik",
+      "location": "München, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-37676",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "finance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "07713c2f",
+      "title": "Leitung Automation 80–100 % (m/w/d) (MW)",
+      "company": "Excellent Go4",
+      "location": "Aarau",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/leitung-automation-80-100-mw-aarau-445356",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f5ae7d9f",
+      "title": "Projektleiter Automation / SPS & HMI (m/w/d), 100% (MW)",
+      "company": "Excellent Go4",
+      "location": "St. Gallen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/projektleiter-automation-sps-hmi-100-mw-st-gallen-415254",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "15f9e3fe",
+      "title": "SPS-Programmierer Automation & Anlagenbau (m/w/d) Nr. MW",
+      "company": "Excellent Go4",
+      "location": "Oberbüren",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/sps-programmierer-automation-anlagenbau-nr-mw-oberburen-484166",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ebfc1738",
+      "title": "Automation Engineer / Elektrotechniker Anlagenbau (100%) Nr. MW",
+      "company": "Excellent Go4",
+      "location": "Altdorf",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automation-engineer-elektrotechniker-anlagenbau-100-nr-mw-altdorf-425867",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e1ba1d63",
+      "title": "Quality Assurance Associate (m/w/d) für CSL Behring (50%)",
+      "company": "We make it GmbH",
+      "location": "Bern",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/quality-assurance-associate-fur-csl-behring-50-bern-135293",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, berufseinstieg",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5e415898",
+      "title": "Business Operations & Data Specialist (Production & Quality)",
+      "company": "Destinusgroup",
+      "location": "Hengelo, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/destinusgroup/business-operations-data-specialist-production-quality-hengelo-419362",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "aviation & aerospace",
+        "production & manufacturing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c5cc63ab",
+      "title": "Operations and QA Engineer (Mobile Gaming)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1406614-operations-qa-mobile-gaming",
+      "source": "hirify",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "13a823fe",
+      "title": "Senior Dev QA (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1405595-senior-dev-qa-mobile-games",
+      "source": "hirify",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e76125ce",
+      "title": "QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "Remote",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/tecdata-engineering/jobs/qa-engineer?utm_source=api",
+      "url": "https://hirify.me/vacancies/1403707-mobile-qa-automation-engineer",
+      "source": "hirify",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9d79920b",
+      "title": "Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate",
+      "company": "M365Consult",
+      "location": "Kenya",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-6226406721?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-12",
       "salary": "",
       "type": "",
       "tags": [
-        "qa-engineer",
-        "quality-assurance-engineer",
-        "automation-testing",
-        "software-test-engineer"
+        "microsoft-ai-engineer",
+        "ai-engineer",
+        "cloud-solutions-engineer",
+        "automation-engineer",
+        "solutions-architect"
       ],
       "miss_count": 0
     },
     {
-      "id": "61b980c5",
+      "id": "c55460c1",
+      "title": "Senior Software Development Engineer in Test - Remote Poland",
+      "company": "Akamai Technologies",
+      "location": "Poland",
+      "remote": true,
+      "country": "PL",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-development-engineer-in-test-remote-poland?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "software-engineer-in-test",
+        "automation-testing",
+        "quality-assurance-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "02c77bb7",
       "title": "Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate",
       "company": "M365Consult",
-      "location": "Nigeria",
+      "location": "Philippines",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-2887239838?utm_source=api",
+      "url": "https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-5732715370?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-12",
       "salary": "",
@@ -56,42 +302,29 @@
         "ai-engineer",
         "automation-engineer",
         "solutions-architect",
-        "cloud-solutions-engineer"
+        "cloud-engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "f150dd81",
-      "title": "App Testers wanted in Switzerland!",
-      "company": "Tester Work",
-      "location": "Remote job",
+      "id": "bc7364a5",
+      "title": "Customer Service Representative",
+      "company": "ShyftOff",
+      "location": "USA",
       "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tester-work/remote-app-testers-wanted-in-switzerland-switzerland-anywhere-115014",
-      "source": "arbeitnow",
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171",
+      "source": "remotive",
       "date": "2026-11-11",
-      "salary": "",
-      "type": "Entry, parttime permanent",
+      "salary": "$14 - $20/hour",
+      "type": "contract",
       "tags": [
-        "qa testing",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "154cdad0",
-      "title": "Junior Gis/GEO Tester",
-      "company": "The Trainee Company",
-      "location": "Assen, Drenthe, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-gis-geo-tester-assen-189416",
-      "source": "arbeitnow",
-      "date": "2026-11-11",
-      "salary": "",
-      "type": "Entry, fulltime permanent",
-      "tags": [
-        "business & ict"
+        "video",
+        "healthcare",
+        "retail",
+        "onboarding",
+        "financial services",
+        "insurance"
       ],
       "miss_count": 0
     },
@@ -1222,19 +1455,17 @@
     },
     {
       "id": "e6aa3a6a",
-      "title": "QA Automation Engineer (Python / API / Mobile) | Mobile Farm",
-      "company": "Partnerkin",
-      "location": "Remote",
+      "title": "QA Automation Engineer для Mobile Farm",
+      "company": "ViralDrop",
+      "location": "",
       "remote": true,
       "country": "WW",
       "url": "https://hirify.me/vacancies/1294958-qa-automation-python-api-mobile",
       "source": "hirify",
       "date": "2026-10-21",
-      "salary": "USD 1500–1500",
+      "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
         "",
         "",
         "",
