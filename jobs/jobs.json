@@ -1,96 +1,134 @@
 {
-  "updated_at": "2026-11-13T04:55:19.405005+00:00",
-  "total": 66,
+  "updated_at": "2026-11-13T13:52:13.781802+00:00",
+  "total": 64,
   "jobs": [
     {
-      "id": "9069898b",
-      "title": "AI Automation Engineer (P3)",
-      "company": "We Assist.io",
-      "location": "Philippines",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/we-assist-io/jobs/ai-automation-engineer-p3?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "ai-automation-engineer",
-        "ai-engineer",
-        "automation-engineer",
-        "integration-engineer",
-        "voice-ai-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "44436da8",
-      "title": "Quality Assurance Associate - Patient Access",
-      "company": "United-Biosource-Corporation",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/united-biosource-corporation/jobs/quality-assurance-associate-patient-access?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-assurance-associate",
-        "qa-analyst",
-        "call-quality-analyst",
-        "patient-services-quality-analyst"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3f743f39",
-      "title": "IT Administration & Automation Manager (all genders)",
-      "company": "Lio",
-      "location": "Munich Office",
+      "id": "1cf05be0",
+      "title": "Product Assurance Manager (w/f/d) - Space Hardware / Mechanics",
+      "company": "My Project Box",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lio/it-administration-automation-manager-all-genders-munich-350810",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-project-box/product-assurance-manager-space-hardware-mechanics-munich-288162",
       "source": "arbeitnow",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "salary": "",
-      "type": "Full Time",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), manager",
       "tags": [
-        "business operations"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "bc575400",
-      "title": "Senior QA Manager Automation & AI - Fully Remote",
-      "company": "SOFTGAMES",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-automation-ai-fully-remote-berlin-71172",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "Entry, fulltime permanent",
-      "tags": [
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a97baccd",
-      "title": "Werkstudent Praktikant (m/w/d) für Mechatronik & Robotik",
-      "company": "TruPhysics GmbH",
-      "location": "Stuttgart",
+      "id": "4dd2eeeb",
+      "title": "Mitarbeiter Qualitätsmanagement/ Supplier Quality Auditor (m/w/d)",
+      "company": "Amphenol-Air LB GmbH",
+      "location": "Saarlouis",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/truphysics-gmbh/werkstudent-praktikant-fur-mechatronik-robotik-stuttgart-456111",
+      "url": "https://www.arbeitnow.com/jobs/companies/amphenol-air-lb-gmbh/mitarbeiter-qualitatsmanagement-supplier-quality-auditor-saarlouis-258601",
       "source": "arbeitnow",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "salary": "",
-      "type": "Praktikum, internship, hilfstätigkeit / student",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "dc05383a",
+      "title": "Principal Consultant – Engagement Lead QA & Advisory (m/w/d)",
+      "company": "QESTIT",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/qestit/principal-consultant-engagement-lead-qa-advisory-berlin-180501",
+      "source": "arbeitnow",
+      "date": "2026-11-13",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, geschäftsleitung",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "28d1055c",
+      "title": "Senior Forward Deployed Engineer (m/f/d) | Integration & Automation | Full-time",
+      "company": "Ayunis",
+      "location": "Munich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ayunis/senior-forward-deployed-engineer-integration-automation-full-time-munich-445628",
+      "source": "arbeitnow",
+      "date": "2026-11-13",
+      "salary": "",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+      "tags": [
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0d82b1d7",
+      "title": "Mitarbeiter Qualitätsmanagement und -sicherung (m/w/d)",
+      "company": "visuSolution GmbH",
+      "location": "Tangerhütte",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/visusolution-gmbh/mitarbeiter-qualitatsmanagement-und-sicherung-tangerhutte-142236",
+      "source": "arbeitnow",
+      "date": "2026-11-13",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3330dff6",
+      "title": "Systemtechniker HF Automation (m/w/d)",
+      "company": "ScaleZ GmbH",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/scalez-gmbh/systemtechniker-hf-automation-zurich-354811",
+      "source": "arbeitnow",
+      "date": "2026-11-13",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9a7294aa",
+      "title": "Manual QA / Тестировщик (Mobile Games)",
+      "company": "TAPCLAP",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1410621-manual-qa-testirovshhik-mobile-games",
+      "source": "hirify",
+      "date": "2026-11-13",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -108,74 +146,6 @@
       "type": "Unbefristeter arbeitsvertrag, teamleitung",
       "tags": [
         "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f5ae7d9f",
-      "title": "Projektleiter Automation / SPS & HMI (m/w/d), 100% (MW)",
-      "company": "Excellent Go4",
-      "location": "St. Gallen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/projektleiter-automation-sps-hmi-100-mw-st-gallen-415254",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "15f9e3fe",
-      "title": "SPS-Programmierer Automation & Anlagenbau (m/w/d) Nr. MW",
-      "company": "Excellent Go4",
-      "location": "Oberbüren",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/sps-programmierer-automation-anlagenbau-nr-mw-oberburen-484166",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ebfc1738",
-      "title": "Automation Engineer / Elektrotechniker Anlagenbau (100%) Nr. MW",
-      "company": "Excellent Go4",
-      "location": "Altdorf",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/excellent-go4/automation-engineer-elektrotechniker-anlagenbau-100-nr-mw-altdorf-425867",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e1ba1d63",
-      "title": "Quality Assurance Associate (m/w/d) für CSL Behring (50%)",
-      "company": "We make it GmbH",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/quality-assurance-associate-fur-csl-behring-50-bern-135293",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "Befristeter arbeitsvertrag, berufseinstieg",
-      "tags": [
-        "quality management"
       ],
       "miss_count": 0
     },
