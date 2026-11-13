@@ -1,72 +1,96 @@
 {
-  "updated_at": "2026-11-12T19:29:51.591761+00:00",
-  "total": 71,
+  "updated_at": "2026-11-13T04:55:19.405005+00:00",
+  "total": 66,
   "jobs": [
     {
-      "id": "ad85a17b",
-      "title": "Sachbearbeiter Dokumenten- & Prozessmanagement (m/w/d)",
-      "company": "AutoGyro GmbH",
-      "location": "Hildesheim",
-      "remote": false,
+      "id": "9069898b",
+      "title": "AI Automation Engineer (P3)",
+      "company": "We Assist.io",
+      "location": "Philippines",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/autogyro-gmbh/sachbearbeiter-dokumenten-prozessmanagement-hildesheim-28845",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
+      "url": "https://himalayas.app/companies/we-assist-io/jobs/ai-automation-engineer-p3?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-13",
       "salary": "",
-      "type": "Befristeter arbeitsvertrag, berufseinstieg",
+      "type": "",
       "tags": [
-        "quality management"
+        "ai-automation-engineer",
+        "ai-engineer",
+        "automation-engineer",
+        "integration-engineer",
+        "voice-ai-engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "287adc9b",
-      "title": "Mitarbeiter:in Qualitätsmanagement und Qualitätssicherung (m/w/d)",
-      "company": "Upländer Feinkost GmbH",
-      "location": "Willingen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/uplander-feinkost-gmbh/mitarbeiterin-qualitatsmanagement-und-qualitatssicherung-willingen-327937",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
+      "id": "44436da8",
+      "title": "Quality Assurance Associate - Patient Access",
+      "company": "United-Biosource-Corporation",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/united-biosource-corporation/jobs/quality-assurance-associate-patient-access?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-13",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "quality management"
+        "quality-assurance-associate",
+        "qa-analyst",
+        "call-quality-analyst",
+        "patient-services-quality-analyst"
       ],
       "miss_count": 0
     },
     {
-      "id": "61d2ea92",
-      "title": "Manager*in GMP Manufacturing Compliance – Oligonukleotide (m/w/d)",
-      "company": "LGC Group",
-      "location": "Berlin",
+      "id": "3f743f39",
+      "title": "IT Administration & Automation Manager (all genders)",
+      "company": "Lio",
+      "location": "Munich Office",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/lgc-group/managerin-gmp-manufacturing-compliance-oligonukleotide-berlin-84196",
-      "source": "arbeitnow",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ed8d53e0",
-      "title": "Head of Finance Automation/ AI Agentification",
-      "company": "Rohlik",
-      "location": "München, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-finance-automation-ai-agentification-munich-37676",
+      "url": "https://www.arbeitnow.com/jobs/companies/lio/it-administration-automation-manager-all-genders-munich-350810",
       "source": "arbeitnow",
       "date": "2026-11-12",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "finance"
+        "business operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bc575400",
+      "title": "Senior QA Manager Automation & AI - Fully Remote",
+      "company": "SOFTGAMES",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/softgames/senior-qa-manager-automation-ai-fully-remote-berlin-71172",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Entry, fulltime permanent",
+      "tags": [
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a97baccd",
+      "title": "Werkstudent Praktikant (m/w/d) für Mechatronik & Robotik",
+      "company": "TruPhysics GmbH",
+      "location": "Stuttgart",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/truphysics-gmbh/werkstudent-praktikant-fur-mechatronik-robotik-stuttgart-456111",
+      "source": "arbeitnow",
+      "date": "2026-11-12",
+      "salary": "",
+      "type": "Praktikum, internship, hilfstätigkeit / student",
+      "tags": [
+        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -242,67 +266,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9d79920b",
-      "title": "Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate",
-      "company": "M365Consult",
-      "location": "Kenya",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-6226406721?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "microsoft-ai-engineer",
-        "ai-engineer",
-        "cloud-solutions-engineer",
-        "automation-engineer",
-        "solutions-architect"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c55460c1",
-      "title": "Senior Software Development Engineer in Test - Remote Poland",
-      "company": "Akamai Technologies",
-      "location": "Poland",
-      "remote": true,
-      "country": "PL",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-software-development-engineer-in-test-remote-poland?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "software-engineer-in-test",
-        "automation-testing",
-        "quality-assurance-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "02c77bb7",
-      "title": "Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate",
-      "company": "M365Consult",
-      "location": "Philippines",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-5732715370?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "microsoft-ai-engineer",
-        "ai-engineer",
-        "automation-engineer",
-        "solutions-architect",
-        "cloud-engineer"
       ],
       "miss_count": 0
     },
@@ -1584,30 +1547,6 @@
       "miss_count": 0
     },
     {
-      "id": "6e7f040f",
-      "title": "QA Lead (Java Appium Mobile)",
-      "company": null,
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1265685-qa-lead-java-appium-mobile",
-      "source": "hirify",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "e8f2893b",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -1684,59 +1623,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "eaeb87bf",
-      "title": "Mobile Full-Stack QA Engineer (Java)",
-      "company": "Альфа-Банк",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1256612-mobile-fullstack-qa-engineer-java",
-      "source": "hirify",
-      "date": "2026-10-14",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "046507a0",
-      "title": "QA Engineer Mobile Fullstack (Java)",
-      "company": "Альфа-Банк",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1250820-mobile-fullstack-qa-java",
-      "source": "hirify",
-      "date": "2026-10-13",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
         "",
         "",
         "",
