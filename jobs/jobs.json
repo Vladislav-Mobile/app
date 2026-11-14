@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-11-14T12:55:40.083059+00:00",
-  "total": 63,
+  "updated_at": "2026-11-14T21:56:36.605174+00:00",
+  "total": 68,
   "jobs": [
+    {
+      "id": "d3bcbd1f",
+      "title": "AI Integration & Automation Engineer (m/w/d) GER",
+      "company": "Customs Support Group",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+      "source": "arbeitnow",
+      "date": "2026-11-14",
+      "salary": "",
+      "type": "Experienced, fulltime permanent",
+      "tags": [
+        "it & tech",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "eaaf3956",
+      "title": "Leiter Technische Entwicklung (m/w/d)",
+      "company": "Monika Moser, Executive Search",
+      "location": "Hörselberg-Hainich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/monika-moser-executive-search/leiter-technische-entwicklung-horselberg-hainich-176692",
+      "source": "arbeitnow",
+      "date": "2026-11-14",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3f0da2a2",
+      "title": "Software Provisioning Technician (m/f/d) - UGV",
+      "company": "Quantum-Systems GmbH",
+      "location": "Göppingen, Baden-Württemberg, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
+      "source": "arbeitnow",
+      "date": "2026-11-14",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "production & automation"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "15b90bd2",
       "title": "Qualitätsingenieur:in",
@@ -38,6 +90,23 @@
       "miss_count": 0
     },
     {
+      "id": "173a081a",
+      "title": "Director of Quality Assurance",
+      "company": "Comind",
+      "location": "London, UK",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/director-of-quality-assurance-london-327419",
+      "source": "arbeitnow",
+      "date": "2026-11-14",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "product development"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "abe526cb",
       "title": "QA Engineer Intern (6 months)",
       "company": "shifttechnology",
@@ -57,64 +126,86 @@
       "miss_count": 0
     },
     {
-      "id": "c45c0865",
-      "title": "Application Security Developer III",
-      "company": "CareSource",
+      "id": "1b5f190a",
+      "title": "Associate Software Engineer",
+      "company": "Valiant Solutions",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/caresource/jobs/application-security-developer-iii?utm_source=api",
+      "url": "https://himalayas.app/companies/valiant-solutions/jobs/associate-software-engineer?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-14",
       "salary": "",
       "type": "",
       "tags": [
-        "application-security-engineer",
-        "security-software-developer",
-        "penetration-tester",
-        "devsecops-engineer"
+        "associate-software-engineer",
+        "software-engineer",
+        "full-stack-developer",
+        "web-developer",
+        "automation-engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "04ea1676",
-      "title": "Responsible AI Technical Lead",
-      "company": "Kainos",
-      "location": "United Kingdom",
+      "id": "bb8afb59",
+      "title": "Finance Close Automation Solution Designer, Portugal",
+      "company": "Yadimen Consulting Limited",
+      "location": "Portugal",
       "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/kainos/jobs/responsible-ai-technical-lead?utm_source=api",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/finance-close-automation-solution-designer-portugal?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-14",
       "salary": "",
       "type": "",
       "tags": [
-        "responsible-ai-technical-lead",
-        "ai-assurance",
-        "ai-testing-lead",
-        "ai-lead",
-        "ai-ethics-manager"
+        "finance-transformation-consultant",
+        "financial-close",
+        "finance-automation-specialist",
+        "sap-consultant",
+        "erp-consultant"
       ],
       "miss_count": 0
     },
     {
-      "id": "2493bf81",
-      "title": "Pediatric Nephrologist- Independent Medial Reviewer",
-      "company": "Managed Medical Review Organization",
-      "location": "United States",
+      "id": "2cf20496",
+      "title": "Senior Agentic Engineer",
+      "company": "Description Ciklum",
+      "location": "Romania",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/managed-medical-review-organization/jobs/pediatric-nephrologist-independent-medial-reviewer?utm_source=api",
+      "country": "WW",
+      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-agentic-engineer-9782974483?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-14",
       "salary": "",
       "type": "",
       "tags": [
-        "independent-medical-reviewer",
-        "pediatric-nephrologist",
-        "physician-reviewer",
-        "medical-peer-review",
-        "healthcare-quality-review"
+        "senior-agentic-ai-engineer",
+        "robotic-process-automation-engineer",
+        "rpa-developer",
+        "automation-engineer",
+        "ai-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "79020807",
+      "title": "Senior Project Analyst and Testing Engineer",
+      "company": "Amyx, Inc.",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/amyx-inc/jobs/senior-project-analyst-and-testing-engineer?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-14",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-assurance-engineer",
+        "test-engineer",
+        "software-testing-engineer",
+        "project-analyst",
+        "systems-engineer"
       ],
       "miss_count": 0
     },
