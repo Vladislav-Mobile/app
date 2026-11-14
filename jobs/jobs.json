@@ -1,38 +1,39 @@
 {
-  "updated_at": "2026-11-14T04:48:09.316757+00:00",
-  "total": 62,
+  "updated_at": "2026-11-14T12:55:40.083059+00:00",
+  "total": 63,
   "jobs": [
     {
-      "id": "5c59bcba",
-      "title": "QA Automation Lead",
-      "company": "Kaluza",
-      "location": "Bristol, UK",
+      "id": "15b90bd2",
+      "title": "Qualitätsingenieur:in",
+      "company": "Actana Consulting Services GmbH",
+      "location": "Munich",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/qa-automation-lead-bristol-139587",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/actana-consulting-services-gmbh/qualitatsingenieurin-munich-473391",
       "source": "arbeitnow",
       "date": "2026-11-14",
       "salary": "",
-      "type": "Full Time",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "engineering"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "8144deed",
-      "title": "Lead/Staff Product Manager (AI Automation) | Remote",
-      "company": "Mimica",
-      "location": "London",
+      "id": "adc725bf",
+      "title": "Director Spectrum Value Stream (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mimica/lead-staff-product-manager-ai-automation-remote-london-60347",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-spectrum-value-stream-parsdorf-bavaria-121257",
       "source": "arbeitnow",
       "date": "2026-11-14",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "product"
+        "production",
+        "operations & quality"
       ],
       "miss_count": 0
     },
@@ -56,21 +57,64 @@
       "miss_count": 0
     },
     {
-      "id": "ef6beb9f",
-      "title": "Staff Software Engineer, Enterprise AI & Automation",
-      "company": "Vista Equity Partners",
+      "id": "c45c0865",
+      "title": "Application Security Developer III",
+      "company": "CareSource",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/vista-equity-partners/jobs/staff-software-engineer-enterprise-ai-automation?utm_source=api",
+      "url": "https://himalayas.app/companies/caresource/jobs/application-security-developer-iii?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-14",
       "salary": "",
       "type": "",
       "tags": [
-        "software-engineer",
-        "artificial-intelligence-engineer",
-        "cloud-software-engineer"
+        "application-security-engineer",
+        "security-software-developer",
+        "penetration-tester",
+        "devsecops-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "04ea1676",
+      "title": "Responsible AI Technical Lead",
+      "company": "Kainos",
+      "location": "United Kingdom",
+      "remote": true,
+      "country": "GB",
+      "url": "https://himalayas.app/companies/kainos/jobs/responsible-ai-technical-lead?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-14",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "responsible-ai-technical-lead",
+        "ai-assurance",
+        "ai-testing-lead",
+        "ai-lead",
+        "ai-ethics-manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2493bf81",
+      "title": "Pediatric Nephrologist- Independent Medial Reviewer",
+      "company": "Managed Medical Review Organization",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/managed-medical-review-organization/jobs/pediatric-nephrologist-independent-medial-reviewer?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-14",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "independent-medical-reviewer",
+        "pediatric-nephrologist",
+        "physician-reviewer",
+        "medical-peer-review",
+        "healthcare-quality-review"
       ],
       "miss_count": 0
     },
@@ -88,23 +132,6 @@
       "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3330dff6",
-      "title": "Systemtechniker HF Automation (m/w/d)",
-      "company": "ScaleZ GmbH",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/scalez-gmbh/systemtechniker-hf-automation-zurich-354811",
-      "source": "arbeitnow",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
