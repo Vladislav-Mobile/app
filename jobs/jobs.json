@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-15T13:24:05.202205+00:00",
-  "total": 63,
+  "updated_at": "2026-11-15T22:26:46.089625+00:00",
+  "total": 62,
   "jobs": [
+    {
+      "id": "cd856882",
+      "title": "Software Quality Operations Specialist",
+      "company": "Waymo",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/software-quality-operations-specialist-london-321938",
+      "source": "arbeitnow",
+      "date": "2026-11-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "triage (sqw)"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "01e4214a",
       "title": "AI Tester with French",
@@ -123,53 +140,27 @@
       "miss_count": 0
     },
     {
-      "id": "eaaf3956",
-      "title": "Leiter Technische Entwicklung (m/w/d)",
-      "company": "Monika Moser, Executive Search",
-      "location": "Hörselberg-Hainich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/monika-moser-executive-search/leiter-technische-entwicklung-horselberg-hainich-176692",
-      "source": "arbeitnow",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3f0da2a2",
-      "title": "Software Provisioning Technician (m/f/d) - UGV",
-      "company": "Quantum-Systems GmbH",
-      "location": "Göppingen, Baden-Württemberg, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
-      "source": "arbeitnow",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "production & automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4b69c2d6",
-      "title": "Junior Tester",
-      "company": "The Trainee Company",
-      "location": "Assen, Drenthe, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/the-trainee-company/junior-tester-assen-149068",
-      "source": "arbeitnow",
+      "id": "0e8ff872",
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "location": "USA, Canada",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "source": "remotive",
       "date": "2026-11-13",
-      "salary": "",
-      "type": "Entry, fulltime permanent",
+      "salary": "$85k - $155k",
+      "type": "full_time",
       "tags": [
-        "business & ict"
+        "ecommerce",
+        "shopify",
+        "video",
+        "ai/ml",
+        "research",
+        "digital marketing",
+        "youtube",
+        "editing",
+        "video editing"
       ],
       "miss_count": 0
     },
