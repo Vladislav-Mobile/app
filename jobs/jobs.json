@@ -1,87 +1,106 @@
 {
-  "updated_at": "2026-11-15T04:40:29.785105+00:00",
-  "total": 64,
+  "updated_at": "2026-11-15T13:24:05.202205+00:00",
+  "total": 63,
   "jobs": [
     {
-      "id": "15c57894",
-      "title": "Senior Manager, R&D Quality Assurance",
-      "company": "Alnylampharmaceuticals",
-      "location": "Maidenhead",
+      "id": "01e4214a",
+      "title": "AI Tester with French",
+      "company": "Tsmg",
+      "location": "Lausanne",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/alnylampharmaceuticals/senior-manager-rd-quality-assurance-maidenhead-96378",
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-tester-with-french-lausanne-84180",
       "source": "arbeitnow",
       "date": "2026-11-15",
       "salary": "",
-      "type": "",
+      "type": "Contract Full time",
       "tags": [
-        "quality"
+        "content moderation '24"
       ],
       "miss_count": 0
     },
     {
-      "id": "c71f1dad",
-      "title": "Senior Quality Assurance Engineer (m/f/d)",
-      "company": "Ververica GmbH",
-      "location": "Greece",
-      "remote": true,
+      "id": "4a019fb9",
+      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Lugano",
+      "remote": false,
       "country": "WW",
-      "url": "https://himalayas.app/companies/ververica-gmbh/jobs/senior-quality-assurance-engineer-m-f-d-6986308358?utm_source=api",
-      "source": "himalayas",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-lugano-171247",
+      "source": "arbeitnow",
       "date": "2026-11-15",
       "salary": "",
-      "type": "",
+      "type": "Contract Part time",
       "tags": [
-        "quality-assurance-engineer",
-        "qa-engineer",
-        "qa-automation-engineer",
-        "software-test-engineer",
-        "automation-testing"
+        "audio data collection"
       ],
       "miss_count": 0
     },
     {
-      "id": "6a3bd025",
-      "title": "Quality Analyst - Outpatient Medical Coding (IVR/SDS) - WFH",
-      "company": "Med-Metrix",
-      "location": "Philippines",
-      "remote": true,
+      "id": "ee783bec",
+      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Bellinzona",
+      "remote": false,
       "country": "WW",
-      "url": "https://himalayas.app/companies/med-metrix/jobs/quality-analyst-outpatient-medical-coding-ivr-sds-wfh?utm_source=api",
-      "source": "himalayas",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-bellinzona-80812",
+      "source": "arbeitnow",
       "date": "2026-11-15",
       "salary": "",
-      "type": "",
+      "type": "Contract Part time",
       "tags": [
-        "quality-analyst",
-        "healthcare-quality-assurance",
-        "medical-coding-quality",
-        "healthcare-compliance",
-        "revenue-quality",
-        "outpatient-medical-coding",
-        "interventional-radiology-coder",
-        "medical-coding-quality-specialist",
-        "medical-coding-quality-auditor"
+        "audio data collection"
       ],
       "miss_count": 0
     },
     {
-      "id": "589c54db",
-      "title": "Senior Quality Assurance Engineer (m/f/d)",
-      "company": "Ververica GmbH",
-      "location": "Hungary",
-      "remote": true,
+      "id": "53f246cc",
+      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Basel",
+      "remote": false,
       "country": "WW",
-      "url": "https://himalayas.app/companies/ververica-gmbh/jobs/senior-quality-assurance-engineer-m-f-d?utm_source=api",
-      "source": "himalayas",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-basel-260",
+      "source": "arbeitnow",
       "date": "2026-11-15",
       "salary": "",
-      "type": "",
+      "type": "Contract Part time",
       "tags": [
-        "qa-engineer",
-        "automation-testing",
-        "software-test-engineer",
-        "quality-assurance-engineer"
+        "audio data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ba2f659e",
+      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-zurich-5693",
+      "source": "arbeitnow",
+      "date": "2026-11-15",
+      "salary": "",
+      "type": "Contract Part time",
+      "tags": [
+        "audio data collection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3ccc1d1a",
+      "title": "AI Speech Tester (French native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-french-native-speaker-switzerland-regional-variant-lausanne-70244",
+      "source": "arbeitnow",
+      "date": "2026-11-15",
+      "salary": "",
+      "type": "Contract Part time",
+      "tags": [
+        "audio data collection"
       ],
       "miss_count": 0
     },
@@ -134,40 +153,6 @@
       "type": "Mid, fulltime permanent",
       "tags": [
         "production & automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "15b90bd2",
-      "title": "Qualitätsingenieur:in",
-      "company": "Actana Consulting Services GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/actana-consulting-services-gmbh/qualitatsingenieurin-munich-473391",
-      "source": "arbeitnow",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "173a081a",
-      "title": "Director of Quality Assurance",
-      "company": "Comind",
-      "location": "London, UK",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/director-of-quality-assurance-london-327419",
-      "source": "arbeitnow",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "product development"
       ],
       "miss_count": 0
     },
@@ -261,24 +246,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4c1675a9",
-      "title": "🚀 Senior AQA / QA Fullstack Engineer | Построение автоматизации с нуля",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/hr_natalya_d",
-      "source": "telegram",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
