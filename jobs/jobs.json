@@ -1,7 +1,90 @@
 {
-  "updated_at": "2026-11-14T21:56:36.605174+00:00",
-  "total": 68,
+  "updated_at": "2026-11-15T04:40:29.785105+00:00",
+  "total": 64,
   "jobs": [
+    {
+      "id": "15c57894",
+      "title": "Senior Manager, R&D Quality Assurance",
+      "company": "Alnylampharmaceuticals",
+      "location": "Maidenhead",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alnylampharmaceuticals/senior-manager-rd-quality-assurance-maidenhead-96378",
+      "source": "arbeitnow",
+      "date": "2026-11-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c71f1dad",
+      "title": "Senior Quality Assurance Engineer (m/f/d)",
+      "company": "Ververica GmbH",
+      "location": "Greece",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/ververica-gmbh/jobs/senior-quality-assurance-engineer-m-f-d-6986308358?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-assurance-engineer",
+        "qa-engineer",
+        "qa-automation-engineer",
+        "software-test-engineer",
+        "automation-testing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6a3bd025",
+      "title": "Quality Analyst - Outpatient Medical Coding (IVR/SDS) - WFH",
+      "company": "Med-Metrix",
+      "location": "Philippines",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/med-metrix/jobs/quality-analyst-outpatient-medical-coding-ivr-sds-wfh?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-analyst",
+        "healthcare-quality-assurance",
+        "medical-coding-quality",
+        "healthcare-compliance",
+        "revenue-quality",
+        "outpatient-medical-coding",
+        "interventional-radiology-coder",
+        "medical-coding-quality-specialist",
+        "medical-coding-quality-auditor"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "589c54db",
+      "title": "Senior Quality Assurance Engineer (m/f/d)",
+      "company": "Ververica GmbH",
+      "location": "Hungary",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/ververica-gmbh/jobs/senior-quality-assurance-engineer-m-f-d?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-15",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-engineer",
+        "automation-testing",
+        "software-test-engineer",
+        "quality-assurance-engineer"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "d3bcbd1f",
       "title": "AI Integration & Automation Engineer (m/w/d) GER",
@@ -72,24 +155,6 @@
       "miss_count": 0
     },
     {
-      "id": "adc725bf",
-      "title": "Director Spectrum Value Stream (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-spectrum-value-stream-parsdorf-bavaria-121257",
-      "source": "arbeitnow",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "173a081a",
       "title": "Director of Quality Assurance",
       "company": "Comind",
@@ -103,126 +168,6 @@
       "type": "Full Time",
       "tags": [
         "product development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "abe526cb",
-      "title": "QA Engineer Intern (6 months)",
-      "company": "shifttechnology",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/qa-engineer-intern-6-months-333718",
-      "source": "arbeitnow",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "technology - software engineering",
-        "infrastructure",
-        "and security"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1b5f190a",
-      "title": "Associate Software Engineer",
-      "company": "Valiant Solutions",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/valiant-solutions/jobs/associate-software-engineer?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "associate-software-engineer",
-        "software-engineer",
-        "full-stack-developer",
-        "web-developer",
-        "automation-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bb8afb59",
-      "title": "Finance Close Automation Solution Designer, Portugal",
-      "company": "Yadimen Consulting Limited",
-      "location": "Portugal",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/finance-close-automation-solution-designer-portugal?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "finance-transformation-consultant",
-        "financial-close",
-        "finance-automation-specialist",
-        "sap-consultant",
-        "erp-consultant"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2cf20496",
-      "title": "Senior Agentic Engineer",
-      "company": "Description Ciklum",
-      "location": "Romania",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-agentic-engineer-9782974483?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "senior-agentic-ai-engineer",
-        "robotic-process-automation-engineer",
-        "rpa-developer",
-        "automation-engineer",
-        "ai-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "79020807",
-      "title": "Senior Project Analyst and Testing Engineer",
-      "company": "Amyx, Inc.",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/amyx-inc/jobs/senior-project-analyst-and-testing-engineer?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "quality-assurance-engineer",
-        "test-engineer",
-        "software-testing-engineer",
-        "project-analyst",
-        "systems-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fa7f6618",
-      "title": "Mitarbeiter:in QM / QM-Assistenz Lebensmittelbranche ab Januar 2027 oder nach Vereinbarung (40-50%)",
-      "company": "Gelateria di Berna",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gelateria-di-berna/mitarbeiterin-qm-qm-assistenz-lebensmittelbranche-ab-januar-2027-oder-nach-vereinbarung-40-50-bern-462314",
-      "source": "arbeitnow",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-      "tags": [
-        "quality management"
       ],
       "miss_count": 0
     },
@@ -1688,31 +1633,6 @@
         "linux/unix",
         "testing",
         "infrastructure"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f7687af9",
-      "title": "Mobile QA Automation Engineer (AI)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1266931-mobile-qa-automation-ai",
-      "source": "hirify",
-      "date": "2026-10-15",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
