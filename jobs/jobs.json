@@ -1,21 +1,110 @@
 {
-  "updated_at": "2026-11-15T22:26:46.089625+00:00",
-  "total": 62,
+  "updated_at": "2026-11-16T04:36:59.529417+00:00",
+  "total": 66,
   "jobs": [
     {
-      "id": "cd856882",
-      "title": "Software Quality Operations Specialist",
-      "company": "Waymo",
-      "location": "London",
+      "id": "7abac0be",
+      "title": "Senior Mechanical Engineer - Robotic Systems",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/software-quality-operations-specialist-london-321938",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
       "source": "arbeitnow",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "salary": "",
       "type": "",
       "tags": [
-        "triage (sqw)"
+        "applied automation intelligence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "843bc214",
+      "title": "Forward Deployed AI Engineer (m/f/d)",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-239617",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "applied automation intelligence"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fb773bc9",
+      "title": "Quality Assurance - Senior Consultant",
+      "company": "Opencast",
+      "location": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/opencast/quality-assurance-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-465098",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Permanent - Employee",
+      "tags": [
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0cccf919",
+      "title": "Quality Assurance - Consultant",
+      "company": "Opencast",
+      "location": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/opencast/quality-assurance-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-72471",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Permanent - Employee",
+      "tags": [
+        "quality assurance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "968c8187",
+      "title": "Quality Control Specialist (Software/Electronics)",
+      "company": "Wingtra 2",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/quality-control-specialist-software-electronics-zurich-322528",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Full-time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "33b726a8",
+      "title": "Complex Peer QA Supervisor",
+      "company": "Dane Street",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/danestreet/jobs/complex-peer-qa-supervisor?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "insurance-operations-supervisor",
+        "quality-assurance-supervisor",
+        "qa-operations-lead",
+        "qa-manager",
+        "medical-review-supervisor"
       ],
       "miss_count": 0
     },
@@ -118,24 +207,6 @@
       "type": "Contract Part time",
       "tags": [
         "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d3bcbd1f",
-      "title": "AI Integration & Automation Engineer (m/w/d) GER",
-      "company": "Customs Support Group",
-      "location": "Remote job",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
-      "source": "arbeitnow",
-      "date": "2026-11-14",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "it & tech",
-        "remote"
       ],
       "miss_count": 0
     },
