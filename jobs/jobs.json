@@ -1,39 +1,55 @@
 {
-  "updated_at": "2026-11-16T04:36:59.529417+00:00",
-  "total": 66,
+  "updated_at": "2026-11-16T14:40:22.042085+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "7abac0be",
-      "title": "Senior Mechanical Engineer - Robotic Systems",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "id": "946c8cdd",
+      "title": "Senior Test Manager (m/w/d) Teststrategie, QA & IT Consulting",
+      "company": "Nelta GmbH",
+      "location": "Frankfurt am Main",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
+      "url": "https://www.arbeitnow.com/jobs/companies/nelta-gmbh/senior-test-manager-teststrategie-qa-it-consulting-frankfurt-am-main-260701",
       "source": "arbeitnow",
       "date": "2026-11-16",
       "salary": "",
-      "type": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
       "tags": [
-        "applied automation intelligence"
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
     {
-      "id": "843bc214",
-      "title": "Forward Deployed AI Engineer (m/f/d)",
-      "company": "Agilerobotsse",
-      "location": "Munich, Bavaria",
+      "id": "3f3f858e",
+      "title": "Flight Control Automation Engineer (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-239617",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-110248",
       "source": "arbeitnow",
       "date": "2026-11-16",
       "salary": "",
-      "type": "",
+      "type": "Mid, fulltime permanent",
       "tags": [
-        "applied automation intelligence"
+        "software"
       ],
+      "miss_count": 0
+    },
+    {
+      "id": "305bf48c",
+      "title": "Senior HVDC Cable Engineer – Manufacturing & Quality (Offshore Grid Connection, Germany)",
+      "company": "TIS GmbH",
+      "location": "Charlottenburg, Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/tis-gmbh/senior-hvdc-cable-engineer-manufacturing-quality-offshore-grid-connection-germany-charlottenburg-105723",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Experienced, freelance",
+      "tags": [],
       "miss_count": 0
     },
     {
@@ -71,6 +87,74 @@
       "miss_count": 0
     },
     {
+      "id": "c4793e33",
+      "title": "Chargé.e missions qualité",
+      "company": "Maison MGA",
+      "location": "Mably",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/maison-mga/chargee-missions-qualite-mably-491330",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "professionnel / expérimenté",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e5dbeeb9",
+      "title": "Engineering Data Support (m/w/d) für CSL Behring",
+      "company": "We make it GmbH",
+      "location": "Bern",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/engineering-data-support-fur-csl-behring-bern-326571",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4795cb66",
+      "title": "Validation Engineer (Life Sciences)",
+      "company": "agap2 - HIQ Consulting",
+      "location": "Bern",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/validation-engineer-life-sciences-bern-295179",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c50e21a3",
+      "title": "Working Student Quality Assurance - Legal (40-60%)",
+      "company": "DeepJudge",
+      "location": "Zurich HQ",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/working-student-quality-assurance-legal-40-60-zurich-448162",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Part Time",
+      "tags": [
+        "product & design"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "968c8187",
       "title": "Quality Control Specialist (Software/Electronics)",
       "company": "Wingtra 2",
@@ -88,23 +172,63 @@
       "miss_count": 0
     },
     {
-      "id": "33b726a8",
-      "title": "Complex Peer QA Supervisor",
-      "company": "Dane Street",
-      "location": "United States",
+      "id": "9345f1e3",
+      "title": "Casper Test Rater (Remote On-Demand Contract Work in the UK)",
+      "company": "Acuity Insights",
+      "location": "United Kingdom",
       "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/danestreet/jobs/complex-peer-qa-supervisor?utm_source=api",
+      "country": "GB",
+      "url": "https://himalayas.app/companies/acuity-insights/jobs/casper-test-rater-remote-on-demand-contract-work-in-the-uk?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-16",
       "salary": "",
       "type": "",
       "tags": [
-        "insurance-operations-supervisor",
-        "quality-assurance-supervisor",
-        "qa-operations-lead",
-        "qa-manager",
-        "medical-review-supervisor"
+        "test-scorer",
+        "assessment-specialist",
+        "qa-specialist",
+        "scoring-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e11e64fd",
+      "title": "Platform Engineer, APIs & Workflow Automation",
+      "company": "Bask Health",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/bask-health/jobs/platform-engineer-apis-workflow-automation?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "platform-engineer",
+        "backend-engineer",
+        "software-engineer",
+        "api-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "358668c3",
+      "title": "Redwood Automation Solution Designer (RunMyJobs / SAP BPA), SAP Finance Close, A",
+      "company": "Yadimen Consulting Limited",
+      "location": "Austria",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/redwood-automation-solution-designer-runmyjobs-sap-bpa-sap-finance-close-a?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "solution-designer",
+        "automation-consultant",
+        "sap-consultant",
+        "finance-transformation-consultant",
+        "financial-process-automation"
       ],
       "miss_count": 0
     },
