@@ -1,88 +1,231 @@
 {
-  "updated_at": "2026-11-16T14:40:22.042085+00:00",
-  "total": 73,
+  "updated_at": "2026-11-17T01:30:59.314181+00:00",
+  "total": 70,
   "jobs": [
     {
-      "id": "946c8cdd",
-      "title": "Senior Test Manager (m/w/d) Teststrategie, QA & IT Consulting",
-      "company": "Nelta GmbH",
-      "location": "Frankfurt am Main",
+      "id": "d5591090",
+      "title": "Marketing Automation Engineer",
+      "company": "Unitedmedia",
+      "location": "London",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nelta-gmbh/senior-test-manager-teststrategie-qa-it-consulting-frankfurt-am-main-260701",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-404824",
       "source": "arbeitnow",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "type": "",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "marketing"
       ],
       "miss_count": 0
     },
     {
-      "id": "3f3f858e",
-      "title": "Flight Control Automation Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
+      "id": "820e9341",
+      "title": "AI Automation Engineer",
+      "company": "Unitedmedia",
+      "location": "London",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/flight-control-automation-engineer-gilching-110248",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-automation-engineer-london-202659",
       "source": "arbeitnow",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "salary": "",
-      "type": "Mid, fulltime permanent",
+      "type": "",
       "tags": [
-        "software"
+        "marketing"
       ],
       "miss_count": 0
     },
     {
-      "id": "305bf48c",
-      "title": "Senior HVDC Cable Engineer – Manufacturing & Quality (Offshore Grid Connection, Germany)",
-      "company": "TIS GmbH",
-      "location": "Charlottenburg, Berlin, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/tis-gmbh/senior-hvdc-cable-engineer-manufacturing-quality-offshore-grid-connection-germany-charlottenburg-105723",
-      "source": "arbeitnow",
-      "date": "2026-11-16",
+      "id": "73d178ae",
+      "title": "Global Marketing Automation Manager",
+      "company": "Sandoz International GmbH",
+      "location": "Poland",
+      "remote": true,
+      "country": "PL",
+      "url": "https://himalayas.app/companies/sandoz-international-gmbh/jobs/global-marketing-automation-manager?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-17",
       "salary": "",
-      "type": "Experienced, freelance",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "fb773bc9",
-      "title": "Quality Assurance - Senior Consultant",
-      "company": "Opencast",
-      "location": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/opencast/quality-assurance-senior-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-465098",
-      "source": "arbeitnow",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "Permanent - Employee",
+      "type": "",
       "tags": [
-        "quality assurance"
+        "marketing-automation-manager",
+        "digital-marketing-manager",
+        "marketing-operations-manager",
+        "crm-marketing-manager"
       ],
       "miss_count": 0
     },
     {
-      "id": "0cccf919",
-      "title": "Quality Assurance - Consultant",
-      "company": "Opencast",
-      "location": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
+      "id": "47fc70f3",
+      "title": "Credit Data Assurance Analyst",
+      "company": "First Citizens",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/first-citizens/jobs/credit-data-assurance-analyst?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "data-assurance-analyst",
+        "credit-reporting-analyst",
+        "data-quality-analyst",
+        "credit-risk-analyst"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5b435e10",
+      "title": "SPS-Programmierer (m/w/d)",
+      "company": "Horn Glass Industries AG",
+      "location": "Plößberg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/opencast/quality-assurance-consultant-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-london-72471",
+      "url": "https://www.arbeitnow.com/jobs/companies/horn-glass-industries-ag/sps-programmierer-plossberg-65212",
       "source": "arbeitnow",
       "date": "2026-11-16",
       "salary": "",
-      "type": "Permanent - Employee",
+      "type": "Unbefristeter arbeitsvertrag",
       "tags": [
-        "quality assurance"
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9d26b53b",
+      "title": "Projektmanager / Referenten (m/w/d) im Bereich Zertifizierung (Vollzeit)",
+      "company": "OnkoZert GmbH",
+      "location": "Neu-Ulm",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/onkozert-gmbh/projektmanager-referenten-im-bereich-zertifizierung-vollzeit-neu-ulm-195476",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "9686e8b9",
+      "title": "Elektro-Techniker (m/w/d)",
+      "company": "CD-Automation GmbH",
+      "location": "Gera",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/cd-automation-gmbh/elektro-techniker-gera-162945",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "23a7516a",
+      "title": "Fertigungstechniker Qualitätskontrolle(m/w/d) in der Elektronikfertigung",
+      "company": "Miltronik Steuer- und Leistungselektronik GmbH & Co KG",
+      "location": "Hilden",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/miltronik-steuer-und-leistungselektronik-gmbh-co-kg/fertigungstechniker-qualitatskontrolle-in-der-elektronikfertigung-hilden-384063",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "782bec23",
+      "title": "Fachkraft Qualitätssicherung im Stahl- und Appartatebau (m/w/d)",
+      "company": "Schmitt Stahlbau GmbH",
+      "location": "Gelsenkirchen",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/schmitt-stahlbau-gmbh/fachkraft-qualitatssicherung-im-stahl-und-appartatebau-gelsenkirchen-318833",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5c380d72",
+      "title": "Marketing Automation Engineer",
+      "company": "Cfoinsights",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-automation-engineer-london-286463",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "013717f3",
+      "title": "Project Quality Manager",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/project-quality-manager-paris-67111",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d321a097",
+      "title": "Supplier Quality Engineer (Orly)",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/supplier-quality-engineer-orly-paris-212312",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0966cb19",
+      "title": "Supplier Quality Manager",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/supplier-quality-manager-paris-70146",
+      "source": "arbeitnow",
+      "date": "2026-11-16",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
       ],
       "miss_count": 0
     },
@@ -104,233 +247,77 @@
       "miss_count": 0
     },
     {
-      "id": "e5dbeeb9",
-      "title": "Engineering Data Support (m/w/d) für CSL Behring",
-      "company": "We make it GmbH",
+      "id": "fe938370",
+      "title": "Software Test Engineer 80–100%",
+      "company": "machineMD",
       "location": "Bern",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/we-make-it-gmbh/engineering-data-support-fur-csl-behring-bern-326571",
-      "source": "arbeitnow",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "Befristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4795cb66",
-      "title": "Validation Engineer (Life Sciences)",
-      "company": "agap2 - HIQ Consulting",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/agap2-hiq-consulting/validation-engineer-life-sciences-bern-295179",
+      "url": "https://www.arbeitnow.ch/jobs/companies/machinemd/software-test-engineer-80-100-bern-79595",
       "source": "arbeitnow",
       "date": "2026-11-16",
       "salary": "",
       "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
       "tags": [
-        "quality management"
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
     {
-      "id": "c50e21a3",
-      "title": "Working Student Quality Assurance - Legal (40-60%)",
-      "company": "DeepJudge",
-      "location": "Zurich HQ",
+      "id": "9c103a0a",
+      "title": "Ingénieur Automation",
+      "company": "cross-ING AG",
+      "location": "Yverdon-les-Bains, Waadt, Schweiz",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/working-student-quality-assurance-legal-40-60-zurich-448162",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/ingenieur-automation-yverdon-les-bains-190246",
       "source": "arbeitnow",
       "date": "2026-11-16",
       "salary": "",
-      "type": "Part Time",
+      "type": "Entry, fulltime permanent",
       "tags": [
-        "product & design"
+        "vaud"
       ],
       "miss_count": 0
     },
     {
-      "id": "968c8187",
-      "title": "Quality Control Specialist (Software/Electronics)",
-      "company": "Wingtra 2",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/quality-control-specialist-software-electronics-zurich-322528",
-      "source": "arbeitnow",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "Full-time",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9345f1e3",
-      "title": "Casper Test Rater (Remote On-Demand Contract Work in the UK)",
-      "company": "Acuity Insights",
-      "location": "United Kingdom",
-      "remote": true,
-      "country": "GB",
-      "url": "https://himalayas.app/companies/acuity-insights/jobs/casper-test-rater-remote-on-demand-contract-work-in-the-uk?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "test-scorer",
-        "assessment-specialist",
-        "qa-specialist",
-        "scoring-specialist"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e11e64fd",
-      "title": "Platform Engineer, APIs & Workflow Automation",
-      "company": "Bask Health",
-      "location": "United States",
+      "id": "e8f2893b",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/bask-health/jobs/platform-engineer-apis-workflow-automation?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "remotive",
+      "date": "2026-11-14",
+      "salary": "$170k - $200k",
+      "type": "full_time",
       "tags": [
-        "platform-engineer",
-        "backend-engineer",
-        "software-engineer",
-        "api-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "358668c3",
-      "title": "Redwood Automation Solution Designer (RunMyJobs / SAP BPA), SAP Finance Close, A",
-      "company": "Yadimen Consulting Limited",
-      "location": "Austria",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/yadimen-consulting-limited/jobs/redwood-automation-solution-designer-runmyjobs-sap-bpa-sap-finance-close-a?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "solution-designer",
-        "automation-consultant",
-        "sap-consultant",
-        "finance-transformation-consultant",
-        "financial-process-automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "01e4214a",
-      "title": "AI Tester with French",
-      "company": "Tsmg",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-tester-with-french-lausanne-84180",
-      "source": "arbeitnow",
-      "date": "2026-11-15",
-      "salary": "",
-      "type": "Contract Full time",
-      "tags": [
-        "content moderation '24"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4a019fb9",
-      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Lugano",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-lugano-171247",
-      "source": "arbeitnow",
-      "date": "2026-11-15",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ee783bec",
-      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Bellinzona",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-bellinzona-80812",
-      "source": "arbeitnow",
-      "date": "2026-11-15",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "53f246cc",
-      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Basel",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-basel-260",
-      "source": "arbeitnow",
-      "date": "2026-11-15",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ba2f659e",
-      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Zurich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-zurich-5693",
-      "source": "arbeitnow",
-      "date": "2026-11-15",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3ccc1d1a",
-      "title": "AI Speech Tester (French native speaker - Switzerland regional variant)",
-      "company": "Tsmg",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-french-native-speaker-switzerland-regional-variant-lausanne-70244",
-      "source": "arbeitnow",
-      "date": "2026-11-15",
-      "salary": "",
-      "type": "Contract Part time",
-      "tags": [
-        "audio data collection"
+        "api",
+        "css",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "ai/ml",
+        "cad",
+        "advertising",
+        "redis",
+        "es6",
+        "web applications",
+        "mysql",
+        "nlp",
+        "fintech",
+        "micro services",
+        "github",
+        "system architecture"
       ],
       "miss_count": 0
     },
@@ -1755,37 +1742,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0aa4a402",
-      "title": "Software Engineer, AI Coding Tasks",
-      "company": "Askable",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-      "source": "remotive",
-      "date": "2026-10-17",
-      "salary": "$1000 per task",
-      "type": "contract",
-      "tags": [
-        "c++",
-        "docker",
-        "git",
-        "go",
-        "java",
-        "python",
-        "security",
-        "ai/ml",
-        "rust",
-        "typescript ",
-        "distributed systems",
-        "solid",
-        "linux/unix",
-        "testing",
-        "infrastructure"
       ],
       "miss_count": 0
     }
