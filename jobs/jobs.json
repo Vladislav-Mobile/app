@@ -1,106 +1,229 @@
 {
-  "updated_at": "2026-11-18T00:28:15.498032+00:00",
-  "total": 62,
+  "updated_at": "2026-11-18T15:01:55.073220+00:00",
+  "total": 68,
   "jobs": [
     {
-      "id": "5e2a91b3",
-      "title": "QA Engineer - Payments",
-      "company": "sumup",
+      "id": "87b2ce39",
+      "title": "Werkstudent (m/w/d) Operations & Automation – No-Code, Low-Code, Prozesse",
+      "company": "ProviPanda GmbH",
       "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/werkstudent-operations-automation-no-code-low-code-prozesse-berlin-315136",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "Werkstudent, working student, hilfstätigkeit / student",
+      "tags": [
+        "remote",
+        "software development"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4bb515c2",
+      "title": "Test Engineer / Test Automation Engineer (m/w/d) Schwerpunkt API-Testing",
+      "company": "Nelta GmbH",
+      "location": "Frankfurt am Main",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/qa-engineer-payments-berlin-435071",
+      "url": "https://www.arbeitnow.com/jobs/companies/nelta-gmbh/test-engineer-test-automation-engineer-schwerpunkt-api-testing-frankfurt-am-main-300918",
       "source": "arbeitnow",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2acf0123",
+      "title": "Marketing Automation Engineer",
+      "company": "Hrtechx",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-automation-engineer-london-283385",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
       "salary": "",
       "type": "",
       "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bb1bb8f6",
+      "title": "AI Automation Engineer",
+      "company": "Hrtechx",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-automation-engineer-london-266673",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1e5ba437",
+      "title": "Compliance and Quality Coordinator (FTC)",
+      "company": "Clark Germany GmbH",
+      "location": "Bristol",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clark-germany-gmbh/compliance-and-quality-coordinator-ftc-bristol-66137",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "Fixed-term contract, contract, professional / experienced",
+      "tags": [
+        "compliance",
+        "security"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cd5df709",
+      "title": "Senior People Intelligence, Automation & AI Specialist",
+      "company": "Envalior",
+      "location": "Geleen, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-people-intelligence-automation-ai-specialist-geleen-241645",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "human resources"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "dcb0b684",
+      "title": "Audiobook QA Expert, Dutch",
+      "company": "True Talent Solutions Partners",
+      "location": "Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/true-talent-solutions-partners/audiobook-qa-expert-dutch-netherlands-303546",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "client roles"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "68480910",
+      "title": "Mobile QA Automation Engineer",
+      "company": "Beeline Kazakhstan",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1432974-mobile-qa-automation-engineer",
+      "source": "hirify",
+      "date": "2026-11-18",
+      "salary": "KZT 800000–800000 (~$1802)",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c3df671e",
+      "title": "Senior Bizagi Solution Expert (Master Data Management) - French Speaking",
+      "company": "WLG",
+      "location": "Belgium",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/wlg/jobs/senior-bizagi-solution-expert-master-data-management-french-speaking?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "bizagi-solution-expert",
+        "business-process-management-consultant",
+        "workflow-automation-specialist",
+        "master-data-management-consultant",
+        "business-systems-analyst"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d5c86859",
+      "title": "Plumeria - Audio Quality Reviewer - Hindi (India)",
+      "company": "TransPerfect",
+      "location": "India",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/transperfect/jobs/plumeria-audio-quality-reviewer-hindi-india?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "audio-quality-reviewer",
+        "quality-reviewer",
+        "data-quality-reviewer",
+        "data-annotator"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e9f8d731",
+      "title": "Компания Centicore 💙 находится в поисках QA Fullstack (стек с#). Наша компания занимается продуктово",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://t.me/qa_jobs/262197",
+      "source": "telegram",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
         "qa"
       ],
       "miss_count": 0
     },
     {
-      "id": "1fde7593",
-      "title": "Senior Quality Control & Supplier Quality Specialist (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-quality-control-supplier-quality-specialist-gilching-284457",
-      "source": "arbeitnow",
-      "date": "2026-11-17",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "supply chain"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6aba0b62",
-      "title": "Principal SDET",
-      "company": "Radiant",
-      "location": "United Kingdom - Remote",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-principal-sdet-12063",
-      "source": "arbeitnow",
-      "date": "2026-11-17",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2a000cae",
-      "title": "Automation Engineer – Magnet Industrialisation",
-      "company": "Proxima Fusion GmbH",
-      "location": "Zurich",
-      "remote": false,
+      "id": "f3f85172",
+      "title": "Middle+ QA Fullstack (стек с#)**",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/automation-engineer-magnet-industrialisation-zurich-163628",
-      "source": "arbeitnow",
-      "date": "2026-11-17",
+      "url": "https://vseti.app/jobs/7d654d22-928d-445c-afbf-a41e23c4ca09)**",
+      "source": "telegram",
+      "date": "2026-11-18",
       "salary": "",
-      "type": "Full Time",
+      "type": "",
       "tags": [
-        "magnet engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cda379ef",
-      "title": "Software / Full-Stack QA Engineer",
-      "company": "Aquablu B.V",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/aquablu-bv/software-full-stack-qa-engineer-amsterdam-195856",
-      "source": "arbeitnow",
-      "date": "2026-11-17",
-      "salary": "",
-      "type": "Mid, fulltime fixed term",
-      "tags": [
-        "product & engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3d56db75",
-      "title": "Embedded & Firmware QA Engineer",
-      "company": "Aquablu B.V",
-      "location": "Amsterdam, Noord-Holland, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/aquablu-bv/embedded-firmware-qa-engineer-amsterdam-238168",
-      "source": "arbeitnow",
-      "date": "2026-11-17",
-      "salary": "",
-      "type": "Mid, fulltime fixed term",
-      "tags": [
-        "product & engineering"
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
