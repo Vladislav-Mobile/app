@@ -1,56 +1,157 @@
 {
-  "updated_at": "2026-11-17T15:27:39.130644+00:00",
-  "total": 61,
+  "updated_at": "2026-11-18T00:28:15.498032+00:00",
+  "total": 62,
   "jobs": [
     {
-      "id": "3456b6b0",
-      "title": "Projektleiter im Software Engineering (m/w/d)",
-      "company": "blue automation GmbH",
-      "location": "Rennerod",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/blue-automation-gmbh/projektleiter-im-software-engineering-rennerod-278242",
-      "source": "arbeitnow",
-      "date": "2026-11-17",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "374a4682",
-      "title": "Elektroniker für Betriebstechnik / Elektrotechniker/- ingenieur (m/w/d)",
-      "company": "Nienstedt GmbH",
-      "location": "Haltern am See",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nienstedt-gmbh/elektroniker-fur-betriebstechnik-elektrotechniker-ingenieur-haltern-am-see-345720",
-      "source": "arbeitnow",
-      "date": "2026-11-17",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5a7101ef",
-      "title": "Senior Softwareentwickler Testautomatisierung (m/w/d)",
-      "company": "SPECTRUM AG",
+      "id": "5e2a91b3",
+      "title": "QA Engineer - Payments",
+      "company": "sumup",
       "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/spectrum-ag/senior-softwareentwickler-testautomatisierung-berlin-341908",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/qa-engineer-payments-berlin-435071",
       "source": "arbeitnow",
       "date": "2026-11-17",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "qa"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1fde7593",
+      "title": "Senior Quality Control & Supplier Quality Specialist (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-quality-control-supplier-quality-specialist-gilching-284457",
+      "source": "arbeitnow",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6aba0b62",
+      "title": "Principal SDET",
+      "company": "Radiant",
+      "location": "United Kingdom - Remote",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/radiant/remote-principal-sdet-12063",
+      "source": "arbeitnow",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2a000cae",
+      "title": "Automation Engineer – Magnet Industrialisation",
+      "company": "Proxima Fusion GmbH",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/automation-engineer-magnet-industrialisation-zurich-163628",
+      "source": "arbeitnow",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "magnet engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cda379ef",
+      "title": "Software / Full-Stack QA Engineer",
+      "company": "Aquablu B.V",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/aquablu-bv/software-full-stack-qa-engineer-amsterdam-195856",
+      "source": "arbeitnow",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "Mid, fulltime fixed term",
+      "tags": [
+        "product & engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3d56db75",
+      "title": "Embedded & Firmware QA Engineer",
+      "company": "Aquablu B.V",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/aquablu-bv/embedded-firmware-qa-engineer-amsterdam-238168",
+      "source": "arbeitnow",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "Mid, fulltime fixed term",
+      "tags": [
+        "product & engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bb838405",
+      "title": "Senior Security QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1430808-senior-mobile-security-qa",
+      "source": "hirify",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cf82945d",
+      "title": "Mobile Support QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1429110-mobile-support-qa-engineer",
+      "source": "hirify",
+      "date": "2026-11-17",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -101,57 +202,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "013717f3",
-      "title": "Project Quality Manager",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/project-quality-manager-paris-67111",
-      "source": "arbeitnow",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d321a097",
-      "title": "Supplier Quality Engineer (Orly)",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/supplier-quality-engineer-orly-paris-212312",
-      "source": "arbeitnow",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0966cb19",
-      "title": "Supplier Quality Manager",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/supplier-quality-manager-paris-70146",
-      "source": "arbeitnow",
-      "date": "2026-11-16",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations"
       ],
       "miss_count": 0
     },
@@ -217,33 +267,6 @@
         "youtube",
         "editing",
         "video editing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3c98bc14",
-      "title": "Senior Mobile QA Engineer (Contract, B2B)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1415153-senior-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "project",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
