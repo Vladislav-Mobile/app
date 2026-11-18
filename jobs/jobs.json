@@ -1,126 +1,75 @@
 {
-  "updated_at": "2026-11-18T15:01:55.073220+00:00",
-  "total": 68,
+  "updated_at": "2026-11-18T23:51:19.739005+00:00",
+  "total": 63,
   "jobs": [
     {
-      "id": "87b2ce39",
-      "title": "Werkstudent (m/w/d) Operations & Automation – No-Code, Low-Code, Prozesse",
-      "company": "ProviPanda GmbH",
-      "location": "Berlin",
+      "id": "229ecbd2",
+      "title": "Working student - SCA/ ISO (m/f/x)",
+      "company": "Samsung SDS Europe Ltd. German Branch (Logistics Division)",
+      "location": "Magdeburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/samsung-sds-europe-ltd-german-branch-logistics-division/working-student-sca-iso-magdeburg-269928",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "Fixed-term contract (befristeter arbeitsvertrag), no experience required / student",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5ec9816d",
+      "title": "Qualitätsmanagementbeauftragter / VP MDR (m/w/d)",
+      "company": "reboVet Veterinär-Fachgroßhandel GmbH und Co. KG",
+      "location": "Bocholt",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/rebovet-veterinar-fachgrosshandel-gmbh-und-co-kg/qualitatsmanagementbeauftragter-vp-mdr-bocholt-447514",
+      "source": "arbeitnow",
+      "date": "2026-11-18",
+      "salary": "",
+      "type": "Contract, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "44966637",
+      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+      "company": "Exotec",
+      "location": "Lille, France",
       "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/werkstudent-operations-automation-no-code-low-code-prozesse-berlin-315136",
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
       "source": "arbeitnow",
       "date": "2026-11-18",
       "salary": "",
-      "type": "Werkstudent, working student, hilfstätigkeit / student",
+      "type": "Full time, mid-senior",
       "tags": [
-        "remote",
-        "software development"
+        "engineering",
+        "logistics and supply chain",
+        "maintenance",
+        "remote"
       ],
       "miss_count": 0
     },
     {
-      "id": "4bb515c2",
-      "title": "Test Engineer / Test Automation Engineer (m/w/d) Schwerpunkt API-Testing",
-      "company": "Nelta GmbH",
-      "location": "Frankfurt am Main",
+      "id": "51bf39ef",
+      "title": "Test Automation Engineer",
+      "company": "Infomedics",
+      "location": "Almere, Flevoland, Nederland",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nelta-gmbh/test-engineer-test-automation-engineer-schwerpunkt-api-testing-frankfurt-am-main-300918",
+      "url": "https://www.arbeitnow.nl/jobs/companies/infomedics/test-automation-engineer-almere-488912",
       "source": "arbeitnow",
       "date": "2026-11-18",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Experienced, fulltime",
       "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2acf0123",
-      "title": "Marketing Automation Engineer",
-      "company": "Hrtechx",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-automation-engineer-london-283385",
-      "source": "arbeitnow",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bb1bb8f6",
-      "title": "AI Automation Engineer",
-      "company": "Hrtechx",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-automation-engineer-london-266673",
-      "source": "arbeitnow",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1e5ba437",
-      "title": "Compliance and Quality Coordinator (FTC)",
-      "company": "Clark Germany GmbH",
-      "location": "Bristol",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clark-germany-gmbh/compliance-and-quality-coordinator-ftc-bristol-66137",
-      "source": "arbeitnow",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "Fixed-term contract, contract, professional / experienced",
-      "tags": [
-        "compliance",
-        "security"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "cd5df709",
-      "title": "Senior People Intelligence, Automation & AI Specialist",
-      "company": "Envalior",
-      "location": "Geleen, Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/envalior/senior-people-intelligence-automation-ai-specialist-geleen-241645",
-      "source": "arbeitnow",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "human resources"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "dcb0b684",
-      "title": "Audiobook QA Expert, Dutch",
-      "company": "True Talent Solutions Partners",
-      "location": "Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/true-talent-solutions-partners/audiobook-qa-expert-dutch-netherlands-303546",
-      "source": "arbeitnow",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "client roles"
+        "it"
       ],
       "miss_count": 0
     },
@@ -151,43 +100,22 @@
       "miss_count": 0
     },
     {
-      "id": "c3df671e",
-      "title": "Senior Bizagi Solution Expert (Master Data Management) - French Speaking",
-      "company": "WLG",
-      "location": "Belgium",
+      "id": "64bc4b50",
+      "title": "Senior Project Manager, QA/QC",
+      "company": "Lemartec Corporation",
+      "location": "United States",
       "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/wlg/jobs/senior-bizagi-solution-expert-master-data-management-french-speaking?utm_source=api",
+      "country": "US",
+      "url": "https://himalayas.app/companies/lemartec-corporation/jobs/senior-project-manager-qa-qc?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-18",
       "salary": "",
       "type": "",
       "tags": [
-        "bizagi-solution-expert",
-        "business-process-management-consultant",
-        "workflow-automation-specialist",
-        "master-data-management-consultant",
-        "business-systems-analyst"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d5c86859",
-      "title": "Plumeria - Audio Quality Reviewer - Hindi (India)",
-      "company": "TransPerfect",
-      "location": "India",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/transperfect/jobs/plumeria-audio-quality-reviewer-hindi-india?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "audio-quality-reviewer",
-        "quality-reviewer",
-        "data-quality-reviewer",
-        "data-annotator"
+        "senior-project-manager",
+        "qa-manager",
+        "quality-control-manager",
+        "construction-project-manager"
       ],
       "miss_count": 0
     },
@@ -406,32 +334,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9a7294aa",
-      "title": "Manual QA / Тестировщик (Mobile Games)",
-      "company": "TAPCLAP",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1410621-manual-qa-testirovshhik-mobile-games",
-      "source": "hirify",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
         "",
         "",
         "",
