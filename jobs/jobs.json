@@ -1,38 +1,55 @@
 {
-  "updated_at": "2026-11-18T23:51:19.739005+00:00",
-  "total": 63,
+  "updated_at": "2026-11-19T05:47:18.801751+00:00",
+  "total": 62,
   "jobs": [
     {
-      "id": "229ecbd2",
-      "title": "Working student - SCA/ ISO (m/f/x)",
-      "company": "Samsung SDS Europe Ltd. German Branch (Logistics Division)",
-      "location": "Magdeburg",
+      "id": "a82a376d",
+      "title": "Senior AI Automation Engineer – Real Estate (w/m/d)",
+      "company": "Right Search",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/samsung-sds-europe-ltd-german-branch-logistics-division/working-student-sca-iso-magdeburg-269928",
+      "url": "https://www.arbeitnow.com/jobs/companies/right-search/senior-ai-automation-engineer-real-estate-berlin-389313",
       "source": "arbeitnow",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "salary": "",
-      "type": "Fixed-term contract (befristeter arbeitsvertrag), no experience required / student",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "quality management"
+        "data scientist"
       ],
       "miss_count": 0
     },
     {
-      "id": "5ec9816d",
-      "title": "Qualitätsmanagementbeauftragter / VP MDR (m/w/d)",
-      "company": "reboVet Veterinär-Fachgroßhandel GmbH und Co. KG",
-      "location": "Bocholt",
+      "id": "ac999b1b",
+      "title": "Testing Engineer (m/f/d)",
+      "company": "Neuverge Tron",
+      "location": "Munich, Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/rebovet-veterinar-fachgrosshandel-gmbh-und-co-kg/qualitatsmanagementbeauftragter-vp-mdr-bocholt-447514",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/neuverge-tron/testing-engineer-munich-447084",
       "source": "arbeitnow",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "salary": "",
-      "type": "Contract, berufserfahren",
+      "type": "Full Time",
       "tags": [
-        "quality management"
+        "r&d department"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "56310594",
+      "title": "Penetration Tester - Europe (m/f/d)",
+      "company": "Neuverge Tron",
+      "location": "Munich, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/neuverge-tron/penetration-tester-europe-munich-194463",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "security&compliance team"
       ],
       "miss_count": 0
     },
@@ -53,23 +70,6 @@
         "logistics and supply chain",
         "maintenance",
         "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "51bf39ef",
-      "title": "Test Automation Engineer",
-      "company": "Infomedics",
-      "location": "Almere, Flevoland, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/infomedics/test-automation-engineer-almere-488912",
-      "source": "arbeitnow",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "Experienced, fulltime",
-      "tags": [
-        "it"
       ],
       "miss_count": 0
     },
@@ -96,26 +96,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "64bc4b50",
-      "title": "Senior Project Manager, QA/QC",
-      "company": "Lemartec Corporation",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/lemartec-corporation/jobs/senior-project-manager-qa-qc?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "senior-project-manager",
-        "qa-manager",
-        "quality-control-manager",
-        "construction-project-manager"
       ],
       "miss_count": 0
     },
