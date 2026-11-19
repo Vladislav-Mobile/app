@@ -1,75 +1,230 @@
 {
-  "updated_at": "2026-11-19T05:47:18.801751+00:00",
-  "total": 62,
+  "updated_at": "2026-11-19T15:11:53.889396+00:00",
+  "total": 68,
   "jobs": [
     {
-      "id": "a82a376d",
-      "title": "Senior AI Automation Engineer – Real Estate (w/m/d)",
-      "company": "Right Search",
-      "location": "Berlin",
+      "id": "9cf7868d",
+      "title": "AI Quality & Governance Specialist (m/w/d)",
+      "company": "GENO Broker GmbH",
+      "location": "Frankfurt am Main",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/right-search/senior-ai-automation-engineer-real-estate-berlin-389313",
+      "url": "https://www.arbeitnow.com/jobs/companies/geno-broker-gmbh/ai-quality-governance-specialist-frankfurt-am-main-135035",
       "source": "arbeitnow",
       "date": "2026-11-19",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "data scientist"
+        "data processing",
+        "data engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "ac999b1b",
-      "title": "Testing Engineer (m/f/d)",
-      "company": "Neuverge Tron",
-      "location": "Munich, Germany",
+      "id": "6926aec7",
+      "title": "Qualitätsmanagementbeauftragter (gn)",
+      "company": "3D.aero GmbH",
+      "location": "Hamburg",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/neuverge-tron/testing-engineer-munich-447084",
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/3daero-gmbh/qualitatsmanagementbeauftragter-gn-hamburg-237093",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bbc2fb21",
+      "title": "Supplier Quality Manager (all genders)",
+      "company": "Sunday Natural",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/supplier-quality-manager-all-genders-berlin-353957",
       "source": "arbeitnow",
       "date": "2026-11-19",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "r&d department"
+        "operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "56310594",
-      "title": "Penetration Tester - Europe (m/f/d)",
-      "company": "Neuverge Tron",
-      "location": "Munich, Germany",
+      "id": "5c441aa1",
+      "title": "Test Automation Engineer - KI/MCP/Agents",
+      "company": "PROSTAFF Schweiz GmbH",
+      "location": "Bern",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/neuverge-tron/penetration-tester-europe-munich-194463",
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/test-automation-engineer-ki-mcp-agents-bern-388710",
       "source": "arbeitnow",
       "date": "2026-11-19",
       "salary": "",
-      "type": "Full Time",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "security&compliance team"
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
     {
-      "id": "44966637",
-      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-      "company": "Exotec",
-      "location": "Lille, France",
+      "id": "0a2891a9",
+      "title": "Quality Operations Senior Specialist – Sterile Manufacturing",
+      "company": "gloor&lang AG",
+      "location": "Neuchâtel",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/quality-operations-senior-specialist-sterile-manufacturing-neuchatel-36713",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Indefinite contract (unbefristeter arbeitsvertrag)",
+      "tags": [
+        "business operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "445067f5",
+      "title": "QA Testers Needed",
+      "company": "Global App Testing",
+      "location": "Zürich",
       "remote": true,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
       "source": "arbeitnow",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "salary": "",
-      "type": "Full time, mid-senior",
+      "type": "Freelancer / independent contractor (selbstständiger / freelancer), freelance, professional / experienced",
       "tags": [
-        "engineering",
-        "logistics and supply chain",
-        "maintenance",
-        "remote"
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0b56a4b4",
+      "title": "QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1443232-qa-engineer-mobile-games",
+      "source": "hirify",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c8438c69",
+      "title": "QA Engineer (Manual / Mobile Testing)",
+      "company": null,
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1442876-qa-engineer-manual-mobile-testing",
+      "source": "hirify",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "project",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b891a9a7",
+      "title": "QA Manual (Mobile)",
+      "company": null,
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1441706-qa-manual-mobile",
+      "source": "hirify",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "cd9143de",
+      "title": "Senior Software QA Engineer (Mobile Automation)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1440975-senior-mobile-automation-qa",
+      "source": "hirify",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4ff10932",
+      "title": "QA Engineer, Contract",
+      "company": "Xcelirate",
+      "location": "Netherlands",
+      "remote": true,
+      "country": "NL",
+      "url": "https://himalayas.app/companies/xcelirate/jobs/qa-engineer-contract?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "qa-engineer",
+        "software-qa-engineer",
+        "test-engineer",
+        "qa-automation-engineer",
+        "software-engineer-in-test"
       ],
       "miss_count": 0
     },
@@ -757,24 +912,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a9ea442f",
-      "title": "Компетенция: QA JAVA mobile",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/261805",
-      "source": "telegram",
-      "date": "2026-11-09",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
