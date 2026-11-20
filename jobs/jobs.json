@@ -1,160 +1,53 @@
 {
-  "updated_at": "2026-11-20T00:15:14.497484+00:00",
-  "total": 72,
+  "updated_at": "2026-11-20T14:50:48.184860+00:00",
+  "total": 73,
   "jobs": [
     {
-      "id": "4ff10932",
-      "title": "QA Engineer, Contract",
-      "company": "Xcelirate",
-      "location": "Netherlands",
-      "remote": true,
-      "country": "NL",
-      "url": "https://himalayas.app/companies/xcelirate/jobs/qa-engineer-contract?utm_source=api",
-      "source": "himalayas",
+      "id": "e56983f8",
+      "title": "Technischer Projektleiter Robotik & Physical AI (m/w/d)",
+      "company": "INC Innovation Center GmbH",
+      "location": "Filderstadt",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/inc-innovation-center-gmbh/technischer-projektleiter-robotik-physical-ai-filderstadt-437904",
+      "source": "arbeitnow",
       "date": "2026-11-20",
       "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineer",
-        "software-qa-engineer",
-        "test-engineer",
-        "qa-automation-engineer",
-        "software-engineer-in-test"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f426c6d7",
-      "title": "Leiter:in Test Engineering Elektronik (AOI, AXI, ICT) (m/w/d) | Region Bodensee",
-      "company": "CONCAPE",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/leiterin-test-engineering-elektronik-aoi-axi-ict-region-bodensee-stuttgart-152405",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "433b8e40",
-      "title": "Leiter:in Test Engineering Elektronik (AOI, AXI, ICT) (m/w/d) | Region Bodensee",
-      "company": "CONCAPE",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/concape/leiterin-test-engineering-elektronik-aoi-axi-ict-region-bodensee-munich-395214",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f7ba6e90",
-      "title": "Automation Engineer (m/w/d)",
-      "company": "ECOZA GmbH",
-      "location": "München",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/automation-engineer-munchen-358852",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "Full-time permanent, mid",
-      "tags": [
-        "consulting",
-        "associate's degree"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "35594471",
-      "title": "Automation Engineer (m/f/d)",
-      "company": "Teampicnic",
-      "location": "Falkensee, Brandenburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/automation-engineer-falkensee-brandenburg-115966",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "operations"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8efa99b8",
-      "title": "Sr. Quality Engineer - Electromechanical Assemblies",
-      "company": "Sqaservices",
-      "location": "Charmes, Grand Est",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sqaservices/sr-quality-engineer-electromechanical-assemblies-charmes-grand-est-270046",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "Contract: Full-Time",
-      "tags": [
-        "energy"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "39ae64aa",
-      "title": "Senior SPS-Entwickler:in Maschinensteuerung (R&D) (m/w/d) | Region Ostschweiz",
-      "company": "CONCAPE",
-      "location": "Winterthur",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/concape/senior-sps-entwicklerin-maschinensteuerung-rd-region-ostschweiz-winterthur-110427",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Befristeter arbeitsvertrag, teamleitung",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "2987c3e9",
-      "title": "Qualitätsmanager:in mit Arbeitssicherheit (m/w/d) | 100% | Region Ostschweiz",
-      "company": "CONCAPE",
-      "location": "Zürich",
+      "id": "796c66f4",
+      "title": "Junior Specialist Automation & AI (m/w/d)",
+      "company": "TecTake",
+      "location": "Höchberg",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/concape/qualitatsmanagerin-mit-arbeitssicherheit-100-region-ostschweiz-zurich-230635",
+      "url": "https://www.arbeitnow.com/jobs/companies/tectake/junior-specialist-automation-ai-hochberg-383767",
       "source": "arbeitnow",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "type": "berufserfahren",
       "tags": [
-        "quality management"
+        "software development"
       ],
       "miss_count": 0
     },
     {
-      "id": "e48eef35",
-      "title": "Senior Projektleiter Marketing (m/w/d) - Marketing Automation BSI CX (Ref.Nr.: 48342)",
-      "company": "Wavestone Germany AG",
-      "location": "Zürich",
+      "id": "fcebe479",
+      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+      "company": "eFLY Marketplace Services GmbH",
+      "location": "Stuttgart",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-projektleiter-marketing-marketing-automation-bsi-cx-refnr-48342-zurich-71432",
+      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-479014",
       "source": "arbeitnow",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "salary": "",
-      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "crm",
         "direct marketing"
@@ -162,56 +55,222 @@
       "miss_count": 0
     },
     {
-      "id": "5c441aa1",
-      "title": "Test Automation Engineer - KI/MCP/Agents",
-      "company": "PROSTAFF Schweiz GmbH",
-      "location": "Bern",
+      "id": "8071bf14",
+      "title": "Founding Engineer - Robotics (m/w/d)",
+      "company": "Anton Robotics",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/test-automation-engineer-ki-mcp-agents-bern-388710",
+      "url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/founding-engineer-robotics-munich-64890",
       "source": "arbeitnow",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), executive",
       "tags": [
-        "quality assurance",
-        "inspection"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "0a2891a9",
-      "title": "Quality Operations Senior Specialist – Sterile Manufacturing",
-      "company": "gloor&lang AG",
-      "location": "Neuchâtel",
+      "id": "4d16c032",
+      "title": "Forward Deployed Robotics Engineer (m/w/d)",
+      "company": "Anton Robotics",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/quality-operations-senior-specialist-sterile-manufacturing-neuchatel-36713",
+      "url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/forward-deployed-robotics-engineer-munich-403635",
       "source": "arbeitnow",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "salary": "",
-      "type": "Indefinite contract (unbefristeter arbeitsvertrag)",
+      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
       "tags": [
-        "business operations"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "445067f5",
-      "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
-      "company": "Global App Testing",
-      "location": "Zürich",
+      "id": "45ed9feb",
+      "title": "Platform QA Chapter Lead (all genders)",
+      "company": "JustPlay GmbH",
+      "location": "Berlin (Hybrid)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/platform-qa-chapter-lead-all-genders-berlin-141151",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bf13cbad",
+      "title": "Automation Engineer - Facilities SCADA & PLC (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "location": "Aachen, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/automation-engineer-facilities-scada-plc-aachen-44805",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "fab management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5603d7f1",
+      "title": "People Operations Associate (AI and Automation)",
+      "company": "hyperexponential",
+      "location": "London (hybrid)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/people-operations-associate-ai-and-automation-london-175800",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "central functions"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e8b12d98",
+      "title": "Supplier Quality Engineer",
+      "company": "Anybotics",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/supplier-quality-engineer-zurich-224227",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Employee, full time (100%)",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ee08784f",
+      "title": "Head of Business Automation",
+      "company": "Anybotics",
+      "location": "Zurich, Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/head-of-business-automation-zurich-switzerland-78161",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Employee, full time (100%)",
+      "tags": [
+        "strategy & operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "06f5f360",
+      "title": "Senior Account Manager - Warehouse Automation - BENELUX",
+      "company": "Exotec",
+      "location": "Netherlands",
+      "remote": true,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Full time",
+      "tags": [
+        "engineering",
+        "logistics and supply chain",
+        "maintenance",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "783d26cc",
+      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+      "company": "Exotec",
+      "location": "Netherlands",
+      "remote": true,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Full time, mid-senior",
+      "tags": [
+        "engineering",
+        "logistics and supply chain",
+        "maintenance",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "433bd362",
+      "title": "macOS & Jamf Automation Engineer",
+      "company": "Tomtom",
+      "location": "Amsterdam, The Netherlands",
+      "remote": false,
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/macos-jamf-automation-engineer-amsterdam-the-netherlands-441329",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Employee, Full Time",
+      "tags": [
+        "it"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e5b33acc",
+      "title": "Middle QA Manual Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
+      "url": "https://hirify.me/vacancies/1449818-middle-qa-mobile-games",
+      "source": "hirify",
+      "date": "2026-11-20",
       "salary": "",
-      "type": "Freelancer / independent contractor (selbstständiger / freelancer), freelance, professional / experienced",
+      "type": "fulltime",
       "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "14a03f07",
+      "title": "Middle+ QA Auto**",
+      "company": "",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://vseti.app/jobs/64470e02-b661-41aa-820a-8e888a3684d3)**",
+      "source": "telegram",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "mobile",
+        "qa"
       ],
       "miss_count": 0
     },
@@ -952,24 +1011,6 @@
       "remote": true,
       "country": "WW",
       "url": "https://t.me/qa_jobs/261858",
-      "source": "telegram",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c43a7fc0",
-      "title": "🔹 Mobile QA Automation Engineer",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.comeet.com/jobs/rounds/59.005/mobile-qa-automation-engineer/A1.47A",
       "source": "telegram",
       "date": "2026-11-10",
       "salary": "",
@@ -1799,30 +1840,6 @@
         "video",
         "ai/ml",
         "robotics"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e6aa3a6a",
-      "title": "QA Automation Engineer для Mobile Farm",
-      "company": "ViralDrop",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1294958-qa-automation-python-api-mobile",
-      "source": "hirify",
-      "date": "2026-10-21",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     }
