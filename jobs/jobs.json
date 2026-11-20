@@ -1,56 +1,163 @@
 {
-  "updated_at": "2026-11-19T15:11:53.889396+00:00",
-  "total": 68,
+  "updated_at": "2026-11-20T00:15:14.497484+00:00",
+  "total": 72,
   "jobs": [
     {
-      "id": "9cf7868d",
-      "title": "AI Quality & Governance Specialist (m/w/d)",
-      "company": "GENO Broker GmbH",
-      "location": "Frankfurt am Main",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/geno-broker-gmbh/ai-quality-governance-specialist-frankfurt-am-main-135035",
-      "source": "arbeitnow",
-      "date": "2026-11-19",
+      "id": "4ff10932",
+      "title": "QA Engineer, Contract",
+      "company": "Xcelirate",
+      "location": "Netherlands",
+      "remote": true,
+      "country": "NL",
+      "url": "https://himalayas.app/companies/xcelirate/jobs/qa-engineer-contract?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-20",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "data processing",
-        "data engineer"
+        "qa-engineer",
+        "software-qa-engineer",
+        "test-engineer",
+        "qa-automation-engineer",
+        "software-engineer-in-test"
       ],
       "miss_count": 0
     },
     {
-      "id": "6926aec7",
-      "title": "Qualitätsmanagementbeauftragter (gn)",
-      "company": "3D.aero GmbH",
-      "location": "Hamburg",
+      "id": "f426c6d7",
+      "title": "Leiter:in Test Engineering Elektronik (AOI, AXI, ICT) (m/w/d) | Region Bodensee",
+      "company": "CONCAPE",
+      "location": "Stuttgart",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/3daero-gmbh/qualitatsmanagementbeauftragter-gn-hamburg-237093",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/leiterin-test-engineering-elektronik-aoi-axi-ict-region-bodensee-stuttgart-152405",
       "source": "arbeitnow",
       "date": "2026-11-19",
       "salary": "",
-      "type": "Befristeter arbeitsvertrag, berufserfahren",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
       "tags": [
         "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "bbc2fb21",
-      "title": "Supplier Quality Manager (all genders)",
-      "company": "Sunday Natural",
-      "location": "Berlin",
+      "id": "433b8e40",
+      "title": "Leiter:in Test Engineering Elektronik (AOI, AXI, ICT) (m/w/d) | Region Bodensee",
+      "company": "CONCAPE",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/supplier-quality-manager-all-genders-berlin-353957",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/leiterin-test-engineering-elektronik-aoi-axi-ict-region-bodensee-munich-395214",
       "source": "arbeitnow",
       "date": "2026-11-19",
       "salary": "",
-      "type": "Full Time",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f7ba6e90",
+      "title": "Automation Engineer (m/w/d)",
+      "company": "ECOZA GmbH",
+      "location": "München",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/automation-engineer-munchen-358852",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Full-time permanent, mid",
+      "tags": [
+        "consulting",
+        "associate's degree"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "35594471",
+      "title": "Automation Engineer (m/f/d)",
+      "company": "Teampicnic",
+      "location": "Falkensee, Brandenburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/automation-engineer-falkensee-brandenburg-115966",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "",
       "tags": [
         "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8efa99b8",
+      "title": "Sr. Quality Engineer - Electromechanical Assemblies",
+      "company": "Sqaservices",
+      "location": "Charmes, Grand Est",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sqaservices/sr-quality-engineer-electromechanical-assemblies-charmes-grand-est-270046",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Contract: Full-Time",
+      "tags": [
+        "energy"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "39ae64aa",
+      "title": "Senior SPS-Entwickler:in Maschinensteuerung (R&D) (m/w/d) | Region Ostschweiz",
+      "company": "CONCAPE",
+      "location": "Winterthur",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/concape/senior-sps-entwicklerin-maschinensteuerung-rd-region-ostschweiz-winterthur-110427",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2987c3e9",
+      "title": "Qualitätsmanager:in mit Arbeitssicherheit (m/w/d) | 100% | Region Ostschweiz",
+      "company": "CONCAPE",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/concape/qualitatsmanagerin-mit-arbeitssicherheit-100-region-ostschweiz-zurich-230635",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "e48eef35",
+      "title": "Senior Projektleiter Marketing (m/w/d) - Marketing Automation BSI CX (Ref.Nr.: 48342)",
+      "company": "Wavestone Germany AG",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-projektleiter-marketing-marketing-automation-bsi-cx-refnr-48342-zurich-71432",
+      "source": "arbeitnow",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
+      "tags": [
+        "crm",
+        "direct marketing"
       ],
       "miss_count": 0
     },
@@ -91,7 +198,7 @@
     },
     {
       "id": "445067f5",
-      "title": "QA Testers Needed",
+      "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
       "company": "Global App Testing",
       "location": "Zürich",
       "remote": true,
@@ -105,6 +212,32 @@
         "remote",
         "quality assurance",
         "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6dc9b032",
+      "title": "QA Engineer (Mobile/Web)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1444874-qa-engineer-mobile-web",
+      "source": "hirify",
+      "date": "2026-11-19",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -204,27 +337,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4ff10932",
-      "title": "QA Engineer, Contract",
-      "company": "Xcelirate",
-      "location": "Netherlands",
-      "remote": true,
-      "country": "NL",
-      "url": "https://himalayas.app/companies/xcelirate/jobs/qa-engineer-contract?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-engineer",
-        "software-qa-engineer",
-        "test-engineer",
-        "qa-automation-engineer",
-        "software-engineer-in-test"
       ],
       "miss_count": 0
     },
@@ -1595,26 +1707,6 @@
       "miss_count": 0
     },
     {
-      "id": "c229253d",
-      "title": "Head of Engineering",
-      "company": "Lemon.io",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
-      "source": "remotive",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        "ai/ml",
-        "startup",
-        "marketplace",
-        "fundraising"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "b348f0e4",
       "title": "Mobile QA Engineer (iOS)",
       "company": "%hirify_global%",
@@ -1723,31 +1815,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "13aebe3b",
-      "title": "Middle Manual QA Engineer (Mobile)",
-      "company": "%hirify_global%",
-      "location": "WW",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1288912-middle-manual-qa-mobile",
-      "source": "hirify",
-      "date": "2026-10-20",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
         "",
         "",
         "",
