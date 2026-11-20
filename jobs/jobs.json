@@ -1,175 +1,161 @@
 {
-  "updated_at": "2026-11-20T14:50:48.184860+00:00",
-  "total": 73,
+  "updated_at": "2026-11-20T23:38:54.550890+00:00",
+  "total": 76,
   "jobs": [
     {
-      "id": "e56983f8",
-      "title": "Technischer Projektleiter Robotik & Physical AI (m/w/d)",
-      "company": "INC Innovation Center GmbH",
-      "location": "Filderstadt",
+      "id": "5e791356",
+      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
+      "company": "Lamm HR GmbH",
+      "location": "Landkreis Bergstraße, Hessen, Deutschland",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/inc-innovation-center-gmbh/technischer-projektleiter-robotik-physical-ai-filderstadt-437904",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-380948",
       "source": "arbeitnow",
       "date": "2026-11-20",
       "salary": "",
-      "type": "Befristeter arbeitsvertrag, teamleitung",
+      "type": "Mid, fulltime permanent",
       "tags": [
-        "automation engineering"
+        "quality"
       ],
       "miss_count": 0
     },
     {
-      "id": "796c66f4",
-      "title": "Junior Specialist Automation & AI (m/w/d)",
-      "company": "TecTake",
-      "location": "Höchberg",
+      "id": "9ed7796a",
+      "title": "Safety Engineer Luft- und Raumfahrt (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Bonn",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/tectake/junior-specialist-automation-ai-hochberg-383767",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "berufserfahren",
-      "tags": [
-        "software development"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fcebe479",
-      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-479014",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/safety-engineer-luft-und-raumfahrt-bonn-66757",
       "source": "arbeitnow",
       "date": "2026-11-20",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "crm",
-        "direct marketing"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "8071bf14",
-      "title": "Founding Engineer - Robotics (m/w/d)",
-      "company": "Anton Robotics",
+      "id": "df399637",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "company": "MY Humancapital GmbH",
       "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/founding-engineer-robotics-munich-64890",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-46708",
       "source": "arbeitnow",
       "date": "2026-11-20",
       "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag), executive",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "4d16c032",
-      "title": "Forward Deployed Robotics Engineer (m/w/d)",
-      "company": "Anton Robotics",
-      "location": "Munich",
+      "id": "4f2a6c15",
+      "title": "Servicetechniker Elektrotechnik (m/w/d) in Aachen",
+      "company": "MY Humancapital GmbH",
+      "location": "Aachen",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/anton-robotics/forward-deployed-robotics-engineer-munich-403635",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/servicetechniker-elektrotechnik-in-aachen-430539",
       "source": "arbeitnow",
       "date": "2026-11-20",
       "salary": "",
-      "type": "Permanent employment (unbefristeter arbeitsvertrag), professional / experienced",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "automation engineering"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "45ed9feb",
-      "title": "Platform QA Chapter Lead (all genders)",
-      "company": "JustPlay GmbH",
-      "location": "Berlin (Hybrid)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/platform-qa-chapter-lead-all-genders-berlin-141151",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bf13cbad",
-      "title": "Automation Engineer - Facilities SCADA & PLC (f/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/automation-engineer-facilities-scada-plc-aachen-44805",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "fab management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5603d7f1",
-      "title": "People Operations Associate (AI and Automation)",
-      "company": "hyperexponential",
-      "location": "London (hybrid)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/people-operations-associate-ai-and-automation-london-175800",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "central functions"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e8b12d98",
+      "id": "0b134daf",
       "title": "Supplier Quality Engineer",
-      "company": "Anybotics",
-      "location": "Zurich",
+      "company": "Alta Ares",
+      "location": "Toulouse",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/supplier-quality-engineer-zurich-224227",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/supplier-quality-engineer-blagnac-318387",
       "source": "arbeitnow",
       "date": "2026-11-20",
       "salary": "",
-      "type": "Employee, full time (100%)",
+      "type": "Full Time",
       "tags": [
-        "operations"
+        "manufacturing"
       ],
       "miss_count": 0
     },
     {
-      "id": "ee08784f",
-      "title": "Head of Business Automation",
-      "company": "Anybotics",
-      "location": "Zurich, Switzerland",
+      "id": "8b3ad24a",
+      "title": "Alternance - Talent Acquisition Intern",
+      "company": "Exotec",
+      "location": "Lille, France",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/head-of-business-automation-zurich-switzerland-78161",
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/alternance-talent-acquisition-intern-lille-90220",
       "source": "arbeitnow",
       "date": "2026-11-20",
       "salary": "",
-      "type": "Employee, full time (100%)",
+      "type": "Temporary, internship",
       "tags": [
-        "strategy & operations"
+        "human resources",
+        "industrial automation",
+        "people"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1652830e",
+      "title": "Testeur QA / Recette fonctionnelle (H/F) – Mission à mi-temps - FREELANCE",
+      "company": "ImaginePartners",
+      "location": "Marseille",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/imaginepartners/testeur-qa-recette-fonctionnelle-h-f-mission-a-mi-temps-freelance-marseille-441268",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Auto-entrepreneur/indépendant, freelance, professionnel / expérimenté",
+      "tags": [
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3bca1c2f",
+      "title": "Stage qualité agroalimentaire",
+      "company": "Les menus du monde",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/les-menus-du-monde/stage-qualite-agroalimentaire-paris-267225",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "Convention de stage, internship, aucune expérience requise / Étudiant",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "356ff254",
+      "title": "Software Quality Engineer",
+      "company": "eCential Robotics",
+      "location": "Gières",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ecential-robotics/software-quality-engineer-gieres-154803",
+      "source": "arbeitnow",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "professional / experienced",
+      "tags": [
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
@@ -231,6 +217,110 @@
       "miss_count": 0
     },
     {
+      "id": "001e083d",
+      "title": "QA Automation Engineer (SDET, Mobile Applications)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1455576-qa-automation-java-selenium",
+      "source": "hirify",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b36b0483",
+      "title": "QA Automation Engineer, Mobile Games - Freelance",
+      "company": "%hirify_global%",
+      "location": ", ",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1453211-qa-automation-mobile-games",
+      "source": "hirify",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "31ecd8bf",
+      "title": "Senior QA Engineer (Mobile/Backend)",
+      "company": "FxPro",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1452502-senior-qa-engineer-mobilebackend",
+      "source": "hirify",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "0102a4a5",
+      "title": "QA Engineer — Wearables, Mobile & Cloud",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1452209-qa-engineer-wearables-mobile-cloud",
+      "source": "hirify",
+      "date": "2026-11-20",
+      "salary": "USD 130000–155000",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "e5b33acc",
       "title": "Middle QA Manual Engineer (Mobile Games)",
       "company": "%hirify_global%",
@@ -257,6 +347,27 @@
       "miss_count": 0
     },
     {
+      "id": "976ba0df",
+      "title": "Lead Auditor Quality Compliance",
+      "company": "Integra LifeSciences",
+      "location": "France",
+      "remote": true,
+      "country": "FR",
+      "url": "https://himalayas.app/companies/integra-lifesciences/jobs/lead-auditor-quality-compliance?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "lead-auditor",
+        "quality-assurance-auditor",
+        "compliance-auditor",
+        "regulatory-affairs-auditor",
+        "quality-compliance-auditor"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "14a03f07",
       "title": "Middle+ QA Auto**",
       "company": "",
@@ -275,6 +386,29 @@
       "miss_count": 0
     },
     {
+      "id": "53404a89",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "remote": true,
+      "country": "US",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
+      "source": "remotive",
+      "date": "2026-11-19",
+      "salary": "$14/hour",
+      "type": "part_time",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "teaching",
+        "ai/ml",
+        "research",
+        "responsive"
+      ],
+      "miss_count": 0
+    },
+    {
       "id": "6dc9b032",
       "title": "QA Engineer (Mobile/Web)",
       "company": "%hirify_global%",
@@ -282,32 +416,6 @@
       "remote": false,
       "country": "WW",
       "url": "https://hirify.me/vacancies/1444874-qa-engineer-mobile-web",
-      "source": "hirify",
-      "date": "2026-11-19",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0b56a4b4",
-      "title": "QA Engineer (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1443232-qa-engineer-mobile-games",
       "source": "hirify",
       "date": "2026-11-19",
       "salary": "",
@@ -624,6 +732,33 @@
         "youtube",
         "editing",
         "video editing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3c98bc14",
+      "title": "Senior Mobile QA Engineer (Contract, B2B)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1415153-senior-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-11-13",
+      "salary": "",
+      "type": "project",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -1000,24 +1135,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "95817985",
-      "title": "BankingON’s mission is to augment the technology of credit unions and regional banks so that their c",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/261858",
-      "source": "telegram",
-      "date": "2026-11-10",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
@@ -1570,42 +1687,6 @@
         "mental health",
         "baas",
         "datadog"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e4dc1f4c",
-      "title": "Cloud Engineer Automation",
-      "company": "Smile Digital Health",
-      "location": "Toronto, Ontario",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "source": "remoteok",
-      "date": "2026-10-29",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "design",
-        "grafana",
-        "infosec",
-        "python",
-        "customer support",
-        "marketing",
-        "dev",
-        "quality assurance",
-        "devops",
-        "education",
-        "cloud",
-        "git",
-        "postgres",
-        "microsoft",
-        "exec",
-        "ops",
-        "medical",
-        "engineer",
-        "recruiter",
-        "digital nomad"
       ],
       "miss_count": 0
     },
