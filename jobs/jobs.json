@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T05:29:41.562335+00:00",
-  "total": 74,
+  "updated_at": "2026-11-21T14:09:23.397370+00:00",
+  "total": 70,
   "jobs": [
     {
       "id": "74dab4d2",
@@ -37,27 +37,22 @@
       "miss_count": 0
     },
     {
-      "id": "f29fbfeb",
-      "title": "QA Lead or Supply Coordinator, AI Training Data Teams (USD 16/hr)",
-      "company": "RustLabs",
-      "location": "Brazil",
+      "id": "ab8f2c1e",
+      "title": "AI Data Specialist - Finnish",
+      "company": "RWS Group",
+      "location": "Finland",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/rustlabs/jobs/qa-lead-or-supply-coordinator-ai-training-data-teams-usd-16-hr?utm_source=api",
+      "url": "https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-finnish?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-21",
       "salary": "",
       "type": "",
       "tags": [
-        "ai-quality-lead",
-        "ai-quality-assurance-specialist",
-        "ai-data-quality-analyst-jobs",
-        "data-quality-analyst",
-        "ai-qa-specialist",
-        "ai-data-quality-specialist",
-        "ai-training-data-specialist",
-        "qa-manager",
-        "data-labeling-specialist"
+        "ai-data-specialist",
+        "data-annotator",
+        "data-quality-specialist",
+        "ai-data-analyst"
       ],
       "miss_count": 0
     },
@@ -75,74 +70,6 @@
       "type": "full-time",
       "tags": [
         "exec"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5e791356",
-      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
-      "company": "Lamm HR GmbH",
-      "location": "Landkreis Bergstraße, Hessen, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-380948",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9ed7796a",
-      "title": "Safety Engineer Luft- und Raumfahrt (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Bonn",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/safety-engineer-luft-und-raumfahrt-bonn-66757",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "df399637",
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-46708",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0b134daf",
-      "title": "Supplier Quality Engineer",
-      "company": "Alta Ares",
-      "location": "Toulouse",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/supplier-quality-engineer-blagnac-318387",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "manufacturing"
       ],
       "miss_count": 0
     },
