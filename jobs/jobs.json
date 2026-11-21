@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-11-20T23:38:54.550890+00:00",
-  "total": 76,
+  "updated_at": "2026-11-21T05:29:41.562335+00:00",
+  "total": 74,
   "jobs": [
+    {
+      "id": "74dab4d2",
+      "title": "AI Engineer, DevEx & Automation",
+      "company": "mirakllabs",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
+      "source": "arbeitnow",
+      "date": "2026-11-21",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "tech"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4291bf35",
+      "title": "AI Engineer, DevEx & Automation",
+      "company": "mirakllabs",
+      "location": "Bordeaux",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-bordeaux-394620",
+      "source": "arbeitnow",
+      "date": "2026-11-21",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "tech"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f29fbfeb",
+      "title": "QA Lead or Supply Coordinator, AI Training Data Teams (USD 16/hr)",
+      "company": "RustLabs",
+      "location": "Brazil",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/rustlabs/jobs/qa-lead-or-supply-coordinator-ai-training-data-teams-usd-16-hr?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-21",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-quality-lead",
+        "ai-quality-assurance-specialist",
+        "ai-data-quality-analyst-jobs",
+        "data-quality-analyst",
+        "ai-qa-specialist",
+        "ai-data-quality-specialist",
+        "ai-training-data-specialist",
+        "qa-manager",
+        "data-labeling-specialist"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "78f7f1ec",
+      "title": "Manager, Business Risk and AI Automation",
+      "company": "Reddit",
+      "location": "US Only",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
+      "source": "remoteok",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "exec"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "5e791356",
       "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
@@ -54,23 +130,6 @@
       "miss_count": 0
     },
     {
-      "id": "4f2a6c15",
-      "title": "Servicetechniker Elektrotechnik (m/w/d) in Aachen",
-      "company": "MY Humancapital GmbH",
-      "location": "Aachen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/servicetechniker-elektrotechnik-in-aachen-430539",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "0b134daf",
       "title": "Supplier Quality Engineer",
       "company": "Alta Ares",
@@ -84,78 +143,6 @@
       "type": "Full Time",
       "tags": [
         "manufacturing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8b3ad24a",
-      "title": "Alternance - Talent Acquisition Intern",
-      "company": "Exotec",
-      "location": "Lille, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/alternance-talent-acquisition-intern-lille-90220",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Temporary, internship",
-      "tags": [
-        "human resources",
-        "industrial automation",
-        "people"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1652830e",
-      "title": "Testeur QA / Recette fonctionnelle (H/F) – Mission à mi-temps - FREELANCE",
-      "company": "ImaginePartners",
-      "location": "Marseille",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/imaginepartners/testeur-qa-recette-fonctionnelle-h-f-mission-a-mi-temps-freelance-marseille-441268",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Auto-entrepreneur/indépendant, freelance, professionnel / expérimenté",
-      "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3bca1c2f",
-      "title": "Stage qualité agroalimentaire",
-      "company": "Les menus du monde",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/les-menus-du-monde/stage-qualite-agroalimentaire-paris-267225",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Convention de stage, internship, aucune expérience requise / Étudiant",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "356ff254",
-      "title": "Software Quality Engineer",
-      "company": "eCential Robotics",
-      "location": "Gières",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ecential-robotics/software-quality-engineer-gieres-154803",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "professional / experienced",
-      "tags": [
-        "quality assurance",
-        "inspection"
       ],
       "miss_count": 0
     },
@@ -343,27 +330,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "976ba0df",
-      "title": "Lead Auditor Quality Compliance",
-      "company": "Integra LifeSciences",
-      "location": "France",
-      "remote": true,
-      "country": "FR",
-      "url": "https://himalayas.app/companies/integra-lifesciences/jobs/lead-auditor-quality-compliance?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "lead-auditor",
-        "quality-assurance-auditor",
-        "compliance-auditor",
-        "regulatory-affairs-auditor",
-        "quality-compliance-auditor"
       ],
       "miss_count": 0
     },
