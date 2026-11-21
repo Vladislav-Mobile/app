@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-11-21T14:09:23.397370+00:00",
-  "total": 70,
+  "updated_at": "2026-11-21T22:44:07.639719+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "55c1ada4",
+      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
+      "company": "Probantica",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-74117",
+      "source": "arbeitnow",
+      "date": "2026-11-21",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, berufseinstieg",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c38ed005",
+      "title": "Marketing Automation & AI Manager (m/w/d) | B2B Marketing",
+      "company": "caronsale",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/caronsale/marketing-automation-ai-manager-b2b-marketing-berlin-158810",
+      "source": "arbeitnow",
+      "date": "2026-11-21",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "74dab4d2",
       "title": "AI Engineer, DevEx & Automation",
@@ -37,22 +73,48 @@
       "miss_count": 0
     },
     {
-      "id": "ab8f2c1e",
-      "title": "AI Data Specialist - Finnish",
-      "company": "RWS Group",
-      "location": "Finland",
+      "id": "63acfdbf",
+      "title": "Alpheratz Project - Swedish (Sweden) Translation Quality Rater",
+      "company": "Welo Global",
+      "location": "Sweden",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-finnish?utm_source=api",
+      "url": "https://himalayas.app/companies/welo-global/jobs/alpheratz-project-swedish-sweden-translation-quality-rater?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-21",
       "salary": "",
       "type": "",
       "tags": [
-        "ai-data-specialist",
-        "data-annotator",
-        "data-quality-specialist",
-        "ai-data-analyst"
+        "translation-quality-rater",
+        "machine-translation-post-editor",
+        "localization-specialist",
+        "swedish-translator"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4c6a7165",
+      "title": "Quality Engineer",
+      "company": "Quartermaster",
+      "location": "Arlington",
+      "remote": true,
+      "country": "WW",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
+      "source": "remoteok",
+      "date": "2026-11-20",
+      "salary": "",
+      "type": "full-time",
+      "tags": [
+        "design",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "video",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad"
       ],
       "miss_count": 0
     },
@@ -110,23 +172,6 @@
         "logistics and supply chain",
         "maintenance",
         "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "433bd362",
-      "title": "macOS & Jamf Automation Engineer",
-      "company": "Tomtom",
-      "location": "Amsterdam, The Netherlands",
-      "remote": false,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/macos-jamf-automation-engineer-amsterdam-the-netherlands-441329",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Employee, Full Time",
-      "tags": [
-        "it"
       ],
       "miss_count": 0
     },
