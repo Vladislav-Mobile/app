@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T04:55:33.298763+00:00",
-  "total": 74,
+  "updated_at": "2026-11-22T13:59:19.137349+00:00",
+  "total": 68,
   "jobs": [
     {
       "id": "afbbdc9b",
@@ -22,129 +22,70 @@
       "miss_count": 0
     },
     {
-      "id": "197d1cf6",
-      "title": "MES Process and System Engineer (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
+      "id": "0db747d9",
+      "title": "Industrial Vision & Automation Engineer",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Orly",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/mes-process-and-system-engineer-parsdorf-bavaria-306994",
-      "source": "arbeitnow",
-      "date": "2026-11-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "fd99d011",
-      "title": "Chief Quality  Inspector (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/chief-quality-inspector-ottobrunn-bavaria-289181",
-      "source": "arbeitnow",
-      "date": "2026-11-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "production",
-        "operations & quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8dbf1322",
-      "title": "Senior FSQA Manager - PHF (all genders)",
-      "company": "hellofresh",
-      "location": "Berlin, Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-291816",
-      "source": "arbeitnow",
-      "date": "2026-11-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "food safety and quality"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ab0c40eb",
-      "title": "Venture Development – AI & Process Automation (w/m/d)",
-      "company": "Enpal",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/venture-development-ai-process-automation-berlin-327429",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/industrial-vision-automation-engineer-orly-103459",
       "source": "arbeitnow",
       "date": "2026-11-22",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "headquarter growth"
+        "operations"
       ],
       "miss_count": 0
     },
     {
-      "id": "103abc4d",
-      "title": "Senior SAP Test Manager (m/w/d)",
-      "company": "Natuvion",
-      "location": "Albania",
+      "id": "4c256566",
+      "title": "Middle Mobile QA Engineer (iOS/Android)",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/natuvion/jobs/senior-sap-test-manager-m-w-d?utm_source=api",
-      "source": "himalayas",
+      "url": "https://hirify.me/vacancies/1461176-mobile-qa-appium-java-kotlin",
+      "source": "hirify",
       "date": "2026-11-22",
       "salary": "",
-      "type": "",
+      "type": "fulltime",
       "tags": [
-        "senior-sap-test-manager",
-        "sap-testing-manager",
-        "test-manager",
-        "software-test-manager",
-        "qa-manager"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
     {
-      "id": "55c1ada4",
-      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
-      "company": "Probantica",
-      "location": "Berlin",
+      "id": "f9af1d04",
+      "title": "Middle Mobile QA Engineer",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": true,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-74117",
-      "source": "arbeitnow",
-      "date": "2026-11-21",
+      "url": "https://hirify.me/vacancies/1461143-middle-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-11-22",
       "salary": "",
-      "type": "Befristeter arbeitsvertrag, berufseinstieg",
+      "type": "fulltime",
       "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c38ed005",
-      "title": "Marketing Automation & AI Manager (m/w/d) | B2B Marketing",
-      "company": "caronsale",
-      "location": "Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/caronsale/marketing-automation-ai-manager-b2b-marketing-berlin-158810",
-      "source": "arbeitnow",
-      "date": "2026-11-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -188,46 +129,6 @@
       "type": "full-time",
       "tags": [
         "exec"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "06f5f360",
-      "title": "Senior Account Manager - Warehouse Automation - BENELUX",
-      "company": "Exotec",
-      "location": "Netherlands",
-      "remote": true,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Full time",
-      "tags": [
-        "engineering",
-        "logistics and supply chain",
-        "maintenance",
-        "remote"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "783d26cc",
-      "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-      "company": "Exotec",
-      "location": "Netherlands",
-      "remote": true,
-      "country": "NL",
-      "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-      "source": "arbeitnow",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "Full time, mid-senior",
-      "tags": [
-        "engineering",
-        "logistics and supply chain",
-        "maintenance",
-        "remote"
       ],
       "miss_count": 0
     },
