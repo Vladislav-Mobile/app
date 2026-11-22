@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-11-21T22:44:07.639719+00:00",
-  "total": 72,
+  "updated_at": "2026-11-22T04:55:33.298763+00:00",
+  "total": 74,
   "jobs": [
+    {
+      "id": "afbbdc9b",
+      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
+      "company": "Probantica",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+      "source": "arbeitnow",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "197d1cf6",
+      "title": "MES Process and System Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Parsdorf, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/mes-process-and-system-engineer-parsdorf-bavaria-306994",
+      "source": "arbeitnow",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "production",
+        "operations & quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "fd99d011",
+      "title": "Chief Quality  Inspector (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/chief-quality-inspector-ottobrunn-bavaria-289181",
+      "source": "arbeitnow",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "production",
+        "operations & quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8dbf1322",
+      "title": "Senior FSQA Manager - PHF (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-fsqa-manager-phf-all-genders-berlin-berlin-291816",
+      "source": "arbeitnow",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "food safety and quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ab0c40eb",
+      "title": "Venture Development – AI & Process Automation (w/m/d)",
+      "company": "Enpal",
+      "location": "Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/venture-development-ai-process-automation-berlin-327429",
+      "source": "arbeitnow",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "headquarter growth"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "103abc4d",
+      "title": "Senior SAP Test Manager (m/w/d)",
+      "company": "Natuvion",
+      "location": "Albania",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/natuvion/jobs/senior-sap-test-manager-m-w-d?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "senior-sap-test-manager",
+        "sap-testing-manager",
+        "test-manager",
+        "software-test-manager",
+        "qa-manager"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "55c1ada4",
       "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
@@ -35,60 +145,6 @@
       "type": "",
       "tags": [
         "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "74dab4d2",
-      "title": "AI Engineer, DevEx & Automation",
-      "company": "mirakllabs",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-paris-253225",
-      "source": "arbeitnow",
-      "date": "2026-11-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "tech"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4291bf35",
-      "title": "AI Engineer, DevEx & Automation",
-      "company": "mirakllabs",
-      "location": "Bordeaux",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/ai-engineer-devex-automation-bordeaux-394620",
-      "source": "arbeitnow",
-      "date": "2026-11-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "tech"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "63acfdbf",
-      "title": "Alpheratz Project - Swedish (Sweden) Translation Quality Rater",
-      "company": "Welo Global",
-      "location": "Sweden",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/welo-global/jobs/alpheratz-project-swedish-sweden-translation-quality-rater?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-21",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "translation-quality-rater",
-        "machine-translation-post-editor",
-        "localization-specialist",
-        "swedish-translator"
       ],
       "miss_count": 0
     },
@@ -1840,25 +1896,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2b69f884",
-      "title": "AI Trainer - Video Annotation",
-      "company": "iMerit Technology",
-      "location": "Worldwide",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
-      "source": "remotive",
-      "date": "2026-10-22",
-      "salary": "70K-80K",
-      "type": "freelance",
-      "tags": [
-        "video",
-        "ai/ml",
-        "robotics"
       ],
       "miss_count": 0
     }
