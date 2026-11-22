@@ -1,23 +1,39 @@
 {
-  "updated_at": "2026-11-22T13:59:19.137349+00:00",
-  "total": 68,
+  "updated_at": "2026-11-22T23:11:06.308699+00:00",
+  "total": 70,
   "jobs": [
     {
-      "id": "afbbdc9b",
-      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
-      "company": "Probantica",
-      "location": "Berlin",
-      "remote": true,
+      "id": "89a9ed20",
+      "title": "Management Consultant Test Manager (m/w/d)",
+      "company": "QESTIT",
+      "location": "Hamburg",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+      "url": "https://www.arbeitnow.com/jobs/companies/qestit/management-consultant-test-manager-hamburg-259371",
       "source": "arbeitnow",
       "date": "2026-11-22",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "type": "Unbefristeter arbeitsvertrag, teamleitung",
       "tags": [
-        "remote",
         "quality assurance",
         "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ba67f758",
+      "title": "Lebensmitteltechnologe/in (m/w/d) für die Qualitätskontrolle",
+      "company": "Nubassa Gewürzwerk GmbH",
+      "location": "Viernheim",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/nubassa-gewurzwerk-gmbh/lebensmitteltechnologe-in-fur-die-qualitatskontrolle-viernheim-391316",
+      "source": "arbeitnow",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
       ],
       "miss_count": 0
     },
@@ -86,6 +102,27 @@
         "",
         "",
         ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5db7585b",
+      "title": "Digital Marketing Specialist",
+      "company": "Doylestown Dental Cosmetic Center",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/doylestown-dental-cosmetic-center/jobs/digital-marketing-specialist?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-22",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "digital-marketing-specialist",
+        "paid-ads-specialist",
+        "performance-marketing-specialist",
+        "google-ads-specialist",
+        "marketing-automation-specialist"
       ],
       "miss_count": 0
     },
