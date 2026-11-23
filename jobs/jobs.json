@@ -1,55 +1,159 @@
 {
-  "updated_at": "2026-11-23T05:36:31.658854+00:00",
-  "total": 72,
+  "updated_at": "2026-11-23T17:17:18.545443+00:00",
+  "total": 75,
   "jobs": [
     {
-      "id": "d06199e5",
-      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
-      "company": "Foodji GmbH",
-      "location": "München, Bayern, Deutschland",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-71768",
-      "source": "arbeitnow",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "Manager, fulltime permanent",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "012e7a1a",
-      "title": "Cloud Platform Automation Engineer (f/m/d)",
-      "company": "Sonarsource",
-      "location": "Bochum",
+      "id": "e04305a7",
+      "title": "Supplier Development Manager / Lieferantenmanager (m/w/d)",
+      "company": "agex IT gmbh",
+      "location": "Stuttgart",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/cloud-platform-automation-engineer-bochum-248878",
+      "url": "https://www.arbeitnow.com/jobs/companies/agex-it-gmbh/supplier-development-manager-lieferantenmanager-stuttgart-63738",
       "source": "arbeitnow",
       "date": "2026-11-23",
       "salary": "",
-      "type": "Employee / Full-Time",
+      "type": "Arbeitnehmerüberlassung / zeitarbeit, interim, teamleitung",
       "tags": [
-        "it ops"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "a4b84fcd",
-      "title": "Quality Assurance Specialist",
-      "company": "Ircagroup",
-      "location": "Hochheim am Main, Germany",
+      "id": "191c03e1",
+      "title": "Quality Inspector",
+      "company": "Hypersonica",
+      "location": "London",
       "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/ircagroup/quality-assurance-specialist-hochheim-am-main-germany-385506",
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/quality-inspector-london-487933",
       "source": "arbeitnow",
       "date": "2026-11-23",
       "salary": "",
-      "type": "Permanent Full-Time",
+      "type": "Full-time",
       "tags": [
-        "quality"
+        "supply chain"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "41195726",
+      "title": "Lab Automation Lead",
+      "company": "Orakl Oncology",
+      "location": "Villejuif",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/lab-automation-lead-villejuif-471110",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "platform"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "799ad530",
+      "title": "Freelance Product Manager – AI for Quality & Regulatory",
+      "company": "Acodis AG",
+      "location": "Zürich",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Freelancer / independent contractor (selbstständiger / freelancer), freelance, professional / experienced",
+      "tags": [
+        "remote",
+        "product management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ce03283d",
+      "title": "Quality Master",
+      "company": "Coopers Group AG",
+      "location": "Bern",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/quality-master-bern-210554",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Interim, interim, berufserfahren",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "8b696ad7",
+      "title": "Automation / System Engineer IT/OT (m/w/d)",
+      "company": "EXCO Group",
+      "location": "Root",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/exco-group/automation-system-engineer-it-ot-root-302010",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a832f024",
+      "title": "QA Engineer (Mobile Games)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1465247-qa-engineer-mobile-games",
+      "source": "hirify",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2845c4a1",
+      "title": "Senior Mobile QA Engineer",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1464143-senior-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -78,58 +182,22 @@
       "miss_count": 0
     },
     {
-      "id": "f2115e09",
-      "title": "IT RAS Senior",
-      "company": "GR8 Global",
-      "location": "Philippines",
+      "id": "9200564b",
+      "title": "App Testers wanted in Hungary!",
+      "company": "Tester Work",
+      "location": "Hungary",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/gr8-global/jobs/it-ras-senior?utm_source=api",
+      "url": "https://himalayas.app/companies/tester-work/jobs/app-testers-wanted-in-hungary?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-23",
       "salary": "",
       "type": "",
       "tags": [
-        "senior-audit-associate",
-        "it-auditor",
-        "information-systems-auditor",
-        "sox-testing-analyst",
-        "audit-associate"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "89a9ed20",
-      "title": "Management Consultant Test Manager (m/w/d)",
-      "company": "QESTIT",
-      "location": "Hamburg",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/qestit/management-consultant-test-manager-hamburg-259371",
-      "source": "arbeitnow",
-      "date": "2026-11-22",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, teamleitung",
-      "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ba67f758",
-      "title": "Lebensmitteltechnologe/in (m/w/d) für die Qualitätskontrolle",
-      "company": "Nubassa Gewürzwerk GmbH",
-      "location": "Viernheim",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/nubassa-gewurzwerk-gmbh/lebensmitteltechnologe-in-fur-die-qualitatskontrolle-viernheim-391316",
-      "source": "arbeitnow",
-      "date": "2026-11-22",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
+        "qa-tester",
+        "software-tester",
+        "usability-tester",
+        "test-engineer"
       ],
       "miss_count": 0
     },
@@ -228,13 +296,13 @@
       "miss_count": 0
     },
     {
-      "id": "001e083d",
-      "title": "QA Automation Engineer (SDET, Mobile Applications)",
+      "id": "b36b0483",
+      "title": "QA Automation Engineer, Mobile Games - Freelance",
       "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
+      "location": ", ",
+      "remote": true,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/1455576-qa-automation-java-selenium",
+      "url": "https://hirify.me/vacancies/1453211-qa-automation-mobile-games",
       "source": "hirify",
       "date": "2026-11-20",
       "salary": "",
@@ -254,13 +322,13 @@
       "miss_count": 0
     },
     {
-      "id": "b36b0483",
-      "title": "QA Automation Engineer, Mobile Games - Freelance",
+      "id": "001e083d",
+      "title": "QA Automation Engineer (SDET, Mobile Applications)",
       "company": "%hirify_global%",
-      "location": ", ",
-      "remote": true,
+      "location": "",
+      "remote": false,
       "country": "WW",
-      "url": "https://hirify.me/vacancies/1453211-qa-automation-mobile-games",
+      "url": "https://hirify.me/vacancies/1455576-qa-automation-java-selenium",
       "source": "hirify",
       "date": "2026-11-20",
       "salary": "",
@@ -1731,13 +1799,13 @@
       "miss_count": 0
     },
     {
-      "id": "c339246f",
-      "title": "Senior Back-end Developer",
+      "id": "4e887daa",
+      "title": "Senior Back-end Developerusa",
       "company": "Lemon.io",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
       "remote": true,
       "country": "US",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "source": "remotive",
       "date": "2026-10-27",
       "salary": "",
