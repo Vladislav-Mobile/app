@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-11-22T23:11:06.308699+00:00",
-  "total": 70,
+  "updated_at": "2026-11-23T05:36:31.658854+00:00",
+  "total": 72,
   "jobs": [
+    {
+      "id": "d06199e5",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "location": "München, Bayern, Deutschland",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-71768",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Manager, fulltime permanent",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "012e7a1a",
+      "title": "Cloud Platform Automation Engineer (f/m/d)",
+      "company": "Sonarsource",
+      "location": "Bochum",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/cloud-platform-automation-engineer-bochum-248878",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Employee / Full-Time",
+      "tags": [
+        "it ops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a4b84fcd",
+      "title": "Quality Assurance Specialist",
+      "company": "Ircagroup",
+      "location": "Hochheim am Main, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/ircagroup/quality-assurance-specialist-hochheim-am-main-germany-385506",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Permanent Full-Time",
+      "tags": [
+        "quality"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "930331ea",
+      "title": "QA Engineer (Mobile)",
+      "company": "%hirify_global%",
+      "location": "Remote",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1462583-mobile-qa-engineer-automation",
+      "source": "hirify",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f2115e09",
+      "title": "IT RAS Senior",
+      "company": "GR8 Global",
+      "location": "Philippines",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/gr8-global/jobs/it-ras-senior?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "senior-audit-associate",
+        "it-auditor",
+        "information-systems-auditor",
+        "sox-testing-analyst",
+        "audit-associate"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "89a9ed20",
       "title": "Management Consultant Test Manager (m/w/d)",
@@ -34,23 +130,6 @@
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0db747d9",
-      "title": "Industrial Vision & Automation Engineer",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Orly",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/industrial-vision-automation-engineer-orly-103459",
-      "source": "arbeitnow",
-      "date": "2026-11-22",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "operations"
       ],
       "miss_count": 0
     },
@@ -102,27 +181,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5db7585b",
-      "title": "Digital Marketing Specialist",
-      "company": "Doylestown Dental Cosmetic Center",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/doylestown-dental-cosmetic-center/jobs/digital-marketing-specialist?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-22",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "digital-marketing-specialist",
-        "paid-ads-specialist",
-        "performance-marketing-specialist",
-        "google-ads-specialist",
-        "marketing-automation-specialist"
       ],
       "miss_count": 0
     },
@@ -1800,31 +1858,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "972dba34",
-      "title": "Senior Mobile QA Analyst (Hybrid, Bucharest)",
-      "company": "CrowdStrike",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1309692-senior-mobile-qa-automation",
-      "source": "hirify",
-      "date": "2026-10-23",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
