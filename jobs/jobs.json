@@ -1,61 +1,164 @@
 {
-  "updated_at": "2026-11-24T03:45:23.208611+00:00",
-  "total": 79,
+  "updated_at": "2026-11-24T16:55:37.004107+00:00",
+  "total": 78,
   "jobs": [
     {
-      "id": "ec52a2c8",
-      "title": "Quality Control Technician – Semiconductor (m/f/d)",
-      "company": "Esmc",
-      "location": "Dresden",
+      "id": "9da1a86f",
+      "title": "Mitarbeiter:in Qualitätssicherung (m/w/d) | Vollzeit / Teilzeit",
+      "company": "ROOBS GmbH",
+      "location": "Cologne",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/esmc/quality-control-technician-semiconductor-dresden-185833",
+      "url": "https://www.arbeitnow.com/jobs/companies/roobs-gmbh/mitarbeiterin-qualitatssicherung-vollzeit-teilzeit-cologne-62924",
       "source": "arbeitnow",
       "date": "2026-11-24",
       "salary": "",
-      "type": "Entry, Permanent, Full time",
+      "type": "Befristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "quality and reliability",
-        "quality assurance",
-        "semiconductor"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "b4e7cfeb",
-      "title": "Quality Assurance & Documentation Technician (m/f/d)",
-      "company": "Esmc",
-      "location": "Dresden",
+      "id": "2467f0ee",
+      "title": "Product Operations Specialist (w/m/d)",
+      "company": "Flinn",
+      "location": "Berlin",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/esmc/quality-assurance-documentation-technician-dresden-375755",
-      "source": "arbeitnow",
-      "date": "2026-11-24",
-      "salary": "",
-      "type": "Entry, Permanent, Full time",
-      "tags": [
-        "document control",
-        "qualitätssicherung",
-        "chemielaborant",
-        "technischer assistent",
-        "kalibrierung"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "30b5335c",
-      "title": "Supplier Quality Engineer (Paris)",
-      "company": "Signal Processing Engineer (RF Processing & Analytics)",
-      "location": "Paris",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/supplier-quality-engineer-paris-117040",
+      "url": "https://www.arbeitnow.com/jobs/companies/flinn/product-operations-specialist-berlin-478416",
       "source": "arbeitnow",
       "date": "2026-11-24",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "operations"
+        "regulatory & quality compliance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "27d3c613",
+      "title": "Leiter/in der Konstruktionsabteilung / Head of Engineering Design Organisation (gn)",
+      "company": "Workidentity",
+      "location": "Hannover",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/workidentity/leiter-in-der-konstruktionsabteilung-head-of-engineering-design-organisation-gn-hannover-232130",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "chinesisch",
+        "englisch",
+        "deutsch",
+        "luftfahrt",
+        "luftfahrtzertifizierung",
+        "design assurance",
+        "head of design",
+        "chief engineer",
+        "führungserfahrung",
+        "airworthiness",
+        "aircraft certification",
+        "easa part 21",
+        "aerospace engineering",
+        "systems engineering",
+        "avionics",
+        "flight testing",
+        "engineering management",
+        "regulatory compliance"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "ea7c3ab4",
+      "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
+      "company": "Swissbit",
+      "location": "DE-Berlin",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-de-berlin-263942",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "firmware-validierung",
+        "embedded systems",
+        "testautomatisierung",
+        "qualitätssicherung",
+        "c/c++ entwicklung"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3ba9b311",
+      "title": "Lead Business Operations & Data (w/m/d)",
+      "company": "Vestigas",
+      "location": "München (Hybrid)",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/vestigas/lead-business-operations-data-munchen-hybrid-51910",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Experienced, Permanent, Full time",
+      "tags": [
+        "business operations",
+        "data",
+        "prozessoptimierung",
+        "saas",
+        "b2b",
+        "startup",
+        "business process management",
+        "bizops",
+        "business transformation",
+        "digital transformation",
+        "operational excellence",
+        "prozessmanagement",
+        "workflow automation",
+        "prozessautomatisierung",
+        "ai automation",
+        "ki-gestützte automatisierung",
+        "business intelligence",
+        "data management",
+        "unternehmenssteuerung",
+        "revenue operations",
+        "revops"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2199c2a9",
+      "title": "Qualitätsingenieur (m/w/d)",
+      "company": "AEconversion GmbH & Co. KG",
+      "location": "Salzkotten",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/aeconversion-gmbh-co-kg/qualitatsingenieur-salzkotten-83885",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "66f419ff",
+      "title": "Quality Control Engineer (Production)",
+      "company": "Alta Ares",
+      "location": "Toulouse",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/quality-control-engineer-production-blagnac-313834",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "manufacturing"
       ],
       "miss_count": 0
     },
@@ -78,77 +181,81 @@
       "miss_count": 0
     },
     {
-      "id": "bc3727bf",
-      "title": "Lead Quality Engineer",
-      "company": "Humana",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/humana/jobs/lead-quality-engineer?utm_source=api",
-      "source": "himalayas",
+      "id": "f7989203",
+      "title": "QA Engineer (Mobile Testing)",
+      "company": "Стоп-климакс",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1475455-qa-engineer-mobile-testing",
+      "source": "hirify",
       "date": "2026-11-24",
-      "salary": "",
-      "type": "",
+      "salary": "RUB 200000–200000 (~$2441)",
+      "type": "fulltime",
       "tags": [
-        "quality-engineer",
-        "test-engineer",
-        "uat-lead",
-        "software-quality-engineer"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
     {
-      "id": "798238fa",
-      "title": "Senior AI QA Engineer – Automation & Cloud Infrastructure",
-      "company": "Acronis",
-      "location": "Czechia",
+      "id": "beea50db",
+      "title": "Mobile QA Engineer / SDET (AI-First, Crypto / Fintech)",
+      "company": "%hirify_global%",
+      "location": "Remote",
       "remote": true,
       "country": "WW",
-      "url": "https://himalayas.app/companies/acronis/jobs/senior-ai-qa-engineer-automation-cloud-infrastructure?utm_source=api",
+      "url": "https://hirify.me/vacancies/1473372-mobile-qa-sdet-crypto-fintech",
+      "source": "hirify",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a112f207",
+      "title": "Quality Assurance Lead, Carbon Markets",
+      "company": "Loam Bio",
+      "location": "Canada",
+      "remote": true,
+      "country": "CA",
+      "url": "https://himalayas.app/companies/loam-bio/jobs/quality-assurance-lead-carbon-markets?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-24",
       "salary": "",
       "type": "",
       "tags": [
-        "ai-qa-engineer",
+        "qa-manager",
         "qa-engineer",
-        "automation-testing",
-        "software-quality-engineer",
-        "cloud-qa-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "05b105c2",
-      "title": "Quality Engineer (f/m/d)",
-      "company": "Decathlontechnology",
-      "location": "Lille - Btwin Village, Nord",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/quality-engineer-lille-btwin-village-nord-34523",
-      "source": "arbeitnow",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "41195726",
-      "title": "Lab Automation Lead",
-      "company": "Orakl Oncology",
-      "location": "Villejuif",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/lab-automation-lead-villejuif-471110",
-      "source": "arbeitnow",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "platform"
+        "carbon-markets-manager",
+        "carbon-credit-project-manager",
+        "sustainability-assurance-manager"
       ],
       "miss_count": 0
     },
@@ -167,60 +274,6 @@
       "tags": [
         "quality assurance",
         "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "799ad530",
-      "title": "Freelance Product Manager – AI for Quality & Regulatory",
-      "company": "Acodis AG",
-      "location": "Zürich",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/acodis-ag/freelance-product-manager-ai-for-quality-regulatory-zurich-201759",
-      "source": "arbeitnow",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "Freelancer / independent contractor (selbstständiger / freelancer), freelance, professional / experienced",
-      "tags": [
-        "remote",
-        "product management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ce03283d",
-      "title": "Quality Master",
-      "company": "Coopers Group AG",
-      "location": "Bern",
-      "remote": true,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/quality-master-bern-210554",
-      "source": "arbeitnow",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "Interim, interim, berufserfahren",
-      "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "8b696ad7",
-      "title": "Automation / System Engineer IT/OT (m/w/d)",
-      "company": "EXCO Group",
-      "location": "Root",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/exco-group/automation-system-engineer-it-ot-root-302010",
-      "source": "arbeitnow",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufseinstieg",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -337,6 +390,7 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
+        "",
         "",
         "",
         "",
@@ -466,6 +520,14 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       "miss_count": 0
@@ -509,6 +571,10 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         "",
@@ -627,6 +693,7 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
+        "",
         "",
         "",
         "",
@@ -797,6 +864,8 @@
         "",
         "",
         "",
+        "",
+        "",
         ""
       ],
       "miss_count": 0
@@ -891,33 +960,6 @@
       "miss_count": 0
     },
     {
-      "id": "3c98bc14",
-      "title": "Senior Mobile QA Engineer (Contract, B2B)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1415153-senior-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "project",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "f7ed2e3d",
       "title": "Middle QA Engineer (Mobile Games)",
       "company": "Original Games",
@@ -976,7 +1018,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
         "",
         "",
         "",
@@ -1289,6 +1330,8 @@
         "",
         "",
         "",
+        "",
+        "",
         ""
       ],
       "miss_count": 0
@@ -1332,8 +1375,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
         "",
         "",
         ""
@@ -1425,6 +1466,13 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         "",
@@ -1531,6 +1579,7 @@
         "",
         "",
         "",
+        "",
         ""
       ],
       "miss_count": 0
@@ -1548,6 +1597,13 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         "",
@@ -1610,6 +1666,7 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
+        "",
         "",
         "",
         "",
@@ -1719,8 +1776,6 @@
         "",
         "",
         "",
-        "",
-        "",
         ""
       ],
       "miss_count": 0
@@ -1773,6 +1828,11 @@
         "",
         "",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       "miss_count": 0
@@ -1790,8 +1850,6 @@
       "salary": "",
       "type": "parttime",
       "tags": [
-        "",
-        "",
         "",
         "",
         "",
