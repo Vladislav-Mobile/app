@@ -1,38 +1,137 @@
 {
-  "updated_at": "2026-11-23T17:17:18.545443+00:00",
-  "total": 75,
+  "updated_at": "2026-11-24T03:45:23.208611+00:00",
+  "total": 79,
   "jobs": [
     {
-      "id": "e04305a7",
-      "title": "Supplier Development Manager / Lieferantenmanager (m/w/d)",
-      "company": "agex IT gmbh",
-      "location": "Stuttgart",
+      "id": "ec52a2c8",
+      "title": "Quality Control Technician – Semiconductor (m/f/d)",
+      "company": "Esmc",
+      "location": "Dresden",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agex-it-gmbh/supplier-development-manager-lieferantenmanager-stuttgart-63738",
+      "url": "https://www.arbeitnow.com/jobs/companies/esmc/quality-control-technician-semiconductor-dresden-185833",
       "source": "arbeitnow",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "salary": "",
-      "type": "Arbeitnehmerüberlassung / zeitarbeit, interim, teamleitung",
+      "type": "Entry, Permanent, Full time",
       "tags": [
-        "quality management"
+        "quality and reliability",
+        "quality assurance",
+        "semiconductor"
       ],
       "miss_count": 0
     },
     {
-      "id": "191c03e1",
-      "title": "Quality Inspector",
-      "company": "Hypersonica",
-      "location": "London",
+      "id": "b4e7cfeb",
+      "title": "Quality Assurance & Documentation Technician (m/f/d)",
+      "company": "Esmc",
+      "location": "Dresden",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hypersonica/quality-inspector-london-487933",
+      "url": "https://www.arbeitnow.com/jobs/companies/esmc/quality-assurance-documentation-technician-dresden-375755",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Entry, Permanent, Full time",
+      "tags": [
+        "document control",
+        "qualitätssicherung",
+        "chemielaborant",
+        "technischer assistent",
+        "kalibrierung"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "30b5335c",
+      "title": "Supplier Quality Engineer (Paris)",
+      "company": "Signal Processing Engineer (RF Processing & Analytics)",
+      "location": "Paris",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/supplier-quality-engineer-paris-117040",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "operations"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "4061517a",
+      "title": "App Testers wanted in the Netherlands!",
+      "company": "Tester Work",
+      "location": "Remote job",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tester-work/remote-app-testers-wanted-in-the-netherlands-valletta-152087",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Entry, parttime permanent",
+      "tags": [
+        "qa testing",
+        "remote"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "bc3727bf",
+      "title": "Lead Quality Engineer",
+      "company": "Humana",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/humana/jobs/lead-quality-engineer?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "quality-engineer",
+        "test-engineer",
+        "uat-lead",
+        "software-quality-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "798238fa",
+      "title": "Senior AI QA Engineer – Automation & Cloud Infrastructure",
+      "company": "Acronis",
+      "location": "Czechia",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/acronis/jobs/senior-ai-qa-engineer-automation-cloud-infrastructure?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-qa-engineer",
+        "qa-engineer",
+        "automation-testing",
+        "software-quality-engineer",
+        "cloud-qa-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "05b105c2",
+      "title": "Quality Engineer (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Lille - Btwin Village, Nord",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/quality-engineer-lille-btwin-village-nord-34523",
       "source": "arbeitnow",
       "date": "2026-11-23",
       "salary": "",
-      "type": "Full-time",
+      "type": "",
       "tags": [
-        "supply chain"
+        "engineering"
       ],
       "miss_count": 0
     },
@@ -50,6 +149,24 @@
       "type": "Full Time",
       "tags": [
         "platform"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "63666052",
+      "title": "Professional Quality Engineer (m/w/d) - Testautomatisierung & KI (Ref.Nr.: 48375)",
+      "company": "Wavestone Germany AG",
+      "location": "Bern",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-quality-engineer-testautomatisierung-ki-refnr-48375-bern-64980",
+      "source": "arbeitnow",
+      "date": "2026-11-23",
+      "salary": "",
+      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
+      "tags": [
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
@@ -178,26 +295,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "9200564b",
-      "title": "App Testers wanted in Hungary!",
-      "company": "Tester Work",
-      "location": "Hungary",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/tester-work/jobs/app-testers-wanted-in-hungary?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-tester",
-        "software-tester",
-        "usability-tester",
-        "test-engineer"
       ],
       "miss_count": 0
     },
@@ -1894,32 +1991,6 @@
       "remote": true,
       "country": "WW",
       "url": "https://hirify.me/vacancies/1318976-mobile-qa-engineer-ios",
-      "source": "hirify",
-      "date": "2026-10-26",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c48434d8",
-      "title": "QA Automation Engineer (Mobile Farm)",
-      "company": null,
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1313352-qa-automation-engineer-mobile-farm",
       "source": "hirify",
       "date": "2026-10-26",
       "salary": "",
