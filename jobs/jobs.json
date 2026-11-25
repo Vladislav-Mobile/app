@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-11-24T16:55:37.004107+00:00",
-  "total": 78,
+  "updated_at": "2026-11-25T01:52:45.409337+00:00",
+  "total": 71,
   "jobs": [
+    {
+      "id": "4ec9e46d",
+      "title": "Mitarbeiter*in (m/w/d) für digitales Qualitätsmanagement",
+      "company": "Jupiter IT Service UG",
+      "location": "Berlin",
+      "remote": true,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/jupiter-it-service-ug/mitarbeiterin-fur-digitales-qualitatsmanagement-berlin-39452",
+      "source": "arbeitnow",
+      "date": "2026-11-24",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, hilfstätigkeit / student",
+      "tags": [
+        "remote",
+        "quality assurance",
+        "inspection"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "9da1a86f",
       "title": "Mitarbeiter:in Qualitätssicherung (m/w/d) | Vollzeit / Teilzeit",
@@ -33,132 +52,6 @@
       "type": "Full Time",
       "tags": [
         "regulatory & quality compliance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "27d3c613",
-      "title": "Leiter/in der Konstruktionsabteilung / Head of Engineering Design Organisation (gn)",
-      "company": "Workidentity",
-      "location": "Hannover",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/workidentity/leiter-in-der-konstruktionsabteilung-head-of-engineering-design-organisation-gn-hannover-232130",
-      "source": "arbeitnow",
-      "date": "2026-11-24",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "chinesisch",
-        "englisch",
-        "deutsch",
-        "luftfahrt",
-        "luftfahrtzertifizierung",
-        "design assurance",
-        "head of design",
-        "chief engineer",
-        "führungserfahrung",
-        "airworthiness",
-        "aircraft certification",
-        "easa part 21",
-        "aerospace engineering",
-        "systems engineering",
-        "avionics",
-        "flight testing",
-        "engineering management",
-        "regulatory compliance"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "ea7c3ab4",
-      "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
-      "company": "Swissbit",
-      "location": "DE-Berlin",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-de-berlin-263942",
-      "source": "arbeitnow",
-      "date": "2026-11-24",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "firmware-validierung",
-        "embedded systems",
-        "testautomatisierung",
-        "qualitätssicherung",
-        "c/c++ entwicklung"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3ba9b311",
-      "title": "Lead Business Operations & Data (w/m/d)",
-      "company": "Vestigas",
-      "location": "München (Hybrid)",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vestigas/lead-business-operations-data-munchen-hybrid-51910",
-      "source": "arbeitnow",
-      "date": "2026-11-24",
-      "salary": "",
-      "type": "Experienced, Permanent, Full time",
-      "tags": [
-        "business operations",
-        "data",
-        "prozessoptimierung",
-        "saas",
-        "b2b",
-        "startup",
-        "business process management",
-        "bizops",
-        "business transformation",
-        "digital transformation",
-        "operational excellence",
-        "prozessmanagement",
-        "workflow automation",
-        "prozessautomatisierung",
-        "ai automation",
-        "ki-gestützte automatisierung",
-        "business intelligence",
-        "data management",
-        "unternehmenssteuerung",
-        "revenue operations",
-        "revops"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2199c2a9",
-      "title": "Qualitätsingenieur (m/w/d)",
-      "company": "AEconversion GmbH & Co. KG",
-      "location": "Salzkotten",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/aeconversion-gmbh-co-kg/qualitatsingenieur-salzkotten-83885",
-      "source": "arbeitnow",
-      "date": "2026-11-24",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "66f419ff",
-      "title": "Quality Control Engineer (Production)",
-      "company": "Alta Ares",
-      "location": "Toulouse",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/quality-control-engineer-production-blagnac-313834",
-      "source": "arbeitnow",
-      "date": "2026-11-24",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "manufacturing"
       ],
       "miss_count": 0
     },
@@ -235,45 +128,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "a112f207",
-      "title": "Quality Assurance Lead, Carbon Markets",
-      "company": "Loam Bio",
-      "location": "Canada",
-      "remote": true,
-      "country": "CA",
-      "url": "https://himalayas.app/companies/loam-bio/jobs/quality-assurance-lead-carbon-markets?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-24",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "qa-manager",
-        "qa-engineer",
-        "carbon-markets-manager",
-        "carbon-credit-project-manager",
-        "sustainability-assurance-manager"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "63666052",
-      "title": "Professional Quality Engineer (m/w/d) - Testautomatisierung & KI (Ref.Nr.: 48375)",
-      "company": "Wavestone Germany AG",
-      "location": "Bern",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-quality-engineer-testautomatisierung-ki-refnr-48375-bern-64980",
-      "source": "arbeitnow",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
-      "tags": [
-        "quality assurance",
-        "inspection"
       ],
       "miss_count": 0
     },
@@ -859,30 +713,6 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "71abba95",
-      "title": "QA Engineer, Mobile",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1424012-mobile-qa-engineer-ios-android",
-      "source": "hirify",
-      "date": "2026-11-17",
-      "salary": "USD 92000–110000",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
