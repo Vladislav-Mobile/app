@@ -1,104 +1,359 @@
 {
-  "updated_at": "2026-11-26T01:29:57.201484+00:00",
-  "total": 72,
+  "updated_at": "2026-11-26T16:19:51.336479+00:00",
+  "total": 82,
   "jobs": [
     {
-      "id": "ac83b75d",
-      "title": "Manager, AI Transformation",
-      "company": "Solventum",
+      "id": "869dfe8f",
+      "title": "(Senior) Quality Assurance Engineer (f/m/d)",
+      "company": "Zeal Network",
+      "location": "Hamburg",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-quality-assurance-engineer-hamburg-195098",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "technology"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "f0bd04e9",
+      "title": "SPS - Programmierer / Automatisierungstechniker (gn)",
+      "company": "Remmert GmbH",
+      "location": "Löhne",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.com/jobs/companies/remmert-gmbh/sps-programmierer-automatisierungstechniker-gn-lohne-257241",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "10db7646",
+      "title": "Head of Production Factory (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Ergolding , Bayern, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/head-of-production-factory-ergolding-201471",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "production & automation"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "2763c505",
+      "title": "Marketing Automation Engineer",
+      "company": "Unitedmedia",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-77753",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1852da1c",
+      "title": "AI Automation Engineer",
+      "company": "Unitedmedia",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-automation-engineer-london-337213",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "850f41d4",
+      "title": "AI Automation Engineer",
+      "company": "United Media",
+      "location": "London, England, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/ai-automation-engineer-london-31112",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "ea319002",
+      "title": "Marketing Automation Engineer",
+      "company": "United Media",
+      "location": "London, England, United Kingdom",
+      "remote": false,
+      "country": "GB",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/marketing-automation-engineer-london-189991",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "",
+      "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "1632b0f2",
+      "title": "Senior Process Autoreverse and Quality Manager",
+      "company": "A2Mac1",
+      "location": "Hary, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/senior-process-autoreverse-and-quality-manager-hary-181164",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Full time, entry",
+      "tags": [
+        "engineering",
+        "automotive",
+        "a2mac1 eurl"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3e535f18",
+      "title": "HTS Testing Engineer",
+      "company": "Proxima Fusion GmbH",
+      "location": "Zurich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/hts-testing-engineer-zurich-81603",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "magnet engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b40a9152",
+      "title": "Professional System Engineer (Linux/Automation, 80-100%) - ID261126",
+      "company": "Adfinis AG",
+      "location": "Bern",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/adfinis-ag/professional-system-engineer-linux-automation-80-100-id261126-bern-350363",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "system and network administration"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d63536d9",
+      "title": "QA Senior Specialist – CSV / MES Projects",
+      "company": "gloor&lang AG",
+      "location": "Neuchâtel",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/qa-senior-specialist-csv-mes-projects-neuchatel-194032",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "b0d13a98",
+      "title": "Senior Automation Engineer (SPS, Robotics & Commissioning)",
+      "company": "Coopers Group AG",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-automation-engineer-sps-robotics-commissioning-zurich-299244",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Befristeter arbeitsvertrag, contract, berufserfahren",
+      "tags": [
+        "automation engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "d12bc56e",
+      "title": "Qualifizierung / Validierung Ingenieur/in 80–100%",
+      "company": "gloor&lang AG",
+      "location": "Zürich",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/qualifizierung-validierung-ingenieur-in-80-100-zurich-484642",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "tags": [
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "5510f67a",
+      "title": "Network Security & Automation Engineer (Relocation Provided)",
+      "company": "Wypoon",
+      "location": "Amsterdam",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
+      "source": "arbeitnow",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "Permanent",
+      "tags": [
+        "network & security engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6d8f9774",
+      "title": "Senior QA Engineer (Mobile / Backend / Automation)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1492828-senior-qa-mobile-backend",
+      "source": "hirify",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "240e80a5",
+      "title": "Senior Automation QA Engineer (Mobile Games / Unity)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1491434-senior-qa-automation-unity",
+      "source": "hirify",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "fulltime",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "1b071df4",
+      "title": "Electrical Controls and Communications Systems Engineer",
+      "company": "Ameresco",
       "location": "United States",
       "remote": true,
       "country": "US",
-      "url": "https://himalayas.app/companies/solventum/jobs/manager-ai-transformation?utm_source=api",
+      "url": "https://himalayas.app/companies/ameresco/jobs/electrical-controls-and-communications-systems-engineer?utm_source=api",
       "source": "himalayas",
       "date": "2026-11-26",
       "salary": "",
       "type": "",
       "tags": [
-        "ai-transformation-manager",
-        "product-manager",
-        "business-transformation-manager",
-        "program-manager",
-        "automation-manager"
+        "electrical-controls-engineer",
+        "controls-systems-engineer",
+        "communications-systems-engineer",
+        "automation-engineer",
+        "power-systems-engineer"
       ],
       "miss_count": 0
     },
     {
-      "id": "50f907ed",
-      "title": "Global Solution Architect - Automation",
-      "company": "Broadcom",
-      "location": "France",
+      "id": "804e6b64",
+      "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
+      "company": "Veeva Systems",
+      "location": "UK Only",
       "remote": true,
-      "country": "FR",
-      "url": "https://himalayas.app/companies/broadcom/jobs/global-solution-architect-automation?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "solutions-architect",
-        "global-solution-architect",
-        "technical-pre-sales-architect",
-        "enterprise-solution-architect"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "c2ea14db",
-      "title": "Hacker - LATAM",
-      "company": "Hadrian",
-      "location": "Anguilla",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/hadrian-io/jobs/hacker-latam?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "penetration-tester",
-        "offensive-security-engineer",
-        "ethical-hacker",
-        "security-researcher",
-        "cybersecurity-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "389c76de",
-      "title": "Data Engineer, Data Quality & Provenance",
-      "company": "Wayve",
-      "location": "Leonberg, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-baden-wurttemberg-209509",
-      "source": "arbeitnow",
+      "country": "GB",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-director-of-field-marketing-quality-cloud-europe-veeva-systems-1138121",
+      "source": "remoteok",
       "date": "2026-11-25",
       "salary": "",
-      "type": "Full Time",
+      "type": "full-time",
       "tags": [
-        "simulation",
-        "evaluation",
-        "validation"
+        "marketing"
       ],
       "miss_count": 0
     },
     {
-      "id": "4b8e438d",
-      "title": "Data Scientist, Data Quality & Provenance",
-      "company": "Wayve",
-      "location": "Leonberg, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-scientist-data-quality-provenance-baden-wurttemberg-269639",
-      "source": "arbeitnow",
+      "id": "f93cd054",
+      "title": "Account Director (Network Testing & Planning)",
+      "company": "Jobgether",
+      "location": "UK Only",
+      "remote": true,
+      "country": "GB",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-director-network-testing-planning-jobgether-1138117",
+      "source": "remoteok",
       "date": "2026-11-25",
       "salary": "",
-      "type": "Full Time",
+      "type": "full-time",
       "tags": [
-        "simulation",
-        "evaluation",
-        "validation"
+        "sales"
       ],
       "miss_count": 0
     },
@@ -120,21 +375,6 @@
       "miss_count": 0
     },
     {
-      "id": "eb27789d",
-      "title": "Quality Assurance Inspector - Aerospace",
-      "company": "OnTarget Communications",
-      "location": "Basel, Basel-Stadt, Switzerland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/quality-assurance-inspector-aerospace-basel-30863",
-      "source": "arbeitnow",
-      "date": "2026-11-25",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
       "id": "80895280",
       "title": "Senior Director, Head of Quality & Responsible Person for Encaleret, International",
       "company": "Bridgebio",
@@ -148,23 +388,6 @@
       "type": "",
       "tags": [
         "gmp qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d7984cbb",
-      "title": "Principal AI & Automation Lead",
-      "company": "The Sharing Group",
-      "location": "Almere, Flevoland, Nederland",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/the-sharing-group/principal-ai-automation-lead-almere-150276",
-      "source": "arbeitnow",
-      "date": "2026-11-25",
-      "salary": "",
-      "type": "Experienced, fulltime permanent",
-      "tags": [
-        "mijndomein"
       ],
       "miss_count": 0
     },
@@ -238,35 +461,6 @@
         "wordpress",
         "oop",
         "themes"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f7989203",
-      "title": "QA Engineer (Mobile Testing)",
-      "company": "Стоп-климакс",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1475455-qa-engineer-mobile-testing",
-      "source": "hirify",
-      "date": "2026-11-24",
-      "salary": "RUB 200000–200000 (~$2441)",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ],
       "miss_count": 0
     },
@@ -398,32 +592,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4c6a7165",
-      "title": "Quality Engineer",
-      "company": "Quartermaster",
-      "location": "Arlington",
-      "remote": true,
-      "country": "WW",
-      "url": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
-      "source": "remoteok",
-      "date": "2026-11-20",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "design",
-        "sys admin",
-        "customer support",
-        "testing",
-        "travel",
-        "video",
-        "exec",
-        "ops",
-        "engineer",
-        "digital nomad"
       ],
       "miss_count": 0
     },
