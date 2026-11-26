@@ -1,55 +1,121 @@
 {
-  "updated_at": "2026-11-25T16:44:25.834526+00:00",
+  "updated_at": "2026-11-26T01:29:57.201484+00:00",
   "total": 72,
   "jobs": [
     {
-      "id": "f3154ed0",
-      "title": "Spezialist in der Qualifizierung und Softwarevalidierung (Mensch)",
-      "company": "Lamm HR GmbH",
-      "location": "Landkreis Bergstraße, Hessen, Deutschland",
+      "id": "ac83b75d",
+      "title": "Manager, AI Transformation",
+      "company": "Solventum",
+      "location": "United States",
+      "remote": true,
+      "country": "US",
+      "url": "https://himalayas.app/companies/solventum/jobs/manager-ai-transformation?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "ai-transformation-manager",
+        "product-manager",
+        "business-transformation-manager",
+        "program-manager",
+        "automation-manager"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "50f907ed",
+      "title": "Global Solution Architect - Automation",
+      "company": "Broadcom",
+      "location": "France",
+      "remote": true,
+      "country": "FR",
+      "url": "https://himalayas.app/companies/broadcom/jobs/global-solution-architect-automation?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "solutions-architect",
+        "global-solution-architect",
+        "technical-pre-sales-architect",
+        "enterprise-solution-architect"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "c2ea14db",
+      "title": "Hacker - LATAM",
+      "company": "Hadrian",
+      "location": "Anguilla",
+      "remote": true,
+      "country": "WW",
+      "url": "https://himalayas.app/companies/hadrian-io/jobs/hacker-latam?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-26",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "penetration-tester",
+        "offensive-security-engineer",
+        "ethical-hacker",
+        "security-researcher",
+        "cybersecurity-engineer"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "389c76de",
+      "title": "Data Engineer, Data Quality & Provenance",
+      "company": "Wayve",
+      "location": "Leonberg, Germany",
       "remote": false,
       "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/lamm-hr-gmbh/spezialist-in-der-qualifizierung-und-softwarevalidierung-mensch-landkreis-bergstrasse-499002",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-engineer-data-quality-provenance-baden-wurttemberg-209509",
       "source": "arbeitnow",
       "date": "2026-11-25",
       "salary": "",
-      "type": "Mid, fulltime permanent",
+      "type": "Full Time",
       "tags": [
-        "quality"
+        "simulation",
+        "evaluation",
+        "validation"
       ],
       "miss_count": 0
     },
     {
-      "id": "2ecab21e",
-      "title": "Quality Assurance Specialist",
-      "company": "Agilerobotsse",
-      "location": "Kaufbeuren, Bavaria",
+      "id": "4b8e438d",
+      "title": "Data Scientist, Data Quality & Provenance",
+      "company": "Wayve",
+      "location": "Leonberg, Germany",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/quality-assurance-specialist-kaufbeuren-bavaria-91755",
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/data-scientist-data-quality-provenance-baden-wurttemberg-269639",
       "source": "arbeitnow",
       "date": "2026-11-25",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "production kaufbeuren & npi"
+        "simulation",
+        "evaluation",
+        "validation"
       ],
       "miss_count": 0
     },
     {
-      "id": "071b6b34",
-      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
-      "company": "ecosio",
-      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+      "id": "50a5b3e1",
+      "title": "Heavy- Duty Automation Engineer",
+      "company": "Harmattan Ai",
+      "location": "Lausanne",
       "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-senior-java-test-automation-engineer-110894",
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/heavy-duty-automation-engineer-lausanne-379498",
       "source": "arbeitnow",
       "date": "2026-11-25",
       "salary": "",
-      "type": "",
+      "type": "Full Time",
       "tags": [
-        "messaging development"
+        "r&d"
       ],
       "miss_count": 0
     },
@@ -66,6 +132,23 @@
       "salary": "",
       "type": "Mid, fulltime permanent",
       "tags": [],
+      "miss_count": 0
+    },
+    {
+      "id": "80895280",
+      "title": "Senior Director, Head of Quality & Responsible Person for Encaleret, International",
+      "company": "Bridgebio",
+      "location": "",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/bridgebio/senior-director-head-of-quality-responsible-person-for-encaleret-international-46753",
+      "source": "arbeitnow",
+      "date": "2026-11-25",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "gmp qa"
+      ],
       "miss_count": 0
     },
     {
@@ -231,32 +314,6 @@
       "salary": "",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2845c4a1",
-      "title": "Senior Mobile QA Engineer",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1464143-senior-mobile-qa-engineer",
-      "source": "hirify",
-      "date": "2026-11-23",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
         "",
         "",
         "",
@@ -860,29 +917,6 @@
       "miss_count": 0
     },
     {
-      "id": "f7ed2e3d",
-      "title": "Middle QA Engineer (Mobile Games)",
-      "company": "Original Games",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1412071-middle-qa-engineer-mobile-games",
-      "source": "hirify",
-      "date": "2026-11-13",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "c5cc63ab",
       "title": "Operations and QA Engineer (Mobile Gaming)",
       "company": "%hirify_global%",
@@ -896,28 +930,6 @@
       "type": "fulltime",
       "tags": [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "13a823fe",
-      "title": "Senior Dev QA (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": "",
-      "remote": false,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1405595-senior-dev-qa-mobile-games",
-      "source": "hirify",
-      "date": "2026-11-12",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
@@ -1866,32 +1878,6 @@
       "url": "https://hirify.me/vacancies/1322642-qa-mobile-fullstack-android",
       "source": "hirify",
       "date": "2026-10-27",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b348f0e4",
-      "title": "Mobile QA Engineer (iOS)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1318976-mobile-qa-engineer-ios",
-      "source": "hirify",
-      "date": "2026-10-26",
       "salary": "",
       "type": "fulltime",
       "tags": [
