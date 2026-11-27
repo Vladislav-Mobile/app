@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-11-26T16:19:51.336479+00:00",
-  "total": 82,
+  "updated_at": "2026-11-27T01:27:37.085354+00:00",
+  "total": 71,
   "jobs": [
+    {
+      "id": "1a453409",
+      "title": "Stage : Support Fonctionnel SI & Data Quality (F/H)",
+      "company": "HEMERIA",
+      "location": "Toulouse, Occitanie, France",
+      "remote": false,
+      "country": "FR",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hemeria/stage-support-fonctionnel-si-data-quality-f-h-toulouse-187603",
+      "source": "arbeitnow",
+      "date": "2026-11-27",
+      "salary": "",
+      "type": "Entry, internship",
+      "tags": [
+        "stage/alternance"
+      ],
+      "miss_count": 0
+    },
     {
       "id": "869dfe8f",
       "title": "(Senior) Quality Assurance Engineer (f/m/d)",
@@ -20,119 +37,20 @@
       "miss_count": 0
     },
     {
-      "id": "f0bd04e9",
-      "title": "SPS - Programmierer / Automatisierungstechniker (gn)",
-      "company": "Remmert GmbH",
-      "location": "Löhne",
+      "id": "bec4e325",
+      "title": "Professional Applikationstester (m/w/d) - eBanking & Mobile (Ref.Nr.: 48416)",
+      "company": "Wavestone Germany AG",
+      "location": "Zürich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/remmert-gmbh/sps-programmierer-automatisierungstechniker-gn-lohne-257241",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-applikationstester-ebanking-mobile-refnr-48416-zurich-394115",
       "source": "arbeitnow",
       "date": "2026-11-26",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
       "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "10db7646",
-      "title": "Head of Production Factory (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Ergolding , Bayern, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/head-of-production-factory-ergolding-201471",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "production & automation"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "2763c505",
-      "title": "Marketing Automation Engineer",
-      "company": "Unitedmedia",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-automation-engineer-london-77753",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "1852da1c",
-      "title": "AI Automation Engineer",
-      "company": "Unitedmedia",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ai-automation-engineer-london-337213",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "850f41d4",
-      "title": "AI Automation Engineer",
-      "company": "United Media",
-      "location": "London, England, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/ai-automation-engineer-london-31112",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "ea319002",
-      "title": "Marketing Automation Engineer",
-      "company": "United Media",
-      "location": "London, England, United Kingdom",
-      "remote": false,
-      "country": "GB",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/marketing-automation-engineer-london-189991",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "",
-      "tags": [],
-      "miss_count": 0
-    },
-    {
-      "id": "1632b0f2",
-      "title": "Senior Process Autoreverse and Quality Manager",
-      "company": "A2Mac1",
-      "location": "Hary, France",
-      "remote": false,
-      "country": "FR",
-      "url": "https://www.arbeitnow.fr/jobs/companies/a2mac1/senior-process-autoreverse-and-quality-manager-hary-181164",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "Full time, entry",
-      "tags": [
-        "engineering",
-        "automotive",
-        "a2mac1 eurl"
+        "quality assurance",
+        "inspection"
       ],
       "miss_count": 0
     },
@@ -182,40 +100,6 @@
       "date": "2026-11-26",
       "salary": "",
       "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "b0d13a98",
-      "title": "Senior Automation Engineer (SPS, Robotics & Commissioning)",
-      "company": "Coopers Group AG",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-automation-engineer-sps-robotics-commissioning-zurich-299244",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "Befristeter arbeitsvertrag, contract, berufserfahren",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "d12bc56e",
-      "title": "Qualifizierung / Validierung Ingenieur/in 80–100%",
-      "company": "gloor&lang AG",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/gloorlang-ag/qualifizierung-validierung-ingenieur-in-80-100-zurich-484642",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
         "quality management"
       ],
@@ -303,27 +187,6 @@
       "miss_count": 0
     },
     {
-      "id": "1b071df4",
-      "title": "Electrical Controls and Communications Systems Engineer",
-      "company": "Ameresco",
-      "location": "United States",
-      "remote": true,
-      "country": "US",
-      "url": "https://himalayas.app/companies/ameresco/jobs/electrical-controls-and-communications-systems-engineer?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "electrical-controls-engineer",
-        "controls-systems-engineer",
-        "communications-systems-engineer",
-        "automation-engineer",
-        "power-systems-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "804e6b64",
       "title": "Associate Director of Field Marketing - Quality Cloud - Europe",
       "company": "Veeva Systems",
@@ -354,23 +217,6 @@
       "type": "full-time",
       "tags": [
         "sales"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "50a5b3e1",
-      "title": "Heavy- Duty Automation Engineer",
-      "company": "Harmattan Ai",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/heavy-duty-automation-engineer-lausanne-379498",
-      "source": "arbeitnow",
-      "date": "2026-11-25",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "r&d"
       ],
       "miss_count": 0
     },
@@ -1963,94 +1809,6 @@
       "salary": "USD 112200–165300",
       "type": "fulltime",
       "tags": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "4e887daa",
-      "title": "Senior Back-end Developerusa",
-      "company": "Lemon.io",
-      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
-      "remote": true,
-      "country": "US",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
-      "source": "remotive",
-      "date": "2026-10-27",
-      "salary": "",
-      "type": "full_time",
-      "tags": [
-        ".net",
-        "android",
-        "c",
-        "c#",
-        "c++",
-        "cloud",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js",
-        "php",
-        "python",
-        "react",
-        "ruby/rails",
-        "scala",
-        "shopify",
-        "swift",
-        "ui/ux",
-        "wordpress",
-        "blockchain",
-        "ai/ml",
-        "automation",
-        "project management",
-        "react native",
-        "rust",
-        "unity",
-        "electron",
-        "spring",
-        "laravel",
-        "ethereum",
-        "graphic design",
-        "typescript ",
-        "distributed systems",
-        "angular ",
-        "firebase",
-        "data engineering",
-        "site reliability",
-        "symfony",
-        "linux/unix",
-        "next.js",
-        "infrastructure",
-        "flutter",
-        "gpu"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "deee8a8b",
-      "title": "QA Mobile Fullstack (Android)",
-      "company": "MAGNIT TECH",
-      "location": "",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1322642-qa-mobile-fullstack-android",
-      "source": "hirify",
-      "date": "2026-10-27",
-      "salary": "",
-      "type": "fulltime",
-      "tags": [
-        "",
-        "",
         "",
         "",
         "",
