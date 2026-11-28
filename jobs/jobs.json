@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-28T01:01:55.616475+00:00",
-  "total": 87,
+  "updated_at": "2026-11-28T14:59:15.963432+00:00",
+  "total": 74,
   "jobs": [
     {
       "id": "fce59898",
@@ -20,70 +20,19 @@
       "miss_count": 0
     },
     {
-      "id": "dee06daf",
-      "title": "Marketing Automation Engineer",
-      "company": "Cfoinsights",
-      "location": "London",
+      "id": "3aaf7edd",
+      "title": "Quality Inspector",
+      "company": "Destinusgroup",
+      "location": "Hengelo, Netherlands",
       "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-automation-engineer-london-281367",
+      "country": "NL",
+      "url": "https://www.arbeitnow.nl/jobs/companies/destinusgroup/quality-inspector-hengelo-5530",
       "source": "arbeitnow",
       "date": "2026-11-28",
       "salary": "",
-      "type": "",
+      "type": "Associate",
       "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "0715d737",
-      "title": "AI Automation Engineer",
-      "company": "Cfoinsights",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ai-automation-engineer-london-241791",
-      "source": "arbeitnow",
-      "date": "2026-11-28",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "3a420858",
-      "title": "Marketing Automation Engineer",
-      "company": "Hrtechx",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-automation-engineer-london-398964",
-      "source": "arbeitnow",
-      "date": "2026-11-28",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "10d82cb7",
-      "title": "AI Automation Engineer",
-      "company": "Hrtechx",
-      "location": "London",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-automation-engineer-london-306964",
-      "source": "arbeitnow",
-      "date": "2026-11-28",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "marketing"
+        "production & manufacturing"
       ],
       "miss_count": 0
     },
@@ -105,87 +54,52 @@
       "miss_count": 0
     },
     {
-      "id": "a73aa5d9",
-      "title": "Propellant Quality Control Engineer",
-      "company": "Stealthrocketrystartup",
-      "location": "Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/propellant-quality-control-engineer-germany-96125",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "propulsion"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "420adb56",
-      "title": "Finance Manager (Finance, Data & Automation) (gn) @ Atlantic, Berlin",
-      "company": "atlantic.vc",
-      "location": "Berlin, Berlin, Germany",
-      "remote": false,
-      "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/finance-manager-finance-data-automation-gn-at-atlantic-berlin-65088",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "Mid, fulltime permanent",
-      "tags": [
-        "core team"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "33da5fe5",
-      "title": "Safety Engineer Luft- und Raumfahrt (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Bonn",
+      "id": "d72f6df1",
+      "title": "Staff Engineer (Mobile QA Automation - Appium)",
+      "company": "%hirify_global%",
+      "location": "",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/safety-engineer-luft-und-raumfahrt-bonn-457008",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
+      "url": "https://hirify.me/vacancies/1501317-mobile-qa-automation-appium",
+      "source": "hirify",
+      "date": "2026-11-28",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "fulltime",
       "tags": [
-        "quality management"
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
     {
-      "id": "0941b597",
-      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-306111",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
+      "id": "051c9c1f",
+      "title": "Record Videos at Home for AI - $70 One-Time Task",
+      "company": "Mindrift",
+      "location": "Canada",
+      "remote": true,
+      "country": "CA",
+      "url": "https://himalayas.app/companies/mindrift/jobs/record-videos-at-home-for-ai-70-one-time-task-4687954824?utm_source=api",
+      "source": "himalayas",
+      "date": "2026-11-28",
       "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
+      "type": "",
       "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "313add0e",
-      "title": "Servicetechniker Elektrotechnik (m/w/d) in Aachen",
-      "company": "MY Humancapital GmbH",
-      "location": "Aachen",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/servicetechniker-elektrotechnik-in-aachen-117199",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
+        "video-data-collection",
+        "ai-tester",
+        "research-participant",
+        "ux-researcher"
       ],
       "miss_count": 0
     },
@@ -220,74 +134,6 @@
       "type": "Experienced, temporary",
       "tags": [
         "engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6de21764",
-      "title": "Aerodynamics Testing Engineer",
-      "company": "Harmattan Ai",
-      "location": "Lausanne",
-      "remote": false,
-      "country": "US",
-      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/aerodynamics-testing-engineer-lausanne-63772",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "Full Time",
-      "tags": [
-        "r&d"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "874f2749",
-      "title": "Mitarbeiter Garantie- und Lieferantenmanagement 100% (m/w/d)",
-      "company": "NYDEGGER Personal/Engineering AG",
-      "location": "Dielsdorf",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/nydegger-personalengineering-ag/mitarbeiter-garantie-und-lieferantenmanagement-100-dielsdorf-46261",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
-      "tags": [
-        "quality management"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "35f9a163",
-      "title": "End-of-Line Robotics Engineer",
-      "company": "CDDS AG",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/end-of-line-robotics-engineer-zurich-384157",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
-      "tags": [
-        "automation engineering"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "6f1b7ab1",
-      "title": "AI Robotics Engineer",
-      "company": "inspire AG",
-      "location": "Lugano",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/inspire-ag/ai-robotics-engineer-lugano-192347",
-      "source": "arbeitnow",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "Indefinite contract (unbefristeter arbeitsvertrag), professional / experienced",
-      "tags": [
-        "automation engineering"
       ],
       "miss_count": 0
     },
@@ -522,23 +368,6 @@
       "type": "full-time",
       "tags": [
         "marketing"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f93cd054",
-      "title": "Account Director (Network Testing & Planning)",
-      "company": "Jobgether",
-      "location": "UK Only",
-      "remote": true,
-      "country": "GB",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-director-network-testing-planning-jobgether-1138117",
-      "source": "remoteok",
-      "date": "2026-11-25",
-      "salary": "",
-      "type": "full-time",
-      "tags": [
-        "sales"
       ],
       "miss_count": 0
     },
@@ -1052,42 +881,6 @@
         "",
         "",
         ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "e9f8d731",
-      "title": "Компания Centicore 💙 находится в поисках QA Fullstack (стек с#). Наша компания занимается продуктово",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://t.me/qa_jobs/262197",
-      "source": "telegram",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "f3f85172",
-      "title": "Middle+ QA Fullstack (стек с#)**",
-      "company": "",
-      "location": "Remote",
-      "remote": true,
-      "country": "WW",
-      "url": "https://vseti.app/jobs/7d654d22-928d-445c-afbf-a41e23c4ca09)**",
-      "source": "telegram",
-      "date": "2026-11-18",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "mobile",
-        "qa"
       ],
       "miss_count": 0
     },
