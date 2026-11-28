@@ -1,109 +1,242 @@
 {
-  "updated_at": "2026-11-27T16:03:48.694648+00:00",
-  "total": 82,
+  "updated_at": "2026-11-28T01:01:55.616475+00:00",
+  "total": 87,
   "jobs": [
     {
-      "id": "aa6300fc",
-      "title": "Team Lead Production Factory (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Ergolding , Bayern, Germany",
+      "id": "fce59898",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
+      "location": "München, Bayern, Deutschland",
       "remote": false,
       "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/team-lead-production-factory-ergolding-42972",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-98106",
       "source": "arbeitnow",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "salary": "",
-      "type": "Mid, fulltime permanent",
+      "type": "Manager, fulltime permanent",
       "tags": [
-        "production & automation"
+        "marketing"
       ],
       "miss_count": 0
     },
     {
-      "id": "c71f2952",
-      "title": "Freelancer Quality Assurance Manager C# .NET (all genders)",
-      "company": "Vexcash AG",
-      "location": "Berlin",
-      "remote": true,
+      "id": "dee06daf",
+      "title": "Marketing Automation Engineer",
+      "company": "Cfoinsights",
+      "location": "London",
+      "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/freelancer-quality-assurance-manager-c-net-all-genders-berlin-236265",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/marketing-automation-engineer-london-281367",
       "source": "arbeitnow",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "salary": "",
-      "type": "Freelancer / independent contractor, freelance, manager",
+      "type": "",
       "tags": [
-        "remote",
-        "quality assurance",
-        "inspection"
+        "marketing"
       ],
       "miss_count": 0
     },
     {
-      "id": "7e0391a9",
-      "title": "Automation Test Engineer (f/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
+      "id": "0715d737",
+      "title": "AI Automation Engineer",
+      "company": "Cfoinsights",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/ai-automation-engineer-london-241791",
+      "source": "arbeitnow",
+      "date": "2026-11-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3a420858",
+      "title": "Marketing Automation Engineer",
+      "company": "Hrtechx",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/marketing-automation-engineer-london-398964",
+      "source": "arbeitnow",
+      "date": "2026-11-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "10d82cb7",
+      "title": "AI Automation Engineer",
+      "company": "Hrtechx",
+      "location": "London",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hrtechx/ai-automation-engineer-london-306964",
+      "source": "arbeitnow",
+      "date": "2026-11-28",
+      "salary": "",
+      "type": "",
+      "tags": [
+        "marketing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "66ab0fa4",
+      "title": "Stage Fitting & Quality control",
+      "company": "My Jewellery",
+      "location": "'s-Hertogenbosch, Noord-Brabant, Nederland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.nl/jobs/companies/my-jewellery/stage-fitting-quality-control-s-hertogenbosch-149215",
+      "source": "arbeitnow",
+      "date": "2026-11-28",
+      "salary": "",
+      "type": "Student college, internship",
+      "tags": [
+        "stages"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "a73aa5d9",
+      "title": "Propellant Quality Control Engineer",
+      "company": "Stealthrocketrystartup",
+      "location": "Germany",
       "remote": false,
       "country": "DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/automation-test-engineer-aachen-225432",
+      "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/propellant-quality-control-engineer-germany-96125",
       "source": "arbeitnow",
       "date": "2026-11-27",
       "salary": "",
       "type": "Full Time",
       "tags": [
-        "software development"
+        "propulsion"
       ],
       "miss_count": 0
     },
     {
-      "id": "8f23d0c3",
-      "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
+      "id": "420adb56",
+      "title": "Finance Manager (Finance, Data & Automation) (gn) @ Atlantic, Berlin",
+      "company": "atlantic.vc",
+      "location": "Berlin, Berlin, Germany",
+      "remote": false,
+      "country": "DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/finance-manager-finance-data-automation-gn-at-atlantic-berlin-65088",
+      "source": "arbeitnow",
+      "date": "2026-11-27",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "core team"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "33da5fe5",
+      "title": "Safety Engineer Luft- und Raumfahrt (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Bonn",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-428100",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/safety-engineer-luft-und-raumfahrt-bonn-457008",
       "source": "arbeitnow",
       "date": "2026-11-27",
       "salary": "",
       "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "crm",
-        "direct marketing"
+        "quality management"
       ],
       "miss_count": 0
     },
     {
-      "id": "87e6ec30",
-      "title": "Marketing Automation Engineer",
-      "company": "Privateequityinsights",
-      "location": "London",
+      "id": "0941b597",
+      "title": "Softwareentwickler Automatisierungstechnik SPS (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/marketing-automation-engineer-london-126242",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/softwareentwickler-automatisierungstechnik-sps-munich-306111",
       "source": "arbeitnow",
       "date": "2026-11-27",
       "salary": "",
-      "type": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "marketing"
+        "automation engineering"
       ],
       "miss_count": 0
     },
     {
-      "id": "66b40ce0",
-      "title": "AI Automation Engineer",
-      "company": "Privateequityinsights",
-      "location": "London",
+      "id": "313add0e",
+      "title": "Servicetechniker Elektrotechnik (m/w/d) in Aachen",
+      "company": "MY Humancapital GmbH",
+      "location": "Aachen",
       "remote": false,
       "country": "WW",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ai-automation-engineer-london-353335",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/servicetechniker-elektrotechnik-in-aachen-117199",
       "source": "arbeitnow",
       "date": "2026-11-27",
       "salary": "",
-      "type": "",
+      "type": "Unbefristeter arbeitsvertrag, berufserfahren",
       "tags": [
-        "marketing"
+        "quality management"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "06fb622d",
+      "title": "Senior OT / SCADA & Automation Engineer (80–100%)",
+      "company": "cross-ING AG",
+      "location": "Villigen, Aargau, Schweiz",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/senior-ot-scada-automation-engineer-80-100-villigen-486352",
+      "source": "arbeitnow",
+      "date": "2026-11-27",
+      "salary": "",
+      "type": "Mid, fulltime permanent",
+      "tags": [
+        "aargau"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "514f86ba",
+      "title": "Applikations-Tester – eBanking & Mobile Applications 60%",
+      "company": "Callista Group AG",
+      "location": "Zürich, Zürich, Switzerland",
+      "remote": false,
+      "country": "WW",
+      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/applikations-tester-ebanking-mobile-applications-60-zurich-237301",
+      "source": "arbeitnow",
+      "date": "2026-11-27",
+      "salary": "",
+      "type": "Experienced, temporary",
+      "tags": [
+        "engineering"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "6de21764",
+      "title": "Aerodynamics Testing Engineer",
+      "company": "Harmattan Ai",
+      "location": "Lausanne",
+      "remote": false,
+      "country": "US",
+      "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/aerodynamics-testing-engineer-lausanne-63772",
+      "source": "arbeitnow",
+      "date": "2026-11-27",
+      "salary": "",
+      "type": "Full Time",
+      "tags": [
+        "r&d"
       ],
       "miss_count": 0
     },
@@ -272,27 +405,6 @@
       "miss_count": 0
     },
     {
-      "id": "a82183c8",
-      "title": "Senior Penetration Tester – eCommerce Security",
-      "company": "Scandiweb",
-      "location": "Estonia",
-      "remote": true,
-      "country": "WW",
-      "url": "https://himalayas.app/companies/scandiweb/jobs/senior-penetration-tester-ecommerce-security?utm_source=api",
-      "source": "himalayas",
-      "date": "2026-11-27",
-      "salary": "",
-      "type": "",
-      "tags": [
-        "penetration-tester",
-        "security-tester",
-        "ethical-hacker",
-        "application-security-engineer",
-        "offensive-security-engineer"
-      ],
-      "miss_count": 0
-    },
-    {
       "id": "6375aeee",
       "title": "Sales Director - Quality",
       "company": "Veeva Systems",
@@ -306,41 +418,6 @@
       "type": "full-time",
       "tags": [
         "sales"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "bec4e325",
-      "title": "Professional Applikationstester (m/w/d) - eBanking & Mobile (Ref.Nr.: 48416)",
-      "company": "Wavestone Germany AG",
-      "location": "Zürich",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-applikationstester-ebanking-mobile-refnr-48416-zurich-394115",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "Selbstständiger / freelancer, freelance, berufserfahren",
-      "tags": [
-        "quality assurance",
-        "inspection"
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "5510f67a",
-      "title": "Network Security & Automation Engineer (Relocation Provided)",
-      "company": "Wypoon",
-      "location": "Amsterdam",
-      "remote": false,
-      "country": "WW",
-      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/network-security-automation-engineer-relocation-provided-amsterdam-260825",
-      "source": "arbeitnow",
-      "date": "2026-11-26",
-      "salary": "",
-      "type": "Permanent",
-      "tags": [
-        "network & security engineer"
       ],
       "miss_count": 0
     },
@@ -1155,6 +1232,31 @@
         "youtube",
         "editing",
         "video editing"
+      ],
+      "miss_count": 0
+    },
+    {
+      "id": "3c98bc14",
+      "title": "Senior Mobile QA Engineer (Contract, B2B)",
+      "company": "%hirify_global%",
+      "location": "",
+      "remote": true,
+      "country": "WW",
+      "url": "https://hirify.me/vacancies/1415153-senior-mobile-qa-engineer",
+      "source": "hirify",
+      "date": "2026-11-13",
+      "salary": "",
+      "type": "project",
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "miss_count": 0
     },
@@ -2013,30 +2115,6 @@
       "tags": [
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "miss_count": 0
-    },
-    {
-      "id": "934491a9",
-      "title": "Sr. Manager, QA Engineering & Automation (Mobile Games)",
-      "company": "%hirify_global%",
-      "location": ", ",
-      "remote": true,
-      "country": "WW",
-      "url": "https://hirify.me/vacancies/1331697-senior-qa-automation-manager",
-      "source": "hirify",
-      "date": "2026-10-28",
-      "salary": "USD 112200–165300",
-      "type": "fulltime",
-      "tags": [
         "",
         "",
         "",
